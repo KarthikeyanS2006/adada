@@ -1,9 +1,9 @@
-name: Adda247 PDF Batch Scraper
+name: Adda247 Full Crawler
 
 on:
   schedule:
-    - cron: '0 0 * * 0' # Runs weekly
-  workflow_dispatch: # Manual trigger
+    - cron: '0 0 * * 0' # Weekly
+  workflow_dispatch: 
 
 jobs:
   scrape_and_push:
@@ -23,22 +23,20 @@ jobs:
     - name: Install Dependencies
       run: pip install requests beautifulsoup4
 
-    - name: Run Scraper
+    - name: Run Crawler
       run: python scraper.py
 
-    - name: Commit and Push
+    - name: Commit and Push Batch
       run: |
         git config --global user.name "Karthikeyan-Bot"
         git config --global user.email "actions@github.com"
         
-        # Ensure directory is tracked
         mkdir -p Longinsent_Archive
         git add Longinsent_Archive/
         
-        # Check if there are changes to commit
         if [ -n "$(git status --porcelain)" ]; then
-          git commit -m "Adda247 Batch: Added new PDF materials"
+          git commit -m "Crawler Batch: Added new PDF files"
           git push origin main
         else
-          echo "No changes to commit."
+          echo "No new files found."
         fi
