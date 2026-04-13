@@ -1,0 +1,64 @@
+{
+  "document_info": {
+    "exam_name": "Dehli-Police-Constable-Previous-Paper-Held-On_-03-Dec-2020-Shift-3-English.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Who among the following is credited to hold the highest rank of 'Field Marshal' in the history of Indian Army?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Krishna Rao",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Kapil Kapoor",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Chowdhury",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Cariappa",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Field Marshal K.M. Cariappa was the first Indian officer to hold the rank of Field Marshal in the Indian Army. He was appointed as the first Indian Commander-in-Chief of the Indian Army in 1949.",
+        "tanglish": "Field Marshal K.M. Cariappa Indiaavin mudhal Field Marshal padathai aindha thalaippadi. Avar 1949-aandil Indian Army-in mudhal India Commander-in-Chief aagi niyamikkappattar."
+      },
+      "question_id": "6549783269",
+      "status": "Answered",
+      "chosen_option": "4"
+    },
+    {
+      "q_number": 2,
+      "question_text": "Which of the following is NOT a UNESCO Intangible Cultural Heritage?",
+      "options": [],
+      "explanation": {
+        "english": "UNESCO's Intangible Cultural Heritage list includes traditions, performing arts, social practices, rituals, and knowledge systems passed down through generations. The correct answer identifies which option is excluded from this list.",
+        "tanglish": "UNESCO-avin oliga sorkal thoguppil paarmparaiyum, kalai vazhangugalum, samudhaya payirchigalum serttu kollappadum. Sariyana pathil idhal isnam illatha ondrai kattum."
+      },
+      "question_id": "6549783260",
+      "status": "Answered",
+      "chosen_option": "2"
+    },
+    {
+      "q_number": 3,
+      "question_text": "_____ and their surrounding wetlands are bodies of water usually found where rivers meet the sea.",
+      "options": [],
+      "explanation": {
+        "english": "Estuaries are partially enclosed coastal bodies of water where freshwater from rivers mixes with saltwater from the sea. They form important ecosystems surrounded by wetlands and are typically found at river mouths.",
+        "tanglish": "Estuaries endra padal nadigal kadal serum idaththil erpadum neer thoguppugal. Ivai arinchal nelaigalukkum udalum mukkiyamana thotangalai tharuvadhu."
+      },
+      "question_id": "6549783293",
+      "status": "Not Answered",
+      "chosen_option": "--"
+    }
+  ]
+}

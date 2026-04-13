@@ -1,0 +1,127 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-8-December-2020-Shift-3-Hindi.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "राष्ट्रीय बाल पुरस्कार 2020 कुल कितने बच्चों को मिला है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "37",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "49",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "45",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "33",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The National Child Award 2020 was presented to 49 children by the President of India for their exceptional achievements.",
+        "tanglish": "2020-aam aandu India President aal 49 Kuzhanthaigalukku Desiya Baal Viruthu valanga petrathu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "जून 2020 में जारी विश्व प्रतिस्पर्धात्मकता सूचकांक (वर्ल्ड कॉम्पिटेटिवनेस इंडेक्स) में भारत ने ______ स्थान प्राप्त किया था।",
+      "options": [
+        {
+          "id": "1",
+          "text": "49 वां",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "43 वां",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "32 वां",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "38 वां",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "According to the IMD World Competitiveness Ranking 2020 released in June, India was ranked 43rd among 63 economies.",
+        "tanglish": "2020-aam aandu June maasathil veliyidappatta IMD Ulaga Pottithanmai Araikkaiyil India 63 naadugalilirundhu 43-aam idathai petrathu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "भारत में प्रतिनिधि सभा (हाउस ऑफ रिप्रेजेंटेटिव) के 'अस्थाई (प्रो-टेम)' अध्यक्ष के बारे में निम्नलिखित में से कौन सा कथन सही है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "इस पद के लिए नाम की अनुशंसा की जाती मंत्रिमंडल द्वारा की जाती है।",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "उनकी नियुक्ति भारत के राष्ट्रपति द्वारा की जाती है।",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "इस पद के लिए नाम की अनुशंसा प्रतिनिधि सभा में विपक्ष के नेता द्वारा की जाती है।",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "इस पद के लिए नाम की अनुशंसा प्रतिनिधि सभा के निवर्तमान अध्यक्ष द्वारा की जाती है।",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Pro-tem Speaker of the Lok Sabha is appointed by the President of India from among the senior-most members to preside over the first sitting of the new House.",
+        "tanglish": "Lok Sabaiyin Pro-tem Sabanayagar India Kudiyarasu Thalaivaral, Sabha palaga vayathil periyavarin madhiyilirundhu niyamikkappadugiraar."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "भारत के निम्नलिखित क्षेत्रों में से किस क्षेत्र में 10 वीं शताब्दी के अंत में दिद्दा नामक महिला शासक का शासन था?",
+      "options": [
+        {
+          "id": "1",
+          "text": "बंगाल",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "आंध्र",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "कलिंग",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "कश्मीर",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Didda was a powerful queen who ruled Kashmir from 980 AD to 1003 AD as the Queen of the Lohara dynasty.",
+        "tanglish": "10-aam nootrandil Didda ennum pennarasar Kashmir naattai aalimai seithaar. Avar Lohara vamsathil perum padhavil irunthar."
+      }
+    }
+  ]
+}

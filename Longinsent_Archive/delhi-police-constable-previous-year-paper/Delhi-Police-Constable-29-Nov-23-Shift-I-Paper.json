@@ -1,0 +1,187 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-29-Nov-23-Shift-I-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Who was the President of India between the years 1987 and 1992?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Giani Zail Singh",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "R Venkataraman",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Fakhruddin Ali Ahmed",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Shankar Dayal Sharma",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "R Venkataraman served as the President of India from 1987 to 1992. Giani Zail Singh was President from 1982-1987, Fakhruddin Ali Ahmed from 1974-1977, and Shankar Dayal Sharma from 1992-1997.",
+        "tanglish": "R Venkataraman 1987 muthal 1992 varai India Presidentaga pannalithu seythaar. Giani Zail Singh 1982-1987 varai, Fakhruddin Ali Ahmed 1974-1977 varai, Shankar Dayal Sharma 1992-1997 varai India Presidentaga irunthaar."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Buddhist texts called Dipavamsa and Mahavamsa, which are the sources of information to Mauryan times, belong to which of the following countries?",
+      "options": [
+        {
+          "id": "1",
+          "text": "India",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "China",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Myanmar",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Sri Lanka",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Dipavamsa and Mahavamsa are ancient Buddhist chronicles written in Pali that originated from Sri Lanka. They provide important historical information about the Mauryan period, particularly about the spread of Buddhism.",
+        "tanglish": "Dipavamsa matrum Mahavamsa endraivai Sri Lankaavil irundhu varum anaithiga Buddha varalaru eluthu mozhigal. Ivai Maurya kaalam patriya thagavalgalai nalgum."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "The Nalanda University was built in ________.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Magadha",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Kuru",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Matsya",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Vatsa",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Nalanda University was located in Magadha (modern-day Bihar). It was an ancient Buddhist center of learning and one of the world's first residential universities.",
+        "tanglish": "Nalanda perarasi padappazhagu Magadha desathil (inru Bihar matram) amainthu irunthathu. Idho oru anaithig buddha kalvi matrum aanmai padappazhagu."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "In which year did India win its first Olympic gold in hockey?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1922",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "1956",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "1928",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "1960",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "India won its first Olympic gold medal in hockey in 1928 at the Amsterdam Olympics. India defeated the Netherlands 3-0 in the final.",
+        "tanglish": "Indiya mudal muraiyaaga 1928 am aandu Amsterdam Olimpiyavil hockeyil thanga medai adainthathu. Kadasiyil Netherlandsai 3-0 endra thokuvathil Indiya vettri adainthathu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Read the given statements and select the correct option regarding 'High Powered Money'. (i) High Powered Money consists of currency and cash reserves with the bank. (ii) High Powered Money includes demand deposits of the banks.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Both (i) and (ii) are true",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Only (i) is true",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Both (i) and (ii) are false",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Only (ii) is true",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "High Powered Money (H) consists of currency held by the public (C) and cash reserves with the banks (R). It does not include demand deposits, which are part of the money supply but not base money.",
+        "tanglish": "Uyarntha valla atmak kadan (High Powered Money) manaithunaiyidamulla nagai matrum bankkalidamulla panai kadanaiyai (cash reserves) ondrikka seyyappadum. Demand deposits idhil serkappadathu."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Who set up the task force on Supportive Policy and Regulatory Framework for Micro- Finance in India in 1999?",
+      "options": [
+        {
+          "id": "1",
+          "text": "RRB",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Finance minister",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "NABARD",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "SBI",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "NABARD (National Bank for Agriculture and Rural Development) set up the task force on Supportive Policy and Regulatory Framework for Micro-Finance in India in 1999.",
+        "tanglish": "1999 am aandil NABARD (National Bank for Agriculture and Rural Development) Indiaavil Micro-Finance-uku uthavi seyala matrum kawal thittangalukkaana vaelanpu kuzhu onrai amaithathu."
+      }
+    }
+  ]
+}

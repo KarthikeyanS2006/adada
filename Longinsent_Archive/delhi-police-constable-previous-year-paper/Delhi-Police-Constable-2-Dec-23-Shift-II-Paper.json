@@ -1,0 +1,157 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-2-Dec-23-Shift-II-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Read the below statements and select the correct option with respect to self-help groups. (i) A self-help group is a registered group of micro-entrepreneurs. (ii) The micro-entrepreneurs of self-help groups have similar social and economic backgrounds.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Both (i) and (ii) are true",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Both (i) and (ii) are false",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Only (ii) is true",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Only (i) is true",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Both statements are true. Self-help groups (SHGs) are registered collectives of micro-entrepreneurs, and they typically comprise members from similar socio-economic backgrounds who voluntarily form groups for mutual financial support and development.",
+        "tanglish": "Irandu koorthidugalum unmai. Suya-uthavi kuzhangaal (SHGs) cholaiyalar muzhumaiyaana registered kuzhangaal, matrum ivai samana samudhaya matrum selvara thotta nirubaargalai orey edathil serthu, thogai uthavi matrum paguthiyarivu kaga thangal ichaiyal santhaikkappadum kuzhangaal."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Ranjeet Singh belonged to which Misal of the Sikh community?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Bhangi",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Ahluwalia",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Kanhaiya",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Sukarchakia",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Maharaja Ranjit Singh belonged to the Sukarchakia Misl. He united the various Sikh Misls and established the Sikh Empire in the Punjab region during the early 19th century.",
+        "tanglish": "Maharaja Ranjit Singh Sukarchakia Misl-ku serndhaavar. Avar pala Sikh Misls-inai ondraithu, 19-ndam nootraattu muthalil Punjab p/kathil Sikh Samrajyathai nyadithar."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "In which of the following years did young leaders in Satara in Maharashtra set up a parallel government Parti Sarkar that ran People's court and organised constructive work?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1943",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "1934",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "1918",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "1904",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Parti Sarkar was established in 1943 in Satara, Maharashtra during the Quit India Movement. It functioned as a parallel government organizing people's courts and constructive programs outside British control.",
+        "tanglish": "Parti Sarkar 1943-aam andu Maharashtra Satara-il Quit India Iyakkathinum asathanai seyyappattathu. Idhu British aalvukku veliyil makkal neethi manram matrum payaaneeri thittathalgalai sambralithu parallel arasaga velaithathu."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Ramchandra Manjhi, Padma Shri 2021 awardee, was conferred the award for which of the following contributions to art?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Playing and folk singing of tribal Kinneras",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Conserving ancient Carnatic musical instruments",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Carrying forward the legacy of Gramin Natak and folk dancing",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Adapting the clarinet to Carnatic music",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Ramchandra Manjhi received the Padma Shri for preserving and promoting the tradition of Gramin Natak (folk theater) and folk dance, particularly the Launda Naach of Bihar, which he performed for over seven decades.",
+        "tanglish": "Ramchandra Manjhi Gramin Natak (naattupura nadagam) matrum naattupura aattina parambarai-yai kaapaaththi valartha thaguthalukkaga, viseshamaha Bihar-ilulla Launda Naach padhathirku ezha padha padhithu vandha thakuthalukkaga Padma Shri virudhu vaanginaar."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Who among the following rulers strengthened the Satavahana empire in the Deccan in ancient India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Simuka",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Shiva Skanda Satakarni",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Yajna Sri Satakarni",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Gautamiputra Satakarni",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Gautamiputra Satakarni was one of the greatest Satavahana rulers who restored the empire's glory by defeating foreign invaders like the Sakas and strengthening the administrative structure in the Deccan.",
+        "tanglish": "Gautamiputra Satakarni Satavahana Samrajyathirku perum seyalvaalargalil ondru. Avar Saka paradesiyargalai vella adithu Dakkan p/kathil aalumai amaippai urudhi seyyum moolamaga samrajya pugazhathai punarvaithar."
+      }
+    }
+  ]
+}

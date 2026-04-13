@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "Dehli-Police-Constable-Official-Paper-Held-On_-09-Dec-2020-Shift-3-Hindi.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "निम्नलिखित में से किस आयोग की स्थापना वर्ष 2005 में एक अधिसूचना द्वारा की गई थी?",
+      "options": [
+        {
+          "id": "1",
+          "text": "राष्ट्रीय मानवाधिकार आयोग",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "केंद्रीय सतर्कता आयोग",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "राज्य सूचना आयोग",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "राष्ट्रीय खाद्य निगम",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Under the Right to Information Act, 2005, the State Information Commissions were established through official gazette notification.",
+        "tanglish": "Soozhnalai Ariya Umiyadiththa Seyalpaattu 2005 anbu, Maanilam Soozhnalai Aayangal adhisoochana moolam amaikkappattana."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "ओंओ लोगों द्वारा मनाया जाने वाला निम्नलिखित में से कौन सा पवित्र पर्व सामुदायिक घनत्व को दर्शाता है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "सार्हल",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "कर्मा",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "मकर संक्रांति",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "मृदंगम",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "This question refers to a festival celebrated by a specific tribal community. The exact festival demonstrating community density is unclear from the corrupted text.",
+        "tanglish": "Ithu oru kooru ina samudhaaya thiruvizhaiv patriyadhu. Serndha seyyal paattu kurithu vyakthamaaga illai."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "निम्नलिखित में से कौन सा शब्द बड़े पत्थरों से निर्मित या उनसे युक्त स्मारकों से संबंधित है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "नवपाषाण काल",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "मध्यपाषाण काल",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "पुरापाषाण काल",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "मेगालिथिक",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The term Megalithic refers to monuments constructed from large stones, commonly associated with prehistoric sites and burial grounds.",
+        "tanglish": "Megalithic endral periya kalgalal amaikkappatta ninaivichinnangal. Idhu paazhkaala kalathu samadhi medugaludan pangu seyyum pada mozhi."
+      }
+    }
+  ]
+}

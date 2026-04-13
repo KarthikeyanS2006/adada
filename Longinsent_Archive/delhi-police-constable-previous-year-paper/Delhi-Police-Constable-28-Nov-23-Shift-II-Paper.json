@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-28-Nov-23-Shift-II-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "As per India Skills Report 2022, which Indian state got the first rank with the most employable talent?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Goa",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Kerala",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Uttar Pradesh",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Maharashtra",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "According to the India Skills Report 2022, Maharashtra secured the first rank among Indian states for having the most employable talent.",
+        "tanglish": "India Skills Report 2022 anusaram, athigama velaikku thaguthiulla thirunar kalvi petra ratchiyil Maharashtra state mudhal idathai eduthu ulladhu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Baishagu is celebrated in which of the following states?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Punjab",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Assam",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Goa",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Bihar",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Baishagu is a traditional spring festival celebrated by the Bodo people in the state of Assam, marking the beginning of the new year.",
+        "tanglish": "Baishagu endradhu Assam ratchiyil Bodo samuda makkal varudapirappai kondnadakkum malligai maanudamana puthu varusha vizha."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "What do you mean by 'cant' in kabaddi?",
+      "options": [
+        {
+          "id": "1",
+          "text": "A player in whose court a raid is made",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "A special point is given to an opponent",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "A player who enters the court",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Repeating round of the word 'kabaddi'",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "In kabaddi, 'cant' refers to the continuous rhythmic chanting of the word 'kabaddi' by the raider, which must be maintained without taking a breath during the raid.",
+        "tanglish": "Kabaddi vilayattil 'cant' endradhu raider niruthatha uchchilai pidithu 'kabaddi' endra padathai thirumbavum thirumbavum solli thodarndhu sendhu kalikkirarudan porundiyadhu."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Which of the following is the oldest atomic power plant of India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Tarapur",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Kaiga",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Kakrapar",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Narora",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Tarapur Atomic Power Station located in Maharashtra is the oldest nuclear power plant in India, which was commissioned in the year 1969.",
+        "tanglish": "Maharashtra ratchiyil ulla Tarapur paramaana oviyam indiavin mudhalaana nuclear power plant, adhu 1969 aam aandum arambikkappattadhu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Which of the following is NOT included in Article 19 of the Constitution of India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "To reside and settle in any part of India",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "To practice any profession or occupation",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "To form associations and unions",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "To prohibit ineligibility in respect of employment",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Article 19 guarantees six fundamental freedoms including speech, assembly, association, movement, residence, and profession. Employment eligibility is covered under Article 16, not Article 19.",
+        "tanglish": "Article 19 pechchirithal, kootta-chindanai, sangga organisaasu, movement, vasam matrum tozhil swaathanthiramkalai uruthi paduthugiradhu. Tozhil thakuthi Article 16 il ulladhu, Article 19 il illai."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Where is the secretariat of the Goods and Services Tax Council located?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Chandigarh",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Mumbai",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Kolkata",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "New Delhi",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The secretariat of the Goods and Services Tax (GST) Council is located in New Delhi.",
+        "tanglish": "Goods and Services Tax Council enra amaipin seyalaga puthukottaiyil (New Delhi) than amainthu ulladhu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Some qualities of Samudragupta are shown on coins, such as on one of the coins he is shown playing the _________.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Table",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "sarangi",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "veena",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "bansuri",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Samudragupta, the great Gupta emperor, is depicted playing the veena (a stringed musical instrument) on his coins, which highlights his patronage of music and arts.",
+        "tanglish": "Perum Gupta samrarat Samudragupta than sikkalil vaasiththa padi kaattappadukira veenai vaasikkira padi ullar, adhu avarin isai matrum kalaigondu anbanai kattugiradhu."
+      }
+    }
+  ]
+}

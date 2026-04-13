@@ -1,0 +1,337 @@
+{
+  "document_info": {
+    "exam_name": "DP-Constable-7-Dec-2020-S-1.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "As per the Union Budget 2020-21, TDS at the rate of ______ is levied on e-commerce transactions.",
+      "options": [
+        {
+          "id": "1",
+          "text": "3%",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "1%",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "2.5%",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "0.25%",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Section 194-O was introduced in the Union Budget 2020-21, which mandates a TDS of 1% on e-commerce transactions.",
+        "tanglish": "2020-21 Union Budget la Section 194-O introduce pannathu, e-commerce transaction kalukku 1% TDS apply aagum."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "'Akela' is a fictional character in the children's story book ______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "The Jungle Book",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "The Adventures of Tom Sawyer",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "The Adventures of Huckleberry Finn",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Alice's Adventures in Wonderland",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Akela is the leader of the wolf pack in Rudyard Kipling's classic 'The Jungle Book'.",
+        "tanglish": "Akela endra siluvai Rudyard Kipling ezhuthiya 'The Jungle Book' il varum. Ithil Akela nari kottaiyin thalaivar."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "In which of the following years was the Family Courts Act enacted?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1948",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "1984",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "1964",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "2004",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Family Courts Act was enacted in 1984 to promote conciliation in and secure speedy settlement of disputes relating to marriage and family affairs.",
+        "tanglish": "Family Courts Act 1984 am ekkiappattathu. Ithu thirumanam matrum kudumba ubaththukalukku dheevaaga theerpu kandupidipathukaga nyayasthanangalai amaikum."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "The ______ in Punjab is held to commemorate the warriors who laid down their lives in the battle between Guru Gobind Singh and the Mughals.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Rauza Sharif Urs",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Hola Mohalla",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Maghi Mela",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Jor Mela",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Maghi Mela is held in January to commemorate the forty Muktas (liberated ones) who sacrificed their lives in the Battle of Muktsar against the Mughals.",
+        "tanglish": "Maghi Mela (Thai maatham) Punjab il nadakkum. Ithu Guru Gobind Singh matrum Moghal senaiyodu nadantha Muktsar yuthathil uyirozhintha 40 veerargalai ninaivil nirvakkum."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "The Rohtas Fort is located in present day ______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Nepal",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Bangladesh",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Pakistan",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "India",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Rohtas Fort is located near Jhelum in Punjab, Pakistan. It was built during the reign of Sher Shah Suri.",
+        "tanglish": "Rohtas Fort ippothu Pakistan ulla Jhelum (Punjab) il ullathu. Ithu Sher Shah Suri kaalathil kattappattathu."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "By which Constitutional Amendment Act, the voting age of Indian citizens has been reduced from 21 years to 18 years?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Constitution (Sixty-first Amendment) Act, 1988",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Constitution (Sixty-second Amendment) Act, 1989",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Constitution (Sixty-fourth Amendment) Act, 1990",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Constitution (Sixty-third Amendment) Act, 1988",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The 61st Constitutional Amendment Act of 1988 lowered the voting age from 21 to 18 years by amending Article 326.",
+        "tanglish": "61st Constitutional Amendment Act 1988 mathappottu, Article 326 la matham seithu mathathai 21 irundhu 18 ku kuraiththathu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "The Census of India 2011 was the ______ national census after Independence.",
+      "options": [
+        {
+          "id": "1",
+          "text": "seventh",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "ninth",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "eleventh",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "fifteenth",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The 2011 Census was the 7th census after Independence. Previous censuses were held in 1951, 1961, 1971, 1981, 1991, and 2001.",
+        "tanglish": "2011 ana madha census swathanthiram adaintha piragu nadathappatta 7-am census. Munnaadi 1951, 1961, 1971, 1981, 1991, matrum 2001 il nadandhathu."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "Who was the head coach of the Mumbai Indians IPL cricket team in 2019?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Shane Bond",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "James Pamment",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Robin Singh",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Mahela Jayawardene",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Mahela Jayawardene served as the head coach of Mumbai Indians during the 2019 IPL season.",
+        "tanglish": "Mahela Jayawardene 2019 il Mumbai Indians IPL team in thala coach aaga irundhar."
+      }
+    },
+    {
+      "q_number": 9,
+      "question_text": "Which of the following statements is INCORRECT?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Proteins help build and repair tissues in the human body.",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Extra fat in the human body is stored under the skin.",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Deficiency of iodine in the human body causes anaemia.",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "The human body needs minerals in small quantities.",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Iodine deficiency causes goitre (enlargement of thyroid gland), not anaemia. Anaemia is caused by deficiency of iron.",
+        "tanglish": "Iodine kuraivu moolam goitre (thyroid gland perumal) varum. Anemiauku karutham iron kuraivu."
+      }
+    },
+    {
+      "q_number": 10,
+      "question_text": "A football stadium named after Bhaichung Bhutia has been built near his birthplace in ______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Manipur",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Sikkim",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Nagaland",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Meghalaya",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Bhaichung Bhutia, the former Indian football captain, was born in Sikkim. A stadium named after him was built in Namchi, Sikkim.",
+        "tanglish": "Bhaichung Bhutia India football team mudhala captain. Avar Sikkim il pirandhavar. Avargal peril oru football stadium Sikkim ulla Namchi vil amaikappattullathu."
+      }
+    },
+    {
+      "q_number": 11,
+      "question_text": "Which of the following organisations/agencies does NOT operate a 'Payment Bank' in India as of August 2020?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Fino",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Wipro",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "India Post",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Jio",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Wipro does not operate a Payment Bank. Fino, India Post, and Jio Payments Bank are approved Payment Banks in India.",
+        "tanglish": "Wipro Payment Bank operate seiyavillai. Fino, India Post matrum Jio Payment Bank India vil operate seigirathu."
+      }
+    }
+  ]
+}

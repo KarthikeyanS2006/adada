@@ -1,0 +1,337 @@
+{
+  "document_info": {
+    "exam_name": "DP-Constable-9-Dec-2020-S-1.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "निम्नलिखित में से कौन सी पुस्तक महान विद्वान भवभूति द्वारा नहीं लिखी गई है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "उत्तररामचरित",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "मालतीमाधव",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "रामचरितम्",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "महावीरचरित",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Bhavabhuti was a renowned Sanskrit poet and playwright. His famous works include Malatimadhava, Uttararamacharita, and Mahaviracharita. However, Ramacharitam was not authored by him.",
+        "tanglish": "Bhavabhuti oru periya Sanskrit kavi mattum nataka paduththalar. Avarkaludaiya mudhal pundaiyadugal: Malatimadhavam, Uttararamacharitam, Mahaviracharitam. Ramacharitam avarkaludaiya padaippu illai."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "The Sanchi Stupa was discovered by _______ in 1818.",
+      "options": [
+        {
+          "id": "1",
+          "text": "James Prinsep",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "John Marshall",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "James Burgess",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Sir Henry Taylor",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The Sanchi Stupa was discovered by Sir Henry Taylor, a British officer, in the year 1818. John Marshall later played a key role in its restoration.",
+        "tanglish": "Sanchi Stupa 1818-il British adhikari Sir Henry Tayloral kandupidi karappattathu. John Marshall pinbu athan maatrappaduthathil mukkiyam pangu perrar."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "निम्नलिखित में से किसके द्वारा इस तंत्र के रोगों का उपचार किया जाता है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "रुधिर रोग विशेषज्ञ (हीमैटोलॉजिस्ट)",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "फुफुसीय रोग विशेषज्ञ (पल्मोनोलॉजिस्ट)",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "त्वचा रोग विशेषज्ञ (डर्मेटोलॉजिस्ट)",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "निश्चेतना विशेषज्ञ (एनेस्थिसियोलॉजिस्ट)",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Pulmonologists are medical specialists who diagnose and treat diseases related to the respiratory system (श्वसन तंत्र).",
+        "tanglish": "Pulmonologistgal shvasa thanthira noikalukku maruthuvam seivathirkaka samarpitha maruthuvarigal."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "The Constituent Assembly of India was formed in _______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "1947",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "1948",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "1946",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "1945",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Constituent Assembly of India was formed in 1946 under the Cabinet Mission Plan to draft the Constitution of India.",
+        "tanglish": "Bharatha Arasiyalamaippu Sabai 1946-il Cabinet Thittaththin kizha India Sattathirku vakaikkapattathu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "As on August 2020, the Government of India does NOT announce the Minimum Support Price for which of the following crops?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Groundnut",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Paddy",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Flax seeds",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Ragi",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "As of August 2020, the Government of India announced Minimum Support Price (MSP) for 22 crops. Flax seeds (Alsi) were not included in the announced list.",
+        "tanglish": "2020 August nilaiyil, Bharatha arasaa MSP-in kizha 22 paanaiyagal irunthana. Alsi vithugal (Flax seeds) indha pattiyal illai."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "______ is related to football.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Ranji Trophy",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Santosh Trophy",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Duleep Trophy",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Irani Cup",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Santosh Trophy is a national-level football tournament held in India, while Ranji Trophy, Duleep Trophy, and Irani Cup are associated with cricket.",
+        "tanglish": "Santosh Trophy endrathu India desiya noorball pootiyeduupugalil ondru. Ranji Trophy, Duleep Trophy, Irani Cup endhavai cricket pootiyeduupugal."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "In the context of Interim Government (1946) of India, who among the following was holding the portfolio of 'Finance'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Jogendra Nath Mandal",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Liaquat Ali Khan",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "John Mathai",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Jagjivan Ram",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "In the Interim Government formed in 1946, Liaquat Ali Khan of the Muslim League held the Finance portfolio. Jagjivan Ram was in charge of Labour.",
+        "tanglish": "1946 niruthi arasangathil, Muslim Sangathin Liaquat Ali Khan malaiyiyal thuraimaiyai vahithaar. Jagjivan Ram thozhil thuraiyai vahithaar."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "S. Jaishankar is the author of which of the following books?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Kashmir's untold story: Declassiﬁcation",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Making of New India",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "The India Way: Strategies for an Uncertain World",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Sapiens - A Brief History of Humankind",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "'The India Way: Strategies for an Uncertain World' is a book authored by S. Jaishankar, the current Minister of External Affairs of India.",
+        "tanglish": "S. Jaishankar ezhuthiya 'The India Way' puthagam India vin videsha selvi thurai virindhullathu."
+      }
+    },
+    {
+      "q_number": 9,
+      "question_text": "The Index of Industrial Production is computed and published by the Central Statistical Organisation on a ______ basis.",
+      "options": [
+        {
+          "id": "1",
+          "text": "monthly",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "half-yearly",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "quarterly",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "yearly",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Index of Industrial Production (IIP) is published monthly by the National Statistical Office (NSO), formerly Central Statistical Organisation.",
+        "tanglish": "Uthpatti sudharippu index (IIP) maasathil makkal thakaval kuttiyal (NSO) molikkappadugirathu."
+      }
+    },
+    {
+      "q_number": 10,
+      "question_text": "Which of the following industrial cities is in Rajasthan?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Bhagalpur",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Bhabua",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Bellary",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Beawar",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Beawar is an industrial city located in the Ajmer district of Rajasthan. Bhagalpur is in Bihar, Bellary is in Karnataka.",
+        "tanglish": "Beawar endrathu Rajasthan maaanilathil Ajmer jillaathil ulla oru paDyana ur. Bhagalpur Bihar-ilum, Bellary Karnataka-vilum ullana."
+      }
+    },
+    {
+      "q_number": 11,
+      "question_text": "______ Schedule of the Constitution of India deals with the names of the states and their territorial jurisdiction.",
+      "options": [
+        {
+          "id": "1",
+          "text": "First",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Second",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Third",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Fourth",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The First Schedule of the Indian Constitution contains the names of the States and Union Territories and their territories.",
+        "tanglish": "India Sattathin mudhal pattiyal naadugal matrum samakhetraangalin peyargal mulum avatraalin ellai parappu kurippidappattullathu."
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "Dehli-Police-Constable-Previous-Paper-Held-on_-27-Nov-2020-Shift-3-Hindi.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "सितंबर 2020 में, निम्नलिखित में से किसने भारत के चुनाव आयुक्त के रूप में दायित्व ग्रहण किया है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "राजीव कुमार",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "अमिताभ कांत",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "अरविंद पनगडिया",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "बिबेक देबरॉय",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Rajiv Kumar assumed charge as an Election Commissioner of India in September 2020.",
+        "tanglish": "Rajiv Kumar Indhiya Therval Ayog Commissioner padathil September 2020il padavelai etuththukondar."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "निम्नलिखित में से किसे 'पृथ्वी, वायुमंडल, महासागर और हवाई क्षेत्र' वर्ग में 2020 का शांति स्वरूप भटनागर विज्ञान और प्रौद्योगिकी पुरस्कार दिया गया?",
+      "options": [
+        {
+          "id": "1",
+          "text": "अभिजीत मुखर्जी",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "वासला थिरुमलाई",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "सुभदीप चटर्जी",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "सुबी जैकब जॉर्ज",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Abhijit Mukherjee was awarded the Shanti Swarup Bhatnagar Prize in 2020 for Earth, Atmosphere, Ocean and Planetary Sciences.",
+        "tanglish": "Abhijit Mukherjee Boomi, Vayumandalam, Mahasagaram matrum Planetary Sciences enba vagaigalukkaaga 2020-aam aandu Shanti Swarup Bhatnagar Parisai adaiyndraar."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "जीका वायरस रोग मुख्य रूप से ______ द्वारा संक्रमित वायरस के कारण होता है।",
+      "options": [
+        {
+          "id": "1",
+          "text": "कृंतक (रोडेंट)",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "कुत्ते",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "एडीज मच्छर",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "यूरेनोटानिया मच्छर",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Zika virus disease is primarily transmitted through the bite of an infected Aedes mosquito, particularly Aedes aegypti.",
+        "tanglish": "Zika virus noikk Aedes machchan kadithathal parkaatha virus thaan kaaranam, viseshamaga Aedes aegypti machchan moolam."
+      }
+    }
+  ]
+}

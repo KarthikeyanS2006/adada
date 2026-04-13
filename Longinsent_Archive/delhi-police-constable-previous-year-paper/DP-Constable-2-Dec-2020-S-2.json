@@ -1,0 +1,337 @@
+{
+  "document_info": {
+    "exam_name": "DP-Constable-2-Dec-2020-S-2.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "The battle of Dharmatpur, which took place between Aurangzeb and Maharaja Jaswant Singh on 15 April 1658, was fought on the banks of which river?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Krishna",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Yamuna",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Sutlej",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Narmada",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The Battle of Dharmatpur (also known as the Battle of Dharmat) was fought on 15 April 1658 between Aurangzeb and Maharaja Jaswant Singh on the banks of the Narmada river.",
+        "tanglish": "Dharmatpur yudham (Dharmat yudham endrum solappadum) 1658 April 15-il Aurangzeb matrum Maharaja Jaswant Singh idaiyil Narmada nathi karaiyil nadandha yudham."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Which among the following is related to the human skeletal structure?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Spleen",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Urethra",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Femur",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Iris",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Femur is the thigh bone and is part of the human skeletal structure. Spleen is a lymphatic organ, urethra is a tube connecting urinary bladder to exterior, and iris is part of the eye.",
+        "tanglish": "Femur oru elumbu (thigh bone), ithu manitha asthip paunaamiyil (skeletal structure) payaniyam. Spleen oru lymph organ, urethra neer kuzhi tube, iris kannin paagam."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Which of the following is a water borne disease?",
+      "options": [
+        {
+          "id": "1",
+          "text": "measles",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Dengue",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Yellow Fever",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "E. coli",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "E. coli infection is a waterborne disease transmitted through contaminated water. Measles is airborne, while Dengue and Yellow Fever are mosquito-borne diseases.",
+        "tanglish": "E. coli noi thaneer moolama paravum noi (waterborne disease). Measles kaatril paraveenum (airborne), Dengue matrum Yellow Fever kombugal moolama paraveenum (mosquito-borne)."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "With reference to countries and their capitals, which of the following pairs is correct?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Cambodia-Tbilisi",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Myanmar - Naypyidaw",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Brunei-Beirut",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Azerbaijan-Yerevan",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Naypyidaw is the capital of Myanmar. Cambodia's capital is Phnom Penh, Brunei's capital is Bandar Seri Begawan, and Azerbaijan's capital is Baku.",
+        "tanglish": "Naypyidaw Myanmar nattin thalaivaasi (capital). Cambodia thalaivaasi Phnom Penh, Brunei thalaivaasi Bandar Seri Begawan, Azerbaijan thalaivaasi Baku."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "The Punjab Himalayas lie between the _______ rivers.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Black and Teesta",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Sutlej (Sutlej) and Kali",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Teesta and Dihang",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Indus and Sutlej (Sutlej)",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The Punjab Himalayas extend between the Indus and Sutlej rivers. The region between Sutlej and Kali is Kumaon Himalayas, and between Teesta and Dihang is Assam Himalayas.",
+        "tanglish": "Punjab Himalayas Indus matrum Sutlej nathi idaiyil padanthu ullathu. Sutlej matrum Kali idaiyil Kumaon Himalayas, Teesta matrum Dihang idaiyil Assam Himalayas ullana."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Mandvi Sagar Beach is situated in _______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Kerala",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Maharashtra",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Odisha",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Gujarat",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Mandvi Beach (also called Mandvi Sagar Beach) is located in the Kutch district of Gujarat state.",
+        "tanglish": "Mandvi Beach (Mandvi Sagar Beach endrum solappadum) Gujarat maanilathu Kutch (Kachchh) maavattathil ullathu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Which of the following schemes is not related to Ministry of Finance?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Pradhan Mantri Garib Kalyan Yojana",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Pradhan Mantri Kaushal Vikas Yojana",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Kisan Vikas Patra",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Pradhan Mantri Suraksha Bima Yojana",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY) is under Ministry of Skill Development and Entrepreneurship. Others are financial schemes under Ministry of Finance.",
+        "tanglish": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY) Skill Development and Entrepreneurship manthiralayathin thittam (ministry). Matravai Finance manthiralayathin thittangal."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "According to the Representation of the People Act, 1951, in the event of a person being elected to both houses of Parliament, he has to notify within ______ days in which house he intends to function.",
+      "options": [
+        {
+          "id": "1",
+          "text": "22",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "10",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "20",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "15",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "As per Section 69 of the Representation of the People Act, 1951, a person elected to both houses of Parliament must notify within 10 days in which house they wish to serve.",
+        "tanglish": "Representation of the People Act, 1951-in 69-avathiyinpadi, iru pali mandrangalukkum thera pettror endha mandrathil padi seyvaar endru 10 natkalukkul therivikka vendum."
+      }
+    },
+    {
+      "q_number": 9,
+      "question_text": "In India, which of the following is not a type of budget?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Balanced",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "surplus",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Losses",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Reserved",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Reserved is not a classification of budget. Budget types include Balanced (revenue equals expenditure), Surplus (revenue exceeds expenditure), and Deficit/Loss (expenditure exceeds revenue).",
+        "tanglish": "Reserved endha bajet vagaipadu illai. Bajet erpattugal: Balanced (samamana siuthi), Surplus (adhiga varambu), matrum Deficit/Loss (kurai)."
+      }
+    },
+    {
+      "q_number": 10,
+      "question_text": "In the fourteenth century, which of the following travelers came to India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Ibn Battuta",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Duarte Barbosa",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Francois Bernier",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Antonio Monserrate",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Ibn Battuta visited India during the 14th century (1304-1369). Duarte Barbosa and Antonio Monserrate came in the 16th century, while Francois Bernier visited in the 17th century.",
+        "tanglish": "Ibn Battuta 14-am century-il (1304-1369) India vandhaar. Duarte Barbosa matrum Antonio Monserrate 16-am century-il, Francois Bernier 17-am century-il vandhaargal."
+      }
+    },
+    {
+      "q_number": 11,
+      "question_text": "Which of the following is a sect of Jainism?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Hinayana",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Lingayat",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Vajrayana",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Digambar",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Digambar is one of the two major sects of Jainism (the other being Svetambara). Hinayana and Vajrayana are sects of Buddhism, and Lingayat is a Hindu sect.",
+        "tanglish": "Digambar Jain madha payirchiyin (sect) mukiya veetam (Svetambara matrum oru veetam). Hinayana matrum Vajrayana Bouddha matha veetangal, Lingayat Hindu matha veetam."
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "Dehli Police Constable Previous Paper Held On 03 Dec 2020 Shift 3"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "'इंडिया' केसव और ______ द्वारा लिखित भारत में महिला क्रिकेट का इतिहास, ब्लैकपेज्ड वेजेस... बालकृष्ण तथा पटनायक भ्रातृचार्य बृजनाथ",
+      "options": [
+        {
+          "id": "1",
+          "text": "बालकृष्ण",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "तथा पटनायक",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "भ्रातृचार्य",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "बृजनाथ",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The book 'India' documenting the history of women's cricket in India was co-authored by Kesav and Brijnath Patnaik. The correct answer to fill in the blank is Brijnath Patnaik.",
+        "tanglish": "India'il mahilkal cricket varalarai pathrigira 'India' endra puthagathai Kesav matrum Brijnath Patnaik al ezhuthiyullar. blank il fill seyyavendiya sariyana pathil Brijnath Patnaik."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "दिल्ली एनसीटी (NCT) हेतु लोकसभा की ______ सीटें आवंटित की गई हैं",
+      "options": [
+        {
+          "id": "1",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "7",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "3",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The National Capital Territory (NCT) of Delhi has been allotted 7 seats in the Lok Sabha (Lower House of Parliament).",
+        "tanglish": "Delhi National Capital Territory (NCT) ku Lok Sabha il 7 seatgal vagadikkappattullana."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "______ के अंतर्गत की सरकार द्वारा अनुमानित व्यय और आय का वार्षिक वित्तीय कथन दोनों सदनों के समक्ष प्रस्तुत किया जाना अनिवार्य किया गया है।",
+      "options": [
+        {
+          "id": "1",
+          "text": "अनुच्छेद 202",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "अनुच्छेद 118",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "अनुच्छेद 110",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "अनुच्छेद 112",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Article 112 of the Indian Constitution mandates that the Government must present an annual financial statement (budget) before both Houses of Parliament every year.",
+        "tanglish": "Article 112 anbhu India arasiyal sattathin paadi, arasu varudam thorum budget endra varusha sorndi kurippai irattai mandrangalukkum munbu prasthuthikka vendum enbathai kurikkum."
+      }
+    }
+  ]
+}

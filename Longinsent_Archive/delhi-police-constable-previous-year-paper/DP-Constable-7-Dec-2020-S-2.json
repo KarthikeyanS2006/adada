@@ -1,0 +1,337 @@
+{
+  "document_info": {
+    "exam_name": "DP-Constable-7-Dec-2020-S-2.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "In which of the following years was the Interim Government of India formed from the newly elected Constituent Assembly?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1943",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "1940",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "1945",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "1946",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The Interim Government of India was formed on 2nd September 1946 from the newly elected Constituent Assembly to assist the transition of power from British rule to independence.",
+        "tanglish": "Indiaavin inayamana arasu puthiyaaga therntheduththa samvidhana sabaiyilirundhu 2nd September 1946-il amaikappattathu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "In which of the following Articles of the Indian Constitution is the Finance Bill mentioned?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Article 145",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Article 112",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Article 110",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Article 134",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Article 110 of the Indian Constitution deals with Money Bills. A Finance Bill that contains taxation proposals is considered a Money Bill and is mentioned under this article.",
+        "tanglish": "Article 110 Indian samvidhanathil Money Bill patriyaadhu. Finance Bill oru vagaiyaana Money Bill aathaal idhu indha Article-kku keez amaikindrathu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "In India, how many sedimentary basins are there which cover an area of 3.14 million km2?",
+      "options": [
+        {
+          "id": "1",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "19",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "28",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "26",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "India has 26 sedimentary basins covering an area of approximately 3.14 million square kilometers which are potential areas for petroleum and natural gas exploration.",
+        "tanglish": "Indiaavil 26 anaith thazhaigal (sedimentary basins) ullana, ivai 3.14 million km2 parappalai adangkiyathu."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Jhijhiya is the famous cultural dance of which of the following states?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Bihar",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Madhya Pradesh",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Assam",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Uttar Pradesh",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Jhijhiya is a traditional folk dance of Bihar, performed by women to worship Lord Shiva and seek protection for their husbands and families.",
+        "tanglish": "Jhijhiya Bihar samuthayathin marabhu paadal aattam, ithu Sivanai pugazhndhu kanavan matrum kudumbathuku kaakkaval vendi adikkappadum."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Nitrous oxide is a colourless and odourless substance that is also known as ______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "laughing gas",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "sleeping gas",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "balloon gas",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "tear gas",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Nitrous oxide (N2O) is commonly known as laughing gas because inhaling it can produce euphoric effects and uncontrollable laughter.",
+        "tanglish": "Nitrous oxide (N2O) sirippu aniyendru ariyappadum, idhai usirpaduthum pothu inbam anaipu matrum asaithiya sirippu erpadum."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "_______ is a branch of horticulture as it deals with the cultivation of flowers and ornamental crops from the time of planting to the time of harvesting.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Sericulture",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Floriculture",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Apiculture",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Mariculture",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Floriculture is the branch of horticulture concerned with the cultivation of flowering and ornamental plants. Sericulture is silk farming, Apiculture is beekeeping, and Mariculture is cultivation of marine organisms.",
+        "tanglish": "Floriculture endrathu pookkal matrum alangara mullai valarppu patriya horticulture mookku. Sericulture pattu valarppu, Apiculture theneecham valarppu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "The CADC is formed under the 6th Schedule to the Constitution of India in 1972, for the Chakma ethnic people. What does CADC stand for?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Chakma Autonomous District Corporation",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Chakma Autonomous District Council",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Chakma Attorney Deputy Council",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Chakma Associate District Council",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "CADC stands for Chakma Autonomous District Council. It was formed under the 6th Schedule of the Constitution in 1972 for the Chakma tribal people in Mizoram.",
+        "tanglish": "CADC endrathu Chakma Autonomous District Council endru artham. Ithu 1972-il samvidhanathin 6th Schedule-ku keez Chakma inathinarukaga amaikappattathu."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "How many committees were set up by the Constituent Assembly for framing the Constitution?",
+      "options": [
+        {
+          "id": "1",
+          "text": "13",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "11",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "20",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Constituent Assembly set up 13 committees (8 major and 5 minor committees) for framing the Constitution, including the Drafting Committee chaired by Dr. B.R. Ambedkar.",
+        "tanglish": "Samvidhana sabai samvidhanam rasithidavaaga 13 kuzhukkalai (8 periya matrum 5 chinna kuzhukkal) amaithathu."
+      }
+    },
+    {
+      "q_number": 9,
+      "question_text": "The Dhyan Chand Award, named after the legendary player Major Dhyan Chand, is awarded for the lifetime contribution in the sports field. In which of the following sports did he represent India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Hockey",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Boxing",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Badminton",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Wrestling",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Major Dhyan Chand was a legendary Indian field hockey player who won three Olympic gold medals (1928, 1932, and 1936) for India.",
+        "tanglish": "Major Dhyan Chand India-kku Hockey vilaiyattil Olympic selvar meedaiyanatheervaal, avarukku unarvupurvaaga indha virudhu nalgappadum."
+      }
+    },
+    {
+      "q_number": 10,
+      "question_text": "______ deal(s) with the taxation and expenditure decisions of the Government.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Monetary Policy",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Labour Market Policies",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Trade Policy",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Fiscal Policy",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Fiscal Policy refers to the use of government spending and taxation to influence the economy. Monetary Policy is controlled by the central bank and deals with money supply and interest rates.",
+        "tanglish": "Fiscal Policy endrathu arasin vari matrum selvam patriyaaddhu. Monetary Policy naadiya bankal nurindhu kodukum vidham."
+      }
+    },
+    {
+      "q_number": 11,
+      "question_text": "Who among the following women army officers has been promoted to the second-highest rank of Lieutenant General in the Indian Army in March 2020?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Padmavathy Bandopadhyay",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Nivedita Choudhary",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Punita Arora",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Madhuri Kanitkar",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Lt General Madhuri Kanitkar was promoted to the rank of Lieutenant General in March 2020, becoming the third woman in the Indian Army to achieve this distinction.",
+        "tanglish": "Lt. General Madhuri Kanitkar 2020 March maasam Indian Army-il Lieutenant General padaviku promote aindavar."
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "Dehli-Police-Constable-Official-Paper-Held-On_-01-Dec-2020-Shift-3-Hindi.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "उष्णकटिबंधीय वर्षा के कारण होने वाले तीव्र अपरदन (leaching) के कारण निम्नलिखित में से कौन सी प्रकार की मृदा की उर्वरता कम हो जाती है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "लेटराइट मृदा",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "काली मृदा",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "लाल मृदा",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "पीली मृदा",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Laterite soils are formed in tropical regions with heavy rainfall where intense leaching occurs. This process removes silica and nutrients from the soil, resulting in poor fertility.",
+        "tanglish": "Ushnakadibandhiya varusham kaaranaama tivramaana leaching nilathilirundhu posanaigalai kadainthu sellum. Laterite nilam intha nilaiyil thaan erpakkappadugirathu. Idhanal athan pasu uridhi kammi aagirathu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "मैरी कॉम, 2014 के एशियाई खेलों में स्वर्ण पदक जीतने वाली प्रथम भारतीय महिला थी। वह निम्नलिखित में से किस खेल में भारत का प्रतिनिधित्व करती है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "तैराकी",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "मुक्केबाज़ी",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "बैडमिंटन",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "कुश्ती",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Mary Kom is a renowned Indian boxer who won the gold medal in women's boxing at the 2014 Asian Games held in Incheon, South Korea. She is a six-time world champion.",
+        "tanglish": "Mary Kom periyathirpatta Indian boxer. Avar 2014 Asia vilaiyattru potigal-il women boxing-il thanga padam jettaar. Avar aaru murai world champion aagi ullar."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "रानी लक्ष्मीबाई ने ब्रिटिश औपनिवेशिक शासकों के साथ लड़ाई करते हुए निम्नलिखित में से किस वर्ष में वीरगति प्राप्त की थी?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1856 में",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "1858 में",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "1867 में",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "1834 में",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Rani Lakshmibai died fighting against British forces on 18 June 1858 in Gwalior during the Indian Rebellion of 1857. She was one of the leading figures of the revolt.",
+        "tanglish": "Rani Lakshmibai 1858-aam aandu June 18-il British padaiyodaga poradidum potu veergathi adainthaar. Idayavathi 1857 India vidhrohathil mukhiya thalaivarigalil onraavar."
+      }
+    }
+  ]
+}

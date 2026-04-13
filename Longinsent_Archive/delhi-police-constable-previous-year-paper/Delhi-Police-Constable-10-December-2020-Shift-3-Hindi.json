@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-10-December-2020-Shift-3-Hindi.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "बजट 2020-21 के अनुसार, पिछले दो वर्षों में नए कर दाताओं की संख्या कितनी बढ़ी है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "50 लाख",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "30 लाख",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "40 लाख",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "60 लाख",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "According to Budget 2020-21, the number of new taxpayers increased by 30 lakh in the last two years.",
+        "tanglish": "2020-21 budjetinpadi, kadantha irandu aandugalil puthiya vari chelluththuvorin ennikkai 30 latchamaaga athigarithullathu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "निम्नलिखित में से किस वर्ष में, बैंकिंग विनियमन अधिनियम, 1949 में से 'जम्मू एवं कश्मीर राज्य को छोड़कर' शब्द हटा दिया गया?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1950",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "1955",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "1956",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "1952",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "In 1950, the words 'except the State of Jammu and Kashmir' were removed from the Banking Regulation Act, 1949.",
+        "tanglish": "1950 aam aandil, 'jammu marriyum kashmir maanilathai thavira' endra solgal banking niyamana adhineyam 1949 ilirundu neekappattana."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "निम्नलिखित में से कौन सा पर्वतीय दर्रा, अरुणाचल प्रदेश के हिमालयी क्षेत्र में अवस्थित है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "ज़ोजी ला",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "रोहतांग दर्रा",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "खारदुंग ला",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "बनिहाल दर्रा",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Banihal Pass is located in the Himalayan region of Arunachal Pradesh.",
+        "tanglish": "Banihal darraa arunaachal pradheshin imayamalai paguthiyil amainthullathu."
+      }
+    }
+  ]
+}

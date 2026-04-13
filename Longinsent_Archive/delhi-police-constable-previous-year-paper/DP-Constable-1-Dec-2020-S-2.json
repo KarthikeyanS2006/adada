@@ -1,0 +1,337 @@
+{
+  "document_info": {
+    "exam_name": "DP-Constable-1-Dec-2020-S-2.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "In which of the following years was the First Amendment Act of the Constitution of India enacted?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1958",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "1951",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "1952",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "1956",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The First Amendment to the Constitution of India was enacted in 1951. It was moved by the then Prime Minister Jawaharlal Nehru and made several changes including restrictions on freedom of speech and the creation of the Ninth Schedule.",
+        "tanglish": "India rashtrapathin mudhal setru maarpidam 1951 varusham seyya pattathu. Idhu appozhuthu pradhaanalargal Jalalapitha Naarayanavar moolam kondu varappattu, paguthinar urimaiyil sanjega vasanaththil thakkaithal matrum onbadhaniya shediyul sevai seivatharkaga maatrangal seithathu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "IBEF is a trust established by the Ministry of Commerce and Industry. From the given options, select the correct full form of IBEF.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Indian Board of Exporters Forum",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "International Bureau Economic Federation",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "India Brand Equity Foundation",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Indian Board of Economics Foundation",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "IBEF stands for India Brand Equity Foundation. It is a trust established by the Ministry of Commerce and Industry to promote and create international awareness of Indian brands.",
+        "tanglish": "IBEF endral India Brand Equity Foundation enbadhu. Vaniga matrum thozhil seyal maanilathara arasuthurai moolama niruvappatta trust idhu. Bharatiya brandugalai ulaga araiyil valarppatharku idhu padhukkappattu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Article 32 belongs to which part of the Indian Constitution?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Part II",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Part I",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Part III",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Part IV",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Article 32 deals with the Right to Constitutional Remedies and is included in Part III of the Indian Constitution which covers Fundamental Rights. It is known as the 'soul of the constitution' and 'heart and soul'.",
+        "tanglish": "Article 32 endradhu arasiyal sutruchi maruththuva urimaiyai patriyadhu. Ithu India rashtrapathin paguthi III il ulladhu, idhu paguthinar urimaigalai ollukollum. Ithu rashtrapathin ullam endrum heart and soul endrum solappadum."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "How many public sector banks are there in India as of September 2020?",
+      "options": [
+        {
+          "id": "1",
+          "text": "13",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "24",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "22",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "12",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "As of September 2020, there were 12 public sector banks in India after the consolidation and merger of several banks including merging of Dena Bank and Vijaya Bank with Bank of Baroda, and others.",
+        "tanglish": "2020 September nilaiyil, pala madhak thangal innainthu samaikappattathal, Bharathil 12 arasu paniya thangal ullaana. Dena matrum Vijaya madhagal Bank of Barododotu innainthathu matrum palar samayakkappattana."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "'Vishu' is one of the famous festivals of which of the following states?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Odisha",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Kerala",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Tamil Nadu",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Assam",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Vishu is a Hindu festival celebrated in the Indian state of Kerala, marking the Malayalam New Year. It usually falls in the month of April.",
+        "tanglish": "Vishu endradhu Kerala rasil prasidhi petra oru hindhu pandigai. Ithu malayala puththaandaiyai kondadathu. Ithu maasa Narasi maadhathil prasiddham."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "In which of the following years was Sir Richard Stafford Cripps sent to India to win the co-operation of Indian political groups?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1909",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "1917",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "1942",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "1929",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Sir Stafford Cripps was sent to India in 1942 with the Cripps Mission to secure Indian cooperation during World War II by promising dominion status and other constitutional changes.",
+        "tanglish": "Sir Stafford Cripps 1942 varusham India ku anuppappattar. Iru loka porattathil India sevaiyai petrukkollum vendi, adhinasthana pakkuvathaiyum matrum arasiyal maatrangalaiyum vaagdhanam seithu Cripps seyal thiddam anuppi vaithargal."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Which of the following is the most abundant and lightest gas in the universe?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Nitrogen",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Hydrogen",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Carbon-dioxide",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Oxygen",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Hydrogen is the most abundant and lightest gas in the universe, constituting about 75% of the elemental mass of the universe. It is represented by the symbol H.",
+        "tanglish": "Hydrogen endradhu ulaginil migavum adhikamaaga kidaikkum, migavum saralaana vaayu. Ithu universe il 75 satham thanmaiya anaithaiyum vandhikkirathu. Ithu H endra kuriyaalarinthu gurithappadum."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "Who among the following authors wrote the novel 'The God of Small Things'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Arundhati Roy",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Mary Roy",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Amnika Batra",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Salman Rushdie",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The God of Small Things is a novel written by Arundhati Roy, published in 1997, which won the Booker Prize. It is set in Kerala and deals with themes of family and social discrimination.",
+        "tanglish": "The God of Small Things endra novel Arundhati Roy ezhuthiyadhu. Ithu 1997 varusham veliyathu Booker parisu petradhu. Kerala nilamaanil idhu amarnthirukkirathu matrum kudumbam, samuga thakkaithal koorugal idhil ullana."
+      }
+    },
+    {
+      "q_number": 9,
+      "question_text": "In which of the following cities is the Thirumalai Nayakkar palace located?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Kanyakumari",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Madurai",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Chennai",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Mysuru",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Thirumalai Nayakkar Palace is a 17th-century palace erected in 1636 AD by King Thirumalai Nayakkar in Madurai, Tamil Nadu. It is a fine example of Indo-Saracenic architecture.",
+        "tanglish": "Thirumalai Nayakkar aranmanai Maduraiyil ulladhu. Ithu 17th century il Thirumalai Nayakkar arasanalaiya 1636 varusham kattappadudhiya oru aranmanai. Ithu Indo-Saracenic kattidaka kalaaiyin nalla udaharaanam."
+      }
+    },
+    {
+      "q_number": 10,
+      "question_text": "A ______ is a collection of different ecosystems which share similar climatic conditions.",
+      "options": [
+        {
+          "id": "1",
+          "text": "reef",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "flora",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "biome",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "lagoon",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "A biome is a large community of vegetation and wildlife adapted to a specific climate, encompassing multiple ecosystems. Examples include desert, tundra, and rainforest biomes.",
+        "tanglish": "Biome endradhu oru neriditha kalamaanathirkuriya jeevangal matrum sasyangalin periya koottamaanam. Ithu pala ekosistemaikalai ollukollum. Maruboomi, tundra, mazhai adivaram biome khal."
+      }
+    },
+    {
+      "q_number": 11,
+      "question_text": "Which of the following is the highest peak in south India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Doddabetta",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Perumal",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Vandaravu",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Anamudi",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Anamudi is a mountain located in the Ernakulam district of Kerala, standing at 2,695 meters, making it the highest peak in South India. It is part of the Western Ghats.",
+        "tanglish": "Anamudi endradhu Kerala maanilathil Ernakulam district il ulla oru malai. Ithu 2,695 meter uyarnthilulladhu, idhu Therku Hindiyin uyarntha malaiyaanadhu. Ithu Paschima malai thottathin paagu."
+      }
+    }
+  ]
+}

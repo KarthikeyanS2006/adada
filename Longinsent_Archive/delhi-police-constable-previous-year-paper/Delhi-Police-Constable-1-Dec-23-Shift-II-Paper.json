@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-1-Dec-23-Shift-II-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "When the sun, the moon and the earth are in a straight line, the height of the tide will be higher. What are these tides called?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Spring tides",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Autumn tides",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Neap tides",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Diurnal tide",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "When the Sun, Moon, and Earth align in a straight line, their combined gravitational pull creates higher high tides and lower low tides, which are called spring tides. This occurs during full moon and new moon periods.",
+        "tanglish": "Sooriyan, Chandran, Boomi moondrum ondraaga neraaga amaindhirukkum podhu, andha grahabalam high tides-ah thaluthi, adhai Spring tides endru sollalaam. Ithu pournami matrum amavasai natkalil nadakkum."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Bhangra dance is commonly performed in which of these states?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Maharashtra",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Uttar Pradesh",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Chhattisgarh",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Punjab",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Bhangra is a traditional energetic folk dance that originated in the Punjab region of India. It is typically performed during harvest festivals like Vaisakhi.",
+        "tanglish": "Bhangra endradhu India-vin Punjab maavattathil pirandha oru mangathaana naatupura aadalam. Ithu Vaisakhi pondra viplaya thirunaalil aadapadum."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "The goal of Saansad Adarsh Gram Yojana was to develop _____ Adarsh Grams by March 2019.",
+      "options": [
+        {
+          "id": "1",
+          "text": "four",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "three",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "five",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "two",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Saansad Adarsh Gram Yojana (SAGY), launched in 2014, aimed to develop three model villages (Adarsh Grams) by March 2019 in each MP's constituency, with the broader goal of developing more villages subsequently.",
+        "tanglish": "Saansad Adarsh Gram Yojana (SAGY) 2014-il aarambikkapattadhu. Oru parliament sannithal sila varushathirkul moondru Adarsh Gram vilaiyalatham seyyanum endru lakkiyam vaithadhu."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Which of the following architectural features/structures was NOT a part of the citadel in Mohenjo-Daro?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Great Courtyard",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Warehouse",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Residential Buildings",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Pillared Hall",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "In Mohenjo-Daro, the citadel contained public structures like the Great Bath (Great Courtyard), granary (Warehouse), and Assembly Hall (Pillared Hall). Residential buildings were located in the lower town, not the citadel.",
+        "tanglish": "Mohenjo-Daro mathiyaanathil Great Bath, kadangalai vaithiraikkum idam, thoonalayam pondra pagalnilai amaipugal irundhana. Kudiyiruppu kottadaigal keel nakarathil mattume irundhadhu, mathiyaanathil illai."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Posthumus Padma awardee in 2022, Gosaveedu Shalik Hassan was a renowned player of the _________ .",
+      "options": [
+        {
+          "id": "1",
+          "text": "Guitar",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Sitar",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Nadaswaram",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Veena",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Gosaveedu Shailik Hassan was a renowned Nadaswaram maestro from Andhra Pradesh who was posthumously awarded the Padma Shri in 2022 for his contributions to Carnatic music.",
+        "tanglish": "Gosaveedu Shailik Hassan endradhu Andhra Pradesh saendrha oru prasiddha Nadaswaram karthar. Avar Carnatic sangeethathil seithha pangukalukkaaga 2022-il Padma Shri seththa pinbu alikkappattadhu."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "In Karate, which word is used to denote 'Punch'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Waza-ari",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Tsuki",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Seiri",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Ippon",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "In Karate terminology, 'Tsuki' (or Zuki) refers to a punch or thrusting technique. Waza-ari and Ippon are scoring terms in Judo/Karate competitions, while Seiri refers to organization.",
+        "tanglish": "Karate silambathil, 'Tsuki' endradhu kuthu adi endra artham. Waza-ari matrum Ippon endradhu Karate panthaayathil mark kurippugal."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Which of the following fungus is used in fermentation technology?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Rhizobium",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Molds",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Saccharomyces",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Smuts",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Saccharomyces cerevisiae (brewer's yeast) is a fungus widely used in fermentation technology to produce alcohol and bread. Rhizobium is a nitrogen-fixing bacteria, not a fungus.",
+        "tanglish": "Saccharomyces cerevisiae (mavu) endradhu punamivu teknologiyil adhigamaga upayogikkappadum oon suvai. Ithu saaraya seivithal matrum rotti pakkuvakkum moolamaga velaipadum. Rhizobium endradhu bakteeriya."
+      }
+    }
+  ]
+}

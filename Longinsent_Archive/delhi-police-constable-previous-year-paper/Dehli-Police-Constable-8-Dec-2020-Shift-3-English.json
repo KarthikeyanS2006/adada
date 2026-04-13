@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "Dehli-Police-Constable-8-Dec-2020-Shift-3-English.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Which of the following rivers has Musi river as one of its tributaries?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Krishna",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Godavari",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Kaveri",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Mahanadi",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Musi River is a tributary of the Krishna River. It originates in the Anantagiri Hills and flows through Hyderabad before joining the Krishna River at Wagar in Andhra Pradesh.",
+        "tanglish": "Musi River Krishna River oda tributary. Idhu Anantagiri Hills lerundhu thodangi Hyderabad city vazhiya poguthu, apparam Krishna River kooda Wagar apdingra edathla cheruthu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Antibiotics are NOT effective on a virus as it lacks ______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "cell membrane",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "cell wall",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "genetic material",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "proteins",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Antibiotics are effective against bacteria because they target bacterial cell walls or metabolic processes. Viruses lack cell walls and do not have their own metabolic machinery as they are obligate intracellular parasites that use host cell machinery for replication.",
+        "tanglish": "Antibiotics bacteria mela mattum than work aagum, virus mela illa. Virus ku cell wall illai, athanale antibiotics work aagala. Virus ku svontha metabolism um illai, avunga host cell ah use pannikittu than multiply aaguvanga."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "When a body rolls over the surface of another body, the resistance to its motion is called ______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "static friction",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "sliding friction",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "rolling friction",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "fluid friction",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "When a body rolls over another surface, the resistance to motion is called rolling friction. It is generally less than sliding friction and occurs when objects like wheels, balls, or rollers move over a surface.",
+        "tanglish": "Oru body veroru surface mela roll pannum bodhu varra resistance than rolling friction nu soluvom. Idhu sliding friction vida kammi. Wheel road mela sutha porathu, ball roll aagurathu ithu ellam rolling friction examples."
+      }
+    }
+  ]
+}

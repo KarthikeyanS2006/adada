@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-2-Dec-2020-Shift-3-English.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "With which musical instrument was the noted musician Pandit Kishan Maharaj associated?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Veena",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Mridangam",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Sitar",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Tabla",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Pandit Kishan Maharaj (1923-2008) was a renowned Indian classical musician and tabla maestro belonging to the Benares Gharana. He was famous for his mastery of the tabla, a percussion instrument used in Hindustani classical music.",
+        "tanglish": "Pandit Kishan Maharaj (1923-2008) Benares Gharanaiyil seerntha perumaiyaana tabla vaadhiyaar. Avar Hindustani klassical isaiyil muulipaga upayogikkappadum tabla vaadhiyathil parangam udaiyavar."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "The Prime Minister and the other Ministers of the Indian Union are appointed under:",
+      "options": [
+        {
+          "id": "1",
+          "text": "Article 79 of the Constitution of India",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Article 75 of the Constitution of India",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Article 85 of the Constitution of India",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Article 70 of the Constitution of India",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Article 75 of the Constitution of India states that the Prime Minister shall be appointed by the President and the other Ministers shall be appointed by the President on the advice of the Prime Minister.",
+        "tanglish": "India Arasiyal Amaippin Article 75, Pradhana Mantri Rastrapathi dwaara niyamikkappeduvaar endrum, matra mantrigal Pradhana Mantriyin salikaiyil Rastrapathi dwaara niyamikkappedugiraargal endrum koorum."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "The Governor of a State may, if he is of the opinion that the Anglo-Indian community needs representation in the Legislative Assembly of the State and is not adequately represented, nominate ______ of that community to the Assembly.",
+      "options": [
+        {
+          "id": "1",
+          "text": "one member",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "two members",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "three members",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "four members",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "As per Article 333 of the Constitution of India, the Governor of a State is empowered to nominate one member of the Anglo-Indian community to the State Legislative Assembly if the community is not adequately represented in the House.",
+        "tanglish": "India Arasiyal Amaippu Article 333 ku edaiyil, oru maanilathin Governor, Anglo-Indian samudhaayam chiridha predhithinidhi payanpaduthappaduvathillai yendru ninaithaal, Arasa mantri kuzhathil aanga samudhaayathilirundhu oru iiyalaanai kuripiduthum adhigaarathai petrullar."
+      }
+    }
+  ]
+}

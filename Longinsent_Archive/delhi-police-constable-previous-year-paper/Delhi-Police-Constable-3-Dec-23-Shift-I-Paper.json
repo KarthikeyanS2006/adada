@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-3-Dec-23-Shift-I-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Which of the following players is associated with para-badminton?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Sumit Antil",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Manish Narwal",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Avani Lekhara",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Krishna Nagar",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Krishna Nagar is an Indian para-badminton player who won a gold medal at the Tokyo 2020 Paralympic Games. Sumit Antil is a para-athlete (javelin thrower), Manish Narwal is a para-shooter (pistol), and Avani Lekhara is also a para-shooter (rifle).",
+        "tanglish": "Krishna Nagar oru Indian para-badminton vilayattu aal. Avaru Tokyo 2020 Paralympics-il thanga medal vellaiyachu. Sumit Antil para-athlete (javelin throw), Manish Narwal para-shooter, Avani Lekhara-um para-shooter."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "According to the Census of India 2011, which is the second most literate state in India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Mizoram",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Karnataka",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Odisha",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Tripura",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "According to the Census of India 2011, Kerala is the most literate state with 93.91% literacy rate, followed by Mizoram with 91.58% literacy rate, making Mizoram the second most literate state in India.",
+        "tanglish": "India Census 2011 anusarichu, Kerala than 93.91% padipparivu oda mudhal idathu. Adutha idathu Mizoram 91.58% padipparivu oda varugirathu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Sitara Devi was a ________ dancer of India.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Kuchipudi",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Kathak",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Bharatanatyam",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Kathakali",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Sitara Devi was a renowned Indian classical dancer known for her Kathak performances. She was often referred to as the 'Nratya Samragini' (Empress of Dance) and contributed significantly to the popularity of Kathak dance.",
+        "tanglish": "Sitara Devi oru periya Kathak classical natanam asariya aal. Avarukku 'Nrithya Samragini' (Empress of Dance) endru peru. Avaru Kathak natanathai popular aakkalathil periya pangu eduthundar."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Avani Lekhara is associated with which of the following sports?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Freestyle wrestling",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Para-athletics",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Para-badminton",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Paralympic shooting",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Avani Lekhara is an Indian Paralympic shooter who won a gold medal in the Women's 10m Air Rifle Standing SH1 event at the Tokyo 2020 Paralympics, becoming the first Indian woman to win a Paralympic gold medal.",
+        "tanglish": "Avani Lekhara oru Indian Paralympic shooter. Avaru Tokyo 2020 Paralympics-il 10m air rifle standing pakkathu-il thanga medal vellaiyachu. India-la Paralympic thanga medal adaintha muthal penn idham."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Which of the following Articles are related to Right Against Exploitation?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Article 28-29",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Article 23-24",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Article 31-32",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Article 25-26",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Articles 23 and 24 of the Indian Constitution deal with the Right Against Exploitation. Article 23 prohibits human trafficking and forced labor (begar), while Article 24 prohibits the employment of children below 14 years of age in hazardous industries or mines.",
+        "tanglish": "India samvidhanathin Article 23-24 Right Against Exploitation-ai kurithathu. Article 23 manusha viyaparamum pannayathozhilum nishadithathu. Article 24 14 vayathu kizha pillaihalai anjara thozhilkalil sernthu velai seiyya niruthuthu."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "In 8th century India, Nagabhatta I established which of the following Rajput dynasties in Malwa region?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Tomara",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Gurjara-Pratihara",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Chauhan",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Parmara",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Nagabhatta I was the founder of the Gurjara-Pratihara dynasty in the 8th century (circa 730-760 CE). He established his rule in the Malwa region of India and is known for successfully defending against Arab invasions.",
+        "tanglish": "Nagabhatta I 8th century-il (730-760 CE) Gurjara-Pratihara Rajput vamsathai Malwa paruvathil arambithar. Avaru Arab invasions-ai edhirndhu jeithavar."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "In which of the following years was the Election Commission of India established?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1954",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "1957",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "1950",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "1960",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Election Commission of India was established on 25th January 1950 under Article 324 of the Indian Constitution. It is a permanent constitutional body responsible for conducting free and fair elections in India.",
+        "tanglish": "India Election Commission January 25, 1950-nal Article 324-anusarichu arambithathu. Idhu thervu nadathanum suthanthira patriyaalum responsible-aana suvarasana aluvalakam."
+      }
+    }
+  ]
+}

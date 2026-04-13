@@ -1,0 +1,247 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-20-Nov-23-Shift-II-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 4,
+      "question_text": "Kavadi Aattam is a major folk dance form of which of the following states of India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Tamil Nadu",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Kerala",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Sikkim",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Karnataka",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Kavadi Aattam is a traditional folk dance originating from Tamil Nadu, performed by devotees carrying a kavadi (burden) during religious processions, particularly in festivals dedicated to Lord Murugan.",
+        "tanglish": "Kavadi Aattam endruvadhu Tamil Nadu samoogathin traditional uravum aattam, idhu bakthargal kavadi yethikkonde samaya peruvizhavil, mulumaga Lord Murugan kaviyathil nadathum aattam."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Which of the following nations won the third blind cricket World Cup T20 championship?",
+      "options": [
+        {
+          "id": "1",
+          "text": "India",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Bangladesh",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Pakistan",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Sri Lanka",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "India won the third edition of the T20 Blind Cricket World Cup held in 2022, defeating Bangladesh in the final.",
+        "tanglish": "India 2022il naadathiya moondraam eduthu eduthu T20 Blind Cricket World Cup vil India vijayichadhu, idharku Bangladesh finalil thotru padaithadhu."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "During the British era Indian economy was known as ________.",
+      "options": [
+        {
+          "id": "1",
+          "text": "a source for its raw material",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "a developed economy",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "only a market for agricultural products",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "a source for finished capital goods",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "During the British colonial period, the Indian economy was primarily exploited as a source of raw materials for British industries and as a market for British manufactured goods.",
+        "tanglish": "British aandu kaalathil, India economy Britain udhayam thozhilalaigalukku aruvai kuraippidamaga mattrum Britain thayarippugalukku marketaga payanpaduthapattadhu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "After which incident did Mahatma Gandhi call off the non-cooperation movement?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Jallianwala Bagh massacre of 1919",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Chauri Chaura killing in 1922",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Chauri Chaura killing in 1925",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Jallianwala Bagh massacre of 1922",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Mahatma Gandhi called off the Non-Cooperation Movement in February 1922 following the Chauri Chaura incident where 22 policemen were killed by an angry mob.",
+        "tanglish": "Mahatma Gandhi Chauri Chaura sambavathin palliyil Non-Cooperation Andolathai 1922 February nilayil niruthinaar, idhil 22 policekarar kirubavangalal kondrappattargal."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "Which of the following statements is correct with respect to basketball?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Each team is made up of 11 players, with only 7 allowed on the court at any time.",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Each team is made up of 12 players, with only 5 allowed on the court at any time.",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Each team is made up of 11 players, with only 4 allowed on the court at any time.",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Each team is made up of 12 players, with only 8 allowed on the court at any time.",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "In basketball, each team consists of 12 players on the roster, but only 5 players are allowed on the court at any given time during play.",
+        "tanglish": "Basketball vil oru team 12 vilayattirkalai kondirukkum, ana vilayattu samayathil 5 vilayattirkal matrame courtil irukka vendum."
+      }
+    },
+    {
+      "q_number": 9,
+      "question_text": "Which of the following statements is INCORRECT regarding the collegium system?",
+      "options": [
+        {
+          "id": "1",
+          "text": "This system started in the year 2007.",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "This system was evolved through Supreme Court judgment.",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "It recommends the appointments and transfers of judges.",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "It consists of Chief Justice and four senior judges of Supreme Court.",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The collegium system did not start in 2007; it evolved through Supreme Court judgments in 1993 (Second Judges Case) and 1998 (Third Judges Case). The system involves the Chief Justice of India and four senior-most judges recommending judicial appointments.",
+        "tanglish": "Collegium murai 2007il thodangiyadhu allathu, idhu 1993 (Second Judges Case) mattrum 1998 (Third Judges Case) Supreme Court thirpugal moolamaga uruvagiyadhu. India Chief Justice mattrum nal varishta judges judicial niyamanukku sipyasaigal seigirargal."
+      }
+    },
+    {
+      "q_number": 10,
+      "question_text": "The Communist Party of India was formed in 1925 at the first Party Conference in _________ .",
+      "options": [
+        {
+          "id": "1",
+          "text": "Madras",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Kanpur",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Bombay",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Delhi",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Communist Party of India (CPI) was formally founded in 1925 at its first Party Conference held in Kanpur.",
+        "tanglish": "Communist Party of India (CPI) 1925il Kanpuril nadatha muthal Party Conferenceil uruppada kondadhu."
+      }
+    },
+    {
+      "q_number": 11,
+      "question_text": "Which of the tides have variations in height?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Mixed tide",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Semi diurnal tide",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Diurnal tide",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Neap tide",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Mixed tides exhibit variations in height between successive high tides and successive low tides, unlike semi-diurnal tides where both high tides are approximately equal.",
+        "tanglish": "Mixed tides successive high tides mattrum successive low tides udhayathil maatankalai kondirukkum, semi-diurnal tides rendum sama uyarathil irukkum."
+      }
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-2-Dec-23-Shift-III-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "When did Italian traveller Marco Polo visit Kerala?",
+      "options": [
+        {
+          "id": "1",
+          "text": "15th CE",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "8th CE",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "10th CE",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "13th CE",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Marco Polo visited Kerala in the 13th century CE (around 1292 CE).",
+        "tanglish": "Marco Polo 13th century-il (1292 CE-il) Kerala-kku vanthar."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "The Bombay Presidency Association was started by Badruddin Tyabji, Pherozshah Mehta and KT Telang in which of the following years?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1887",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "1885",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "1886",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "1888",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Bombay Presidency Association was founded in 1885 by Badruddin Tyabji, Pherozshah Mehta and KT Telang.",
+        "tanglish": "Bombay Presidency Association 1885-il Badruddin Tyabji, Pherozshah Mehta matrum KT Telang-ala arambikkappattathu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Mahatma Gandhi started the Dandi March in 1930 from ________.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Yerawada Ashram",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Dandi Ashram",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Surat Ashram",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Sabarmati Ashram",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Mahatma Gandhi started the Dandi March from Sabarmati Ashram in Ahmedabad on 12 March 1930.",
+        "tanglish": "Mahatma Gandhi 1930 March 12-il Sabarmati Ashram-ilirundhu Dandi March aarambithar."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "The famous Hindi novel 'Gaban' is written by:",
+      "options": [
+        {
+          "id": "1",
+          "text": "Dharmveer Bharati",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Amrita Pritam",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Munshi Premchand",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Mahadevi Verma",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The famous Hindi novel 'Gaban' was written by Munshi Premchand.",
+        "tanglish": "'Gaban' Munshi Premchand-ala eluthappatta prasiddha Hindi novel."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "In which of the following states is the famous Rumtek monastery located?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Uttarakhand",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Assam",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Sikkim",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "West Bengal",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The famous Rumtek Monastery is located in the state of Sikkim.",
+        "tanglish": "Rumtek kovil Sikkim-il ullathu."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Monolithic pillars of sandstone during Ashoka's reign, were crowned with animal figures like _________ elephant and lion along with inscriptions of Buddhist concepts.",
+      "options": [
+        {
+          "id": "1",
+          "text": "bull",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "dog",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "horse",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "cat",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "During Ashoka's reign, monolithic sandstone pillars were crowned with animal figures including the bull, elephant, and lion along with Buddhist inscriptions.",
+        "tanglish": "Ashoka kaalathil kall thoonugal maadu, yaanai, singam pondra vana chinangaludan bauddha eluththugaludan aalamikkappattana."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "In which of the following years did India start celebrating National Sports Day?",
+      "options": [
+        {
+          "id": "1",
+          "text": "2015",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "2010",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "2013",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "2012",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "India started celebrating National Sports Day in 2012 to commemorate the birth anniversary of Major Dhyan Chand.",
+        "tanglish": "India National Sports Day 2012-il Major Dhyan Chand pirandha naalai ninaivu koora aarambithathu."
+      }
+    }
+  ]
+}

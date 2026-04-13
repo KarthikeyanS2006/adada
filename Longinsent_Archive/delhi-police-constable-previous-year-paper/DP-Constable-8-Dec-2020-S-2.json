@@ -1,0 +1,337 @@
+{
+  "document_info": {
+    "exam_name": "DP-Constable-8-Dec-2020-S-2.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Which of the following rivers has Musi river as one of its tributaries?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Kaveri",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Mahanadi",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Tapi",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Krishna",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Musi River is a tributary of the Krishna River. It originates in the Ananthagiri Hills and flows through Hyderabad before joining the Krishna River.",
+        "tanglish": "Musi aaru Krishna aarudan ulla oru kila aaru. Ithu Ananthagiri malaiyil undaki Hyderabad vazhaga oadi Krishna aaril saerum."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Antibiotics are NOT effective on a virus as it lacks ______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "cilia",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "plasmid",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "genetic material",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "cell wall",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Antibiotics are effective against bacteria because they target bacterial cell walls or protein synthesis. Viruses lack cell walls and are acellular, so antibiotics are ineffective against them.",
+        "tanglish": "Antibiotics bacteria mel prabavamaaga ullathu seythiyaal virusku cell wall illai. Virus cell wall illamal iruppathaal antibiotics virus saethai theerkkaadhu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "When a body rolls over the surface of another body, the resistance to its motion is called ______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "drag",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "fluid friction",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "sliding friction",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "rolling friction",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Rolling friction is the resistive force that opposes the rolling motion of an object over a surface. It is different from sliding friction which occurs when surfaces slide against each other.",
+        "tanglish": "Oru padartham maru oru padarthathin mela urundaiyaaga sendraal atharku rolling friction endra peyar. Ithu sliding friction oda vithyasaanaathu."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "India secured ______ place in the World Competitiveness Index released in June 2020.",
+      "options": [
+        {
+          "id": "1",
+          "text": "43rd",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "38th",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "49th",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "32nd",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "According to the IMD World Competitiveness Index released in June 2020, India secured the 43rd position among 63 countries.",
+        "tanglish": "June 2020 vil vantha IMD World Competitiveness Indexil India 63 nattugalil 43 am idathai adaindhu irukkirathu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "In which of the following years did Razia become the Sultan of Delhi?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1232",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "1238",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "1234",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "1236",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Razia Sultan, the daughter of Iltutmish, became the Sultan of Delhi in 1236. She was the first and only woman ruler of the Delhi Sultanate.",
+        "tanglish": "Iltutmishin magal Razia Sultan 1236 am aandil Delhi Sultan aanaar. Aval Delhi Sultaanathin mudhal peN aalunar."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Which of the following statements is NOT true about Ashokan pillars?",
+      "options": [
+        {
+          "id": "1",
+          "text": "These are said to be monolithic pillars.",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Ashoka got the inspiration for such pillars from his father Bindusar.",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "These were usually made of sandstone.",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "These are mostly polished pillars.",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Ashokan pillars were inspired by the Achaemenid Persian pillars, not by his father Bindusara. They are monolithic, mostly made of sandstone, and highly polished.",
+        "tanglish": "Ashoka sthambangal Persiya sthambangalin paadathil undakkappattana, avan than endhran Bindusarin paadathil alla. Ithu monolithic, sand stoneil undakappattathu, polish seyyaappattana."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Which of the following sultans of Delhi was the first one to start military campaigns in southern India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Iltutmish",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Qutbuddin Aybak",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Alauddin Khalji",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Balban",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Alauddin Khalji was the first Delhi Sultan to start military campaigns in southern India. He sent his general Malik Kafur to conquer the Deccan and South Indian kingdoms.",
+        "tanglish": "Alauddin Khalji thanithu Delhi Sultaanatharku therku Indiaavil padai poka aarambithavar. Avan than thalapathi Malik Kafurai Deccan matrum therku India raajyangalai vettai aaga arulinaan."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "Which of the following Articles was deleted by the Constitution (Forty-Fourth Amendment) Act, 1978?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Article 31",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Article 29",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Article 27",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Article 25",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Constitution (Forty-Fourth Amendment) Act, 1978 deleted Article 31 which provided the Right to Property as a Fundamental Right. It was replaced by Article 300A making it a legal right.",
+        "tanglish": "44th Constitution Amendment 1978 il Article 31 ai neekkiyathu. Ithu Fundamental Right aana sampaththai urimaiyai neekki, ithai Article 300A vaippu kanoon urimaiyaakka maatrkiyathu."
+      }
+    },
+    {
+      "q_number": 9,
+      "question_text": "Which of the following subjects is NOT listed in the Union List in the Seventh Schedule of the Constitution of India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Insurance",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Railways",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Corporation tax",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Public health and sanitation",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Public health and sanitation is listed in the State List (Entry 6) of the Seventh Schedule, while Insurance, Railways, and Corporation tax are in the Union List.",
+        "tanglish": "Public health and sanitation State Listil (Entry 6) ullathu. Insurance, Railways, Corporation tax yavaiyum Union Listil ullana."
+      }
+    },
+    {
+      "q_number": 10,
+      "question_text": "Which of the following statements about the 'pro tem' Speaker of the House of Representatives in India is correct?",
+      "options": [
+        {
+          "id": "1",
+          "text": "The name for the post is recommended by the outgoing Speaker of the House of Representatives.",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "He is appointed by the President of India.",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "The name for the post is recommended by the Union Cabinet.",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "The name for the post is recommended by the Leader of Opposition in the House of Representatives.",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The pro tem Speaker of the Lok Sabha is appointed by the President of India from among the senior-most members of the House. He presides over the first sitting of the new Lok Sabha until the election of the Speaker.",
+        "tanglish": "Lok Sabhayin pro tem Speaker India President al niyamikkappadugiraar. Avar new Lok Sabhayin mudhal aasanai nadathi vaithu, Speaker theraippadum varai kadamai seigiraar."
+      }
+    },
+    {
+      "q_number": 11,
+      "question_text": "Which of the following states is a leading producer of natural rubber?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Andhra Pradesh",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Madhya Pradesh",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Kerala",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Maharashtra",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Kerala is the leading producer of natural rubber in India, accounting for about 90% of the country's total production. It is followed by Tamil Nadu and Karnataka.",
+        "tanglish": "Indiaavil prakriti rubber utpattil Kerala mudhal idathil ullathu. Indiaavin 90% rubber utpattu Kerala vil nadakkirathu."
+      }
+    }
+  ]
+}

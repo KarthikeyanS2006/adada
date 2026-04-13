@@ -1,0 +1,337 @@
+{
+  "document_info": {
+    "exam_name": "DP-Constable-11-Dec-2020-S-2.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "On 21 August 2020, former Finance Secretary Rajiv Kumar was appointed as:",
+      "options": [
+        {
+          "id": "1",
+          "text": "the Election Commissioner",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "a member of UPSC",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "the Defence Secretary",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "the Secretary of State for Education",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Former Finance Secretary Rajiv Kumar was appointed as an Election Commissioner of India on 21 August 2020.",
+        "tanglish": "Marabu Finance Secretary Rajeev Kumar 21 August 2020-il Election Commissioner-aga niyamithaar."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Pandit Jasraj was related to which of the following fields?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Fiction writing",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Classical instrument",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Classical singing",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Classical dance",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Pandit Jasraj was a renowned Indian classical vocalist belonging to the Mewati gharana.",
+        "tanglish": "Pandit Jasraj Mewati gharanakku sondhamana perumaana India-il carnatic paadagar."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "To treat the eye disease known as myopia or near sightedness, which of the following lenses is used?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Convex lens",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Concave lens",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Bifocal lens",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Compound lens",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Concave lenses diverge light rays and are used to correct myopia (nearsightedness) by focusing images on the retina.",
+        "tanglish": "Kurudhi lens (concave lens) olli thinaigalai porary kondu sendru, arugana paarvai kuraiyai (myopia) sari seiya upayogikkappadum."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "The 101st Amendment to the Indian Constitution is concerned with:",
+      "options": [
+        {
+          "id": "1",
+          "text": "Citizenship Act",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Goods and Services Tax (GST)",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Right to Work",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Fundamental Rights",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The 101st Constitutional Amendment Act of 2016 introduced the Goods and Services Tax (GST) regime in India.",
+        "tanglish": "101-am arasiyal saasanai thirutham 2016-il India-il Goods and Services Tax (GST) muraiyai kondu vandhathu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "The headquarters of National Bank of Agriculture and Rural Development (NABARD) is situated at:",
+      "options": [
+        {
+          "id": "1",
+          "text": "Delhi",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Kolkata",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Mumbai",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Bengaluru",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The headquarters of NABARD is located in Mumbai, Maharashtra.",
+        "tanglish": "NABARD-in uthavi thalai alam (headquarters) Maharashtra-vil ulla Mumbai-il amayndha ulathu."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "The horizontal rows in Mendeleev's periodic table are called as:",
+      "options": [
+        {
+          "id": "1",
+          "text": "Periods",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Gradation",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Subgroups",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Groups",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "In Mendeleev's periodic table, horizontal rows are called periods while vertical columns are called groups.",
+        "tanglish": "Mendeleev-in aetuvaa thaalil nilaiyonil varugal 'aetuvam' (periods) enrum, nirthiyonil perugal 'kuzhugal' (groups) enrum azhaikkappadum."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Who are the authors of the book, 'The Book of Gutsy Women'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Jokha Alharthi and Michael Wood",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Michelle Obama and Barak Obama",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Hillary Clinton and Bill Clinton",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Hillary Clinton and Chelsea Clinton",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "'The Book of Gutsy Women' was co-authored by Hillary Clinton and her daughter Chelsea Clinton, published in 2019.",
+        "tanglish": "'The Book of Gutsy Women' puthagathai Hillary Clinton matrum avarudan magal Chelsea Clinton 2019-il oreneram eludhiyulargal."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "How many members are nominated by the President of India to the Rajya Sabha (Council of States)?",
+      "options": [
+        {
+          "id": "1",
+          "text": "15",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "12",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Article 80 of the Constitution provides that the President can nominate 12 members to the Rajya Sabha from fields like literature, science, art, and social service.",
+        "tanglish": "Arasangal Pathipathu (Article 80) prakaram, President ilakkiyam, ariviyal, sirpam, samuga sevai megaalathilirundhu 12 perai Rajya Sabha-vil theraivu seyyalaam."
+      }
+    },
+    {
+      "q_number": 9,
+      "question_text": "The Constituent Assembly which had been elected for the framing of the Constitution held its first meeting on:",
+      "options": [
+        {
+          "id": "1",
+          "text": "15 December 1947",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "15 August 1947",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "9 December 1946",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "9 December 1947",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Constituent Assembly held its first meeting on 9 December 1946 in New Delhi to frame the Constitution of India.",
+        "tanglish": "Arasaanggam seyya thayaaarikul kuzhu thanthaniya first meeting-ai 9 December 1946-il New Delhi-il nadathina."
+      }
+    },
+    {
+      "q_number": 10,
+      "question_text": "Who among the following acts as the Chairman of the GST (Goods and Services Tax) Council?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Prime Minister of India",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Union Finance Minister",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Chief Cabinet Secretary",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Union Finance Secretary",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Union Finance Minister acts as the Chairman of the GST Council as per the 101st Constitutional Amendment.",
+        "tanglish": "101-am arasiyal saasanai thirutham anupuvam, Union Finance Minister than GST Council-in thalaveraga panigal seluthugiraar."
+      }
+    },
+    {
+      "q_number": 11,
+      "question_text": "Which international organisation is the current governing body of Badminton?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Badminton World Federation",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "International Badminton Committee",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "International Paralympic Committee",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "International Olympic Committee",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Badminton World Federation (BWF) is the international governing body for the sport of badminton.",
+        "tanglish": "Badminton World Federation (BWF) than badminton vilaiyaattin antarrasiya adhithalai niraiyaivu seyyum sangam."
+      }
+    }
+  ]
+}

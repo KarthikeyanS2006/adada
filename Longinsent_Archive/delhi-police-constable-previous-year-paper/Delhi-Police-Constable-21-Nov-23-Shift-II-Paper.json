@@ -1,0 +1,247 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-21-Nov-23-Shift-II-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 4,
+      "question_text": "Biome can be defined as:",
+      "options": [
+        {
+          "id": "1",
+          "text": "an area of desert",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "a large area characterised by its vegetation, soil, climate, and wildlife",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "a restricted area where only selected species can grow",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "an aquatic environment where only fishes can grow",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "A biome is a large geographical area consisting of distinct plants, animals, soil, and climate patterns that characterize that ecosystem.",
+        "tanglish": "Biome endha oru periya geographical area, adhu vegetation, soil, climate, and wildlife vella uruvakki characterise seyyappattadhu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Member of Rajya Sabha, Sonal Mansingh is an eminent dancer of _________ and Bharatanatyam.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Mohiniyattam",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Odissi",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Kathakali",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Kathak",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Sonal Mansingh is a renowned Indian classical dancer who specializes in Odissi and Bharatanatyam dance forms.",
+        "tanglish": "Sonal Mansingh oru famous Rajya Sabha member, avar Odissi and Bharatanatyam dance forms-la eminent dancer-aa maariyam padaithavar."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "The Sangeet Natak Akademi gives fellowships to eminent artists. Sonal Mansingh received it for Odissi which is a dance form of which State?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Andhra Pradesh",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Kerala",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Uttar Pradesh",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Odisha",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Odissi is a major ancient Indian classical dance form that originated in the temples of Odrashtra or modern-day Odisha.",
+        "tanglish": "Odissi endha oru classical dance, adhu Odisha state-la originate aayirundhadhu, adhuvum temple traditions-la irundhu vandhadhu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Which of the following cultural festivals is celebrated by the tribal people of Jharkhand?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Sohrai",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Ugadi",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Sao Joao",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Hareli",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Sohrai is a harvest festival celebrated by the Santhal, Oraon, and other tribal communities in the state of Jharkhand.",
+        "tanglish": "Sohrai oru harvest festival, idhu mainly Jharkhand state-la Santhal, Oraon maatri tribal communities celebrate pannuvanga."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "'Nation First, Always First' is the theme of _________ Independence Day 2022.",
+      "options": [
+        {
+          "id": "1",
+          "text": "75th",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "72nd",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "77th",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "70th",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "India celebrated its 75th Independence Day on August 15, 2022, with the theme 'Nation First, Always First' as part of Azadi Ka Amrit Mahotsav.",
+        "tanglish": "India 2022-la 75th Independence Day celebrate pannuchu, adhoda theme 'Nation First, Always First', idhu Azadi Ka Amrit Mahotsav part-aa."
+      }
+    },
+    {
+      "q_number": 9,
+      "question_text": "Chaitya Hall of Maharashtra is an example of _________ .",
+      "options": [
+        {
+          "id": "1",
+          "text": "Islamic architecture",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Nagara architecture",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Cave architecture",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Dravidian architecture",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Chaitya Hall in Maharashtra (such as Karla Caves) is an example of ancient Buddhist rock-cut cave architecture used for prayer and meditation.",
+        "tanglish": "Maharashtra-la irukka Chaitya Hall endha Karla Caves maadhi, adhu ancient Buddhist rock-cut cave architecture-ku oru example, adhu prayer ku use pannuvanga."
+      }
+    },
+    {
+      "q_number": 10,
+      "question_text": "What is the name of the scheme which has been rechristened in the year 2018 as Poshan Abhiyaan?",
+      "options": [
+        {
+          "id": "1",
+          "text": "National Nutrition Mission",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "National Mid-Day Meal Scheme",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Integrated Child Development Scheme",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Deen Dayal Upadhyaya Antyodaya",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The National Nutrition Mission was renamed as Poshan Abhiyaan in 2018 to address the problem of malnutrition through a targeted approach.",
+        "tanglish": "National Nutrition Mission 2018-la Poshan Abhiyaan-nu maraikkappattadhu, idhu malnutrition problem solve panna children and mothers-kaga."
+      }
+    },
+    {
+      "q_number": 11,
+      "question_text": "Rudradaman belonged to which of the following dynasties?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Kushana",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Maurya",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Gupta",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Shaka",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Rudradaman I was a ruler of the Western Kshatrapa dynasty (also known as the Shaka dynasty) in the 2nd century CE, famous for his Junagadh rock inscription.",
+        "tanglish": "Rudradaman I endha Western Kshatrapa dynasty (Shaka dynasty) oda ruler, 2nd century AD-la rule pannar, avar Junagadh inscription-lai famous."
+      }
+    }
+  ]
+}

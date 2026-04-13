@@ -1,0 +1,127 @@
+{
+  "document_info": {
+    "exam_name": "Dehli-Police-Constable-Previous-Paper-Held-on_-27-Nov-2020-Shift-3.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "In the context of retirement benefits and related issues of an employee in India, what does EPFO stand for?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Extensive Pension Funding Ombudsman",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Employees' Pension Fixation Organization",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Employees' Privilege Financial Operation",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Employees' Provident Fund Organisation",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "EPFO stands for Employees' Provident Fund Organisation. It is a statutory body under the Ministry of Labour and Employment, Government of India, that manages provident fund and pension schemes for employees.",
+        "tanglish": "EPFO endral Employees' Provident Fund Organisation. Idhu India Arasavin Thozhilalar Matrum Udhavaakkalar Thittaththin keez varum oru sattapratipalana amaippu. Indha amaippu thozhilalargalukkaaka provitend fund matrum pension thittangalai nilaiyalithu nadathugiradhu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "In Geography, the feature of 'meander' is primarily associated with which of the following options?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Peak",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "River",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Cliff",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Pond",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "A meander is a winding curve or bend in a river channel, formed by erosion and deposition of sediment. This geographical feature is primarily associated with rivers, especially in their middle and lower courses.",
+        "tanglish": "Meander endral oru aathin pathaiyil varum vangam. Thanni oadum pothu manal erode aagum matrum deposit aagum moolam ivvalavu vangangal uruvagum. Idu bhugolathil aathigaludan uravaaga irukum, vishesamaaga naduvu matrum keelporayil."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Who among the following is the author of the book 'The Shadow Lines'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Amish Tripathi",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Arundhati Roy",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Amitav Ghosh",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Ravish Kumar",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Shadow Lines is a novel written by Indian author Amitav Ghosh, published in 1988. It deals with themes of borders, nationalism, memory, and identity.",
+        "tanglish": "The Shadow Lines endra puthagathai Indhiyan ezhudhaalar Amitav Ghosh ezhudhiyar. Indha novel 1988-il vaeliyaatta pattadhu. Idu ellai, desiyam, ninaivugal matrum adayalam petra karuthugalai patriya novel."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Digboi Oil Refinery, commissioned on 11th December 1901, is India's oldest operating refinery and one of the oldest operating refineries in the world. It is located in ______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Gujarat",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Uttar Pradesh",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Assam",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Odisha",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Digboi Oil Refinery is located in the state of Assam. It was commissioned on 11th December 1901 and is recognized as India's oldest operating refinery and one of the oldest in the world.",
+        "tanglish": "Digboi Oil Refinery Assam maanilaththil amainthulladhu. Indha refinery 11th December 1901-il thodarapaduthappattadhu. Idhu India-ve erandhaana refinery agiyum, ulagile erandhaana refineriesil ondru."
+      }
+    }
+  ]
+}

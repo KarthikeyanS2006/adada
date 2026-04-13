@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-Exe.-Paper-Held-on-14-Nov-2023-S2.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Who was defeated by Chandragupta Maurya in order to found the Maurya dynasty?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Dhana Nanda",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Bimbisara",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Mahapadma Nanda",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Ajatshatru",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Chandragupta Maurya defeated Dhana Nanda, the last ruler of the Nanda dynasty, with the help of Chanakya to establish the Maurya Empire around 322 BCE.",
+        "tanglish": "Chandragupta Maurya, Chanakya de uthaviyoda Dhana Nanda vaithu veththu Maurya samrajathai thondriyanar."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Any dispute between the Government of India and one or more States or between the Government of India and any State or States comes under ___________________ jurisdiction of the Supreme Court of India.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Advisory",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Appellate",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Exclusive Original",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Writ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Article 131 of the Indian Constitution provides for the Exclusive Original Jurisdiction of the Supreme Court in disputes involving the Government of India and State governments.",
+        "tanglish": "Article 131 anusarippu, Kendra arasu matrum State arasu idaiyana vadagaathi kargalukku Supreme Court Exclusive Original jurisdiction udaiyathu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Kajli Teej is the cultural festival of which Indian state?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Rajasthan",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Goa",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "West Bengal",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Maharashtra",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Kajli Teej is a traditional cultural festival celebrated mainly in Rajasthan, particularly in the Bundi region, during the monsoon season.",
+        "tanglish": "Kajli Teej Rajasthan maanilathin samudhaya uthsavam, visheshamaga Bundi paaguthiyil mazhai kaalamil aatchikappadum."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "In whose presence does the Governor take oath or make affirmation in case of the absence of the Chief Justice of the High Court?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Nominated judge by President",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Secretary of State Legislature",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Senior-most judge of High Court available",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Speaker of State legislature",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "According to Article 159 of the Constitution, in the absence of the Chief Justice of the High Court, the Governor takes oath in the presence of the senior-most available judge of that High Court.",
+        "tanglish": "Article 159 anusarippu, High Court Chief Justice illaiyel, avalvil irukindra Senior-most judge munbu Governor sapatham edupar."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "What is the slogan of the Pradhan Mantri Jan Dhan Yojana?",
+      "options": [
+        {
+          "id": "1",
+          "text": "MeraAdhikar, MeraKhaata",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "MeraKhaata, MeraAdhikar",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Mera Paisa, Mere Bank Me",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Mera Khaata, Bhagya Vidhaata",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The official slogan of Pradhan Mantri Jan Dhan Yojana (PMJDY) launched in 2014 is 'Mera Khata, Bhagya Vidhata' which means 'My Account, Fortune Maker'.",
+        "tanglish": "Pradhan Mantri Jan Dhan Yojanavin adhikariyalana slogan 'Mera Khata, Bhagya Vidhata' aagum."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "According to Census 2011 of India, which religion recorded highest literacy rate from following?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Hindu",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Muslim",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Jain",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Sikh",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "According to Census 2011, Jains recorded the highest literacy rate of 87.4% among all religious communities in India.",
+        "tanglish": "2011 Census anusarippu, India ullil Jain madham thaan highest literacy rate (87.4%) adaithullathu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "In 1932, the Poona Pact was signed between Mahatma Gandhi and _________.",
+      "options": [
+        {
+          "id": "1",
+          "text": "C. Natesa Mudaliar",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Taravath Madhavan Nair",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Ramaswami Naicker-Periyar",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Dr. Babasaheb Ambedkar",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The Poona Pact was signed on September 24, 1932, between Mahatma Gandhi and Dr. B.R. Ambedkar at Yerwada Central Jail, Pune, regarding the representation of depressed classes in the legislature.",
+        "tanglish": "1932 September 24-il Mahatma Gandhi matrum Dr. B.R. Ambedkar idaiyil Yerwada Central Jail, Pune-il Poona Pact podhikka pattathu, arasalaiyil dalit prajkalin pratinidhithuvukkaaga."
+      }
+    }
+  ]
+}

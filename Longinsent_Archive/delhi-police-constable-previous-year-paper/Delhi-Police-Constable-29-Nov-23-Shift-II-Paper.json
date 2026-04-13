@@ -1,0 +1,187 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-29-Nov-23-Shift-II-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Who among the following is the founder of the Vrindavan Gurukul in Mumbai and Vrindavan Gurukul in Bhubaneshwar?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Shivkumar Sharma",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "M Balamurlikrishnan",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Hariprasad Chaurasia",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Bhimsen Joshi",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Hariprasad Chaurasia is the renowned flautist who founded the Vrindavan Gurukul in both Mumbai and Bhubaneshwar to promote and teach Indian classical music.",
+        "tanglish": "Hariprasad Chaurasia padhu periya bansuri vaasippavar. Avar Bharatha isaiyai valartha matrum karpikka, Mumbai matrum Bhubaneshwaril Vrindavan Gurukulai thondaiyunar."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "In 1889, ________ established the Mukti Mission, in Pune, a refuge for young widows who had been deserted and abused by their families.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Pandita Ramabai",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Laxmi Sehgal",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Sarojini Naidu",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Kasturba Gandhi",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Pandita Ramabai was a social reformer who established the Mukti Mission in Pune in 1889 to provide shelter and education for young widows who were abandoned and mistreated.",
+        "tanglish": "Pandita Ramabai oru samuthaaya sapirumaichiyaalar. Avar 1889-il Pune-nagariyil Mukti Mission-aarambithaar. Idhu thalaimuraiyillaamal vittu vidappattaum thunbappattaum irundha indha penkalukku thangal idam matrum kalvi kidaikkum."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Which of the following is NOT an objective of the Fundamental Rights which are mentioned in the Indian Constitution?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Promote the ideal of political democracy",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Prevent the establishment of an authoritarian and despotic rule",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Establish a government of laws and not of men",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Drive the citizens towards the objectives of the government",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Fundamental Rights aim to promote democracy, prevent tyranny, and establish rule of law. They protect individual liberties against state interference rather than driving citizens towards government objectives.",
+        "tanglish": "Moola urimaigal rajanayaga demograsi-ai valartha, thanaadhigaara aalumaiyai thadukka, matrum seyyal murai aatchiyai uruvakkiva. Arasaangathin nokangalukku anugamikka nagarigalai thalluradhu indha urimaigalin pakuthi kadu, endraalum indha urimaigal nattin mela aniyaaya ham seyrpadvaadha parkkum."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "The tribal dance Daang is associated with which Indian state?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Gujarat",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Odisha",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Madhya Pradesh",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Karnataka",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Daang is a traditional tribal dance form associated with the Rathwa, Bhil and Bhilala tribes primarily residing in the Gujarat region, performed during festivals and celebrations.",
+        "tanglish": "Daang endradhu Gujarat maanilathu Rathwa, Bhil matrum Bhilala kaattu makkaludan uruthi paadiya aatam. Pandigai kaalangalil idhai aadaravaaha aaduvaargal."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Due to the need for irrigation facilities and pesticides/fertilisers, the first phase of the Green Revolution benefitted few affluent states such as _______________.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Punjab, Andhra Pradesh and Bihar",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Punjab, Andhra Pradesh and Tamil Nadu",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Punjab, Andhra Pradesh and Uttar Pradesh",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Punjab, Arunachal Pradesh and Uttar Pradesh",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The first phase of the Green Revolution primarily benefitted states with good irrigation facilities like Punjab and Uttar Pradesh. While Andhra Pradesh also benefitted, the option with Punjab, Andhra Pradesh and Uttar Pradesh is the most appropriate among the given choices.",
+        "tanglish": "Pachai yedhal maathattin muthal paagam sirangu velayanigal nalla irundha maanilangalaikkadaiya payana paduthiyadhu, adhaiyum Punjab matrum Uttar Pradesh serkkalaam. Andhra Pradesh-um payanalaithan aanalum, kodutha thayvigalil Punjab, Andhra Pradesh matrum Uttar Pradesh ovvoru sandharbathukku yogyamaana badhu."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "The brittle crust and the top part of the upper mantle of the earth is called:",
+      "options": [
+        {
+          "id": "1",
+          "text": "asthenosphere",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "lithosphere",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "mesosphere",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "stratosphere",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The lithosphere is the rigid outer part of the Earth, consisting of the crust and the upper part of the mantle. It is brittle and broken into tectonic plates.",
+        "tanglish": "Lithosphere endradhu bhoomiyin rigid-aana mel paagam. Idhu maippum matrum matthalin mel paagamum ondru serndha urupu. Idhu brittle-aagavum tektonic plates-aaga pirigiyadhaagavum irukkum."
+      }
+    }
+  ]
+}

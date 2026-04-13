@@ -1,0 +1,187 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-17-Nov-23-Shift-II-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Which of the following festivals is celebrated primarily by the Parsi Community?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Songkran",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Milad-un-Nabi",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Deepawali",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Jashan-e-Mihragan",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Jashan-e-Mihragan is a Zoroastrian festival celebrated by the Parsi community. Songkran is a Thai festival, Milad-un-Nabi is celebrated by Muslims, and Deepawali is a Hindu festival.",
+        "tanglish": "Paris samudhaayathinar aagavippadhu Jashan-e-Mihragan. Idhu Zoroastrian madha Paris janaangal aaradhikkum pandigai. Songkran Thai country utsavam, Milad-un-Nabi Islam pandigai, Deepawali Hindu kadhai utsavam."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Which of the following was NOT an effect of devaluation of the rupee in 1991 to make an international adjustment of Indian currency?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Increased imports",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Increased exports",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Raised the influx of foreign capital",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Decreased imports",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Devaluation of currency makes imports more expensive and exports cheaper. Therefore, imports decreased (not increased) while exports increased. It also encouraged foreign capital inflow.",
+        "tanglish": "Rupaiyai vilai kuraithal imports kodumaiyaaga maarum, athanaal edugeivu shrinkkum. Athigarithalum, edurgei vilai kuraiyum endru edurgei shrinkkku. Idhuthan foreign capital vidaithalai paanum."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "How many writs are guaranteed under Article 32 of the Indian Constitution?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Six",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Five",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Four",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Seven",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Article 32 of the Indian Constitution guarantees five writs: Habeas Corpus, Mandamus, Prohibition, Certiorari, and Quo Warranto.",
+        "tanglish": "India Arasangam Article 32-kkeezh 5 writs undu: Habeas Corpus, Mandamus, Prohibition, Certiorari, Quo Warranto."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Who was the author of the book titled 'Poverty and Un-British Rule in India'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Sardar Vallabhbhai Patel",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Dadabhai Naoroji",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Mahatma Gandhi",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Subhash Chandra Bose",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Dadabhai Naoroji wrote 'Poverty and Un-British Rule in India' in 1901, which attributed India's poverty to British colonial exploitation.",
+        "tanglish": "Dadabhai Naoroji than 'Poverty and Un-British Rule in India' puthagathin aatchiyar. 1901-yil elaitha ithu, British aalunga India poornessukku kaaranam endru solla vanthaathu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Vijayalaya, who belonged to the ancient chiefly family of the Cholas from Uraiyur, captured the delta from the Muttaraiyar in the middle of the 9th century and built the town of ______________.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Kanchipuram",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Thanjavur",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Vengi",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Darasuram",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Vijayalaya, the founder of the Imperial Chola dynasty, established the town of Thanjavur (Tanjore) in the 9th century after capturing the Kaveri delta from the Muttaraiyar.",
+        "tanglish": "Chola samrajya thondri Vijayalaya, 9th century-la Kaveri delta-vai Muttaraiyar idam irundhu vangi Thanjavur nagarai kattinaar."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Totaram Sharma, Pandit Ayodhya Prasad, Gopal Das and Babu Ram Shanker Pagaldas are noted players of which of the following instruments?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Sarod",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Pakhawaj",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Mridangam",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Sarangi",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "These musicians are renowned Sarangi players. The Sarangi is a bowed string instrument prominent in Hindustani classical music.",
+        "tanglish": "I silargal anaivarum Sarangi vaadhiyam vaasithu pugazh periya kalaignerghal. Sarangi endradhu Hindustani classical music-il prasasthmaana tharai vaadhiyam."
+      }
+    }
+  ]
+}

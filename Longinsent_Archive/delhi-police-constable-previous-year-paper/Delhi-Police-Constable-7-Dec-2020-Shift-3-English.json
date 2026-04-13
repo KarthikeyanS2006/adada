@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-7-Dec-2020-Shift-3-English.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "The Cabinet Committee on Economic Affairs (CCEA) has fixed the Minimum Support Price (MSP) for Grade A paddy for the year 2020-2021 at Rs. ______ per quintal.",
+      "options": [
+        {
+          "id": "1",
+          "text": "1868",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "1888",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "1850",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "1840",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Cabinet Committee on Economic Affairs (CCEA) approved the Minimum Support Price (MSP) for Grade A paddy at Rs. 1,888 per quintal for the marketing year 2020-2021. For common paddy varieties, the MSP was fixed at Rs. 1,868 per quintal.",
+        "tanglish": "Cabinet Committee on Economic Affairs (CCEA) 2020-2021 marketing varushathirku Grade A nelliku Rs. 1,888 per quintal endra MSP ai oppaivu seithullathu. Sadharana nellukku Rs. 1,868 nirdharikkappattullathu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "The first session of the Indian National Congress was held at ______ in 1885.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Bombay (Now Mumbai)",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Allahabad (Now Prayagraj)",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Calcutta (Now Kolkata)",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Madras (Now Chennai)",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The first session of the Indian National Congress was held in Bombay (now Mumbai) from December 28 to 31, 1885. It was presided over by Womesh Chunder Bonnerjee and attended by 72 delegates.",
+        "tanglish": "Indian National Congress in muthal maanadu 1885 december 28-31 Bombay (ippo Mumbai) il nadandathu. Ithai W.C. Bonnerjee adhyahexithu, 72 pratinidhal kalurseri kondapadiyarndhaargal."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "The Mughal School of Art was influenced by ______ art.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Indian and Mongolian",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Persian and Turkish",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Greek and Roman",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Chinese and Japanese",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Mughal School of Art was significantly influenced by Persian and Turkish artistic traditions. It emerged during the 16th-19th centuries, blending Persian miniature painting with indigenous Indian, Islamic, and Central Asian styles.",
+        "tanglish": "Mughal kalai padhapearumaga persian matrum turkish kalai aachaaraigalin pudhu pravachanam adaindullathu. Idhu 16th sutadi muthal 19th sutadi varai ulla kaalakattathil valandhathu, persian siruppa chithirippaiyum, india, islamic matrum central asian badiraigaludan kalandhu."
+      }
+    }
+  ]
+}

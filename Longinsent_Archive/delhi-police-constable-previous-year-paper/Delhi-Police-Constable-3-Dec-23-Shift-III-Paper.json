@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-3-Dec-23-Shift-III-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Who among the following was NOT a gold medallist at the Commonwealth Games- 2022?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Naveen Kumar",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Ravi Dahiya",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Pooja Gehlot",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Vinesh Phogat",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Pooja Gehlot won a bronze medal in the women's 50kg wrestling event at the Commonwealth Games 2022, while Naveen Kumar, Ravi Dahiya, and Vinesh Phogat won gold medals in their respective categories.",
+        "tanglish": "Pooja Gehlot Commonwealth Games 2022-la women's 50kg wrestling-la bronze medal vanginar. Avargal gold medal vangalai. Naveen Kumar, Ravi Dahiya, Vinesh Phogat ellarum gold medal thaan vanginar."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "WACA Cricket Ground is located in _______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Mumbai",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Perth",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "London",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Sydney",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "WACA (Western Australian Cricket Association) Cricket Ground is located in Perth, Western Australia.",
+        "tanglish": "WACA (Western Australian Cricket Association) Cricket Ground Perth, Western Australia-la irukku."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "The mob-burning of a police station in Chauri Chaura in 1922 brought about the end of the Non-Cooperation Movement. In which present-day state is Chauri Chaura located?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Bihar",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Punjab",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Haryana",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Uttar Pradesh",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Chauri Chaura is located in the Gorakhpur district of Uttar Pradesh. The incident occurred on 4 February 1922 when a mob killed 22 policemen and burnt the police station, leading Gandhi to suspend the Non-Cooperation Movement.",
+        "tanglish": "Chauri Chaura Uttar Pradesh state-la ulla Gorakhpur district-la irukku. 1922-aandu February 4-naa idhu nadandhuchu, oru koottam police station-a erithu 22 police-karar-a kondruviduchu. Idhunala Gandhi Non-Cooperation Movement-a niruthinar."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "What is the general circulation of the atmosphere?",
+      "options": [
+        {
+          "id": "1",
+          "text": "The pattern of the movement of the surface winds.",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "The pattern of the movement of the planetary winds.",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "The pattern of the movement of the water.",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "The pattern of the movement of the energy.",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The general circulation of the atmosphere refers to the worldwide system of planetary winds that blow across the globe due to differences in pressure and temperature, determining the Earth's climate patterns.",
+        "tanglish": "Atmosphere circulation-nu sonna ulagam muzhukkum blow agura planetary winds pattern-a thaan sollaradhu. Idhu pressure and temperature vithyasam nala erpadum."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "The term 'secular' was added to the Preamble of the Constitution of India by the 42nd Constitutional Amendment Act in the year ________.",
+      "options": [
+        {
+          "id": "1",
+          "text": "1978",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "1975",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "1974",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "1976",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The 42nd Constitutional Amendment Act was passed in 1976 during the Emergency period. It added the words 'Socialist', 'Secular', and 'Integrity' to the Preamble of the Indian Constitution.",
+        "tanglish": "42nd Constitutional Amendment Act 1976-aandu dhaan pass pannanga. Idhu Emergency kaalathula nadandhadhu. Indian Constitution Preamble-la 'Socialist', 'Secular', 'Integrity' nu solra words-a sethanga."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "During the Mughal period, what were the farmers called who cultivate their own land?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Zamindar",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Muzarain",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Khud kashta",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Pahi Kasht",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "During the Mughal period, Khud-kasht were peasants who cultivated their own land (hereditary landholders), while Pahi-kasht were temporary tenants or outsiders who cultivated others' land. Zamindars were revenue collectors.",
+        "tanglish": "Mughal kaalathule, thanka bhoomiya svayama velai seithavar Khud-kasht nu solluvanga. Pahi-kasht nu solradhu mathavanga bhoomiya velai seithavar. Zamindar-nu solradhu tax collect pannavanga."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "In which of the following sessions of the Indian National Congress was the demand for 'Swaraj' put forward for the first time?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Calcutta",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Bombay",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Bankipur",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Karachi",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The demand for Swaraj was first put forward at the Calcutta session of the Indian National Congress in 1906, under the presidentship of Dadabhai Naoroji. This was the first time the Congress demanded self-government or Swaraj.",
+        "tanglish": "Indian National Congress oda Calcutta session 1906-la dhaan muthal muraiyaaga Swaraj kattayam ethirpaada pettadhu. Dadabhai Naoroji avaru appo president-aga irundhar."
+      }
+    }
+  ]
+}

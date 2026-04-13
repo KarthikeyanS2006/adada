@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-15-Nov-23-Shift-I-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "How many medals did India win in the International Shooting Sport Federation (ISSF) World Cup-2022, which was held in Cairo, Egypt?",
+      "options": [
+        {
+          "id": "1",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "India won a total of 4 medals (1 Gold, 2 Silver, and 1 Bronze) in the ISSF World Cup 2022 held in Cairo, Egypt.",
+        "tanglish": "India 2022 varudathu Cairo, Egypt-il nadatha ISSF World Cup-il 4 medals (1 pon, 2 velli, 1 varaku) vangithana."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Narthaki Nataraj, awarded with Padma Shri in 2019 is an Indian _________ dancer.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Odissi",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Bharatanatyam",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Kathakali",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Kathak",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Narthaki Nataraj is a renowned Indian Bharatanatyam dancer who was honored with the Padma Shri award in 2019.",
+        "tanglish": "Narthaki Nataraj oru padarithamana Bharatanatyam narthagi. Avaruku 2019-il Padma Shri virudhu kidaithathu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "The innermost sanctum of a Hindu temple where the idol of the main deity is placed is called:",
+      "options": [
+        {
+          "id": "1",
+          "text": "Garbhagriha",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Mandapa",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Pradakshina path",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Shikhara",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Garbhagriha is the innermost sanctum of a Hindu temple where the idol of the main deity is installed. It is also known as the sanctum sanctorum.",
+        "tanglish": "Hindu kovilkal-il mulam murthy vaikkappatta ullaara uraiyidathai Garbhagriha endru solvom. Idhu sanctum sanctorum endrum azhaikkappadum."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "In which state of India from the following is the old bamboo drip irrigation technology still used in the agriculture?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Maharashtra",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Chhattisgarh",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Meghalaya",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Telangana",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The traditional bamboo drip irrigation technology is still practiced in Meghalaya, particularly by the Jaintia tribes in the War region, to irrigate betel leaf crops.",
+        "tanglish": "Meghalaya-il, migavum Jaintia inathavargal idaiyil, parampariya bamboo drip irrigation technology payanpaduthappadugirathu. Idhu vettrilai saguppugaluku thanneer pozhangkum."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Which Constitutional Amendment Act has replaced the collegium system of appointing judges to the Supreme Court and High Courts?",
+      "options": [
+        {
+          "id": "1",
+          "text": "99th Amendment Act",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "65th Amendment Act",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "82nd Amendment Act",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "52nd Amendment Act",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The 99th Constitutional Amendment Act, 2014 replaced the collegium system with the National Judicial Appointments Commission (NJAC) for appointing judges to the Supreme Court and High Courts.",
+        "tanglish": "2014-in 99th Constitutional Amendment Act collegium method-ai eduthu vittu National Judicial Appointments Commission (NJAC)-ai kondu vanthathu. Idhu Supreme Court matrum High Court nyaymadhigaringalai niyamikkum."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Who led the English Forces in the Battle of Buxar?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Hector Munro",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Sir Hugh Wheeler",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Henry Lawrence",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "John Nicholson",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Major Hector Munro led the English forces in the Battle of Buxar in 1764 against the combined armies of Mir Qasim, Shuja-ud-Daula, and Shah Alam II.",
+        "tanglish": "1764-il nadanth Battle of Buxar-il Major Hector Munro angila senaiyai thalaimaiketarak. Idhu Mir Qasim, Shuja-ud-Daula matrum Shah Alam II otru sera senaiyukku ethira nadantha yuddham."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Under which Article of the Indian Constitution are Fundamental Duties mentioned?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Article 50B",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Article 44C",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Article 51A",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Article 55D",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Fundamental Duties are mentioned in Article 51A of the Indian Constitution. They were added by the 42nd Constitutional Amendment Act in 1976.",
+        "tanglish": "Indian Constitution-il Article 51A-il Fundamental Duties (moolbier kurugal) varalarathu. Idhu 1976-il 42nd Constitutional Amendment moolam serkkappattana."
+      }
+    }
+  ]
+}

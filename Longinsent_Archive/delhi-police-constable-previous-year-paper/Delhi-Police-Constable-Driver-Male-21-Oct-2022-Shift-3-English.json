@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-Driver-Male-21-Oct-2022-Shift-3-English.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "To pay tribute to Lord Rama, the 'Banganga Festival' is celebrated popularly in which of the following states of India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Tamil Nadu",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Maharashtra",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Manipur",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Punjab",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Banganga Festival is celebrated in Maharashtra. It is organized at the Banganga Tank in Mumbai to pay tribute to Lord Rama.",
+        "tanglish": "Banganga Festival endradhu Maharashtra rasiyil ullathu. Idhu Mumbai il ulla Banganga Tank il Lord Ramarukku vanangga thondubadi seiyya nadakkum utsavam."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Due to the providing of credit facilities, what was the growth rate of agricultural output during 2007-2012?",
+      "options": [
+        {
+          "id": "1",
+          "text": "5.4% per annum",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "3.2% per annum",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "6% per annum",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "4% per annum",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "During the period 2007-2012 (11th Five Year Plan), the agricultural output grew at the rate of 4% per annum due to the provision of credit facilities to farmers.",
+        "tanglish": "2007-2012 kaalathil (11th Five Year Plan kalam), vivaasayigalukku nenjaka sagaligal kittanathaala, vivaasai thoguppu 4 percent per annum endra vegathila valarndhathu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "According to the given statements identify the correct person. a)He dedicated his life for the upliftment of Dalits and women. b) In 1848, he opened a school for lower caste girls along with his wife. c) In 1873, he founded the Satyashodhak Samaj.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Jyotiba Phule",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Raja Ram Mohan Roy",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Ishwar Chandra Vidyasagar",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Debendranath Tagore",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Jyotiba Phule was a social reformer who dedicated his life for the upliftment of Dalits and women. In 1848, he opened the first school for girls from lower castes along with his wife Savitribai Phule. He founded the Satyashodhak Samaj (Truth-seekers' Society) in 1873 to fight against caste discrimination.",
+        "tanglish": "Jyotiba Phule oru samudhaaya seyyali. Avar Dalitkal matrum pengaludan uyarchi kaaga than vazhkaiya arppanithaar. 1848 aandil avar manaivi Savitribai Phule oda serndhu thaazhndha chamuthira pengalukaga palli thuranthaar. 1873 il jaathi vethuppinai edhirththu porada Satyashodhak Samaj aarambithaar."
+      }
+    }
+  ]
+}

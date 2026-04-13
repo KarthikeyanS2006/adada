@@ -1,0 +1,187 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-17-Nov-23-Shift-I-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Which of the following dates is correct with regard to the announcement of LPG model?",
+      "options": [
+        {
+          "id": "1",
+          "text": "August 1991",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "July 1991",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "June 1991",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "December 1991",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The LPG (Liberalization, Privatization and Globalization) model was announced in July 1991 by Finance Minister Dr. Manmohan Singh under the government of P.V. Narasimha Rao to reform the Indian economy.",
+        "tanglish": "LPG (Liberalization, Privatization, Globalization) model 1991-aam aandu July maasathil malaiyarasu mantrar Manmohan Singh alavu P.V. Narasimha Rao aatchiyil arikkaiyittathu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Who among the following has written the novel 'Pinjar'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Bhisham Sahani",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Mohan Rakesh",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Amrita Pritam",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Mannu Bhandari",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Amrita Pritam wrote the novel 'Pinjar' (The Skeleton) in 1950, which deals with the partition of India and the violence against women during that period.",
+        "tanglish": "Amrita Pritam 'Pinjar' endra novel-ai 1950-aam aandil eluthiyathu, idhu India vibhajana kaalathu ponnunga meedhu nadantha aniyathaikku pathil ullathu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "The ________ was abruptly called off by Mahatma Gandhi due to the Chauri Chaura incident.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Kheda Movement",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Rowlatt Act Satyagraha",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Non-cooperation Movement",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Champaran Satyagraha",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Non-cooperation Movement was called off by Gandhi on February 12, 1922, following the Chauri Chaura incident of February 4, 1922, where policemen were killed by a mob.",
+        "tanglish": "February 4, 1922 Chauri Chura sambavathil police mirugara kootathinara kondampattathin pinnal, Gandhi February 12, 1922-aam thethi Non-cooperation Movement-ai niruthinaar."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Torrential rain is any amount of rain that is considered especially heavy. Accordingly, which of the following Indian regions receives this type of rainfall during October and November?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Western Rajasthan",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Southeast Karnataka",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "North Bengal",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Central Maharashtra",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Southeast Karnataka receives rainfall during October and November due to the retreating monsoon (North-East monsoon), which brings heavy rains to the southeastern peninsula.",
+        "tanglish": "October, November maasangalil kadumuzhukka maari mazhai varum kaalam, idhu southeast Karnataka-kku vadakku-kizakku monsoon maari mazhaiyaagum."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Who among the following is known as the 'Shehnai maestro'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Ustad Bismillah Khan",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Ustad Bade Ghulam Ali Khan",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Hariprasad Chaurasia",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Ustad Amjad Ali Khan",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Ustad Bismillah Khan was a celebrated Indian musician renowned for playing the shehnai, a traditional reed instrument, and popularized it in Indian classical music.",
+        "tanglish": "Ustad Bismillah Khan shehnai vadhithirku periya periyavar, idhu oru traditional india isai karuvi."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Which of the following new words were added to Indian Constitution by the 42nd Constitutional Amendment Act? A. Socialist B. Integrity C. Fraternity D. Secular E. Equality",
+      "options": [
+        {
+          "id": "1",
+          "text": "A, D and E only",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "B, C and D only",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "A, B and D only",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "A, C and D only",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The 42nd Constitutional Amendment Act of 1976 added the words 'Socialist', 'Secular' and 'Integrity' to the Preamble of the Indian Constitution. Fraternity and Equality were already present in the original Preamble.",
+        "tanglish": "42-aam arasangamettu sattam 1976-il India arasangal suttruch cheetiya oli padugalukku Socialist, Secular, Integrity ena mozhigalai serthathu."
+      }
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-15-Nov-23-Shift-II-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Which of the following State Governments organises Surajkund Mela every year?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Jammu",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Haryana",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Punjab",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Jharkhand",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Surajkund Mela is an annual fair organized by the Government of Haryana to promote traditional crafts and cultural heritage.",
+        "tanglish": "Surajkund Mela endradhu Haryana Arasaal varudathukku oru thadavai nadathappadum chadangu; idhu kai thozhil kalai matrum samudaaya sampradhayaadugalai valarpaduthum."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "The Wazir (minister) of ________ built Moth ki Masjid in Delhi.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Alauddin Khalji",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Khizr Khan",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Sikandar Lodi",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Firuz Shah Tughluq",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Moth ki Masjid was built by the Prime Minister (Wazir) of Sikandar Lodi, named Miya Bhoia, during the Lodi dynasty period.",
+        "tanglish": "Sikandar Lodi kaalathil avarudaya wazir (madhyastha) Miya Bhoia idaiyil Moth ki Masjid Delhi-il kattappattathu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Which is the most common tidal pattern?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Mixed tides",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Diurnal tides",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Spring tides",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Semi-diurnal tides",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Semi-diurnal tides, featuring two high and two low tides of approximately equal height each day, are the most common tidal pattern globally.",
+        "tanglish": "Semi-diurnal tides endradhu dhinamum rendu neer yaerthalum rendu neer irakkalum samanthuvaaga varum; idhu ulagathil adhikamaga kandupidikkappadum kadal neer alai."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Which of the following dance forms belongs to the Vaishnava Monasteries of North East India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Odissi",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Mohiniattam",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Kuchipudi",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Sattriya",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Sattriya is a classical dance form that originated in the Vaishnava monasteries (sattras) of Assam in North East India.",
+        "tanglish": "Sattriya aattam endradhu vadakku keel indhiya Assam-ilulla Vaishnava mathangalil (sattras) pirandha bharatha naatiya vakai."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "How many tiers of government are mentioned in the Constitution of India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Two",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Four",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Three",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Five",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Constitution of India mentions three tiers of government: Union (Central), State, and Local (Panchayat and Municipalities).",
+        "tanglish": "India Arasiyal Amaippil moondru padugal (Union, State, Local/Municipalities) unarvaga koorappattullana; ithai 73rd matrum 74th saadhanathal uruthi paduthappattullathu."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "When did the Paris Agreement on Climate Change come into force (become effective from)?",
+      "options": [
+        {
+          "id": "1",
+          "text": "22nd April 2016",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "4th November 2016",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "27th January 2017",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "12th December 2015",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Paris Agreement was adopted on 12 December 2015 but entered into force on 4 November 2016 after ratification by sufficient countries.",
+        "tanglish": "Paris Agreement 12th December 2015-il eduthu kolkappattathu; aanal sariyaana naadugal odungiyapinbu 4th November 2016-il nadathappattathu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Who among the following is associated with the Mridangam instrument?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Zarin S Sharma",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Hari Prasad Chaurasia",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Palghat Mani Iyer",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Ali Akbar Khan",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Palghat Mani Iyer was a legendary Indian percussionist renowned for his mastery of the Mridangam, a classical Carnatic drum.",
+        "tanglish": "Palghat Mani Iyer endravar Mridangam vaadhiyathil parangusan petta oru periya Carnatic sangeetha vaadhiyar."
+      }
+    }
+  ]
+}

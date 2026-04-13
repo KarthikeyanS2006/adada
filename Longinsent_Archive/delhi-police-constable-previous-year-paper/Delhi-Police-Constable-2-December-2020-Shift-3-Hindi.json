@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-2-December-2020-Shift-3-Hindi.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "किस राजा ने भुवनेश्वर में लिंगराज मंदिर का निर्माण करवाया था?",
+      "options": [
+        {
+          "id": "1",
+          "text": "भीमरथ",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "जाजमेथ",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "ययाति केशरी",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "धर्मरथ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Lingaraj Temple in Bhubaneswar was built by King Yayati Keshari of the Ganga dynasty. It is one of the oldest temples in Bhubaneswar dedicated to Lord Shiva.",
+        "tanglish": "Bhubaneswar-il ulla Lingaraj kovil Ganga vamsathu rajaana Yayati Keshari-ala kattappattathu. Ithu Lord Shiva-kku arpitham aana oru praacheena kovil."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "कौन सा राष्ट्रीय उद्यान किस राज्य में स्थित है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "कर्नाटक",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "मणिपुर",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "हरियाणा",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "मध्य प्रदेश",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Keibul Lamjao National Park is located in Manipur. It is the world's only floating national park situated on Loktak Lake.",
+        "tanglish": "Keibul Lamjao rasthriya udyanam Manipur-il ullathu. Ithu Loktak kulathil amarntha ulagileye mattum thaane irukkum thee plankum udyanam."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "प्रधानमंत्री और भारतीय संघ के अन्य मंत्रियों की नियुक्ति राष्ट्रपति द्वारा निम्नलिखित में से किसके अंतर्गत की जाती है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "भारत के संविधान का अनुच्छेद 75",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "भारत के संविधान का अनुच्छेद 85",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "भारत के संविधान का अनुच्छेद 70",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "भारत के संविधान का अनुच्छेद 79",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "According to Article 75 of the Indian Constitution, the President appoints the Prime Minister and other ministers of the Union on the advice of the Prime Minister.",
+        "tanglish": "Bharatha samvidhanathin 75-am pathathin prakaaram, rasthrapathi nayaka mantrai matrum matra sanga mantrigalai nayaka mantrin thaalattin payannaale niyamanithu seigiraar."
+      }
+    }
+  ]
+}

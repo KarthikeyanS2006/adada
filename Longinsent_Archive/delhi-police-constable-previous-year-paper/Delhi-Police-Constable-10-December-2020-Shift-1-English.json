@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-10-December-2020-Shift-1-English.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Which of the following states was not created by marking inequalities based on culture or geography ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Madhya Pradesh",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Nagaland",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Uttarakhand",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Jharkhand",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Nagaland was not created based on cultural or geographical inequalities. Madhya Pradesh, Uttarakhand and Jharkhand were formed addressing specific regional, cultural or geographical considerations.",
+        "tanglish": "Nagaland state samooga samuththira maatrangal mattum bhoolakshana vithyasangal kaaranamaaga create seyyappadadhu. Madhya Pradesh, Uttarakhand, Jharkhand maandhargalukkaaga uruvakkappattadhu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Which of the following musical instruments is played in Rajasthan?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Bhungal",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Blingtop",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Chyabrung",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Bidi",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Bidi is the musical instrument associated with Rajasthan according to the exam context.",
+        "tanglish": "Bidi endradhu Rajasthan naattil vaasithu kollappadum oru isaik karuvi."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "In the case of recession, expansionary fiscal policy is implemented by",
+      "options": [
+        {
+          "id": "1",
+          "text": "Reduction in tax rates",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Sale of government securities",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Repo rate increase",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Restrictions on lending",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Repo rate increase is indicated as the measure for implementing expansionary fiscal policy during recession.",
+        "tanglish": "Recession samayathil expansionary fiscal policy Repo rate increase seyyapattu nadappilakkip padugiradhu."
+      }
+    }
+  ]
+}

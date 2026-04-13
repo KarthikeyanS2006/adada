@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-16-Nov-23-Shift-III-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Which of the following was opened by Gour Mohan Addy in 1829?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Hindi Seminary",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Anglo-India Seminary",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Anglo-Indian School",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Oriental Seminary",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Gour Mohan Addy established the Oriental Seminary in 1829. It was one of the earliest private educational institutions in Calcutta during the British period.",
+        "tanglish": "Gour Mohan Addy 1829 varudathil Oriental Seminary ai arambithaar. Idhu British kaalathile Calcutta vil oru adhyapaka utpatta idam."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "In which pair of states is Holi also celebrated as Dola Purnima?",
+      "options": [
+        {
+          "id": "1",
+          "text": "West Bengal and Odisha",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Rajasthan and Punjab",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Nagaland and Sikkim",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Maharashtra and Gujarat",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Dola Purnima is another name for Holi festival celebrated in West Bengal and Odisha, where devotees worship Lord Krishna and Radha on decorated swings.",
+        "tanglish": "Dola Purnima endru periyadhu West Bengal matrum Odishaavil Holi pandigaiyaaga kondadapadum. Ithil bakthargal Krishna matrum Radhai alangarikka pattadhu oonjalil valipireergal."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Which political party was in power when Sardar Swaran Singh Committee made recommendations about Fundamental Duties?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Indian National Congress",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Bharatiya Janata Party",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Janata Dal",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Communist Party of India",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Sardar Swaran Singh Committee was appointed in 1976 by the Indian National Congress government headed by Indira Gandhi to recommend Fundamental Duties for the Constitution.",
+        "tanglish": "Sardar Swaran Singh Committee 1976 il Indira Gandhi thalaimaiyilana Congress arasalin kaalathil Constitution il Fundamental Duties serthidave recommend seya utpattadhu."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Which Article of the Indian Constitution is related with promotion of co-operative societies?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Article 31 B",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Article 51 A",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Article 43 B",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Article 39 A",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Article 43B was inserted by the 97th Constitutional Amendment Act of 2011 to promote co-operative societies and ensure their democratic functioning.",
+        "tanglish": "Article 43B 2011 il varintra 97th Constitution Thirutham Seithigal Moolama co-operative societies valarpithal matrum aathidhika muraiyil nadathu paduthalukaka serthapattadhu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "The Indian government launched the 'Garib Kalyan Rojgar Abhiyaan' ('GKRA') on 20th June 2020 to provide work for how many days?",
+      "options": [
+        {
+          "id": "1",
+          "text": "125 days",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "130 days",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "115 days",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "120 days",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Garib Kalyan Rojgar Abhiyaan was launched on 20 June 2020 to provide 125 days of employment to migrant workers who returned to villages during COVID-19 lockdown.",
+        "tanglish": "Garib Kalyan Rojgar Abhiyaan 20 June 2020 il COVID-19 lockdown samayathu oorukku thirumbiya thoorathozhilalarku 125 naatkal velai kidaikka aarambikkappattadhu."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "In 2016, Yamini Krishnamurthy received the Padma Vibhushan for her contribution to which fields of classical dance?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Bharatanatyam and Kathak",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Bharatanatyam and Manipuri",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Bharatanatyam and Odissi",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Bharatanatyam and Kuchipudi",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Yamini Krishnamurthy received the Padma Vibhushan in 2016 for her exceptional contributions to Bharatanatyam and Kuchipudi classical dance forms.",
+        "tanglish": "Yamini Krishnamurthy Bharatanatyam matrum Kuchipudi aadumuraiyil seitha mika mukkiyamana thodarbanathukaka 2016 il Padma Vibhushan parisu petradhu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "शतरंज में उपयोग होने वाले सफेद हाथियों (rooks) की संख्या ________ होती है।",
+      "options": [
+        {
+          "id": "1",
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "दो",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "चार",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "In a game of chess, there are two white rooks (also called castles) placed at the corners of the board at the start of the game.",
+        "tanglish": "Chess vilayattil adhihaga irandu vellai rooks (kottai endrum sollalam) vilayattu aarambathil boardin marthaangalil veikkappattuladhu."
+      }
+    }
+  ]
+}

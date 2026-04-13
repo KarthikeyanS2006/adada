@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-1-Dec-23-Shift-III-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Guru Pankaj Charan Das and Guru Debaprasad Das are associated with which of the following dance forms?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Manipuri",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Odissi",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Kathak",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Kathakali",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Guru Pankaj Charan Das and Guru Debaprasad Das are renowned exponents and gurus of the Odissi dance form, contributing significantly to its revival and development.",
+        "tanglish": "Guru Pankaj Charan Das matrum Guru Debaprasad Das Odissi aattathin prasiddha guruhaal. Ivargal Odissi aattathai punarudharithu valarthuvathil mukkiyam pangu eduthargal."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Which of the following policies is generally revealed by the annual financial statement of the Government of India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Monetary policy",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Industrial policy",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Fiscal policy",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Population policy",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The annual financial statement, commonly known as the Union Budget, reveals the Fiscal Policy of the Government of India, which deals with government revenue, expenditure, taxation, and public debt.",
+        "tanglish": "Varusha selviyaatchi thagaval (Union Budget) Bharatha Arasalin Selviyiyal (Fiscal policy) maarbum. Idhu arasalin varumaanam, selavu, vari eerpputhal matrum porutpaatu kadan endravanai avarum."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "In medieval architecture, Khanqahs are associated with _____.",
+      "options": [
+        {
+          "id": "1",
+          "text": "sufi saints",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "nawabs",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "traders",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "queens",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Khanqahs are hospices or community centers in medieval Islamic architecture primarily associated with Sufi saints, serving as places for spiritual retreat and lodging for travelers.",
+        "tanglish": "Madha yuga kalathu Khanqahgal Sufi thavaraiyudan uravinathu. Ivai mugamadhu dharmiya koodugal matrum traveligalukku thangalum idangalaga aamitharga."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Which of the following committees/commissions was set up in 1976 for recommending for fundamental duties by the Indira Gandhi Government?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Thakaar Commission",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Sarkaria Commission",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Swaran Singh Committee",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Shah Commission",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Swaran Singh Committee was constituted in 1976 by the Indira Gandhi Government to recommend the inclusion of Fundamental Duties in the Constitution. The 42nd Constitutional Amendment Act in 1976 added these duties based on their recommendations.",
+        "tanglish": "1976-il Indira Gandhi arasu aranootra kadamaigalukku sutrusaigal tharum Swaran Singh Committee amaithathu. 42-ame aranootra thirutham idathin sutrusaigalai anusarithu aranootra kadamaigal cherthapattana."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "The Narora Atomic Power Station is situated on the banks of the Ganga in _______ state.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Bihar",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "West Bengal",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Uttarakhand",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Uttar Pradesh",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Narora Atomic Power Station is located in Bulandshahr district, Uttar Pradesh, on the banks of the River Ganga. It comprises two Pressurised Heavy Water Reactors (PHWRs).",
+        "tanglish": "Narora paramanu urjam sathanam, Ganga nadhi karaiyil, Uttar Pradeshil Bulandshahr distrikkil amanthu ullathu. Idhu rendu Pressurised Heavy Water Reactors (PHWRs) yudan avarum."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "The rate at which consumers convert the chemical energy in their food into their biomass is called:",
+      "options": [
+        {
+          "id": "1",
+          "text": "primary productivity",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "secondary productivity",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "gross primary productivity",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "net tertiary productivity",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Secondary productivity is defined as the rate at which consumers (heterotrophs) convert the chemical energy in their food into their own biomass through growth and reproduction. Primary productivity refers to energy conversion by producers.",
+        "tanglish": "Thirasigal thangal unaviyile ulla rasaya urjai thangal uruvadugalaha maattrugindra vethi secondary productivity endru sollappadum. Primary productivity endrathu thayarigal urjai maatrugindra vethiyaik kurikkum."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Which of the following novels is NOT written by Chetan Bhagat?",
+      "options": [
+        {
+          "id": "1",
+          "text": "The Girl in Room 105",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "One Arranged Murder",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Who Will Cry When You Die?",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "400 Days",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "'Who Will Cry When You Die?' is a self-help book written by Robin Sharma, not Chetan Bhagat. The other three novels listed are works of Chetan Bhagat.",
+        "tanglish": "'Who Will Cry When You Die?' endra puththagam Robin Sharma endra ezhuthalar ezhuthiyathu. Chetan Bhagat ezhuthiyadhu eramalai. Matra munnu novelgalum Chetan Bhagat ezhuthiya vadhai."
+      }
+    }
+  ]
+}

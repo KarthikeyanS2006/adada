@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-23-Nov-23-Shift-III-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Who was known as ‘Zinda Pir’?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Babur",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Aurangzeb",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Humayun",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Akbar",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Aurangzeb was known as 'Zinda Pir' (Living Saint) due to his austere lifestyle and strict adherence to Islamic law.",
+        "tanglish": "Aurangzeb 'Zinda Pir' (Uyirullavar) endru arikappattar, avarudaiya kathinamaana vazhkai matrum Islam madha niyathaalugalukku kattubaadanala."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Suryoday Small Finance Bank is the company from _________ to obtain a ‘small finance bank’ license from the Reserve Bank of India.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Madhya Pradesh",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Andhra Pradesh",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Maharashtra",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Gujarat",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Suryoday Small Finance Bank is based in Mumbai, Maharashtra. It is the first company from Maharashtra to obtain a small finance bank license from the RBI.",
+        "tanglish": "Suryoday Small Finance Bank Mumbai, Maharashtra-il adithangalai kondadhu. Idhu RBI-irundhu 'small finance bank' license petra Maharashtra-ilirundhu muthal sandadham."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "In cricket, which of the following is considered as LBW?",
+      "options": [
+        {
+          "id": "1",
+          "text": "The fielder catches a batted ball on the fly.",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "The batsman’s body interferes with a bowled ball that would hit the wicket.",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "The bowler knocks over (or, breaks) the wicket with a bowl.",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "The fielder catches a ground ball and throws it at the wicket, knocking it down before the batsman gets there.",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "LBW stands for Leg Before Wicket. It is given when the batsman's body (usually the leg) blocks the ball that would otherwise have hit the wicket.",
+        "tanglish": "LBW endru parappaduvadhu Leg Before Wicket. Ball wicket-ai eduthukondal endru ninaikkappadum idathil batsman-udaiya udal (sadharnamaga kaal) athai thadukkum pozhuthu idhu kodukkappadum."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "The number of players playing in a team in the T20 cricket match is ________.",
+      "options": [
+        {
+          "id": "1",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "11",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "13",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "In T20 cricket, each team consists of 11 players on the field, similar to other formats of cricket like Test matches and ODIs.",
+        "tanglish": "T20 cricket-il oru team-il 11 aadanaiyalar iruppar, udane Test matrum ODI format-galum ippadithaan."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Who among the following Delhi-based Bharatanatyam dancers received the Nritya Perunjyothi award for the year 2021?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Lakshmi Vishwanathan",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Pandit Birju Maharaj",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Chitra Visweswaran",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Geeta Chandran",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Geeta Chandran, a renowned Delhi-based Bharatanatyam dancer, was honored with the Nritya Perunjyothi award in 2021 for her contributions to classical dance.",
+        "tanglish": "Delhi-il urimaivudaiya prasiddha Bharatanatyam naarthaki Geeta Chandran, 2021-il samakala natanathil avarudaiya pangukkaga Nritya Perunjyothi virudhu perunjadai kondar."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Typhoid is caused by __________.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Protozoa",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "bacteria",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Fungi",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Virus",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Typhoid fever is caused by the bacterium Salmonella typhi. It spreads through contaminated food and water.",
+        "tanglish": "Typhoid pani Salmonella typhi bacteria karanamaagum. Indhadhu samugal vazhika parikkum unavum neerum kalandu parakkum."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Bhuban Kumar of Purulia is an award-winning _______ dancer.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Kathak",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Kuchipudi",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Chhau",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Kathakali",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Bhuban Kumar is a renowned Chhau dancer from Purulia, West Bengal. Chhau is a traditional martial tribal dance form of the region.",
+        "tanglish": "Bhuban Kumar endravor Purulia, West Bengal-ilirundhu petrorumana Chhau kuthukaaran. Chhau endravadhu andha pakuthiyin paarambariya yudha-based tribal nadanamaagum."
+      }
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-21-Nov-23-Shift-I-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "चट्टानों के अध्यन को क्या कहते हैं?",
+      "options": [
+        {
+          "id": "1",
+          "text": "शैल विज्ञान",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "फल विज्ञान",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "कवक विज्ञान",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "मृदा विज्ञान",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The study of rocks is called Petrology (शैल विज्ञान). It is derived from Greek words 'petra' meaning rock and 'logos' meaning study.",
+        "tanglish": "Kalgalin adhayanathai Petrology endrum peyaridalaam. Idhu 'petra' (parai/kal) matrum 'logos' (adhayanam) endra Greek solgalin uruvakkappattadhu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "निम्नलिखित में से कौन-सी, भारतीय संविधान की संघीय विशेषता नहीं है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "लिखित संविधान",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "केंद्र और राज्यों के बीच शक्तियों का बँटवारा",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "एकल नागरिकता",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "स्वतंत्र न्यायपालिका",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Single citizenship is a unitary feature, not federal. In a federal system, there is usually dual citizenship, but India has single citizenship where every citizen is a citizen of India only.",
+        "tanglish": "Otrai nagarigam (Single Citizenship) endradhu otrariya (unitary) thanmai, samaya anivagam (federal) alla. Samaya anivaga thittangalil irandu nagarigangal irukkum, anaigarathil India otrai nagarigam mattume kondirukkirathu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "2011 की जनगणना के अनुसार, भारत के किस केंद्र शासित प्रदेश में सबसे अधिक लिंगानुपात (प्रति 1000 पुरुषों पर महिलाएँ) है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "दादरा और नगर हवेली",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "पुदुचेरी",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "दमन और दीव",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "दिल्ली",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "According to the 2011 Census, Puducherry had the highest sex ratio of 1037 females per 1000 males among Union Territories.",
+        "tanglish": "2011 maanila adippadayathin anusaram, Kuducheryil (Puducherry) 1000 aanukku 1037 pendir endrum linganupatham irundhadhu, idhu kendrasaanupradesangalil adhigam."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "According to the UNDP Human Development Report 2021-22, what was the Human Development Index rank of India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "132",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "114",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "154",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "133",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "According to the UNDP Human Development Report 2021-22, India was ranked 132nd with an HDI value of 0.633.",
+        "tanglish": "UNDP Manitha Valarchi Arikkai (HDR) 2021-22 anusaram, India 132-am idathil HDI maanila 0.633-udan irundhadhu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "भारतीय संविधान में कानून के शासन का विचार किस देश से लिया गया है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "जर्मनी",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "संयुक्त राज्य अमेरिका",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "यूनाइटेड किंगडम",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "फ्रांस",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The concept of Rule of Law was borrowed from the United Kingdom (British Constitution). It means everyone is equal before the law.",
+        "tanglish": "Sattathin Aazhvalarchi (Rule of Law) endra karuththu Britain (United Kingdom) samvidhanathilirundhu eduthukkappattadhu. Idhu sattam munbu ellorum saman endra porul."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Who authored 'Untouchable' depicting the caste system?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Mulk Raj Anand",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Jai Ratan",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "RK Narayan",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Vikram Seth",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "'Untouchable' was written by Mulk Raj Anand in 1935. It depicts the caste system and a day in the life of Bakha, an untouchable sweeper.",
+        "tanglish": "'Untouchable' endra puthagam Mulk Raj Anand 1935-il ezhuthiyadhu. Idhu thanithasai vaga nindha thodu meendumavar Bakha vazhkaiyai matrum jathi thottathai varnigirathu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "मूल रूप से, भारत के संविधान में ________ अनुसूचियां थीं।",
+      "options": [
+        {
+          "id": "1",
+          "text": "8",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The original Constitution of India had 8 Schedules. Currently, there are 12 Schedules after various amendments.",
+        "tanglish": "India Samvidhanathil moolathil 8 Anusuigal (Schedules) irundhana. Pala samargaalaka thittangalukku pinbu, ippothu 12 Anusuigal ullana."
+      }
+    }
+  ]
+}

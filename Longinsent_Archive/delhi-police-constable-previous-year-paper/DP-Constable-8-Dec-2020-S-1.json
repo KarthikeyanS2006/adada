@@ -1,0 +1,337 @@
+{
+  "document_info": {
+    "exam_name": "DP-Constable-8-Dec-2020-S-1.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Who among the following is a celebrated singer of Chhath Puja songs?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Vishaka Hari",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Anima Choudhury",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Ila Arun",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Sharda Sinha",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Sharda Sinha is a famous folk singer from Bihar renowned for singing Chhath Puja songs.",
+        "tanglish": "Sharda Sinha Bihar pattanathukku sonthamaana paadakiyar, Chaath Pooja paadalgal paaduvadharku prasiddhamanaavargal."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "The arteries divide into smaller vessels. On reaching the tissues, they divide further into extremely thin tubes called ______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "venules",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "arterioles",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "capillaries",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "veins",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Arteries divide into arterioles, which further divide into capillaries when they reach the tissues. Capillaries are extremely thin blood vessels where exchange of materials occurs.",
+        "tanglish": "Arteries arterioles aaga piriyum, adhu tissues-ai serum bodhu capillaries aaga melliyadhaga piriyum. Capillaries migavum melliya raththa kuzhthaigal."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "The causative agent of the deadly disease Ebola is/are:",
+      "options": [
+        {
+          "id": "1",
+          "text": "parasites",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "virus",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "bacteria",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "fungus",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Ebola is a deadly disease caused by the Ebola virus. It affects humans and other primates.",
+        "tanglish": "Ebola virus naal earpaadhum payangara noi Ebola. Idhu manushyarkalaiyum matrum uyarnthottigalaiyum paridhu paduthum."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Who among the following is set to become the first-ever female president of the Marylebone Cricket Club in its 233-year history?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Mithali Raj",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Diana Edulji",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Clare Connor",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Alyssa Healy",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Clare Connor became the first female president of the Marylebone Cricket Club (MCC) in 2021, marking the first time in the club's 233-year history.",
+        "tanglish": "Clare Connor 2021-aam aandu Marylebone Cricket Club (MCC)-in 233 aandu varalarhil mudhalamaaga penn thalaivaraha theroappeddaar."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "In which year was the Indira Gandhi Institute of Development Research (IGIDR) inaugurated?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1987",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "1982",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "1993",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "1991",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Indira Gandhi Institute of Development Research (IGIDR) was established and inaugurated in 1987.",
+        "tanglish": "Indira Gandhi Institute of Development Research (IGIDR) 1987-aam aandu arumbaiyakkappattadhu."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "______ is played on a synthetic hard court.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Wimbledon",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Australian Open",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "London Queens Club",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "French Open",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Australian Open is played on synthetic hard courts. Wimbledon is played on grass and French Open is played on clay courts.",
+        "tanglish": "Australian Open sinthatic hard court medaiyil vilayattappadum. Wimbledon pull medaiyilum, French Open mannu medaiyilum nadakedum."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "The Khilafat movement was led by ______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Maulana Abul Kalam Azad",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Muhammad Ali and Shaukat Ali",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Muhammad Ali Jinnah",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Syed Ahmad Khan",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Khilafat movement was led by the Ali brothers - Muhammad Ali and Shaukat Ali, along with other leaders.",
+        "tanglish": "Khilafat iyakkam Ali Annanmar endru ariyappedum Muhammad Ali matrum Shaukat Ali aal alavarchiyinaal nadathappattadhu."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "In which year was the NITI Aayog formed?",
+      "options": [
+        {
+          "id": "1",
+          "text": "2015",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "2012",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "2017",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "2018",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "NITI Aayog (National Institution for Transforming India) was formed on January 1, 2015, replacing the Planning Commission.",
+        "tanglish": "NITI Aayog (National Institution for Transforming India) Janavari 1, 2015-aam aandu Planning Commission-ku pathilaha uruvakkappattadhu."
+      }
+    },
+    {
+      "q_number": 9,
+      "question_text": "Which of the following is the largest jute producing state in India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Bihar",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "West Bengal",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Tripura",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Meghalaya",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "West Bengal is the largest producer of jute in India, accounting for the majority of the country's jute production.",
+        "tanglish": "Indiaavil ennikaiyaaga saanam (jute) uruvakkuum state West Bengal, idhu indiaavin mudhalaan saanam uruvakkum thotathaiyum adangiyadhu."
+      }
+    },
+    {
+      "q_number": 10,
+      "question_text": "Fatehpur Sikri was founded as the capital of the Mughal Empire by ______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Babur",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Humayun",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Jahangir",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Akbar",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Fatehpur Sikri was founded as the capital of the Mughal Empire by Emperor Akbar in 1571.",
+        "tanglish": "Fatehpur Sikri samraajyathin thalaavagam Akbar aalagaikarathinaal 1571-aam aandu uruvakkappattadhu."
+      }
+    },
+    {
+      "q_number": 11,
+      "question_text": "Which of the following Articles of the Constitution of India provides the 'Right to Education'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Article 39A",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Article 44",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Article 12",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Article 21A",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Article 21A of the Indian Constitution provides the Right to Education as a fundamental right for children aged 6-14 years.",
+        "tanglish": "India arasangathin Article 21A 6-14 vayathu kuzhanthaigalukku kalvi urimaiyai moola urimaiyahu kooruhiradhu."
+      }
+    }
+  ]
+}

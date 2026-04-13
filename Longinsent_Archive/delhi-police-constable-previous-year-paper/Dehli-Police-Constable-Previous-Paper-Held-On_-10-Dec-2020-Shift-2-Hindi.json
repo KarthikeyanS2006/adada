@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-Previous-Paper-Held-On-10-Dec-2020-Shift-2-Hindi.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "नेपाल की सबसे लंबी नदी, करनाली नदी का आरंभिक स्रोत निम्नलिखित में से कौन सा है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "ट्सांगपो (Tsangpo)",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "मेकांग (Mekong)",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "मापचा खंबाब (Mapcha Khambab)",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "इरावदी (Irrawaddy)",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Karnali River is Nepal's longest river. It originates from the Mapcha Khambab Glacier in the Tibetan Plateau near Mount Kailash. This river flows through western Nepal and is known as the Ghaghara in India before joining the Ganges.",
+        "tanglish": "Karnali nadhi Nepalil ulla neelamana nadhi. Idhu Tibetile, Kailas malaiyil ulla Mapcha Khambab sinthu punnagaiyil (glacier) thodangi varugiradhu. Indha nadhi Nepal mudal India varai ootikkondudhu, Ghaghara endrum alaikkappadum idhu Ganges nadhiyil santhikiradhu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "महात्मा गांधी और उनके स्वयंसेवकों के दल द्वारा निम्नलिखित में से कितने दिनों तक दांडी मार्च (पदयात्रा) की गई थी?",
+      "options": [
+        {
+          "id": "1",
+          "text": "11 दिन",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "31 दिन",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "15 दिन",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "24 दिन",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The Dandi March (Salt Satyagraha) led by Mahatma Gandhi began on March 12, 1930, from Sabarmati Ashram and continued for 24 days. The march covered approximately 240 miles to reach Dandi on April 6, 1930, where Gandhi broke the salt laws.",
+        "tanglish": "Gandhiji netrittil nadatha Dandi payanam (Salt March) 1930-aam aandu martu 12-aam thedhi Sabarmati Ashramathilirundhu arambithadhu. Indha padyathra 24 naatkal nilai nadanthathu. 240 mail thoorathai nadanthu April 6-aam thedhi Dandi serndhu, Gandhiji uppu sattathai muru paarthar."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "निम्नलिखित में से किस वर्ष में, भारत सरकार द्वारा एक एकीकृत संरक्षण मिशन 'नमामि गंगे कार्यक्रम' को अनुमोदित किया गया था?",
+      "options": [
+        {
+          "id": "1",
+          "text": "2011",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "2016",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "2019",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "2014",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The Namami Gange Programme was approved by the Union Cabinet in June 2014 as an integrated conservation mission. It was established to accomplish effective abatement of pollution, conservation and rejuvenation of the River Ganga.",
+        "tanglish": "Namami Gange thittam 2014-aam aandu June maadhathil Union arasal oppukkondadhu. Idhu oru integrated conservation mission-aaga amaldharpattadhu. Ganga nadhai poluttion illamal kaakkavum, punarujjevi paduthavum indha thittam seyyappadugiradhu."
+      }
+    }
+  ]
+}

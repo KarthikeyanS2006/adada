@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-16-Nov-23-Shift-I-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Which of the following statements is/are true about NABARD? I. NABARD was formed on the recommendation of Sivaraman Committee. II. NABARD came into existence in 1980. III. It was set up with an initial capital of ₹100 crore.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Only I",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Only II and III",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Only II",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Only I and III",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "NABARD (National Bank for Agriculture and Rural Development) was established based on the recommendation of the Sivaraman Committee in 1982, not 1980. It was set up with an initial capital of ₹100 crore. Therefore, statements I and III are true while statement II is false.",
+        "tanglish": "NABARD (National Bank for Agriculture and Rural Development) 1982-la form pannadhu, 1980-la illa. Sivaraman Committee recommendation-ale than start pannadhu. Initial capital ₹100 crore. So, I and III sari, II thappu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "The Indian Vice President is elected by an electoral college comprising members of __________________.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Rajya Sabha, Lok Sabha and State Legislative Council",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Lok Sabha and State Legislature",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Rajya Sabha and State Legislative Assembly",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "both the houses of Parliament",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The Vice President of India is elected by an electoral college consisting of members of both Houses of Parliament (Rajya Sabha and Lok Sabha) only. Members of State Legislatures do not participate in the election of the Vice President (unlike the Presidential election).",
+        "tanglish": "India Vice President-e elect pannardhu Parliament-oda both houses (Rajya Sabha + Lok Sabha) members dhan. State Legislative Assembly members participate pannamattanga, adhu President election-ku than."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Which of the following is NOT a fundamental duty?",
+      "options": [
+        {
+          "id": "1",
+          "text": "To safeguard public property",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "To value and preserve the rich heritage of the country's composite culture",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "To promote cooperative society",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "To uphold and protect the sovereignty, unity and integrity of India",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Article 51A of the Constitution lists the Fundamental Duties. While safeguarding public property, preserving cultural heritage, and protecting sovereignty are Fundamental Duties, promoting cooperative societies is not listed as a Fundamental Duty.",
+        "tanglish": "Constitution Article 51A-la Fundamental Duties list irukku. Public property kappathurdhu, country-oda heritage preserve pannurdhu, sovereignty protect pannurdhu ellam Fundamental Duties. Aana cooperative society promote pannurdhu Fundamental Duty-la ila."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "How many officials are there for looking after each Kabaddi match?",
+      "options": [
+        {
+          "id": "1",
+          "text": "6",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "5",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "A Kabaddi match is officiated by 6 officials comprising 1 Referee, 2 Umpires, 1 Scorer, 1 Assistant Scorer, and 1 Timekeeper who look after the conduct of the match.",
+        "tanglish": "Oru Kabaddi match-ku 6 officials irukkanga: 1 Referee, 2 Umpires, 1 Scorer, 1 Assistant Scorer, and 1 Timekeeper. Ivanga ellarum match-a monitor pannuvanga."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "In which town of India did James Prinsep conduct the census in 1824?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Banaras",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Allahabad",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Bombay",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Calcutta",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "James Prinsep, a British scholar and antiquary, conducted the census in Allahabad (now Prayagraj) in 1824 while serving as the assay master at the Banaras mint.",
+        "tanglish": "James Prinsep 1824-la Allahabad (ippo Prayagraj) town-la census conduct pannaru. Ivanga Banaras mint-la assay master-ah work pannitu irundhapovadhu."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Where is the National Flag hoisted by the Prime Minister on every Independence Day?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Red Fort",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Parliament House",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "India Gate",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Gateway of India",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "On Independence Day (15th August) every year, the Prime Minister of India hoists the National Flag at the ramparts of the Red Fort (Lal Qila) in Delhi.",
+        "tanglish": "Independence Day (August 15) naive India Prime Minister Delhi Red Fort (Lal Qila) mela National Flag kottai-ila ethuvanga."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Which of the following states is associated with the devotional folk dance 'Gambhira'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Rajasthan",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Bihar",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Odisha",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "West Bengal",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Gambhira is a devotional folk dance associated with West Bengal, particularly performed in the Rajshahi and Malda regions. It is dedicated to Lord Shiva and involves energetic dancing accompanied by drumming.",
+        "tanglish": "Gambhira idhu West Bengal-ku uriya devotional folk dance. Idhu mainly Malda region-layum Rajshahi division-layum perform pannuvanga. Lord Shiva-kku dedicated panni drum oda energetic-a nadakkum."
+      }
+    }
+  ]
+}

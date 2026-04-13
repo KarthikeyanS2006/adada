@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "Dehli-Police-Constable-Official-Paper-Held-On_-09-Dec-2020-Shift-3-English.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "The Sanchi Stupa was discovered by _______ in 1818.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Sir Henry Taylor",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "James Prinsep",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "James Burgess",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "John Marshall",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Sanchi Stupa was discovered by Sir Henry Taylor, a British officer, in the year 1818. It is a Buddhist monument located in Raisen district of Madhya Pradesh and is famous for its Great Stupa.",
+        "tanglish": "Sanchi Stupa 1818-aam aandil Sir Henry Taylor ennum British adhikaariyaal kandupudikappattadhu. Idhu Madhya Pradesh-le Raisen mavattathil ulla oru Buddha aalayam; idhin periya Stupa-kku ithu romba prasiddham."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "______ Schedule of the Constitution of India deals with the names of the states and their territorial jurisdiction.",
+      "options": [
+        {
+          "id": "1",
+          "text": "First",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Fourth",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Second",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Third",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The First Schedule of the Constitution of India contains the names of all the states and union territories of India along with their territorial extents and jurisdictions.",
+        "tanglish": "India Arasiyalamaippin First Schedule-le India-le ulla states matrum union territories oda peyarugal matrum avaroda nilaala parappugal pathi kurikkappattullana."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "With reference to the investment schemes of India, what does the second 'P' stand for in 'PPF'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Price",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Prudent",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Provident",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Programme",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "PPF stands for Public Provident Fund. It is a long-term investment scheme backed by the Government of India that offers attractive interest rates and tax benefits. The second 'P' in the acronym stands for 'Provident'.",
+        "tanglish": "PPF-nnu paarkum podhu adhu Public Provident Fund-nnu artham. Idhu India arasalai thunaiyaaga ulla oru nedu kaala investment thittam; suuthamana palana satham matrum tax laabangalum udane undu. PPF-le rendavadhu 'P' Provident-nnu artham."
+      }
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-24-Nov-23-Shift-II-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "The structural part of the Indian Constitution is derived from:",
+      "options": [
+        {
+          "id": "1",
+          "text": "Government of India Act 1919",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Government of India Act 1935",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Government of India Act 1909",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Government of India Act 1958",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The structural framework of the Indian Constitution is largely based on the Government of India Act 1935, which was passed by the British Parliament.",
+        "tanglish": "Indhiya Samvidhanathin kattida amaippu 1935 India Arasu Seyalaa Chattathin paadathil eduthu kondulladhu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Padma Shri awardee, Shivnath Mishra is an exponent of Benaras Gharana and he plays _________ styles of Benaras Gayaki Ang.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Six",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Three",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Two",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Four",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Pandit Shivnath Mishra, a Padma Shri awardee and sitar maestro from Benaras Gharana, performs four distinct styles of Benaras Gayaki Ang.",
+        "tanglish": "Padma Shri puraskaar aliththa Shivnath Mishra, Benaras Gaarana sitar vidhwan; avar Benaras Gaayaki Ang nalezhuthu naangu paadangalai vaasikiraar."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "What is the full form of NADA?",
+      "options": [
+        {
+          "id": "1",
+          "text": "National Age-Detecting Agency",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "National Assessment and Development Agency",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "National Athletes-Development Agency",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "National Anti-Doping Agency",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "NADA stands for National Anti-Doping Agency, which is responsible for monitoring and promoting doping-free sports in India.",
+        "tanglish": "NADA enum peyar National Anti-Doping Agency enum artham. Idhu Indhiyavil unavu doppu illadha unarvaippaduththi kaakka agency."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "What is the primary factor contributing to structural unemployment in India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Lack of education",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Seasonal variations",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Unavailability of jobs",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Technological advancements",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Structural unemployment occurs due to technological changes that make certain skills obsolete, creating a mismatch between worker skills and job requirements.",
+        "tanglish": "Theri munnethal seyyum thozhil illavangaalum seyalal wisham paerum thozhil uri endral structural unemployment."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "My times: An autobiography, is authored by whom among the following famous freedom fighters of India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Vinoba Bhave",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "J B Kriplani",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Motilal Nehru",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "C R Das",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "According to the provided exam data, Vinoba Bhave is indicated as the author.",
+        "tanglish": "Koduthullathaaga, Vinoba Bhave avar dhaan My Times enra paadarndha pusthakathin eradhaagar."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "The term 'bouncer' is used in which of the following games?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Hockey",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Football",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Tennis",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Cricket",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "In cricket, a bouncer is a type of delivery where the ball is pitched short so that it bounces up towards the batsman's head or body.",
+        "tanglish": "Cricket kreediyil, bouncer endradhu ballai short pitch seythu batsman thalai alladhu udal paagathukku meetum maari thirumbuvadhu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Who of the following wrote 'Prithviraj Raso'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Rajasekhara",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Jaidev",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Chand Bardai",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Padmagupta",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Prithviraj Raso is an epic poem composed by Chand Bardai, which narrates the life and adventures of Prithviraj Chauhan.",
+        "tanglish": "Prithviraj Raso endra kaaviyam Chand Bardai avar paadiyathu; idhu Prithviraj Chauhan vazhkkai payanangalai padhikkum."
+      }
+    }
+  ]
+}

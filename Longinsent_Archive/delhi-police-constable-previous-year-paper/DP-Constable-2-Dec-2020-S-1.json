@@ -1,0 +1,337 @@
+{
+  "document_info": {
+    "exam_name": "DP-Constable-2-Dec-2020-S-1.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "What does the government do in a contractionary fiscal policy for lowering inflation?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Reduce the quantum of money by decreasing taxes and increasing spending",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Increase the quantum of money by raising taxes and reducing spending",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Increase the quantum of money by decreasing taxes and increasing spending",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Reduce the quantum of money by raising taxes and reducing spending",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Contractionary fiscal policy aims to reduce inflation by decreasing the money supply in the economy. This is achieved by raising taxes (which reduces disposable income) and reducing government spending.",
+        "tanglish": "Inflation-a adakkarathukkaaga government tax-ah yerumathi spending-a korakkum. Appo economy-la irukka money supply kammi aagum."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Who among the following was the winner of the Grand Slam Boy's Singles title 2019?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Arthur Cazaux",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Shintaro Mochizuki",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Harold Mayot",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Carlos Gimeno",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Shintaro Mochizuki of Japan won the 2019 Wimbledon Championships - Boys' Singles title.",
+        "tanglish": "Japan-oda Shintaro Mochizuki 2019 Wimbledon Boys' Singles title jeicharu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "As per the United Nations Data, in August 2020, India's population was equivalent to ______ of the total world population.",
+      "options": [
+        {
+          "id": "1",
+          "text": "10.2%",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "12.4%",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "19.4%",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "17.7%",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "According to United Nations data from August 2020, India's population was approximately 17.7% of the total world population, making it the second most populous country.",
+        "tanglish": "UN data prakaaram August 2020-la Indiaoda population world population-oda 17.7 percent. Ithu China kazhaga periya janangal irukka desham."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "What is the chemical name of the common kitchen ingredient named 'Baking Soda'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Sodium Bicarbonate",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Sodium Hydroxide",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Sodium Hypochlorite",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Sodium Peroxide",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Baking Soda is chemically known as Sodium Bicarbonate (NaHCO3). Sodium Hydroxide is caustic soda, Sodium Hypochlorite is used in bleach, and Sodium Peroxide is a different compound.",
+        "tanglish": "Baking soda-voda chemical name Sodium Bicarbonate (NaHCO3). Sodium Hydroxide-na caustic soda, adhu strong base, ithu baking soda illa."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Which schedule of the Constitution of India has provisions which apply to the administration of the tribal areas in the states of Assam, Meghalaya, Tripura and Mizoram?",
+      "options": [
+        {
+          "id": "1",
+          "text": "10th",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "4th",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "8th",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "6th",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The Sixth Schedule of the Constitution contains provisions for the administration of tribal areas in Assam, Meghalaya, Tripura, and Mizoram. It provides for the establishment of Autonomous District Councils.",
+        "tanglish": "Constitution-oda 6th Schedule-la Assam, Meghalaya, Tripura, Mizoram-la irukka tribal areas administration paththi solliyirukku. Ithu Autonomous District Councils form panna seyyum."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Which of the following dance forms has been included in the UNESCO Heritage Dances in the year 2010?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Paika dance",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Chau dance",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Agni dance",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Mundari dance",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Chhau dance (also spelled Chau) is a semi-classical Indian dance with martial, tribal and folk traditions. It was inscribed in the UNESCO Representative List of Intangible Cultural Heritage in 2010.",
+        "tanglish": "Chau dance (Chhau) semi-classical Indian dance. Ithu 2010-la UNESCO Intangible Cultural Heritage list-la serthanga."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Along which river bank among the following did the ancient city of Madurai, the capital of Pandya Kingdom, exist?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Brahmaputra",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Ganga",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Godavari",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Vaigai",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Madurai, the ancient capital of the Pandya Kingdom, is located on the banks of the Vaigai River in Tamil Nadu.",
+        "tanglish": "Pandya Kingdom-oda capital-aana Madurai Vaigai aathiraathu kadaila irukku."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "Which constitutional amendment deals with reservation of seats in educational institutes and of appointments or posts in the services under a state, for backward classes, scheduled castes and scheduled tribes?",
+      "options": [
+        {
+          "id": "1",
+          "text": "69",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "62",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "76",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "73",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The 76th Constitutional Amendment Act of 1994 was enacted to enable special provisions for reservations. It allowed Tamil Nadu to make provisions for reservation exceeding 50% in educational institutions and public services.",
+        "tanglish": "76th Constitutional Amendment 1994-la pass pannanga. Educational institutions and government jobs-la SC, ST, backward classes-kku reservation seyyalaam."
+      }
+    },
+    {
+      "q_number": 9,
+      "question_text": "In which year was the Central Sanskrit Universities Act passed?",
+      "options": [
+        {
+          "id": "1",
+          "text": "2014",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "2019",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "2020",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "2016",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Central Sanskrit Universities Act, 2020 was passed to convert three deemed universities into Central Sanskrit Universities.",
+        "tanglish": "Central Sanskrit Universities Act 2020-la pass aachu. Ithu munnu deemed universities-a Central Universities-a maatha."
+      }
+    },
+    {
+      "q_number": 10,
+      "question_text": "Which of the following is NOT a quality of bases?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Bases don't change the colour of litmus",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Feels slippery or soapy",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Their aqueous (water) solutions conduct an electric current",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Tastes sweet",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Bases feel slippery/soapy, conduct electricity in aqueous solution, and turn red litmus blue. They taste bitter, not sweet. Therefore, 'tastes sweet' is not a quality of bases.",
+        "tanglish": "Base-kku kaduppu taste, inimaiyana taste illai. Adhanaala 'tastes sweet' base-oda quality illai. Base slippery-a irukkum, current pass pannum."
+      }
+    },
+    {
+      "q_number": 11,
+      "question_text": "'Ghaggar and Banas' are rivers that feed the state of ______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Gujarat",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Orissa",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Punjab",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Rajasthan",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Ghaggar and Banas are rivers that flow through Rajasthan. The Banas is a tributary of the Chambal River, while the Ghaggar flows through Haryana and Rajasthan.",
+        "tanglish": "Ghaggar and Banas river-gal Rajasthan state-la ozhuguthu. Banas Chambal-oda tributary-a irukku."
+      }
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-24-Nov-23-Shift-I-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "In karate, the fight starts when the referee shouts \"______\".",
+      "options": [
+        {
+          "id": "1",
+          "text": "Yame",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Shobu Hajime!",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Kaizen",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Yuko",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "In karate, the referee uses the command 'Shobu Hajime' to start the fight. 'Yame' means stop, 'Kaizen' means continuous improvement, and 'Yuko' is a scoring term.",
+        "tanglish": "Karate-sil sandai thodangum bothu, referee 'Shobu Hajime' endra variyai solgaiyal thodappikkappadum. Yame endral niruthu, Kaizen endral thodar melanmai, Yuko endraal varutha kanakku."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Who decides the disqualification of members of State Legislative Assembly, for matters other than those in the Tenth Schedule of the Constitution of India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Chief Minister",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "High Court",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "State Election Commission",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Governor",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Under Article 192 of the Constitution of India, the Governor decides the disqualification of members of the State Legislative Assembly for matters other than those under the Tenth Schedule (anti-defection).",
+        "tanglish": "Bharatha arasangathin 192-am seyyaku anusarippa, Govarnar thaan maanila sutrasaabaiyinarudaiya senneerthai kurithu nirnayam seyvar. Idhu pathaam anusuchiyil (Tenth Schedule) illatha vishayangalukkuriyathu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Who among the following received the Padma Shri in 2022 for performing the Rai folk dance form of Madhya Pradesh?",
+      "options": [
+        {
+          "id": "1",
+          "text": "AKC Natrajan",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Sheesh Ram",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Ram Sahay Pandey",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Ballesh Bhajantri",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Ram Sahay Pandey was awarded the Padma Shri in 2022 for his contributions to the preservation and promotion of the Rai folk dance form of Madhya Pradesh.",
+        "tanglish": "Ram Sahay Pandey, Madhya Pradesh-in Rai jananaadanathin paadhukaappukku 2022-aam varudathil Padma Shri puraskaram petrar."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "In which year was MS Subbulakshmi honoured with the Bharat Ratna?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1998",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "1997",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "1995",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "1996",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The legendary Carnatic vocalist MS Subbulakshmi was honoured with the Bharat Ratna, India's highest civilian award, in the year 1998.",
+        "tanglish": "Perungarunaataga karnatic isaik kalagnar MS Subbulakshmi, 1998-aam varudam Bharat Ratna puraskarathaal sammanikappattar."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Whom did Gopal Krishna Gokhale call 'the best ambassador of Hindu-Muslim unity'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Mohammad Ali Jinnah",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Maulana Abul Kalam Azad",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Jawaharlal Nehru",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Mahatma Gandhi",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Gopal Krishna Gokhale described Mohammad Ali Jinnah as the 'best ambassador of Hindu-Muslim unity' for his role in promoting communal harmony during the early years.",
+        "tanglish": "Gopal Krishna Gokhale, Mohammad Ali Jinnah-ai 'Hindu-Muslim aikkiyathin siranthu doothar' endru solliyaar, aarama vayathil saamuga samadhaanathukku avar seitha thondugal karanamaaga."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "During the sixth century BCE, as part of the 'Shraman' tradition, which of the following new religious and social movements began in the Gangetic valley?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Sufism",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Christianity",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Buddhism",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Islam",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Buddhism emerged in the 6th century BCE in the Gangetic valley as a new religious movement within the Shraman tradition, offering an alternative to Vedic Brahmanism.",
+        "tanglish": "6-am noottandu BCE-il Gangai vazhikaattil, Sramana sampradhaya vaariyil oru puthu mathamaaga Bouddha matham thondiyadhu. Idhu veitha bramanathukku oru marpathaiyaga amaindhu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "The historic Asamai temple is located in __________ in Afghanistan.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Kandahar",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Kabul",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Ghazni",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Feyzabad",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The historic Asamai temple, dedicated to the goddess Asamai, is situated in the city of Kabul, Afghanistan.",
+        "tanglish": "Aasamai ammanukku arpikkappatta chariththira maana Aasamai kovil, Afghanistan-in Kabul pattinathil amaindhu irukkiradhu."
+      }
+    }
+  ]
+}

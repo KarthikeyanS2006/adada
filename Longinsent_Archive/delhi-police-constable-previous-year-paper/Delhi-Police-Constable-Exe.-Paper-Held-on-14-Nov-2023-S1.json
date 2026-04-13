@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-Exe.-Paper-Held-on-14-Nov-2023-S1.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "When is Maha Shivaratri celebrated according to the Drik Panchang?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Magha, Krishna Paksha, Chaturdashi",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Ashadh, Krishna Paksha, Trayodashi",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Phalguna, Shukla Paksha, Ekadashi",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Chaitra, Shukla Paksha, Ekam",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "According to Drik Panchang, Maha Shivaratri falls on the Chaturdashi (14th day) of Krishna Paksha (dark fortnight) in the month of Magha.",
+        "tanglish": "Drik Panchang prakaram, Maha Shivaratri Magha maasathil Krishna Paksha Chaturdashi thithiyil aandu thorum vidaiybadugirathu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Which of the following Indian Olympians has written the autobiography titled 'Playing to Win'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Abhinav Bindra",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Saina Nehwal",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Lovlina Borgohain",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Karnam Malleswari",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Saina Nehwal, an Indian badminton player and Olympic bronze medalist, authored the autobiography 'Playing to Win'.",
+        "tanglish": "Saina Nehwal oru Indian Olympic badminton medalist. Avar 'Playing to Win' endra autobiography ezhuthiyullar."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Which of the following is/are the goals of five year plans?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Growth, Modernisation, and Equity only",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Growth only",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Growth, and Abolition of intermediaries",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Growth, Modernisation, Equity and Self-reliance",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The goals of India's Five Year Plans include Growth, Modernisation, Equity (social justice), and Self-reliance.",
+        "tanglish": "Indiaavin five year plan kal Growth, Modernisation, Equity matrum Self-reliance pondra udviyalai patriya goals ai edhirkondullana."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Which of the following cultural festivals is organised by the Uttar Pradesh tourism department?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Taj Mahotsav",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Hampi Dance Utsav",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Natyanjali Utsav",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Nishagandhi Festival",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Taj Mahotsav is an annual cultural festival organized by the Uttar Pradesh Tourism Department in Agra.",
+        "tanglish": "Taj Mahotsav Uttar Pradesh tourism department aal Agra il nadaathi vaikkappadum aandu thorum nadakkum oru cultural festival."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Who among the following was the Prime Minister when the Globalisation Policy as part of 'New Economic Policy' was introduced?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Manmohan Singh",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "PV Narasimha Rao",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Narendra Modi",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Atal Bihari Vajpayee",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "P.V. Narasimha Rao was the Prime Minister of India when the New Economic Policy (Liberalisation, Privatisation and Globalisation) was introduced in 1991.",
+        "tanglish": "P.V. Narasimha Rao 1991 il New Economic Policy (Globalisation) kondu varapatta podhu Prime Minister aaga panniyerpathindhar."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Which Article of the Indian Constitution deals with the Governor's assent to Bills?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Article 201",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Article 164",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Article 264",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Article 200",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Article 200 of the Indian Constitution specifies the Governor's power to give assent to Bills passed by the state legislature, or to withhold assent, or to reserve the Bill for the President's consideration.",
+        "tanglish": "Indian Samvidhaayil Article 200 Governor bills ku assent seivathi patriyathu. Ithu state legislature aal pass cheyapatta bills ku assent aalikkum, matrum President consider seiyapatta reserve seiyum."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Which part of the food is defecated?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Vitamins in food",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Glucose in food",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Nutrients in food",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Unused food",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Defecation is the process of expelling undigested waste material and unused food substances from the body through the digestive system.",
+        "tanglish": "Defecation endradhu upayogappadaatha matrum undigest aana food waste ahan body veliyerpadum process."
+      }
+    }
+  ]
+}

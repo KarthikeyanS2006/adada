@@ -1,0 +1,187 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-1-Dec-23-Shift-I-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Which of the following Articles of the Constitution of India talks about equality before law or equal protection of the laws?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Article 23",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Article 14",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Article 21",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Article 17",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Article 14 of the Indian Constitution guarantees equality before the law and equal protection of the laws to all persons within the territory of India. Article 23 deals with prohibition of traffic in human beings and forced labour, Article 21 protects life and personal liberty, and Article 17 abolishes untouchability.",
+        "tanglish": "India arasangathin constitution-il Article 14, nattil ulla ellorukkum kanunukku munnal samamana nilaiyaiyum (equality before law) matrum kanoonugalai orey mathiri paduthukodukka vendum endrum uruthi seyyugiradhu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "In India, who is regarded as the father of modern dance?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Vempati Chinna Satyam",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Uday Shankar",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Bipin Singh",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Kelucharan Mahapatra",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Uday Shankar is considered the father of modern dance in India. He was a dancer and choreographer who created a fusion style of dance by combining elements of Indian classical dance with Western theatrical techniques.",
+        "tanglish": "India-il modern dance-in thandhaiyaaga Uday Shankar aiyamigappadugiraar. Avadrudaiya Bharat Natyam matrum Ballet kalappu 20th century-il modern dance aagiyadhu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Which is the oldest living tree species with fan-shaped leaves commonly used in the treatment of blood disorders and memory issues?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Alder",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Ginkgo",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Cedar",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Willow",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Ginkgo biloba, also known as the maidenhair tree, is one of the oldest living tree species with distinctive fan-shaped leaves. It is commonly used in traditional medicine for treating blood disorders and memory issues due to its medicinal properties.",
+        "tanglish": "Ginkgo biloba endra maran, fan aakaramana ilaiyai udaaniya mudhalaana vaazha marangalil onru. Athu ratha chakra mathipugal matrum nappasai theerpadhu murayil marunthaga upayogikappadugiradhu."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Which type of jurisdiction of the Supreme Court can be invoked for the given category of case if the High Court on appeal reverses an order of acquittal of an accused person and sentences him to death?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Appellate jurisdiction in regard to civil matters (Art. 133)",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Review of judgments or orders by the Supreme Court (Art. 137)",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Appellate jurisdiction in regard to criminal matters (Art. 134)",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Appellate jurisdiction in appeals from High Courts in certain cases (Art. 132)",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Article 134 of the Indian Constitution confers appellate jurisdiction on the Supreme Court in regard to criminal matters. Specifically, Article 134(1)(a) allows an appeal to the Supreme Court if the High Court reverses an order of acquittal of an accused person and sentences him to death.",
+        "tanglish": "High Court-il valli kuzhathai theerppuvithu oru viyakthi saavu thandanai petravudaiyil, Supreme Court-il appeal seyya Article 134(1)(a) matrum upayogam aagum. Idhu criminal vishyangalil Supreme Court-irku appellate jurisdiction alikkiradhu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Which of the following committees was constituted in 2012 to review the Poverty Measurement Methodology and submitted its report in June 2014?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Rangarajan Committee",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Lakdawala Committee",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Kirit Parikh Committee",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Dandekar Committee",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Rangarajan Committee was constituted in 2012 by the Government of India to review the methodology for measurement of poverty. It submitted its report in June 2014, proposing a new method to calculate poverty lines in India.",
+        "tanglish": "2012-am vandu amaikappatta Rangarajan Committee, pazhakka thakkam methodology-ai parisothithu June 2014-il thanithalaivi seythulladhu."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "The Planning Commission looks after crucial aspects such as formulation, implementation and regulation of the Five-Year Plans. In which year was the Planning Commission replaced by a think tank called NITI Aayog?",
+      "options": [
+        {
+          "id": "1",
+          "text": "2020",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "2015",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "2012",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "2017",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Planning Commission was replaced by NITI Aayog (National Institution for Transforming India) on 1st January 2015. NITI Aayog serves as a think tank of the Government of India, replacing the earlier five-year planning model with a new approach focused on cooperative federalism.",
+        "tanglish": "Planning Commission January 1, 2015-il NITI Aayog (National Institution for Transforming India) endra think tank-inal matrappadukondadhu."
+      }
+    }
+  ]
+}

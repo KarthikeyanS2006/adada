@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-23-Nov-23-Shift-II-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "In which of the following cities of British India was the Communist Party of India founded, in 1925?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Calcutta",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Lucknow",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Kanpur",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Delhi",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Communist Party of India was founded in Kanpur in 1925. It was established by revolutionaries including MN Roy.",
+        "tanglish": "Communist Party of India 1925-aam aandu Kanpur nagarathil sthapikkappattadhu. Idhu MN Roy poondu irundha punalthuli koottam moolamaaga sthapikkappattadhu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Who among the following won the '67th Filmfare Award 2022 for Best Choreography' for the film Atrangi Re?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Remo D'Souza",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Vijay Ganguly",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Farah Khan",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Prabhu Deva",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Vijay Ganguly won the 67th Filmfare Award 2022 for Best Choreography for the film Atrangi Re, specifically for the song 'Chaka Chak'.",
+        "tanglish": "Vijay Ganguly Atrangi Re padathirkaga 67-aam Filmfare Award 2022 Best Choreographyaward vanginaar. Migavum 'Chaka Chak' paattukaga thaan avargal inayattam seithu award vanginaar."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "During the census 2011, which of the following states recorded the lowest growth rate?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Nagaland",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Sikkim",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Uttar Pradesh",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Madhya Pradesh",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Nagaland recorded the lowest population growth rate during the 2011 Census, with a negative growth rate of -0.58%.",
+        "tanglish": "2011 Census-il Nagaland maanilathu matrulla maanilangalai vida adhigam negative growth rate (-0.58%) edam petru Indiaavil kammi saagasa vilaadchaalaiyai (lowest growth rate) eduthu kanbithadhu."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Which of the following statements is correct with regard to the effect of globalisation on India and other developing countries?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Flow of information became highly restricted.",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "It led to increased inequality between countries.",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Flow of international capital got restricted.",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "It reduced interdependence between countries.",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Globalisation has led to increased inequality between countries, as developed nations benefit more from global trade compared to developing nations.",
+        "tanglish": "Globalisation naadugal idaiyil aniyaayathai (inequality) perukkum. Valarndha naadugal ulaga viyabaarathil irundhu adhigam payan petrudan, valarum naadugal adhigam labikkavadhillai."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "According to the Planning Commission of India (2011-12), which state has the highest percentage of the population below the poverty line?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Chhattisgarh",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Assam",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Madhya Pradesh",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Bihar",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "According to the Planning Commission of India (2011-12), Chhattisgarh had the highest percentage of population below the poverty line at 39.93%.",
+        "tanglish": "India Planning Commission 2011-12 anumaanithathu prakaaram, Chhattisgarh maanilathil 39.93% perithanam jaanavarigal poverty line keel irukkiraar. Idhu Indiaavil adhigam aagum."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Guru Amubi Singh won the Sangeet Natak Akademi Award for which form of dance?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Manipuri",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Bihu",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Odissi",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Kathakali",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Guru Amubi Singh is a renowned Manipuri dancer who won the Sangeet Natak Akademi Award for his contributions to Manipuri dance.",
+        "tanglish": "Guru Amubi Singh prasiddhaana Manipuri nirtha kalagaraar. Avargal Manipuri nirthathukku seitha sevaiykalukaga Sangeet Natak Akademi Award vanginaar."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "The Teliaya Dam is located in which state of India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Andhra Pradesh",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Jharkhand",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Karnataka",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Rajasthan",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Teliaya Dam (also spelled Tilaiya Dam) is located in Jharkhand on the Barakar River. It is one of the first dams built under the Damodar Valley Corporation.",
+        "tanglish": "Teliaya Dam (Tilaiya Dam) Jharkhand maanilathil Barakar aatril amaikkappattulladhu. Idhu Damodar Valley Corporation kizha kattappatta muthal anaiyagalil ondru."
+      }
+    }
+  ]
+}

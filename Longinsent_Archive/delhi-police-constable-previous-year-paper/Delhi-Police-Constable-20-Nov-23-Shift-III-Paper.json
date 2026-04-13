@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-20-Nov-23-Shift-III-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 4,
+      "question_text": "Which of the following pairs is NOT correctly matched with respect to the player and sport?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Yogesh Kathuniya – Discuss throw",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Bhavina Patel – Para-shooting",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Nishad Kumar – High jump",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "LY Suhas – Para-badminton",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Bhavina Patel is a para table tennis player who won a silver medal at the Tokyo 2020 Paralympics, not a para-shooter. Yogesh Kathuniya is a discus thrower, Nishad Kumar is a high jumper, and Suhas LY is a para-badminton player, making option 2 the incorrectly matched pair.",
+        "tanglish": "Bhavina Patel oru para table tennis vilayattu vaathi (Tokyo 2020 Paralympics-il silver medal winnaiya). Avar para shooter illa. Yogesh Kathuniya discus throw vilayattu vaathi, Nishad Kumar high jump vilayattu vaathi, Suhas LY para-badminton vilayattu vaathi - ivai ellam sariyana jodigal."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Under which function of the Union Budget does the Government of India build roads and hospitals?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Stabilisation",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Redistribution",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Surplus generation",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Allocation",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The allocation function of the Union Budget involves distributing resources to different sectors for building infrastructure like roads and hospitals, providing public goods and services.",
+        "tanglish": "Union Budget-in allocation function, roads matrum hospitals pondra public infrastructure projects ku selvai seyyum. Ithu porulathara alokku (resource allocation) seivum oru mukkiyamaana function."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "As per the CMIE's report in December 2022, what was the unemployment rate of the urban population in India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "8.12%",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "10.09%",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "11.09%",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "12.03%",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "According to the Centre for Monitoring Indian Economy (CMIE), the unemployment rate in urban India was recorded at 10.09% in December 2022.",
+        "tanglish": "Centre for Monitoring Indian Economy (CMIE) report prakaram, December 2022-l India-il urban unemployment rate 10.09% ah irunthathu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Belgium won the Men's International Federation Hockey (FIH) 2018 World Cup, which was held in ________.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Australia",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "India",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Germany",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Belgium",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The 2018 Men's Hockey World Cup was held in Bhubaneswar, India from 28 November to 16 December 2018. Belgium won the tournament.",
+        "tanglish": "2018-aam aandu Men's Hockey World Cup India-vil Bhubaneswar-il November 28 muthal December 16 varai nadatha pattadhu. Belgium finals-il Netherlands-ai vettai adipathu ku meesai vaithu champion ai inam vanthadhu."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "Who among the following became the first Indian musician to be honoured with the Ramon Magsaysay award, which is considered to be Asia's Nobel Prize?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Lata Mangeshkar",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "MS Subbulakshmi",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Pandit Ravi Shankar",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Pandit Kumar Gandarva",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "M.S. Subbulakshmi became the first Indian musician to receive the Ramon Magsaysay Award in 1974 for her contributions to Indian classical music and her charitable work.",
+        "tanglish": "M.S. Subbulakshmi 1974-aam aandu Ramon Magsaysay Award parisu petta mudal Indian isaigara. Indian classical music-kku avar seitha thoguthikalukkaka matrum amaithi uthavi thurathalukkaka indha parisu alikkappattadhu."
+      }
+    },
+    {
+      "q_number": 9,
+      "question_text": "Which of the following organisations regulates international trade?",
+      "options": [
+        {
+          "id": "1",
+          "text": "UNICEF",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "UNESCO",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "IMF",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "WTO",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The World Trade Organization (WTO) is the global international organization dealing with the rules of trade between nations and regulates international trade.",
+        "tanglish": "World Trade Organization (WTO) antarjatheeya vaniga thathuva parivattanathin sattangalai nadathi koluthum oru ulaga alavu amaipu. Ithu naadugalukku idaiyana vaniga thathuva tharkala niyamangalai regulate seyyum."
+      }
+    },
+    {
+      "q_number": 10,
+      "question_text": "भारत के पश्चिमी तटीय क्षेत्रोंों में मानसून का मौसम समाप्त होने के उपलक्ष्य में हिंदू माह श्रावण के आखिरी दिन कौन सा पर्व मनाया जाता है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "नराली पूर्णिमा",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "कोजागिरी पूर्णिमा",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "साम्बा दशमी",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "गुरु पूर्णिमा",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Narali Purnima is celebrated on the full moon day of Shravan month (Shravan Purnima) in the western coastal regions of India, particularly by fishing communities in Maharashtra, marking the end of the monsoon season.",
+        "tanglish": "Narali Purnima (Thengai thirunal) Shravan maasathin poornami naal India-il maraivil kadarkarai pradesangalil, visheshikka Maharashtra-il meen pidikkum samudhaya makkalal kondadappadum. Ithu mazhai kaala mudivai kurithu kondadappadum."
+      }
+    }
+  ]
+}

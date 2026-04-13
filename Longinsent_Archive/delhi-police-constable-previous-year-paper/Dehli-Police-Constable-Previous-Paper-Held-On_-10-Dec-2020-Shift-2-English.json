@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "Dehli-Police-Constable-Previous-Paper-Held-On_-10-Dec-2020-Shift-2-English.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Who among the following is the author of the book 'Angry River'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Tom Alter",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "RK Narayan",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Khushwant Singh",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Ruskin Bond",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "'Angry River' is a famous children's novel written by Ruskin Bond. It was first published in 1972 and tells the story of a young girl named Sita who faces challenges during a monsoon flood.",
+        "tanglish": "'Angry River' endra puthagathai Ruskin Bond ezhudiyullar. Idhu 1972 varudathil veliyidappattadhu. Idhu Siruvargalukkaana famaana novel agum."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "For how many days did Mahatma Gandhi and his team of volunteers walk for the Dandi March?",
+      "options": [
+        {
+          "id": "1",
+          "text": "31 days",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "15 days",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "24 days",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "11 days",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Dandi March (Salt March) lasted for 24 days, from March 12, 1930, to April 6, 1930. Gandhi walked approximately 241 miles from Sabarmati Ashram to Dandi.",
+        "tanglish": "Dandi yathirai (Uppu yathirai) March 12, 1930 mudhal April 6, 2030 varai 24 naatkal nadandhadhu. Gandhi Sabarmati ashramilirundhu Dandi varai 241 miles dhoorathai nadandhu ponargal."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Who among the following became the first Indian to win the Best Actor Award at the Norwegian National Awards?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Irrfan Khan",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Adil Hussain",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Salman Khan",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Amir Khan",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Adil Hussain won the Amanda Award for Best Actor at the Norwegian National Film Awards in 2017 for his role in the film 'What Will People Say', becoming the first Indian actor to receive this honor.",
+        "tanglish": "Adil Hussain 'What Will People Say' endra Norway padathil nadithadhu kaga 2017 varudathil Amanda Awardai (Best Actor) petrullar. Ivan Norway desiya cinemai awardil jeithu mudhal Indian nadigan."
+      }
+    }
+  ]
+}

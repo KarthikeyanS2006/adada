@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-7-December-2020-Shift-3-Hindi.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "नागरहोल राष्ट्रीय उद्यान ______ में स्थित है।",
+      "options": [
+        {
+          "id": "1",
+          "text": "तमिलनाडु",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "गोवा",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "अरुणाचल प्रदेश",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "कर्नाटक",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Nagarhole National Park is located in the state of Karnataka. It is also known as Rajiv Gandhi National Park and is part of the Nilgiri Biosphere Reserve.",
+        "tanglish": "Nagarhole National Park Karnataka maanilathil ulladhu. Idhu Rajiv Gandhi National Park endum ariyapadugiradhu, Nilgiri Biosphere Reserve-il pagam indha park."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "1820 में, थॉमस मुनरो ने निम्नलिखित में से कौन सी लगान व्यवस्था आरंभ की थी?",
+      "options": [
+        {
+          "id": "1",
+          "text": "ज़मींदारी",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "जागीरी",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "रैयतवाड़ी",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "महालवाड़ी",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Thomas Munro, the Governor of Madras, introduced the Ryotwari system in 1820. Under this system, revenue was collected directly from the cultivators (ryots) without any intermediary.",
+        "tanglish": "Thomas Munro, Madras Governor-aga panniyatu seithavar, 1820-aamai Ryotwari vari thittathai arambithaar. Indha thittathil, adimaiyaga velai seivavigal (ryots) idam direct-aga vari kuttappattadhu, yarum madhyasthan illamal."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "गांधार कला शैली ______ कला से प्रभावित थी।",
+      "options": [
+        {
+          "id": "1",
+          "text": "कोरियाई और मंगोलियाई",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "फारसी और तुर्क",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "चीनी और जापानी",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "यूनानी और रोमन",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Gandhara art flourished in the northwestern Indian subcontinent and was heavily influenced by Greek (Greco-Roman) artistic traditions following Alexander the Great's conquests.",
+        "tanglish": "Gandhara kalai Indiavin vadakku paagathil palandadaindhadhu. Idhu Greek (Yunaani) matrum Roma kalai murai-kalin moolamaga athigamaaga pabala paduthapattadhu, Alexander peru vijayangalin pinbu."
+      }
+    }
+  ]
+}

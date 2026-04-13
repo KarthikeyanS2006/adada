@@ -1,0 +1,337 @@
+{
+  "document_info": {
+    "exam_name": "DP-Constable-9-Dec-2020-S-2.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "आर्थिक मामलों की मंत्रिमंडलीय समिति (CCEA) ने विपणन सत्र 2020 - 2021 हेतु A ग्रेड वाले धान के लिए ______ रुपये प्रति कुंतल न्यूनतम समर्थन मूल्य (MSP) निर्धारित किया है।",
+      "options": [
+        {
+          "id": "1",
+          "text": "₹1,868",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "₹1,888",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "₹2,150",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "₹2,640",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Cabinet Committee on Economic Affairs (CCEA) approved the Minimum Support Price (MSP) for Kharif crops for marketing year 2020-21. For Grade A paddy, the MSP was fixed at ₹1,888 per quintal while for common paddy it was ₹1,868.",
+        "tanglish": "Arasangaththin aarthika maattra koottatchi (CCEA), 2020-21 vippanana aandukkaaka Grade A nellikku (paddy) ₹1,888 mutivu vila (MSP) nirnayithathu. Sadharana nellikku ₹1,868."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "The ﬁrst session of the Indian National Congress was held at ______ in 1885.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Bombay (Now Mumbai)",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Allahabad (Now Prayagraj)",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Calcutta (Now Kolkata)",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Madras (Now Chennai)",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The first session of the Indian National Congress was held from 28-31 December, 1885 at Gokuldas Tejpal Sanskrit College in Bombay (now Mumbai) with W.C. Bonnerji as the first President.",
+        "tanglish": "Indian National Congress nadaththa muthal mandram December 28-31, 1885 maatuṟaiyiṉpōtu Mumbaiyil (appōḷ Bombay) nadandathu. W.C. Bonnerji avaraḷar muthal adhyakṣarāki irundhaar."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "The Gandhara School of Art was inﬂuenced by ______ art.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Korean and Mongolian",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Persian and Turkish",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Greek and Roman",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Chinese and Japanese",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Gandhara School of Art developed in the Gandhara region (present-day Pakistan and Afghanistan) during the Kushan period. It was greatly influenced by Greek and Roman art styles due to Alexander's invasion and the subsequent Greco-Bactrian rule.",
+        "tanglish": "Gandhara kalai palli Kushan kaalathil Gandhara naattil (ippōḷ Pakistan/Afghanistan) viraintathu. Idhu Greek matrum Roman kalaiyāl kuḷaipaṭṭaṭṭa saayalam udaithu, ivai Alexander aagkkuṟinam matrum Greco-Bactrian aatchi nāṭṭiyatṟathāl."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Taxonomic studies consider a group of individual organisms with fundamental similarities as a/an ______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "order",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "species",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "family",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "class",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "In taxonomy, species is the basic unit of classification. It is defined as a group of living organisms consisting of similar individuals capable of exchanging genes or interbreeding.",
+        "tanglish": "Taxonomyil, ondṟānudaṉ mūla vittiyaasaṅgaḷ uḷḷa jīvaṅgaḷin kūṭṭaththai 'pasi' (species) endṟu sollukiṟārkaḷ. Idhu jeeva variyippeetṭin mūla aṇi."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "As on June 2020, in which of the following places of India are coins minted by the Government of India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Alipore",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Cuttack",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Indore",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Gurugram",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Government of India mints coins at four locations: Mumbai (Maharashtra), Kolkata (West Bengal - located at Alipore), Hyderabad (Telangana), and Noida (Uttar Pradesh). Alipore is the location of the Kolkata mint.",
+        "tanglish": "India arasangam nāṇayaṅkaḷai naalu sthalangaḷil iṭikkikṟathu: Mumbai, Kolkata (Alippoṟil uḷḷatu), Hyderabad matrum Noida. Alippoṟ endrathu Kolkata nāṇaya iṭikkaṭai."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "As of 2020, which of the following is a non-BJP ruled state?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Uttarakhand",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Andhra Pradesh",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Madhya Pradesh",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Karnataka",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "As of 2020, Andhra Pradesh was ruled by the YSR Congress Party (YSRCP) under Chief Minister Y.S. Jagan Mohan Reddy. Uttarakhand, Madhya Pradesh, and Karnataka had BJP governments.",
+        "tanglish": "2020il, Andhra Pradesh YSR Congress kaṭciyin aatchiyil (mudalvar Jagan Mohan Reddy) irundhathu. Uttarakhāṇṭ, Madhya Pradesh matrum Karnataka BJP aatchiyil irundhathu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "With reference to human physiology, which of the following lobes is mainly concerned with visual information?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Occipital",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Temporal",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Parietal",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Frontal",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The occipital lobe is located at the back of the brain and is the primary visual processing center. It receives sensory information from the retinas and is responsible for processing visual stimuli.",
+        "tanglish": "Manitha mūḷaiyil pinpoṟattuḷḷa occipital lobe dṛṣṭi thagavalaik kattupaatu seyyum pradhaana paṭu. Idhu kaṇṇa retina-virundu varum samikaḷaik karuvalithu dṛṣṭi uyarkalkaḷaik saeparrukum."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "Which of the following pairs is INCORRECTLY matched?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Mirza Mohammad Qasim : Shahjahan Nama",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Abul Fazl : Akbarnama",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Gulbadan Begum : Humayun Nama",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Abdul Hamid Lahori : Padshahnama",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Shahjahan Nama was written by Inayat Khan, not Mirza Mohammad Qasim. Abul Fazl wrote Akbarnama, Gulbadan Begum (Babur's daughter) wrote Humayun Nama, and Abdul Hamid Lahori wrote Padshahnama during Shah Jahan's reign.",
+        "tanglish": "Shahjahan Nama endra pusthagaththai Inayat Khan ezhutha, Mirza Mohammad Qasim alla. Abul Fazl Akbarnama, Gulbadan Begum Humayun Nama matrum Abdul Hamid Lahori Padshahnama ezhutiṉār."
+      }
+    },
+    {
+      "q_number": 9,
+      "question_text": "Which of the following pairs is INCORRECT?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Tamaasha – Uttarakhand",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Maach – Madhya Pradesh",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Mudiyettu – Kerala",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Bhavai – Gujarat",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Tamaasha is a traditional folk theatre form from Kashmir, not Uttarakhand. Maach is from Madhya Pradesh, Mudiyettu is a ritual theatre from Kerala, and Bhavai is a folk theatre from Gujarat.",
+        "tanglish": "Tamaasha endra kalaigaḷ Kashmirin nāṭṭupura naatakam, Uttarakhand alla. Maach Madhya Pradeshil, Mudiyettu Keralaavil matrum Bhavai Gujaratil uḷḷa naataka vagaikaḷ."
+      }
+    },
+    {
+      "q_number": 10,
+      "question_text": "In the context of tennis, what is the nationality of Steﬃ Graf?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Canada",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Australia",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Germany",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "USA",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Steffi Graf is a retired German professional tennis player. She is one of the greatest tennis players of all time, having won 22 Grand Slam singles titles and completing the Golden Slam (all four Grand Slams plus Olympic gold) in 1988.",
+        "tanglish": "Steffi Graf oru Germany naatṭu tennis viḷaiyāṭṭakkaari. Aval thanina Grand Slam viḷaiyāṭṭangaḷil 22 veṟṟikaḷaiyum 1988il Golden Slam (naalu Grand Slam + Olympic pon) puriya vāṅgiyavaḷ."
+      }
+    },
+    {
+      "q_number": 11,
+      "question_text": "As of August 2020, how many classical dance forms exist in India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "8",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "As recognized by Sangeet Natak Akademi, there are eight classical dance forms in India: Bharatanatyam, Kathak, Kathakali, Kuchipudi, Manipuri, Mohiniyattam, Odissi, and Sattriya.",
+        "tanglish": "Sangeet Natak Akademi aṟiviththakkathupadi Indiaavil 8 saanga naatakaṅgaḷ (classical dance) uṇṇai: Bharatanatyam, Kathak, Kathakali, Kuchipudi, Manipuri, Mohiniyattam, Odissi, matrum Sattriya."
+      }
+    }
+  ]
+}

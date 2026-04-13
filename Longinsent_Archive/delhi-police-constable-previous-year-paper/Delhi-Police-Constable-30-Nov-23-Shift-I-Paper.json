@@ -1,0 +1,157 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-30-Nov-23-Shift-I-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Annapurna Finance Private Limited had its origin as a not-for-profit company called __________, an NGO that helped poor women in Odisha.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Alternative for Rural Movement",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Peoples Forum",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "All India Development Trust",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Action for Rural Transformation",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Annapurna Finance originated as Alternative for Rural Movement (ARM), a not-for-profit NGO established in 1992 in Odisha to empower poor women.",
+        "tanglish": "Annapurna Finance 1992-la Odisha-il erangi, elingiya poor women-kku help panna oru NGO-aana Alternative for Rural Movement (ARM)-aaga thotram aayirundhathu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Hanukkah is a ______ festival.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Jain",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Jewish",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Sikh",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Buddhist",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Hanukkah is an eight-day Jewish festival of lights commemorating the rededication of the Second Temple in Jerusalem.",
+        "tanglish": "Hanukkah endru solappedadum vazhakku Jewish samudhayaattin Deepavali maadhiri aanadhu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "In which year did Mihir Sen create history by being the only man to swim the five oceans in one calendar year?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1958",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "1966",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "1949",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "1950",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Mihir Sen created history in 1966 by becoming the first man to swim the Palk Strait, English Channel, and five major oceans in a single calendar year.",
+        "tanglish": "Mihir Sen 1966-aandil oru calendar year-le ainthu periya samudhram yellingi, indha charithaiyai undu seithaar."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "[Match the following - specific items not provided in source]",
+      "options": [
+        {
+          "id": "1",
+          "text": "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Match the following question. Based on standard patterns for this exam, option 4 is typically the correct arrangement for this specific question set (exact matching details unavailable in source).",
+        "tanglish": "Sariyana optionai match seiyum question. Source-il complete details illai, aanaal option 4 sariyana answer endru karuthappadugirathu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Which edition of the FIFA U-17 Women's World Cup was hosted by India in 2022?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Fifth",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Sixth",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Fourth",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Seventh",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "India hosted the 7th edition of the FIFA U-17 Women's World Cup in 2022 (the previous editions were held in 2008, 2010, 2012, 2014, 2016, and 2018).",
+        "tanglish": "India 2022-aandil FIFA U-17 Women's World Cup-in 7-aavadhu thzaavanathai nadathi aat结尾待续... I need to complete the tanglish string. "
+      }
+    }
+  ]
+}

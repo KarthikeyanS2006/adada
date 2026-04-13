@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-Exe.-Paper-Held-on-14-Nov-2023-S3.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Cashpor Micro credit is a company that does NOT operate in the most backward districts of ____________________.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Bihar",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Chhattisgarh",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Telangana",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Jharkhand",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Cashpor Micro Credit operates in the backward districts of Bihar, Chhattisgarh, and Jharkhand, but does not operate in Telangana.",
+        "tanglish": "Cashpor Micro Credit company Bihar, Chhattisgarh, Jharkhand maanila pasumpettu districts la work seiyuthu aanal Telangana la work seiyathu illa."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Which Article of the Constitution of India states that the President shall appoint judges of the Supreme Court under his hand and seal after consultation with such of the judges of the Supreme Court as the President may deem necessary?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Article 124 (2)",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Article 120 (2)",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Article 134 (2)",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Article 142(2)",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Article 124(2) of the Indian Constitution deals with the appointment of Supreme Court Judges by the President of India.",
+        "tanglish": "India Arasangam Article 124(2) President Supreme Court judges appoint seivathu pathi solla ennai."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Which of the following was replaced by the Green Revolution?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Use of inorganic manures",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Use of seeds supplied by the government",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Use of groundwater for irrigation",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Use of organic manures",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The Green Revolution replaced traditional farming methods including the use of organic manures with chemical fertilizers and high-yielding variety seeds.",
+        "tanglish": "Green Revolution natural pourul use pandratha stop panni chemical fertilizers matrum high yield seeds use pannathu."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "According to Census of India 2011, the growth rate of Hindu population in the decade 2001-2011 was ___________.",
+      "options": [
+        {
+          "id": "1",
+          "text": "10.0%",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "16.8%",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "20.1%",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "8.6%",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "According to Census of India 2011, the Hindu population growth rate during 2001-2011 was approximately 16.76%, rounded off as 16.8%.",
+        "tanglish": "2011 Census anusam Hindu janapatham 2001-2011 kadalavasapthil 16.8% growth rate eduthirundhathu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "In which of the following years Cripps Mission offered Dominion Status to India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1942",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "1934",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "1939",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "1945",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Cripps Mission was sent to India in March 1942 under Sir Stafford Cripps to offer Dominion Status to India.",
+        "tanglish": "Cripps Mission 1942 varutham India ku Dominion Status offer seithathu."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Which syndrome causes a thick hump between the shoulders, a round face and pink or purple stretch marks on the skin?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Down syndrome",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Angelman syndrome",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Cushing syndrome",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Marfan syndrome",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Cushing syndrome is characterized by a fatty hump between the shoulders (buffalo hump), moon face, and purple striae on the skin due to excess cortisol.",
+        "tanglish": "Cushing syndrome nizhalal buffalo hump, round face, pink or purple skin marks ithuvarai symptoms irukkum."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "After independence, who had complete control over the established industries?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Private sector",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Foreign investors",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Britishers",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Government",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "After independence, the Government of India took control over major industries under the Public Sector, following the Industrial Policy Resolution.",
+        "tanglish": "Swathanthram pinnar Arasu established industries meedhu complete control eduthukondathu."
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "document_info": {
+    "exam_name": "EPFO-SSA-Previous-Year-Paper-2019.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "What could be the main reason for the revision of the rating for India from stable to negative by Moody's?",
+      "options": [
+        {
+          "id": "1",
+          "text": "The World Trade Organization (WTO) is facing an unprecedented existential crisis.",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Liquidity crunch in non-banking financial companies in the country.",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "GST and demonetization may have been the cause of the economic slowdown.",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "The on-going economic slowdown with its repercussions on the fiscal deficit and borrowings taken by the country.",
+          "is_correct": true
+        },
+        {
+          "id": "5",
+          "text": "None of these.",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "According to the passage, Moody's revised the outlook due to the ongoing economic slowdown. The text explicitly states that 'The growth slowdown and its effects on the fiscal deficit and borrowings are the main worries.'",
+        "tanglish": "Passage la solra prakaram, Moody's India's economic slowdown naala thaan sovereign rating outlook ah stable lendhu negative ku maathinaanga. Ithula sirandha worry enna na 'The growth slowdown and its effects on the fiscal deficit and borrowings' nu solli irukaanga."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "What are the steps taken by the government to revive the economy?",
+      "options": [
+        {
+          "id": "1",
+          "text": "By giving concession on corporate taxes.",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "The government eased the procedure for seeking income tax exemption by startups on investments from angel funds",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Expediting the expenditure on capital projects.",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Both (a) & (b)",
+          "is_correct": false
+        },
+        {
+          "id": "5",
+          "text": "Both (a) & (c)",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The passage mentions two specific steps taken by the government: pushing expenditure on capital projects and giving away corporate tax concessions amounting to ₹1.45 lakh crore. Option (b) regarding startups is not mentioned in the passage.",
+        "tanglish": "Government eduthurukka rendu steps: 1) capital projects ku expenditure ah increase panni irukaanga, 2) corporate tax concessions kuduthurukaanga (₹1.45 lakh crore). Startup angle funds pathi solra option (b) ithula mention pannala."
+      }
+    }
+  ]
+}

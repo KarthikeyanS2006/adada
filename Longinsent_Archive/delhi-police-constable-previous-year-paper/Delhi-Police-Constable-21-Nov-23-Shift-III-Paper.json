@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-21-Nov-23-Shift-III-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Pandit Birju Maharaj, Padma Bhushan awardee, was a globally renowned dancer of which of the following gharanas of Kathak?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Kalka-Bindadin",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Raigarh",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Janaki Prasad",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Jaipur",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Pandit Birju Maharaj was a legendary Kathak dancer who belonged to the Lucknow gharana, also known as the Kalka-Bindadin gharana. He was a recipient of the Padma Bhushan and was renowned globally for his contributions to Indian classical dance.",
+        "tanglish": "Pandit Birju Maharaj prasiddhamaana Kathak natar. Avar Kalka-Bindadin (Lucknow) gharanathai sonthithavar. Padma Bhushan viruthu paadhithavar."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "In which of the following cases is a member of the State Legislature NOT required to vacate his/her seat?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Disqualification",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Double membership",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Absence for a week without permission",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Resignation",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "A member of the State Legislature must vacate their seat in cases of disqualification, double membership (being a member of two houses simultaneously without permission), or resignation. However, absence for just one week without permission does not require vacation of the seat; typically, absence for 60 consecutive days without permission leads to vacation under Article 190(3) of the Constitution.",
+        "tanglish": "State Legislature member seat ozhiyanum nu sattam ullathu: Disqualification aanal, Double membership (rendu house um serndhirundhaal) aanal, illai resignation kuduthaal. Oru vaaram velai illama irundhaal seat ozhiyaadhu; 60 naatkal mela illama irundhaal dhan ozhiyum."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Name the monument constructed by Akbar in 1575 to celebrate his victory over Gujarat.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Jama Masjid",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Buland Darwaja",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Sheikh Salim Chisti Dargah",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Panch Mahal",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Buland Darwaza was constructed by Mughal Emperor Akbar in 1575 to commemorate his victory over Gujarat. It is located at Fatehpur Sikri and is regarded as one of the highest gateways in the world, showcasing magnificent Mughal architecture.",
+        "tanglish": "Buland Darwaza Akbar 1575 la Gujarat vijayathai kondadathuku katti. Idhu Fatehpur Sikri la ullathu, ulagin uyarntha kathuvasam idhu."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "What does 'E' stand for in SEBI?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Electronic",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Electronically",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Exchange",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Energy",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "SEBI stands for Securities and Exchange Board of India. It is the regulatory body for securities and commodity markets in India, established to protect investors and regulate the securities market.",
+        "tanglish": "SEBI nu varradhu Securities and Exchange Board of India. 'E' letter Exchange nu artham. Idhu India share market regulator."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Pandit Bhimsen Joshi is associated with the ________.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Banaras gharana",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Patiala gharana",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Agra gharana",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Kirana gharana",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Pandit Bhimsen Joshi was a legendary Hindustani classical vocalist belonging to the Kirana gharana. He was renowned for his unique style of khayal singing and was awarded the Bharat Ratna in 2008.",
+        "tanglish": "Pandit Bhimsen Joshi Kirana gharanathai sonthithavar. Avar Hindustani classical music la periyavar, Bharat Ratna award winner."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "The 'Kachin Manaw Festival' is associated with which of the following countries?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Maldives",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Myanmar",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Sri Lanka",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Pakistan",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Kachin Manaw Festival is celebrated in Myanmar (formerly Burma) by the Kachin ethnic community. It is a colorful festival featuring traditional Manaw poles and dances, marking the new year and unity among the Kachin people.",
+        "tanglish": "Kachin Manaw Festival Myanmar desathil (Burma) Kachin makkal kondadum vizha. Idhu avar samaya tradition festival."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Which of the following is NOT a primary objective of the Special Economic Zone?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Development of infrastructure",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Providing employment",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Promoting export",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Promoting clean technology",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The primary objectives of Special Economic Zones (SEZ) under the SEZ Act include development of infrastructure, generation of employment opportunities, and promotion of exports. Promoting clean technology, while environmentally beneficial, is not listed as a primary objective of SEZs.",
+        "tanglish": "SEZ kku mukyamaana udesangal: infrastructure development, velai vaaippu kalpithal, export promotion. Clean technology promote seyyathu primary objective illa."
+      }
+    }
+  ]
+}
