@@ -1,82 +1,89 @@
 import os
+import json
 import requests
-import urllib3
+import fitz  # PyMuPDF
+import google.generativeai as genai
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
+import time
 
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-
-# The hub for all previous year papers
-START_URL = "https://www.adda247.com/jobs/previous-year-question-papers/"
+# --- CONFIGURATION ---
 BASE_DIR = "Longinsent_Archive"
-BATCH_LIMIT = 80 
+API_KEYS = [
+    "AIzaSyDKjnVYKIUb9Cg2odXQU5aaQhkldu7e9Kc",
+    "AIzaSyChGoGU6QGFFrmbodka8i7cGfMG2xVWeLE"
+]
+current_key_index = 0
 
-def download_batch():
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
-        'Referer': 'https://www.adda247.com/'
-    }
-    
-    download_count = 0
-    os.makedirs(BASE_DIR, exist_ok=True)
-    visited_pages = set()
+def get_model():
+    global current_key_index
+    genai.configure(api_key=API_KEYS[current_key_index])
+    return genai.GenerativeModel('gemini-1.5-flash')
 
-    print(f"--- Crawling Hub: {START_URL} ---")
+def rotate_key():
+    global current_key_index
+    current_key_index = (current_key_index + 1) % len(API_KEYS)
+    print(f"--- Switched to API Key {current_key_index} ---")
+
+def process_with_ai(raw_text):
+    model = get_model()
+    prompt = f"""
+    Convert this exam text into a JSON object. 
+    Format:
+    {{
+      "document_info": {{ "exam_name": "Detect from text", "exam_year": 2024 }},
+      "archive_data": [
+        {{
+          "q_number": 1,
+          "question_text": "...",
+          "options": [{{ "id": "1", "text": "...", "is_correct": true }}],
+          "explanation": {{ "english": "...", "tanglish": "..." }}
+        }}
+      ]
+    }}
+    Text: {raw_text[:4000]} 
+    """
     try:
-        response = requests.get(START_URL, headers=headers, timeout=30)
-        soup = BeautifulSoup(response.text, 'html.parser')
-        
-        # Find all article/job links on the hub page
-        job_links = [urljoin(START_URL, a['href']) for a in soup.find_all('a', href=True) 
-                     if "/jobs/" in a['href'] or "/exams/" in a['href']]
-        
-        # Remove duplicates
-        job_links = list(set(job_links))
-        print(f"Found {len(job_links)} potential sub-pages. Starting deep scan...")
-
-        for sub_url in job_links:
-            if download_count >= BATCH_LIMIT:
-                break
-            if sub_url in visited_pages:
-                continue
-
-            print(f"Scanning sub-page: {sub_url}")
-            try:
-                sub_res = requests.get(sub_url, headers=headers, timeout=20)
-                visited_pages.add(sub_url)
-                sub_soup = BeautifulSoup(sub_res.text, 'html.parser')
-                
-                # Look for PDF links on the sub-page
-                for link in sub_soup.find_all('a', href=True):
-                    href = link['href'].split('?')[0]
-                    if href.lower().endswith('.pdf'):
-                        pdf_url = urljoin(sub_url, href)
-                        
-                        # Clean filename and organize
-                        file_name = pdf_url.split('/')[-1]
-                        # Create a folder based on the job type (from the sub_url slug)
-                        folder_name = sub_url.split('/')[-2] if sub_url.endswith('/') else sub_url.split('/')[-1]
-                        save_path = os.path.join(BASE_DIR, folder_name)
-                        os.makedirs(save_path, exist_ok=True)
-                        
-                        final_file = os.path.join(save_path, file_name)
-
-                        if not os.path.exists(final_file):
-                            print(f"[{download_count+1}/{BATCH_LIMIT}] Downloading: {file_name}")
-                            r = requests.get(pdf_url, headers=headers, stream=True, timeout=30)
-                            if r.status_code == 200:
-                                with open(final_file, 'wb') as f:
-                                    for chunk in r.iter_content(chunk_size=8192):
-                                        f.write(chunk)
-                                download_count += 1
-                                if download_count >= BATCH_LIMIT:
-                                    return
-            except Exception as e:
-                print(f"Skipping page {sub_url} due to error.")
-                continue
-
+        response = model.generate_content(prompt)
+        # Clean JSON from markdown
+        clean_json = response.text.replace('```json', '').replace('```', '').strip()
+        return json.loads(clean_json)
     except Exception as e:
-        print(f"Critical Error: {e}")
+        print(f"AI Error: {e}. Rotating key...")
+        rotate_key()
+        return None
+
+def full_pipeline():
+    # Step 1: Walk through the repository
+    for root, dirs, files in os.walk(BASE_DIR):
+        for file in files:
+            if file.endswith(".pdf"):
+                pdf_path = os.path.join(root, file)
+                json_path = pdf_path.replace(".pdf", ".json")
+
+                # Skip if already processed
+                if os.path.exists(json_path):
+                    continue
+
+                print(f"Processing: {file}")
+                
+                # Step 2: Extract Text
+                try:
+                    doc = fitz.open(pdf_path)
+                    full_text = ""
+                    for page in doc[:3]: # Limit to first 3 pages to save tokens
+                        full_text += page.get_text()
+                    
+                    # Step 3: AI Magic
+                    json_data = process_with_ai(full_text)
+                    
+                    if json_data:
+                        with open(json_path, 'w', encoding='utf-8') as f:
+                            json.dump(json_data, f, indent=2, ensure_ascii=False)
+                        print(f"Successfully created JSON for {file}")
+                        time.sleep(2) # Prevent spamming
+                except Exception as e:
+                    print(f"Failed to process {file}: {e}")
 
 if __name__ == "__main__":
-    download_batch()
+    full_pipeline()
