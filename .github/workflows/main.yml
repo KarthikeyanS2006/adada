@@ -18,11 +18,11 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
-        python-version: '3.11' # Upgraded from 3.10 to 3.11
+        python-version: '3.11'
 
     - name: Install Libs
       run: |
-        pip install requests beautifulsoup4 pymupdf google-genai # Changed to the modern SDK
+        pip install requests beautifulsoup4 pymupdf openai # Use openai here
 
     - name: Run Scraper & Processor
       run: python scraper.py
@@ -33,7 +33,7 @@ jobs:
         git config --global user.email "bot@longinset.com"
         git add .
         if [ -n "$(git status --porcelain)" ]; then
-          git commit -m "Auto-update: Processed new exam PDFs to JSON"
+          git commit -m "Auto-update: Processed new exam PDFs with OpenRouter"
           git push
         else
           echo "No changes."
