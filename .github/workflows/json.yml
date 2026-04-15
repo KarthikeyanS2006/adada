@@ -1,0 +1,37 @@
+name: Organize JSON Files
+
+on:
+  push:
+    branches:
+      - main  # or your default branch name
+  workflow_dispatch: # Allows you to run this manually
+
+jobs:
+  move-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Create folder and move files
+        run: |
+          # Create the directory if it doesn't exist
+          mkdir -p "json filees"
+          
+          # Find all .json files, excluding the target folder itself to avoid loops
+          # Then move them into the target folder
+          find . -maxdepth 2 -name "*.json" ! -path "./json filees/*" -exec mv {} "./json filees/" \;
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          
+          # Only commit if there are actually changes to avoid workflow errors
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Automated: Moved JSON files to json filees folder"
+            git push
+          fi
