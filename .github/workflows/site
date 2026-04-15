@@ -1,0 +1,36 @@
+name: Batch PDF Scraper
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily, or change to your preference
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  scrape_and_upload:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install Dependencies
+      run: |
+        pip install requests beautifulsoup4
+
+    - name: Run Scraper
+      run: python site.py
+
+    - name: Commit and Push Batched Files
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add downloads/*.pdf
+        
+       
