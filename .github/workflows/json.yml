@@ -3,8 +3,8 @@ name: Organize JSON Files
 on:
   push:
     branches:
-      - main  # or your default branch name
-  workflow_dispatch: # Allows you to run this manually
+      - main
+  workflow_dispatch:
 
 jobs:
   move-json:
@@ -12,26 +12,32 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          # Fetches all history so git can push changes back
+          fetch-depth: 0
 
       - name: Create folder and move files
         run: |
-          # Create the directory if it doesn't exist
+          # Create the directory
           mkdir -p "json filees"
           
-          # Find all .json files, excluding the target folder itself to avoid loops
-          # Then move them into the target folder
-          find . -maxdepth 2 -name "*.json" ! -path "./json filees/*" -exec mv {} "./json filees/" \;
+          # find . -type f : Look for files
+          # -iname "*.json" : Case-insensitive (catches .json and .JSON)
+          # ! -path "./json filees/*" : Don't move files already in the target
+          # ! -path "./.github/*" : Don't move your workflow files
+          find . -type f -iname "*.json" ! -path "./json filees/*" ! -path "./.github/*" -exec mv -v {} "./json filees/" \;
 
       - name: Commit and Push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
           git add .
           
-          # Only commit if there are actually changes to avoid workflow errors
+          # Check if there are actual changes to avoid errors when the repo is already clean
           if git diff --staged --quiet; then
-            echo "No changes to commit"
+            echo "No changes found to move."
           else
-            git commit -m "Automated: Moved JSON files to json filees folder"
+            git commit -m "Automated: Moved all JSON files to 'json filees' folder"
             git push
           fi
