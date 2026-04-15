@@ -1,46 +1,173 @@
-name: Batch PDF Scraper
+name: Scrape & Upload SSC Papers
 
 on:
-  workflow_dispatch: # Allows you to run it manually from the Actions tab
-  schedule:
-    - cron: '0 0 * * *' # Optional: Runs automatically every day at midnight
+  workflow_dispatch:
+    inputs:
+      batch_number:
+        description: 'Batch number to process (1-50, or "all")'
+        required: true
+        default: 'all'
+      force_rescrape:
+        description: 'Force fresh scrape'
+        required: false
+        default: 'false'
 
 jobs:
-  scrape_and_upload:
+  scrape:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
+    outputs:
+      total_pdfs: ${{ steps.scrape.outputs.total_pdfs }}
+      batch_count: ${{ steps.scrape.outputs.batch_count }}
+    
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v4
-      with:
-        fetch-depth: 0 # Fetches all history so it knows which files already exist
+      - name: Checkout
+        uses: actions/checkout@v4
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
-    - name: Install Dependencies
-      run: |
-        pip install requests beautifulsoup4
+      - name: Install dependencies
+        run: |
+          pip install requests selenium webdriver-manager beautifulsoup4
 
-    - name: Run Scraper
-      run: python site.py
+      - name: Install Chrome
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
 
-    - name: Commit and Push Changes
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        
-        # This adds ALL new folders (SSC_GD, SSC_CGL, etc.) automatically
-        git add .
-        
-        # Check if there are actually new files to avoid 'nothing to commit' errors
-        if git diff --cached --quiet; then
-          echo "No new PDFs found in this batch."
-        else
-          git commit -m "Automated Batch: Added 50 new exam PDFs"
-          git push
-        fi
+      - name: Scrape PDFs
+        id: scrape
+        run: |
+          python scraper.py
+        env:
+          FORCE_RESCRAPE: ${{ inputs.force_rescrape }}
+
+      - name: Upload batch metadata
+        uses: actions/upload-artifact@v4
+        with:
+          name: batch-metadata
+          path: batch_metadata.json
+
+      - name: Upload each batch as separate artifact
+        run: |
+          for dir in batches/batch_*; do
+            batch_name=$(basename "$dir")
+            batch_num=$(echo "$batch_name" | grep -o '[0-9]*')
+            echo "Uploading $batch_name as batch_$batch_num"
+            if [ -d "$dir" ] && [ "$(ls -A $dir)" ]; then
+              mv "$dir" "batches/batch_$batch_num"
+              zip -r "batch_$batch_num.zip" "batches/batch_$batch_num"
+              rm -rf "batches/batch_$batch_num"
+            fi
+          done
+          ls -la
+
+      - name: Upload batch artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: batches-all
+          path: batch_*.zip
+          retention-days: 1
+
+  upload-batch:
+    needs: scrape
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        batch: [01, 02, 03, 04, 05, 06, 07, 08, 09, 10,
+                11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
+                21, 22, 23, 24, 25, 26, 27, 28, 29, 30,
+                31, 32, 33, 34, 35, 36, 37, 38, 39, 40,
+                41, 42, 43, 44, 45, 46, 47, 48, 49, 50]
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download batch metadata
+        uses: actions/download-artifact@v4
+        with:
+          name: batch-metadata
+
+      - name: Determine batch to upload
+        id: check_batch
+        run: |
+          INPUT_BATCH="${{ inputs.batch_number }}"
+          if [ "$INPUT_BATCH" != "all" ]; then
+            BATCH_NUM=$(printf "%02d" $INPUT_BATCH)
+            if [ "${{ matrix.batch }}" != "$BATCH_NUM" ]; then
+              echo "skip=true" >> $GITHUB_OUTPUT
+              exit 0
+            fi
+          fi
+          echo "skip=false" >> $GITHUB_OUTPUT
+
+      - name: Download all batch artifacts
+        if: steps.check_batch.outputs.skip == 'false'
+        uses: actions/download-artifact@v4
+        with:
+          name: batches-all
+          path: .
+
+      - name: Extract and prepare batch
+        if: steps.check_batch.outputs.skip == 'false'
+        run: |
+          unzip -o "batch_${{ matrix.batch }}.zip"
+          rm -f "batch_${{ matrix.batch }}.zip"
+          mkdir -p pdfs/batch_${{ matrix.batch }}
+          mv "batch_${{ matrix.batch }}"/* pdfs/batch_${{ matrix.batch }}/ 2>/dev/null || true
+
+      - name: Upload to GitHub Release (Batch ${{ matrix.batch }})
+        if: steps.check_batch.outputs.skip == 'false'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          RELEASE_TAG="batch-${{ matrix.batch }}"
+          
+          if ! gh release view $RELEASE_TAG >/dev/null 2>&1; then
+            gh release create $RELEASE_TAG --title "Batch ${{ matrix.batch }}" --body "SSC Papers - Batch ${{ matrix.batch }}"
+          fi
+          
+          for pdf in pdfs/batch_${{ matrix.batch }}/*.pdf; do
+            if [ -f "$pdf" ]; then
+              echo "Uploading $(basename $pdf)"
+              gh release upload $RELEASE_TAG "$pdf" --clobber || true
+            fi
+          done
+
+      - name: Commit batch to repo
+        if: steps.check_batch.outputs.skip == 'false'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          mkdir -p ssc-pdfs/batch_${{ matrix.batch }}
+          cp -r pdfs/batch_${{ matrix.batch }}/* ssc-pdfs/batch_${{ matrix.batch }}/ 2>/dev/null || true
+          
+          if [ -d "ssc-pdfs/batch_${{ matrix.batch }}" ] && [ "$(ls -A ssc-pdfs/batch_${{ matrix.batch }})" ]; then
+            git add ssc-pdfs/batch_${{ matrix.batch }}/
+            git commit -m "Add batch ${{ matrix.batch }} PDFs"
+            git push
+          else
+            echo "No PDFs to commit for batch ${{ matrix.batch }}"
+          fi
+
+  upload-all:
+    needs: [scrape, upload-batch]
+    runs-on: ubuntu-latest
+    if: inputs.batch_number == 'all'
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Create Release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          DESCRIPTION='SSC GD, CHSL, CGL, MTS, JHT, CPO Previous Year Question Papers. Download Instructions: Click on the release you want. Download individual PDFs or batch folders.'
+          gh release create "ssc-papers-v1.0" \
+            --title "SSC Previous Year Papers Collection" \
+            --body "$DESCRIPTION" || echo "Release may already exist"
