@@ -3,9 +3,8 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
-# URLs organized by exam type
+# Configuration
 TARGET_URLS = [
-    "https://www.adda247.com/jobs/previous-year-question-papers/",
     "https://www.adda247.com/jobs/ssc-gd-previous-year-question-papers/",
     "https://www.adda247.com/jobs/ssc-chsl-previous-year-question-paper/",
     "https://www.adda247.com/jobs/ssc-cgl-previous-year-question-paper/",
@@ -13,62 +12,70 @@ TARGET_URLS = [
     "https://www.adda247.com/jobs/ssc-jht-previous-year-question-paper/",
     "https://www.adda247.com/jobs/ssc-cpo-previous-year-question-paper/"
 ]
-
-BATCH_SIZE = 80
+BATCH_SIZE = 50
 
 def get_folder_name(url):
-    """Determines folder name based on the URL structure."""
-    if "ssc-gd" in url: return "SSC_GD"
-    if "ssc-chsl" in url: return "SSC_CHSL"
-    if "ssc-cgl" in url: return "SSC_CGL"
-    if "ssc-mts" in url: return "SSC_MTS"
-    if "ssc-jht" in url: return "SSC_JHT"
-    if "ssc-cpo" in url: return "SSC_CPO"
+    for key in ['gd', 'chsl', 'cgl', 'mts', 'jht', 'cpo']:
+        if key in url.lower():
+            return f"SSC_{key.upper()}"
     return "General_Papers"
 
 def download_pdfs():
     count = 0
-    
-    for url in TARGET_URLS:
-        folder_name = get_folder_name(url)
-        # Create folder if it doesn't exist
+    visited_pages = set()
+
+    for start_url in TARGET_URLS:
+        if count >= BATCH_SIZE: break
+        
+        folder_name = get_folder_name(start_url)
         if not os.path.exists(folder_name):
             os.makedirs(folder_name)
-            
-        print(f"Checking URL: {url} (Saving to: {folder_name})")
-        
+
+        print(f"Checking: {start_url}")
         try:
-            response = requests.get(url, timeout=15)
-            soup = BeautifulSoup(response.text, 'html.parser')
+            res = requests.get(start_url, timeout=15)
+            soup = BeautifulSoup(res.text, 'html.parser')
             
-            for link in soup.find_all('a', href=True):
-                href = link['href']
+            # Find all links on the page
+            links = [urljoin(start_url, a['href']) for a in soup.find_all('a', href=True)]
+            
+            for link in links:
+                if count >= BATCH_SIZE: return
                 
-                if href.endswith('.pdf'):
-                    pdf_url = urljoin(url, href)
-                    file_name = href.split('/')[-1]
-                    # Clean up filename (remove queries)
-                    file_name = file_name.split('?')[0]
+                # 1. If it's a direct PDF
+                if link.endswith('.pdf'):
+                    file_name = link.split('/')[-1].split('?')[0]
+                    path = os.path.join(folder_name, file_name)
                     
-                    pdf_path = os.path.join(folder_name, file_name)
-                    
-                    # Skip if file already exists in the repo
-                    if not os.path.exists(pdf_path):
-                        print(f"  Downloading [{count+1}/{BATCH_SIZE}]: {file_name}")
-                        try:
-                            r = requests.get(pdf_url, timeout=20)
-                            with open(pdf_path, 'wb') as f:
-                                f.write(r.content)
-                            count += 1
-                        except Exception as e:
-                            print(f"  Failed to download {file_name}: {e}")
-                    
-                    # Stop strictly at 50
-                    if count >= BATCH_SIZE:
-                        print(f"\nSUCCESS: Reached batch limit of {BATCH_SIZE} files.")
-                        return
+                    if not os.path.exists(path):
+                        print(f"  Downloading: {file_name}")
+                        r = requests.get(link)
+                        with open(path, 'wb') as f:
+                            f.write(r.content)
+                        count += 1
+                
+                # 2. If it's a sub-page (article) that might have PDFs, check it too
+                elif "adda247.com" in link and link not in visited_pages and "/jobs/" in link:
+                    visited_pages.add(link)
+                    try:
+                        sub_res = requests.get(link, timeout=10)
+                        sub_soup = BeautifulSoup(sub_res.text, 'html.parser')
+                        for sub_link in sub_soup.find_all('a', href=True):
+                            full_sub_link = urljoin(link, sub_link['href'])
+                            if full_sub_link.endswith('.pdf'):
+                                f_name = full_sub_link.split('/')[-1].split('?')[0]
+                                f_path = os.path.join(folder_name, f_name)
+                                if not os.path.exists(f_path):
+                                    print(f"  Found in sub-page: {f_name}")
+                                    r = requests.get(full_sub_link)
+                                    with open(f_path, 'wb') as f:
+                                        f.write(r.content)
+                                    count += 1
+                                    if count >= BATCH_SIZE: return
+                    except:
+                        continue
         except Exception as e:
-            print(f"Error accessing {url}: {e}")
+            print(f"Error: {e}")
 
 if __name__ == "__main__":
     download_pdfs()
