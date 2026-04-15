@@ -5,91 +5,97 @@ import urllib3
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
-# Silence SSL warnings
+# Disable warnings for government/educational portals
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 TARGET_SITES = {
-    "Adda247": "https://www.adda247.com/exams/upsc/upsc-previous-year-question-papers/",
-    "Adda247_SSC": "https://www.adda247.com/jobs/ssc-gd-previous-year-question-papers/"
+    "Adda247_SSC": "https://www.adda247.com/jobs/ssc-gd-previous-year-question-papers/",
+    "Adda247_Exams": "https://www.adda247.com/exams/upsc/upsc-previous-year-question-papers/"
 }
 
 BASE_DIR = "Longinsent_Archive"
-BATCH_LIMIT = 50
-HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+BATCH_LIMIT = 50 
+HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
+    'Accept-Language': 'en-US,en;q=0.9',
+}
 
-def organize_file(filename, source_folder):
-    year_match = re.search(r'20[0-2][0-9]', filename)
-    year = year_match.group(0) if year_match else "Unknown_Year"
+def get_organize_path(filename, folder):
+    # Detect Year
+    year = "Unknown_Year"
+    match = re.search(r'20[0-2][0-9]', filename)
+    if match: year = match.group(0)
+
+    # Detect Exam Category
+    fn = filename.upper()
+    cat = "General"
+    if "GD" in fn: cat = "SSC_GD"
+    elif "CGL" in fn: cat = "SSC_CGL"
+    elif "CHSL" in fn: cat = "SSC_CHSL"
+    elif "TNPSC" in fn or "GROUP" in fn: cat = "TNPSC_Service"
     
-    exam_type = "General"
-    fn_upper = filename.upper()
-    if any(x in fn_upper for x in ["G4", "GROUP_IV", "GROUP-IV", "GD"]): exam_type = "Group_GD_4"
-    elif any(x in fn_upper for x in ["G2", "GROUP_II", "GROUP-II", "CGL"]): exam_type = "Group_CGL_2"
-    elif "PRELIM" in fn_upper: exam_type = "Prelims"
-    elif "MAIN" in fn_upper: exam_type = "Mains"
+    path = os.path.join(BASE_DIR, folder, year, cat)
+    os.makedirs(path, exist_ok=True)
+    return path
 
-    target_path = os.path.join(BASE_DIR, source_folder, year, exam_type)
-    os.makedirs(target_path, exist_ok=True)
-    return target_path
+def run_scraper():
+    session = requests.Session()
+    session.headers.update(HEADERS)
+    count = 0
 
-def download_file(url, target_dir):
-    try:
-        original_name = url.split('/')[-1].split('?')[0]
-        final_path = os.path.join(target_dir, original_name)
-        
-        if not os.path.exists(final_path):
-            print(f"    Downloading: {original_name}")
-            r = requests.get(url, stream=True, verify=False, timeout=20, headers=HEADERS)
-            with open(final_path, 'wb') as f:
-                for chunk in r.iter_content(chunk_size=8192):
-                    f.write(chunk)
-            return True
-    except:
-        pass
-    return False
-
-def scrape():
-    new_files_count = 0
-    visited_links = set()
-
-    for folder_name, start_url in TARGET_SITES.items():
-        if new_files_count >= BATCH_LIMIT: break
-        print(f"\n--- Processing {folder_name} ---")
+    for folder, url in TARGET_SITES.items():
+        if count >= BATCH_LIMIT: break
+        print(f"\n--- Scraping {folder} ---")
         
         try:
-            res = requests.get(start_url, headers=HEADERS, verify=False, timeout=20)
-            soup = BeautifulSoup(res.text, 'html.parser')
+            r = session.get(url, verify=False, timeout=20)
+            soup = BeautifulSoup(r.text, 'html.parser')
             
-            # Find all links on the main page
-            for a in soup.find_all('a', href=True):
-                if new_files_count >= BATCH_LIMIT: break
+            # Find all potential links
+            all_a = soup.find_all('a', href=True)
+            
+            for a in all_a:
+                if count >= BATCH_LIMIT: break
+                link = urljoin(url, a['href'])
                 
-                link = urljoin(start_url, a['href'])
-                
-                # Check if it's a PDF
+                # 1. Direct PDF Link
                 if link.lower().endswith('.pdf'):
-                    target_dir = organize_file(link.split('/')[-1], folder_name)
-                    if download_file(link, target_dir):
-                        new_files_count += 1
+                    fname = link.split('/')[-1].split('?')[0]
+                    target_dir = get_organize_path(fname, folder)
+                    save_path = os.path.join(target_dir, fname)
+                    
+                    if not os.path.exists(save_path):
+                        print(f"  Saving: {fname}")
+                        pdf_data = session.get(link, verify=False).content
+                        with open(save_path, 'wb') as f:
+                            f.write(pdf_data)
+                        count += 1
                 
-                # Deep Crawl: If it's an Adda247 article link, go inside it
-                elif "adda247.com/jobs/" in link and link not in visited_links:
-                    visited_links.add(link)
-                    print(f"  Checking sub-page: {link}")
+                # 2. Adda247 Sub-page (Look for Download pages)
+                elif "adda247.com" in link and any(word in link for word in ["paper", "download", "pdf"]):
+                    if link == url: continue # Skip if it's the same page
+                    
                     try:
-                        sub_res = requests.get(link, headers=HEADERS, verify=False, timeout=10)
-                        sub_soup = BeautifulSoup(sub_res.text, 'html.parser')
-                        for sub_a in sub_soup.find_all('a', href=True):
-                            sub_link = urljoin(link, sub_a['href'])
-                            if sub_link.lower().endswith('.pdf'):
-                                target_dir = organize_file(sub_link.split('/')[-1], folder_name)
-                                if download_file(sub_link, target_dir):
-                                    new_files_count += 1
-                                    if new_files_count >= BATCH_LIMIT: break
+                        sr = session.get(link, verify=False, timeout=10)
+                        ssoup = BeautifulSoup(sr.text, 'html.parser')
+                        for sa in ssoup.find_all('a', href=True):
+                            slink = urljoin(link, sa['href'])
+                            if slink.lower().endswith('.pdf'):
+                                sfname = slink.split('/')[-1].split('?')[0]
+                                starget = get_organize_path(sfname, folder)
+                                ssave = os.path.join(starget, sfname)
+                                
+                                if not os.path.exists(ssave):
+                                    print(f"    Found in sub-page: {sfname}")
+                                    spdf = session.get(slink, verify=False).content
+                                    with open(ssave, 'wb') as f:
+                                        f.write(spdf)
+                                    count += 1
+                                    if count >= BATCH_LIMIT: break
                     except:
                         continue
         except Exception as e:
-            print(f"Error connecting to {folder_name}: {e}")
+            print(f"Error: {e}")
 
 if __name__ == "__main__":
-    scrape()
+    run_scraper()
