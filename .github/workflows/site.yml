@@ -40,7 +40,7 @@ jobs:
       - name: Scrape PDFs
         id: scrape
         run: |
-          python scraper.py
+          python site.py
         env:
           FORCE_RESCRAPE: ${{ inputs.force_rescrape }}
 
