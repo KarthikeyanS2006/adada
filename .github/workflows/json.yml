@@ -1,4 +1,4 @@
-name: Organize JSON Files
+name: Organize Archive Files
 
 on:
   push:
@@ -7,25 +7,29 @@ on:
   workflow_dispatch:
 
 jobs:
-  move-json:
+  move-files:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          # Fetches all history so git can push changes back
           fetch-depth: 0
 
-      - name: Create folder and move files
+      - name: Organize PDF and JSON Files
         run: |
-          # Create the directory
-          mkdir -p "json filees"
+          # Define the target directory based on your project structure
+          TARGET_DIR="Longinsent_Archive/Adda247_SSC/2025/SSC_GD"
           
-          # find . -type f : Look for files
-          # -iname "*.json" : Case-insensitive (catches .json and .JSON)
-          # ! -path "./json filees/*" : Don't move files already in the target
-          # ! -path "./.github/*" : Don't move your workflow files
-          find . -type f -iname "*.json" ! -path "./json filees/*" ! -path "./.github/*" -exec mv -v {} "./json filees/" \;
+          # Create the directory if it doesn't exist
+          mkdir -p "$TARGET_DIR"
+          
+          # Find and move PDF files
+          # Excludes files already in the target directory and the hidden .github folder
+          find . -type f -iname "*.pdf" ! -path "./$TARGET_DIR/*" ! -path "./.github/*" -exec mv -v {} "./$TARGET_DIR/" \;
+          
+          # If you still want to move JSON files to their own folder:
+          mkdir -p "json_files"
+          find . -type f -iname "*.json" ! -path "./json_files/*" ! -path "./.github/*" -exec mv -v {} "./json_files/" \;
 
       - name: Commit and Push changes
         run: |
@@ -34,10 +38,9 @@ jobs:
           
           git add .
           
-          # Check if there are actual changes to avoid errors when the repo is already clean
           if git diff --staged --quiet; then
             echo "No changes found to move."
           else
-            git commit -m "Automated: Moved all JSON files to 'json filees' folder"
+            git commit -m "Automated: Organized PDFs into SSC_GD archive and JSON files"
             git push
           fi
