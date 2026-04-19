@@ -1,0 +1,187 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-CONSTABLE-05-02-2025-Shift-II-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "A paper is folded and punched as shown below. How will it appear when unfolded?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Option 1 (Image)",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Option 2 (Image)",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Option 3 (Image)",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Option 4 (Image)",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "This question requires visual analysis of the paper folding and punching pattern. When a paper is folded and punched, the unfold pattern depends on the number of layers and punch locations. Without the specific diagram, the exact answer cannot be determined from text alone.",
+        "tanglish": "Ithu oru vizhithal vizhaippu seyyalaana kelvi. Paper fold seyyappattu punch seyyappattu irukkum. Nerukkappatta diagram illamal thiyagam solla mudiyathu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "In a certain code language, 'A + B' means 'A is the daughter of B', 'A – B' means 'A is the brother of B', 'A × B' means 'A is the wife of B' and 'A ÷ B' means 'A is the father of B'. Based on the above, how is P related to T if 'P + Q ÷ R × S – T'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Brother's wife's sister",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Wife's sister",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Brother's wife's mother",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Wife's mother",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Breaking down the expression: P + Q means P is daughter of Q. Q ÷ R means Q is father of R. So P is sister of R. R × S means R is wife of S. S – T means S is brother of T. Therefore, R is wife of T's brother (brother's wife). Since P is sister of R, P is sister of brother's wife, which means P is wife's sister.",
+        "tanglish": "P + Q endrathil P enbathu Q-in magal. Q ÷ R endrathil Q enbathu R-in appa. Athendral P enbathu R-in sagodari. R × S endrathil R enbathu S-in manaivi. S – T endrathil S enbathu T-in sagodaran. Athendral R enbathu sagodararin manaivi. P enbathu avalin sagodari endru artham. Athendral P enbathu manaiviyin sagodari."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "DSXL is related to FUZN in a certain way based on the English alphabetical order. In the same way, GMUB is related to IOWD. To which of the following is TFON related, following the same logic?",
+      "options": [
+        {
+          "id": "1",
+          "text": "SEQP",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "VHQP",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "SENM",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "VHNM",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The pattern adds +2 to each letter position. D(4)→F(6), S(19)→U(21), X(24)→Z(26), L(12)→N(14). Similarly for TFON: T(20)→V(22), F(6)→H(8), O(15)→Q(17), N(14)→P(16), resulting in VHQP.",
+        "tanglish": "Prathyekam endral oro aksharamukkum +2 seyyappadugirathu. D(4) irundhu F(6), S(19) irundhu U(21) endru. Athanpadi TFON endrathukku: T(20)→V(22), F(6)→H(8), O(15)→Q(17), N(14)→P(16). Athendral VHQP."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "What will come in the place of the question mark (?) in the following equation, if '+' and '−' are interchanged and '×' and '÷' are interchanged? 19 + 55 × 5 − 7 ÷ 3 =?",
+      "options": [
+        {
+          "id": "1",
+          "text": "33",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "41",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "29",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "37",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "After interchanging the operators: '+' becomes '−', '−' becomes '+', '×' becomes '÷', and '÷' becomes '×'. The new equation is: 19 − 55 ÷ 5 + 7 × 3. Solving: 19 − 11 + 21 = 29.",
+        "tanglish": "Operators matra pattal: 19 - 55 ÷ 5 + 7 × 3 endru agum. Ganitham seiyyumbol: 19 − 11 + 21 = 29."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Eight people are sitting in two parallel rows containing 4 people each in such a way that there is equal distance between adjacent persons. In row 1 – L, M, N and O are seated and all of them are facing south. In row 2 – P, Q, R and S are seated and all of them are facing north. Thus, each person faces another person from the other row. Q sits to the immediate right of S. Only two people sit between L and M. S faces L. The one who faces N, sits to the immediate left of P. R does not sit at any of the extreme ends. Who among the following faces O?",
+      "options": [
+        {
+          "id": "1",
+          "text": "P",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "S",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "R",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Q",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "From the clues: Row 2 has S-Q-R-P (left to right) since Q is right of S and R is not at extreme and R is left of P. Row 1 has L-O-N-M (left to right) since S faces L, two people between L and M, and R faces N. Therefore, O (position 2 in Row 1) faces Q (position 2 in Row 2).",
+        "tanglish": "Row 2: S-Q-R-P endru amarvu. Row 1: L-O-N-M endru amarvu. S edhire L, R edhire N. Athendral O edhire Q amarnthu irukkirar."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "What should come in place of the question mark (?) in the given series? 878 880 884 890 898 ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "904",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "906",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "908",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "910",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The differences between consecutive terms are: 880−878=2, 884−880=4, 890−884=6, 898−890=8. The pattern increases by 2 each time, so the next difference is 10. Therefore, 898 + 10 = 908.",
+        "tanglish": "Vithyasam 2, 4, 6, 8 endru sutruvadithu valarndhu varugirathu. Adutha vithyasam 10. 898 + 10 = 908."
+      }
+    }
+  ]
+}

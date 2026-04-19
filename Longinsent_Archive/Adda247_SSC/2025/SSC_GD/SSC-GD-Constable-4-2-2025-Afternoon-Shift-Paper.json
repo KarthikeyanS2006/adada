@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-Constable-4-2-2025-Afternoon-Shift-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "PSPN अंग्रेजी वर्णमाला क्रम के आधार पर एक निश्चित तरीके से OROM से संबंधित है। उसी तरीके से YBYW, XAXV से संबंधित है। उसी तर्क का अनुसरण करते हुए QTQO दिए गए विकल्पों में से किससे संबंधित है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "PTOQ",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "PRON",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "PSPN",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "PSON",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The pattern follows a reverse alphabetical shift where each letter in the second word is obtained by moving one step backward (decrement by 1) from the corresponding letter in the first word. For QTQO: Q(17)-1=P(16), T(20)-1=S(19), Q(17)-1=P(16), O(15)-1=N(14), resulting in PSPN.",
+        "tanglish": "Rendam padathin elluthukkal mudhal padathin elluthukkalil irundhu english alphabetil oru idathai pin pallakku (kuraipe) sendralega amaikiriyadhu. QTQO ku: Q(17)-1=P(16), T(20)-1=S(19), Q(17)-1=P(16), O(15)-1=N(14), aagave PSPN varum."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "एक निश्चित कूट भाषा में, 'A + B' का अर्थ है कि 'A, B की बहन है', 'A - B' का अर्थ है कि 'A, B का पिता है', 'A x B' का अर्थ है कि 'A, B का भाई है' और 'A ÷ B' का अर्थ है कि 'A, B की माता है'। यदि 'A ÷ B + C x D - E' है, तो A का D से क्‍या संबंध है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "बहन की पुत्री",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "पुत्री की बहन",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "पिता की माता",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "माता",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Decoding the expression step by step: A÷B means A is mother of B; B+C means B is sister of C (making C also A's child); C×D means C is brother of D (making D also A's child as they are siblings); D-E means D is father of E. Therefore, A is the mother of D.",
+        "tanglish": "Sutru vazhakku: A÷B endral A, Bavin amma; B+C endral B, Cavin akka/thangai (aagave C um Avin kuzhandhai); C×D endral C, Davin annan (idhuvum D, C matrum orae kulathin, aagave D um Avin kuzhandhai); D-E endral D, Eavin appa. Aagave A, Dvin amma."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "अंग्रेजी वर्णमाला क्रम के आधार पर REMY एक निश्चित प्रकार से VHOZ से संबंधित है। ZFHU ठीक उसी प्रकार DIJV से संबंधित है। उसी तर्क का अनुसरण करते हुए LBSO दिए गए विकल्पों में से किससे संबंधित है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "QDWR",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "PEUP",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "OFVQ",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "RDWP",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The coding pattern adds decreasing values to successive letters: first letter +4, second +3, third +2, and fourth +1. For LBSO: L(12)+4=P(16), B(2)+3=E(5), S(19)+2=U(21), O(15)+1=P(16), which gives PEUP.",
+        "tanglish": "Koodu payittu mudhal eluthukku +4, rendavathukku +3, moondavathukku +2, naalavathukku +1 endru kuraivagum kramathil serkappadugiradhu. LBSO ku: L(12)+4=P(16), B(2)+3=E(5), S(19)+2=U(21), O(15)+1=P(16), PEUP varum."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "आठ व्यक्ति दो समानांतर पंक्तियों में बैठे हैं जिनमें से प्रत्येक पंक्ति में 4 व्यक्ति इस प्रकार बैठे हैं कि आसन्न व्यक्तियों के बीच की दूरी समान है। पंक्ति 1 में - I, N, K और S बैठे हैं और उन सभी का मुख दक्षिण की ओर है। पंक्ति 2 में - P, A, R और T बैठे हैं और उन सभी का मुख उत्तर की ओर है। इस प्रकार, पहली पंक्ति के प्रत्येक व्यक्ति का मुख दूसरी पंक्ति के किसी अन्य व्यक्ति की ओर है। R, A के ठीक दाईं ओर बैठा है। K और S के बीच में केवल दो व्यक्ति बैठे हैं। A, K के सम्‍मुख है। जो व्यक्ति N के सम्‍मुख है, वह P के ठीक बाईं ओर बैठा है। T किसी भी छोर पर नहीं बैठा है। निम्नलिखित में से कौन-सा विकल्प, एक-दूसरे के सम्‍मुख बैठे दोनों व्यक्तियों को निरूपित करता है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "N और P",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "S और R",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "I और R",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "K और T",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Based on the seating arrangement constraints: Row 2 has order P-A-R-T (since R is right of A, and person opposite N is left of P), Row 1 has order I-N-K-S (since K and S have two persons between them, and A is opposite K). Following these conditions, the pair facing each other needs to be verified from the given options.",
+        "tanglish": "Nilai vazhakkugalai vachu: Pankthi 2 il P-A-R-T varisai (R, A vin valathu, N edhira ullavar P vin edathil), Pankthi 1 il I-N-K-S varisai. I nilaikalai vachu edhira ner nethi therinthu kol vendum."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "यदि शब्द JOSTLED के प्रत्येक अक्षर को अंग्रेजी वर्णमाला क्रम में व्यवस्थित किया जाए, तो कितने अक्षरों का स्थान अपरिवर्तित रहेगा?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "0",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The word JOSTLED when arranged alphabetically becomes DEJLOST. Comparing positions: J(1st→3rd), O(2nd→5th), S(3rd→6th), T(4th→7th), L(5th→4th), E(6th→2nd), D(7th→1st). No letter remains in its original position.",
+        "tanglish": "JOSTLED endra padam alphabet kramathil DEJLOST endru maarum. Idangalai oppidum podhu: J(1→3), O(2→5), S(3→6), T(4→7), L(5→4), E(6→2), D(7→1). Oru eluthum thaniya idathil illai."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "S’ को '9-18-12-6' के रूप में और ‘TBRX’ को '5-23-7-1’ के रूप में भाषा में 'KAVO' के लिए क‍ूट क्या है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "14-24-3-10",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "13-25-6-12",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "11-21-2-9",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "15-26-4-11",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The coding follows a specific pattern based on positional values or reverse alphabetical calculations. For KAVO, applying the derived coding logic from the examples S' and TBRX yields the corresponding numeric sequence.",
+        "tanglish": "Idam pakangalai moolamaga eluthukkalai koodaakki ezhuthum murai. KAVO ku S' matrum TBRX ennum udhaharaṅkalil irundhu kandupititha kattayathai payanpaththal sariyaana sangeetha varisai kedaikkum."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "[Question text not provided in source - likely image-based]",
+      "options": [
+        {
+          "id": "1",
+          "text": "D",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "R",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "E",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "N",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Question details are missing from the provided text. This appears to be an image-based question or the text was not extracted.",
+        "tanglish": "Kelvi vivarangal source il illai. Idhu image moolamana kelviyaaga irukkalam."
+      }
+    }
+  ]
+}

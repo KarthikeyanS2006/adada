@@ -1,0 +1,187 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-1-Dec-23-Shift-I-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Which of the following Articles of the Constitution of India talks about equality before law or equal protection of the laws?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Article 23",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Article 14",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Article 21",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Article 17",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Article 14 of the Indian Constitution guarantees equality before law and equal protection of laws to all persons within the territory of India.",
+        "tanglish": "India arasiyal amaippu, Article 14 il ellorukkum sattathirkum munbu samanadhikam matrum samanana kappagam alikkiradhu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "In India, who is regarded as the father of modern dance?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Vempati Chinna Satyam",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Uday Shankar",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Bipin Singh",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Kelucharan Mahapatra",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Uday Shankar is widely regarded as the father of modern dance in India for his pioneering contributions to fusion dance and bringing Indian dance to international recognition.",
+        "tanglish": "Uday Shankar, Indiavil aadhunika naadaana muraiyukku aadharithavar endru peyarikkappadugiraar, naadaanam kalaiyai ulagaththirkum kadandhu seluthiya mudhal aal ivar."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Which is the oldest living tree species with fan-shaped leaves commonly used in the treatment of blood disorders and memory issues?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Alder",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Ginkgo",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Cedar",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Willow",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Ginkgo biloba, known for its distinctive fan-shaped leaves, is the oldest living tree species (living fossil) and is widely used in traditional medicine for treating memory issues and blood circulation problems.",
+        "tanglish": "Siramana ilaigalaik kondu Ginkgo biloba maram, pazhamaanathu innum vaazhgai maram, ninaivu matrangal matrum raththa oottathai saadhikka mundhaaniya maruththuvathil payanpaduthappadugiradhu."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Which type of jurisdiction of the Supreme Court can be invoked for the given category of case if the High Court on appeal reverses an order of acquittal of an accused person and sentences him to death?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Appellate jurisdiction in regard to civil matters (Art. 133)",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Review of judgments or orders by the Supreme Court (Art. 137)",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Appellate jurisdiction in regard to criminal matters (Art. 134)",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Appellate jurisdiction in appeals from High Courts in certain cases (Art. 132)",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Article 134 of the Constitution specifically provides for appellate jurisdiction of the Supreme Court in criminal matters, including cases where the High Court reverses an order of acquittal and sentences the accused to death.",
+        "tanglish": "Article 134, oora nyaayamurthy mandru seidhai maaththi maranathandham seyum poluthu, uthama nyaayamurthy mandril maetpaana adhikaaram kalappa sattathai vilakkugiradhu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Which of the following committees was constituted in 2012 to review the Poverty Measurement Methodology and submitted its report in June 2014?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Rangarajan Committee",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Lakdawala Committee",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Kirit Parikh Committee",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Dandekar Committee",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Rangarajan Committee was constituted in 2012 by the Planning Commission to review the methodology for measurement of poverty in India, and it submitted its report in June 2014.",
+        "tanglish": "Rangarajan kuzhu, 2012 aandil elidhi alaviyum muraiyai m迷nnu paarkka erpaduthappattadhu, adhu 2014 aani maadathil sevai maanilai kandhadhu."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "The Planning Commission looks after crucial aspects such as formulation, implementation and regulation of the Five-Year Plans. In which year was the Planning Commission replaced by a think tank called NITI Aayog?",
+      "options": [
+        {
+          "id": "1",
+          "text": "2020",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "2015",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "2012",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "2017",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "NITI Aayog (National Institution for Transforming India) replaced the Planning Commission on 1st January 2015 to serve as a policy think tank of the Government of India.",
+        "tanglish": "NITI Aayog 2015 aandu January 1 am thethi, thittatiya aayaththin idathil amarapattadhu, idhu India arasiyaladhu thanithittangalai ullaaduthum amaippu."
+      }
+    }
+  ]
+}

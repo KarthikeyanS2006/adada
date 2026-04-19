@@ -1,0 +1,127 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-CONSTABLE-07-02-2025-Shift-III-Paper-1.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "In a certain code language, 'cup of coffee' is coded as 'lh em ro' and 'he loves coffee' is coded as 'em tf za'. How is 'coffee' coded in the given language?",
+      "options": [
+        {
+          "id": "1",
+          "text": "lm",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "ro",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "em",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "za",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The word 'coffee' is common in both statements 'cup of coffee' and 'he loves coffee'. Comparing the codes 'lh em ro' and 'em tf za', the common code is 'em'. Therefore, 'coffee' is coded as 'em'.",
+        "tanglish": "Rendu statement-layum 'coffee' common word. First statement code 'lh em ro', second statement code 'em tf za'. Ithula rendulayum common-a vara code 'em'. Adhanaala 'coffee' ku code 'em'."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "What should come in place of the question mark (?) in the given series based on the English alphabetical order? LMD MKG NIJ OGM ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "QEP",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "PGP",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "PEP",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "PFR",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "First letters follow L(12), M(13), N(14), O(15) → P(16). Second letters follow M(13), K(11), I(9), G(7) → E(5) [decreasing by 2]. Third letters follow D(4), G(7), J(10), M(13) → P(16) [increasing by 3]. Thus, the answer is PEP.",
+        "tanglish": "First letter sequence L, M, N, O, adharku apparam P(16) varum. Second letter M(13), K(11), I(9), G(7) nu rendu rendu maava korayuthu, adharku apparam E(5). Third letter D(4), G(7), J(10), M(13) nu moonu moonu maava athigarithu, adharku apparam P(16). Aadhalaadhathan PEP."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Select the combination of letters that when sequentially placed in the blanks of the given series, will logically complete the series. _HMGD_NHEJ_IFKP_ GLQ_",
+      "options": [
+        {
+          "id": "1",
+          "text": "CIOJK",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "CGOLK",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "DIPJM",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "DGPLM",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The series follows a pattern where filling the blanks with D, G, P, L, M completes the logical sequence. Each segment follows specific alphabetical progression rules when the correct letters are placed in the underscores.",
+        "tanglish": "Ithu oru particular pattern follow pannuthu. Blanks-la D, G, P, L, M nu vantha dhan series complete aagum. Sariyana letters blanks-la pota dhan alphabetical progression sariya irukum."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Select the Venn diagram that best illustrates the relationship between the following classes. Fruit, Light, Shirt",
+      "options": [
+        {
+          "id": "1",
+          "text": "Diagram 1",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Diagram 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Diagram 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Diagram 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Fruit, Light, and Shirt are three distinct categories with no relationship or intersection between them. Therefore, the correct Venn diagram shows three separate circles that do not overlap.",
+        "tanglish": "Fruit, Light, Shirt nu moondum vera vera categories. Ithula ongum otra sambandham illai, intersection-um illai. Aadhalaadhathan correct Venn diagram-la moondum separate-a overlap aagama irukum."
+      }
+    }
+  ]
+}

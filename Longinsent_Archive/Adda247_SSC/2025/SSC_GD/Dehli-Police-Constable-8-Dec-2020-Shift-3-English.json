@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "Dehli-Police-Constable-8-Dec-2020-Shift-3-English.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Which of the following rivers has Musi river as one of its tributaries?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Krishna",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Godavari",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Kaveri",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Mahanadi",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Musi River is a tributary of the Krishna River. It flows through Telangana and joins the Krishna River in the Deccan Plateau region.",
+        "tanglish": "Musi aaru Krishna aathin uthira nadhi. Idhu Telangana vazhiya oadi, Deccan Plateau paadhugal la Krishna aaru kooda cherum."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Antibiotics are NOT effective on a virus as it lacks ______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Genetic material",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Cell wall",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Protein coat",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Host machinery",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Antibiotics typically target the cell wall or metabolic processes of bacteria. Viruses lack cell walls and do not have their own metabolic machinery, making antibiotics ineffective against them.",
+        "tanglish": "Antibiotics bacteria oda cell wall ah target panni attack pannum. Virus ku cell wall illai, adhanala antibiotics virus mela work aagathu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "When a body rolls over the surface of another body, the resistance to its motion is called ______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Static friction",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Sliding friction",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Rolling friction",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Fluid friction",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Rolling friction is the resistive force that opposes the motion of a rolling object on a surface. It is generally less than sliding friction.",
+        "tanglish": "Oru vasthu innoru surface mela roll aagum podhu varum resistance force ah rolling friction nu solluvom. Idhu sliding friction vida kammi."
+      }
+    }
+  ]
+}

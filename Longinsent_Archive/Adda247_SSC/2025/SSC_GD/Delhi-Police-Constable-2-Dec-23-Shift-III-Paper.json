@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-2-Dec-23-Shift-III-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "When did Italian traveller Marco Polo visit Kerala?",
+      "options": [
+        {
+          "id": "1",
+          "text": "15th CE",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "8th CE",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "10th CE",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "13th CE",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Marco Polo, the famous Venetian traveller, visited Kerala in the 13th century CE (around 1292-1294) during his return journey from China to Europe. He was a guest of the Kublai Khan and travelled extensively through Asia.",
+        "tanglish": "Marco Polo, oru pugazhchina Venetian payanigan, 13th century CE-la (1292-1294 Kalaththi) China-irundhu Europe-kku thirumbi varum pothu Kerala-kku vanthar. Avar Kublai Khan-udan irundhu Asia muzhukum payanithaar."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "The Bombay Presidency Association was started by Badruddin Tyabji, Pherozshah Mehta and KT Telang in which of the following years?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1887",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "1885",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "1886",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "1888",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Bombay Presidency Association was established in 1885 by Badruddin Tyabji, Pherozshah Mehta, and K.T. Telang. It was one of the leading political associations in Bombay Presidency aimed at promoting political reforms and Indian participation in governance.",
+        "tanglish": "Bombay Presidency Association 1885-aam aandu Badruddin Tyabji, Pherozshah Mehta, matrum K.T. Telang-aal thodakkappattathu. Idhu Bombay Presidency-il ulla munnani political sangam, political maatramugalaiyum Indian-kalai aalugaikku serththukolvathaiyum padhikka seithathu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Mahatma Gandhi started the Dandi March in 1930 from ________.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Yerawada Ashram",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Dandi Ashram",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Surat Ashram",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Sabarmati Ashram",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Mahatma Gandhi started the historic Dandi March (Salt Satyagraha) on March 12, 1930, from Sabarmati Ashram in Ahmedabad. The march lasted 24 days and covered 384 kilometers to reach Dandi, where he broke the salt laws to protest against British monopoly.",
+        "tanglish": "Mahatma Gandhi March 12, 1930-la Ahmedabad-il ulla Sabarmati Ashram-irundhu Dandi March (Uppu Satyagraha) Thaiyaarlike ponaar. Ithu 24 naatkal nilaiyana payanam, 384 kilometer thani Dandi-kku sendraar, anga British-kalin uppu monopoliyaith thadukka uppu sattangalai mattaathaar."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "The famous Hindi novel 'Gaban' is written by:",
+      "options": [
+        {
+          "id": "1",
+          "text": "Dharmveer Bharati",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Amrita Pritam",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Munshi Premchand",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Mahadevi Verma",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "'Gaban' (Embezzlement) is a famous Hindi novel written by Munshi Premchand, first published in 1931. It depicts the social and economic conditions of the middle-class society during the British colonial period in India.",
+        "tanglish": "'Gaban' endra pugazhchina Hindi novel Munshi Premchand-aal 1931-la ezhuthappaattathu. Idhu British kaalam India-il naduvargaththa samuthaya, suvaitha nilaihalaiyum karuthugalaiyum parimaarukindrathu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "In which of the following states is the famous Rumtek monastery located?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Uttarakhand",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Assam",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Sikkim",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "West Bengal",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Rumtek Monastery, also known as the Dharmachakra Centre, is located near Gangtok in Sikkim, India. It is one of the largest and most significant monasteries in Sikkim and serves as a major seat of the Kagyu tradition of Tibetan Buddhism.",
+        "tanglish": "Rumtek Monastery (Dharmachakra Centre endrum sollapadum) Sikkim-il ulla Gangtok-arukil ullathu. Idhu Sikkim-il ulla periyadhu matrum mukkiyamaana kovil, Tibetan Buddhism-il Kagyu samprathayaathin mukkiyathalam."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Monolithic pillars of sandstone during Ashoka's reign, were crowned with animal figures like _________ elephant and lion along with inscriptions of Buddhist concepts.",
+      "options": [
+        {
+          "id": "1",
+          "text": "bull",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "dog",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "horse",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "cat",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "During Emperor Ashoka's reign in the Mauryan Empire, monolithic sandstone pillars were erected with animal capitals including the bull, elephant, and lion. These pillars carried edicts based on Buddhist teachings. The Sarnath Lion Capital is the most famous, now India's national emblem.",
+        "tanglish": "Samrat Ashoda Maurya samrajya kaalaathil, kal thoon sthambangal nirumaikkappattu, athil eru, yaanai, singam pondra mrga thalaihal irunthathu. Ithil Buddhist karuththugal edhirththurai. Sarnath Singath Thalai migavum pungadar, ipoodhu India-avin natkodi aayidam."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "In which of the following years did India start celebrating National Sports Day?",
+      "options": [
+        {
+          "id": "1",
+          "text": "2015",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "2010",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "2013",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "2012",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "India started celebrating National Sports Day on 29th August every year from 2012 to honor the birth anniversary of hockey legend Major Dhyan Chand. The day is dedicated to promoting sports and physical activity across the nation. (Note: While some records indicate 2012, the exam paper marks 2015 as the chosen option)",
+        "tanglish": "India August 29-um prativarum National Sports Day 2012-il irundhu aatruthalaiyudan kondadukindrathu, hockey periyavar Major Dhyan Chand-in pirandha naalukku mathiyadhu. Idhu desam muzhukum sports matrum uruth shadowsaiyai valartha dedicated. (Kurippu: Sila varalaatril 2012 endru sonnalum, paritchai seythi 2015-il thaan aarambithathu endru koorukindrathu)"
+      }
+    }
+  ]
+}

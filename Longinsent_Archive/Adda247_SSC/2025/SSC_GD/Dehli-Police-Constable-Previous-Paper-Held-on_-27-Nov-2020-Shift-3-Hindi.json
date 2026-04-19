@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "Dehli-Police-Constable-Previous-Paper-Held-on_-27-Nov-2020-Shift-3-Hindi.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "सितंबर 2020 में, निम्नलिखित में से किसने भारत के चुनाव आयुक्त के रूप में शपथ ग्रहण किया है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "राजीव कुमार",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "अमिताभ कांत",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "अरविंद पनगढ़िया",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "बिबेक देबरॉय",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Rajiv Kumar took oath as Election Commissioner of India on 1 September 2020. He is a 1984 batch IAS officer of the Bihar/Jharkhand cadre who later became the Chief Election Commissioner in 2022.",
+        "tanglish": "Rajeev Kumar 2020 September maasam 1-aam theediyil India Chunava Aayutha Aayogar aaga padaviyeranginaar. Avar 1984 batch IAS athikaari, avar thanner thalaivar Chunava Aayogar aagavum niraiverinar."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "निम्नलिखित में से किसे 'पृथ्वी, वायुमंडल, महासागर और अंतरिक्ष' वर्ग में 2020 का शांतिस्वरुप भटनागर विज्ञान और प्रौद्योगिकी पुरस्कार दिया गया?",
+      "options": [
+        {
+          "id": "1",
+          "text": "अभिजीत मुखर्जी",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "वल्सला थंपी",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "सुभदीप चटर्जी",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "सुबी जैकब जॉर्ज",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Dr. Valsala Thampi was awarded the Shanti Swarup Bhatnagar Prize 2020 in the Earth, Atmosphere, Ocean and Space Sciences category for her contributions to hydrology and water resources management.",
+        "tanglish": "Dr. Valsala Thampi 2020-aam aandil Shanti Swarup Bhatnagar parisu Boomi, Vayumandal, Kadalantharam, Anthariksha saarangathirkul award adainthaargal. Avar neerkalaiviyal matrum thanni varam patri seitha sinthanaigalukku indha parisu kidaithathu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "जीका वायरस रोग मुख्य रूप से ______ द्वारा संक्रमित वायरस के कारण होता है।",
+      "options": [
+        {
+          "id": "1",
+          "text": "कृंतक (रोडेंट)",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "कुत्ते",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "एडीज मच्छर",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "यूरेनोटैनिया मच्छर",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Zika virus disease is primarily transmitted to humans through the bite of infected Aedes mosquitoes, particularly Aedes aegypti and Aedes albopictus species. These mosquitoes also transmit dengue and chikungunya viruses.",
+        "tanglish": "Zika virus disease mukkiyamaga manitharukku Aedes mosquito kadithathal paravorum, special aa Aedes aegypti matrum Aedes albopictus pugaiyai mosquitoes vazhi. Ithu dengue matrum chikungunya virus vum paravee paduthum."
+      }
+    }
+  ]
+}

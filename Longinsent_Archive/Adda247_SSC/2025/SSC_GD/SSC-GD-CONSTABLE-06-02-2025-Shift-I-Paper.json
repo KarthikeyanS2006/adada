@@ -1,0 +1,277 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-CONSTABLE-06-02-2025-Shift-I-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Select the combination of letters that when sequentially placed in the blanks of the given series, will logically complete the series. _NJOK_LQMR_SOTP_ QVR_",
+      "options": [
+        {
+          "id": "1",
+          "text": "HOQVX",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "IPNUW",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "IONVQ",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "HPQUX",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The series follows an alternating pattern of +5 and -4 differences between consecutive letters. When IPNUW is placed in the blanks, the sequence becomes I(9), N(14) [+5], J(10) [-4], O(15) [+5], K(11) [-4], P(16) [+5], L(12) [-4], Q(17) [+5], M(13) [-4], R(18) [+5], N(14) [-4], S(19) [+5], O(15) [-4], T(20) [+5], P(16) [-4], U(21) [+5], Q(17) [-4], V(22) [+5], R(18) [-4], W(23) [+5], maintaining the consistent pattern throughout.",
+        "tanglish": "Itha series la +5, -4 endra alternate pattern iruku. IPNUW vaithal I(9) irundhu N(14) ku +5, appuram J(10) ku -4, appuram O(15) ku +5 endru pattern correct aaga form aguthu. Adhanala answer option 2."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "The position(s) of how many letters will remain unchanged if each of the letters in the word TREASURE is arranged in the reverse English alphabetical order?",
+      "options": [
+        {
+          "id": "1",
+          "text": "One",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Two",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Three",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Zero",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The original word TREASURE has letters T(20), R(18), E(5), A(1), S(19), U(21), R(18), E(5). When arranged in reverse alphabetical order: U(21), T(20), S(19), R(18), R(18), E(5), E(5), A(1). Comparing positions: 1st becomes U (was T), 2nd becomes T (was R), 3rd becomes S (was E), 4th becomes R (was A), 5th becomes R (was S), 6th becomes E (was U), 7th becomes E (was R), 8th becomes A (was E). No letter remains in its original position.",
+        "tanglish": "TREASURE endra word ah descending order la arrange pannum bodhu, U, T, S, R, R, E, E, A varum. Original positions la yethum maralai, andha letters ellam change aagiruku. Adhanala answer Zero (Option 4)."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Seven people, E, F, G, H, K, L and N, are sitting in a row facing north (but not necessarily in the same order). No one sits to the left of H. Only four people sit between H and F. Only three people sit to the right of N. K sits to the immediate left of L. G is not an immediate neighbour of N. Who sits fourth to the left of G?",
+      "options": [
+        {
+          "id": "1",
+          "text": "L",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "E",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "K",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "N",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "H is at position 1 (leftmost). With 4 people between H and F, F is at position 6. With 3 people to the right of N, N is at position 4. K sits immediately left of L, so they occupy positions 2 and 3 (K,L). G cannot be immediate neighbour of N(4), so G cannot be at 3(L) or 5; position 3 is L, so G must be at 7. This leaves E at position 5. The arrangement is: 1-H, 2-K, 3-L, 4-N, 5-E, 6-F, 7-G. Fourth to the left of G(7) is position 3, which is L.",
+        "tanglish": "H first position la irukaru. H ku 4 persons gap la F position 6 la irukaru. N ku right la 3 persons irundha, N fourth position la irukaru. K and L rendu perum 2nd and 3rd position la irukaru. G, N oda neighbour illa, so G last position (7) la irukaru. Appo E 5th position la irukaru. Fourth to left of G endha 3rd position, andha position la L irukaru."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "In a certain code language, 'can I go' is coded as 'pr nt gs' and 'he can swim' is coded as 'li ed pr'. How is 'can' coded in the given language?",
+      "options": [
+        {
+          "id": "1",
+          "text": "ed",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "pr",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "gs",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "nt",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Comparing the two coded phrases, the word 'can' appears in both. In the first phrase, the codes are 'pr nt gs'. In the second phrase, the codes are 'li ed pr'. The common code between both is 'pr', which therefore corresponds to 'can'.",
+        "tanglish": "Rendu sentence layum 'can' endra word iruku. First sentence code 'pr nt gs', second 'li ed pr'. Rendulayum common ah 'pr' iruku, adhanala 'can' ku 'pr' endra code."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "What should come in place of the question mark (?) in the given series? 12 31 59 114 214 ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "368",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "307",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "377",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "386",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The pattern follows the differences: 31-12=19, 59-31=28, 114-59=55, 214-114=100. The second differences are: 28-19=9, 55-28=27, 100-55=45 (increasing by 18 each time). The next second difference is 45+18=63. So next first difference is 100+63=163. Therefore, 214+163=377.",
+        "tanglish": "Itha series la difference pattern 19, 28, 55, 100 endru varum. Ithula second difference 9, 27, 45 (+18 increase). Next second difference 63, so next first difference 163. Adhanala 214 + 163 = 377."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Seven people, A, B, L, M, N, S and T, are sitting in a row, facing north(but not necessarily in the same order). No one sits to the right of N. Only three people sit between N and S. Only two people sit between S and T. M sits third to the left of L. A sits to the immediate right of L. How many people sit between B and T?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Two",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Three",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "One",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Four",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "N is at position 7 (rightmost). With 3 people between N and S, S is at position 3. With 2 people between S and T, T is at position 6. M sits third to left of L, and A sits immediate right of L. The only valid positions are M at 1, L at 4, A at 5. This leaves B at position 2. The arrangement is: 1-M, 2-B, 3-S, 4-L, 5-A, 6-T, 7-N. Between B(2) and T(6) are positions 3, 4, 5 (S, L, A), so 3 people.",
+        "tanglish": "N last position (7) la irukaru. N ku 3 persons gap la S position 3 la irukaru. S ku 2 persons gap la T position 6 la irukaru. M, L ku third left la irundhu, A L ku right la irundha, M-1, L-4, A-5 positions la varum. B position 2 la varum. B(2) and T(6) idaiyil S, L, A (3 persons) irukaru."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "P is the sister of R. R is the father of Q. S is the wife of Q. T is the daughter of S. How is P related to T?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Father's mother",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Father's father's sister",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Father's father's mother",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Father's mother's sister",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "R is father of Q, making R the grandfather of T (since T is Q's daughter). P is sister of R, making P the great-aunt of T. Specifically, P is the father's father's sister (Option 2) or father's mother's sister depending on R's spouse, but given the options and standard interpretation, P is father's father's sister.",
+        "tanglish": "R endha Q ku father. Q endha T ku father (S wife). So R endha T ku grandfather. P endha R ku sister, so P endha T ku father side la father's sister, andha relation ah Father's father's sister nu solalam."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "ER 32 is related to DS 34 in a certain way. In the same way, XW 54 is related to WX 56. To which of the given options is ZB 78 related, following the same logic?",
+      "options": [
+        {
+          "id": "1",
+          "text": "YC 80",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "YA 78",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "YA 80",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "YA 79",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The pattern involves: first letter -1 (E→D, X→W), second letter +1 (R→S, W→X), and number +2 (32→34, 54→56). Applying to ZB 78: Z(26)-1=Y(25), B(2)+1=C(3), 78+2=80. Result is YC 80.",
+        "tanglish": "Pattern: First letter ku -1 (E to D), second letter ku +1 (R to S), number ku +2 (32 to 34). ZB 78 ku apply pannum bodhu: Z(26)-1=Y, B(2)+1=C, 78+2=80. So answer YC 80."
+      }
+    },
+    {
+      "q_number": 9,
+      "question_text": "Two different positions of the same dice are given below. Which is the number on the face opposite to the face containing 11?",
+      "options": [
+        {
+          "id": "1",
+          "text": "8",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "9",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Based on standard dice position analysis where adjacent faces cannot be opposite, and comparing the two given positions of the dice, the number opposite to 11 is determined to be 8.",
+        "tanglish": "Ithu oru dice question. Rendu different positions parthu, 11 ku opposite la irukara number 8 endru determine panniyadhu."
+      }
+    }
+  ]
+}

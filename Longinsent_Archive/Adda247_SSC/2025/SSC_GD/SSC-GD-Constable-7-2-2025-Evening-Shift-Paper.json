@@ -1,0 +1,187 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-Constable-7-2-2025-Evening-Shift-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Read the given statements and conclusions carefully. Assuming the information given in the statements is true, even if it appears to be different from commonly known facts, decide which of the given conclusion(s) logically follow(s) from the statements. Statements: All inks are pens. All pens are rubbers. No rubber is a sharpener. Conclusions: (I) No ink is a sharpener. (II) Some rubbers are inks.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Both conclusions (I) and (II) follow",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Only conclusion (I) follows",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Only conclusion (II) follows",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Neither conclusion (I) nor (II) follows",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Using syllogism rules: Since all inks are pens and all pens are rubbers, all inks are rubbers. Since no rubber is a sharpener, no ink can be a sharpener (Conclusion I follows). Also, since all inks are rubbers, some rubbers are definitely inks (Conclusion II follows). Therefore, both conclusions logically follow.",
+        "tanglish": "Silogism niyamaigalai payanpaduthi: Anaithu inks-um pens endru, anaithu pens-um rubbers endru sollum podhu, anaithu inks-um rubbers endra artham. Edhu oru rubber-um sharpener illai endral, edhu oru ink-um sharpener illai (niskar I sari). Melum, anaithu inks-um rubbers endral, sila rubbers inks endru irukkum (niskar II sari). Aagave iru niskarugalum unmai."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "What should come in place of the question mark (?) in the given series? 2, 3, 6, 11, 18, ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "26",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "27",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "28",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "25",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The series follows the pattern of adding consecutive odd numbers: 2+1=3, 3+3=6, 6+5=11, 11+7=18, 18+9=27. The differences between consecutive terms are 1, 3, 5, 7, 9.",
+        "tanglish": "Thodaril vattiya ilaa sangkigalai kootum murai: 2+1=3, 3+3=6, 6+5=11, 11+7=18, 18+9=27. Thodargalukku idaiyil vithyasangal 1, 3, 5, 7, 9."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "P is brother of R. R is father of Q. S is wife of Q. T is daughter of S. What is the relation of P to T?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Father's father's brother",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Father's brother",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Father's father",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Father",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "P is brother of R. R is father of Q, making P the paternal uncle of Q. Since S is wife of Q and T is daughter of S (and Q), Q is the father of T. R is grandfather of T. P, being brother of R, is the brother of T's grandfather. Therefore, P is the father's father's brother (grandfather's brother) of T.",
+        "tanglish": "P, R-udan sagotharan. R, Q-vin thanthai, aagave P, Q-vin pitha sagotharan. S, Q-vin manaivi, T, S-in magal. Aagave Q, T-vin thanthai; R, T-vin thatha. R-udan sagotharan endra sthanathil, P, T-vin thathavin sagotharan."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Letters Y, S, I, A, D and E are marked on the faces of a die. Two positions of the same die are shown in the given figures. Which face is opposite to face Y?",
+      "options": [
+        {
+          "id": "1",
+          "text": "I",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "E",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "A",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "S",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Note: The correct answer cannot be determined without the visual representation of the two dice positions showing the adjacent faces. In standard dice problems, opposite faces are identified by eliminating the faces adjacent to the given letter in the shown positions.",
+        "tanglish": "Kurippu: Pasi nirangal vizhaga illamal sariyana pathil theriyavillai. Standard pasi thiraigalil, edhir mukhangalai kandupidikka kattapatta nirangalil pakkathu mukhangalai ozhikka vendum."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Based on the English alphabetical order, three of the following four letter-groups are alike in a certain way and form a group. Which letter-group does not belong to that group? (Note: The odd letter-group is not based on the number of vowels/consonants or their positions.)",
+      "options": [
+        {
+          "id": "1",
+          "text": "ORV",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "TUZ",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "OPU",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "KLQ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The pattern involves letter positions: TUZ (T+1=U, U+5=Z), OPU (O+1=P, P+5=U), KLQ (K+1=L, L+5=Q) follow the pattern of +1 and +5. However, ORV follows O+3=R, R+4=V (pattern +3, +4), making it the odd one out.",
+        "tanglish": "Eluthu nimidhangaLil pattern: TUZ (T+1=U, U+5=Z), OPU (O+1=P, P+5=U), KLQ (K+1=L, L+5=Q) endru +1 meendum +5 muraiyai anusarikkirathu. ORV matrum +3 meendum +4 (O+3=R, R+4=V) muraiyai anusarikkirathu. Aagave ORV veraithal."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Based on the English alphabetical order, FROM is related to CPLK in a certain way. TJCE is related to QHZC in exactly the same way. Following the same logic, which of the given options is related to KDTY?",
+      "options": [
+        {
+          "id": "1",
+          "text": "HQWB",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "HQWE",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "HBWQ",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "HBQW",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The coding pattern alternates between subtracting 3 and subtracting 2 from the alphabetical positions: F(6)-3=C(3), R(18)-2=P(16), O(15)-3=L(12), M(13)-2=K(11). Applying this to KDTY: K(11)-3=H(8), D(4)-2=B(2), T(20)-3=Q(17), Y(25)-2=W(23), resulting in HQWB.",
+        "tanglish": "Kodu vaithal eluthu nimidhangaLai vattamaga -3 meendum -2 endru kurakkavendum: F(6)-3=C(3), R(18)-2=P(16), O(15)-3=L(12), M(13)-2=K(11). Idai KDTY-kku payanpadutha: K(11)-3=H(8), D(4)-2=B(2), T(20)-3=Q(17), Y(25)-2=W(23), HQWB kadaikkum."
+      }
+    }
+  ]
+}

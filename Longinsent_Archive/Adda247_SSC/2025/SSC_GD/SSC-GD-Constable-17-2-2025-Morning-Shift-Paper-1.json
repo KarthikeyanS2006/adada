@@ -1,0 +1,277 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-Constable-17-2-2025-Morning-Shift-Paper-1.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "यदि ‘+’ और ‘÷‘ को परस्पर बदल दिया जाए तथा ‘−’ और ‘×’ को परस्पर बदल दिया जाए, तो निम्नलिखित समीकरण में ‘?’ के स्थान पर क्या आएगा? 112 + 8 × 2 − 13 ÷ 21 = ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "9",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "11",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Interchange '+' with '÷' and '−' with '×', then solve: 112 ÷ 8 − 2 × 13 + 21 = 14 − 26 + 21 = 9.",
+        "tanglish": "Plus sign'ai division sign'odum, minus sign'ai multiplication sign'odum mattru, appuram equation solve seiyavum. 112 ÷ 8 − 2 × 13 + 21 = 14 − 26 + 21 = 9."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "किसी निश्चित कूट भाषा में, ‘HXCT’ को ‘55' के रूप में कूट बद्ध किया जाता है और ‘LAMU’ को ‘47' के रूप में कूट बद्ध किया जाता है। दी गई कूट भाषा में ‘ZFGD’ के लिए कूट क्या होगा?",
+      "options": [
+        {
+          "id": "1",
+          "text": "48",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "56",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "53",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "43",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Sum of alphabetical positions: H(8)+X(24)+C(3)+T(20)=55 and L(12)+A(1)+M(13)+U(21)=47. Similarly, Z(26)+F(6)+G(7)+D(4)=43.",
+        "tanglish": "Eluthukkalin alphabet padukkai thoguthigalai kootru. H(8)+X(24)+C(3)+T(20)=55 matrum L(12)+A(1)+M(13)+U(21)=47. Ade pola Z(26)+F(6)+G(7)+D(4)=43."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "दी गई श्रृंृंखला में प्रश्नवाचक चिन्ह (?) के स्थान पर क्या आना चाहिए? 645 650 656 663 671 ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "676",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "677",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "679",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "680",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The differences between consecutive terms are +5, +6, +7, +8, so the next difference is +9. Therefore, 671 + 9 = 680.",
+        "tanglish": "Pinpathiya serntha pathangalukkana vithyasam +5, +6, +7, +8, adan agalvirundhu vithyasam +9. Aagave 671 + 9 = 680."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "एक निश्चित कूट भाषा में, GTSU को TGHF लिखा जाता है और KJIE को PQRV लिखा जाता है। दी गई भाषा में ALMO को कैसे लिखा जाएगा?",
+      "options": [
+        {
+          "id": "1",
+          "text": "LOGL",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "ZLNO",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "ZYEL",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "ZONL",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Each letter is replaced by its reverse in the alphabet (A↔Z, B↔Y, C↔X, etc.). Therefore, ALMO → Z(26)O(15)N(14)L(12) = ZONL.",
+        "tanglish": "Pratiyoru eluthuvai alphabet'il adhicha eluthukalukku (A↔Z, B↔Y, ityadi) maatru eluthai ezudhungal. Aagave ALMO → ZONL."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "यदि शब्द FUNFAIRS के प्रत्येक अक्षर को व्‍युत्‍क्रमित अंग्रेजी वर्णमाला क्रम में व्यवस्थित किया जाए, तो कितने अक्षरों का स्थान अपरिवर्तित रहेगा?",
+      "options": [
+        {
+          "id": "1",
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "एक का भी नहीं",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "दो",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "When arranged in reverse alphabetical order (USRNFFAI), no letter remains in its original position from FUNFAIRS.",
+        "tanglish": "Varunmozhi thirumbiya kattattil amaikkum podhu, FUNFAIRS'ile oru eluthum than porunthiya idathil irukkaathu."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "किसी निश्चित कूट भाषा में, ‘plant more trees’ को ‘uf gk ro' के रूप में कूट बद्ध किया जाता है और ‘trees give oxygen' को ‘lm xs gk’ के रूप में कूट बद्ध किया जाता है। दी गई कूट भाषा में ‘trees' को किस प्रकार कूट बद्ध किया जाएगा?",
+      "options": [
+        {
+          "id": "1",
+          "text": "ro",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "gk",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "uf",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "xs",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The common word 'trees' in both phrases corresponds to the common code 'gk'.",
+        "tanglish": "Rendu vaakiyangalilum ulla pothiya mattamana mozhi 'trees', athan kodu 'gk'."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "दिए गए कथनों और निष्कर्षों को ध्यानपूर्वक पढ़िए। यह मानते हुए कि कथनों में दी गई जानकारी सत्य है, चाहे वह सामान्यतः ज्ञात तथ्योंों से भिन्न प्रतीत होती हो और निर्णय लीजिए कि दिए गए निष्कर्षों में से कौन- सा/कौन-से निष्कर्ष कथनों का तार्किक रूप से अनुसरण करता है/करते हैं। कथन: सभी वैक्यूम, मशीन हैं। कोई भी वैक्यूम, गेम नहीं है। सभी गेम, खिलौने हैं। निष्कर्ष: (I) कोई भी खिलौना, मशीन नहीं है। (II) कुछ खिलौने, वैक्यूम हैं।",
+      "options": [
+        {
+          "id": "1",
+          "text": "न तो निष्कर्ष (I) और न ही (II) अनुसरण करता है",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "केवल निष्कर्ष (II) अनुसरण करता है",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "निष्कर्ष (I) और (II) दोनों अनुसरण करते हैं",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "केवल निष्कर्ष (I) अनुसरण करता है",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "From the statements, no definite conclusion can be drawn about the relationship between toys and machines, or that some toys are vacuums. Neither conclusion logically follows.",
+        "tanglish": "Kodukkappatta koorugalilirundhu vilangukal matrum machines idaiya sambandham patri, athavai vilangukal vaccum'aga irukkiratha patri konjam mudivum edukka mudiyathu. Indha nigargal ondrum vilakkappadavillai."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "अंग्रेजी वर्णमाला क्रम के आधार पर MISC, OFUZ से एक निश्चित प्रकार से संबंधित है। उसी प्रकार, ZDEN, BAGK से संबंधित है। समान तर्क का अनुसरण करते हुए, PVAT दिए गए विकल्पोंों में से किससे संबंधित है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "STBP",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "STDP",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "RSCQ",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "TQBO",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The pattern for each corresponding letter is +2, -3, +2, -3. Applying this to PVAT: P(16)+2=R, V(22)-3=S, A(1)+2=C, T(20)-3=Q, giving RSCQ.",
+        "tanglish": "Ovvoru eluthukkum kattayam +2, -3, +2, -3. PVAT'ku idai seithal: P(16)+2=R, V(22)-3=S, A(1)+2=C, T(20)-3=Q. Aagave RSCQ."
+      }
+    },
+    {
+      "q_number": 9,
+      "question_text": "उस अक्षर-संयोजन का चयन कीजिए, जिसे दी गई शृंखला के रिक्त स्थानों में क्रमिक रूप से रखने पर शृंखला तार्किक रूप से पूर्ण हो जाएगी। _QMRN_OTPU_VRWS_ TYU_",
+      "options": [
+        {
+          "id": "1",
+          "text": "KSNXW",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "KRNUW",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "LSQXZ",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "LRQUZ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Each group follows the pattern +5, -4, +5, -4. Filling the blanks with LSQXZ gives: L(12)Q(17)M(13)R(18)N(14), S(19)O(15)T(20)P(16)U(21), Q(17)V(22)R(18)W(23)S(19), X(24)T(20)Y(25)U(21)Z(26).",
+        "tanglish": "Oro vakathilum +5, -4, +5, -4 enna kanakku. LSQXZ endra eluthugalai nirapum podhu: L(12)Q(17)M(13)R(18)N(14), S(19)O(15)T(20)P(16)U(21), Q(17)V(22)R(18)W(23)S(19), X(24)T(20)Y(25)U(21)Z(26)."
+      }
+    }
+  ]
+}

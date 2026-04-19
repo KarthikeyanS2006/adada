@@ -1,0 +1,187 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-29-Nov-23-Shift-II-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Who among the following is the founder of the Vrindavan Gurukul in Mumbai and Vrindavan Gurukul in Bhubaneshwar?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Shivkumar Sharma",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "M Balamurlikrishnan",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Hariprasad Chaurasia",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Bhimsen Joshi",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Hariprasad Chaurasia, the renowned Indian classical flautist, founded the Vrindavan Gurukul in Mumbai and Bhubaneshwar to promote Hindustani classical music.",
+        "tanglish": "Hariprasad Chaurasia endra periya flute kalaignar dhaan Mumbai matrum Bhubaneshwar-il Vrindavan Gurukul-ai therivithu Hindustani ilakiya music-ai valarppatharku matroru idamaga maatrinaar."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "In 1889, ________ established the Mukti Mission, in Pune, a refuge for young widows who had been deserted and abused by their families.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Pandita Ramabai",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Laxmi Sehgal",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Sarojini Naidu",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Kasturba Gandhi",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Pandita Ramabai was a social reformer who established the Mukti Mission in Pune in 1889 to provide shelter and education for widows, especially those who were abandoned by their families.",
+        "tanglish": "Pandita Ramabai oru samudhaaya seythi. Avar 1889-aam aandu Pune-il vidhavai pengalukku illam tharavu matrum kalvi tharavendum endru Mukti Mission-ai thodanginaar."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Which of the following is NOT an objective of the Fundamental Rights which are mentioned in the Indian Constitution?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Promote the ideal of political democracy",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Prevent the establishment of an authoritarian and despotic rule",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Establish a government of laws and not of men",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Drive the citizens towards the objectives of the government",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Fundamental Rights aim to protect individual liberties, prevent tyranny, and ensure rule of law. They restrain the government from interfering with individual freedom, rather than driving citizens towards government objectives.",
+        "tanglish": "Moola udhigal tamil maanavarin sorpattaigalaiyum, koozhiadithalai thadukkum, maanool aaluchiyai nirmikkum. Aanal arasiyin udhavaangalukku maanavargalai eduiththukkondhupoha dhaan moola udhigal oda dhayagam illai."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "The tribal dance Daang is associated with which Indian state?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Gujarat",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Odisha",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Madhya Pradesh",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Karnataka",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Daang is a vibrant folk dance performed by the tribal communities of Gujarat, particularly during festivals and celebrations.",
+        "tanglish": "Daang endra aadivase kalai Gujarat maanilaththil ola aadivaseer galurundhu viladum koluththamana nadagam."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Due to the need for irrigation facilities and pesticides/fertilisers, the first phase of the Green Revolution benefitted few affluent states such as _______________.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Punjab, Andhra Pradesh and Bihar",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Punjab, Andhra Pradesh and Tamil Nadu",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Punjab, Andhra Pradesh and Uttar Pradesh",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Punjab, Arunachal Pradesh and Uttar Pradesh",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The first phase of the Green Revolution primarily benefited states with well-developed irrigation like Punjab, Haryana and Western Uttar Pradesh. Among the given options, the combination including Uttar Pradesh is the most accurate.",
+        "tanglish": "Pacchai pongiyal muthal kadam neerppaasanaiyum payojanangalum niraindha Punjab, Haryana, Uttar Pradesh maanilangal payanpetra. Kodukkappatta vaaipugalil Uttar Pradesh ulla pathil dhaan sariyaanathu."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "The brittle crust and the top part of the upper mantle of the earth is called:",
+      "options": [
+        {
+          "id": "1",
+          "text": "asthenosphere",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "lithosphere",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "mesosphere",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "stratosphere",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The lithosphere is the rigid, outermost shell of the Earth, consisting of the crust and the uppermost part of the mantle.",
+        "tanglish": "Lithosphere endradhu bhoomiyin murivu matrum upper mantle oda sattaiyaana paagangalai odaikkattum."
+      }
+    }
+  ]
+}

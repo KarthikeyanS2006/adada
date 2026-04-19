@@ -1,0 +1,127 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-Constable-7-2-2025-Afternoon-Shift-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "यदि ‘+’ और ‘−‘ को परस्पर बदल दिया जाए तथा ‘×’ और ‘÷’ को परस्पर बदल दिया जाए, तो निम्नलिखित समीकरण में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 48 × 3 − 16 + 6 ÷ 3 =?",
+      "options": [
+        {
+          "id": "1",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "14",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "11",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "After interchanging the operators (+ becomes -, - becomes +, × becomes ÷, ÷ becomes ×), the equation becomes: 48 ÷ 3 + 16 - 6 × 3. Solving using BODMAS: 16 + 16 - 18 = 14.",
+        "tanglish": "Operators maatrinaal (+ ku badhila -, - ku badhila +, × ku badhila ÷, ÷ ku badhila ×), equation 48 ÷ 3 + 16 - 6 × 3 aagum. BODMAS use panni solve senjaal: 16 + 16 - 18 = 14."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "आठ व्‍यक्ति दो समानांतर पंक्तियों में बैठे हैं जिनमें से प्रत्येक पंक्ति में 4 व्यक्ति इस प्रकार बैठे हैं कि आसन्न व्यक्तियों के बीच की दूरी समान है। पंक्ति 1 में - G, L, O और F बैठे हैं और उन सभी का मुख दक्षिण की ओर है। पंक्ति 2 में - B, E, S और T बैठे हैं और उन सभी का मुख उत्तर की ओर है। इस प्रकार, पहली पंक्ति के प्रत्येक व्यक्ति का मुख दूसरी पंक्ति के किसी अन्य व्यक्ति की ओर है। S के बाईं ओर कोई भी नहीं बैठा है। L के बाईं ओर कोई भी नहीं बैठा है। T और S के बीच में केवल एक व्यक्ति बैठा है। E के सम्मुख बैठा व्यक्ति, L के दाईं ओर दूसरे स्थान पर बैठा है। O, G के दाईं ओर दूसरे स्थान पर बैठा है। निम्नलिखित में से कौन-सा विकल्‍प, पंक्तियों के अंतिम छोरों पर बैठे दोनों व्‍यक्तियों को दर्शाता है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "O और T",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "L और E",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "G और S",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "O और B",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "From the clues: Row 1 (facing South): O-F-G-L (positions 1-4). Row 2 (facing North): S-E-T-B (positions 1-4). S and L are at extreme ends of their respective rows. O is at left end of Row 1 and B is at right end of Row 2. Thus, O and B are the persons sitting at extreme ends.",
+        "tanglish": "Clues vaithu arrange senjaal: Row 1 (dakshinaththai nokki): O-F-G-L (1-4 idangal). Row 2 (utkaraththai nokki): S-E-T-B (1-4 idangal). O Row 1-in edathu (left) mudivilum, B Row 2-in valathu (right) mudivilum ullar. Aanal chonnaal, O (Row 1 left) matrum B (Row 2 right) endgalil ullar."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "दिए गए विकल्पों में से उस आकृति का चयन कीजिए जो नीचे दी गई श्रृंखला में प्रश्न चिह्न (?) के स्थान पर आ सकती है। [Figure series question - image not available in text]",
+      "options": [
+        {
+          "id": "1",
+          "text": "Option 1",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Option 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Option 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Option 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "This is a figure series question. Without the visual representation of the series and options, the specific pattern cannot be determined.",
+        "tanglish": "Idhu oru chithram sambandha kuzhappam. Kuzhampaana chithrangal illamal pattern kanbitthal sadhiyadhu."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "यदि शब्द ROTCHES के प्रत्येक अक्षर को अंग्रेजी वर्णमाला क्रम में व्यवस्थित किया जाए तो कितने अक्षरों का स्थान अपरिवर्तित रहेगा?",
+      "options": [
+        {
+          "id": "1",
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "दो",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "एक का भी नहीं",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "ஒரு",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Original word: R-O-T-C-H-E-S. Alphabetical order: C-E-H-O-R-S-T. Comparing positions: R(1)vsC(1), O(2)vsE(2), T(3)vsH(3), C(4)vsO(4), H(5)vsR(5), E(6)vsS(6), S(7)vsT(7). No letter remains in the same position.",
+        "tanglish": "Moola padham: R-O-T-C-H-E-S. Alphabetical order: C-E-H-O-R-S-T. Sthanangalai oppidum potu: R(1)-C(1), O(2)-E(2), T(3)-H(3), C(4)-O(4), H(5)-R(5), E(6)-S(6), S(7)-T(7). Oru aksharam kooda mudal sthanaththil illai."
+      }
+    }
+  ]
+}

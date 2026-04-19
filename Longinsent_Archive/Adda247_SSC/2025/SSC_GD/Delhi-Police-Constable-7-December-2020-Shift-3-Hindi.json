@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-7-December-2020-Shift-3-Hindi.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "नागरहोल राष्ट्रीय उद्यान ______ में स्थित है।",
+      "options": [
+        {
+          "id": "1",
+          "text": "तमिलनाडु",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "गोवा",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "अरुणाचल प्रदेश",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "कर्नाटक",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Nagarhole National Park is located in the state of Karnataka. It is also known as Rajiv Gandhi National Park and is part of the Nilgiri Biosphere Reserve.",
+        "tanglish": "Nagarhole Rashtriya Udhyaan Karnataka maanilathil ullathu. Idhu Rajiv Gandhi Rashtriya Udhyaan endrum sollappadum, idhu Nilgiri Biosphere Reserve oda ingam."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "1820 में, थॉमस मुनरो ने निम्नलिखित में से कौन सी लगान व्यवस्था आरंभ की थी?",
+      "options": [
+        {
+          "id": "1",
+          "text": "जमींदारी",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "ज्योति",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "रैयतवाड़ी",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "महालवाड़ी",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "In 1820, Thomas Munro introduced the Ryotwari system in the Madras Presidency. Under this system, the British made revenue settlement directly with the cultivators (ryots) instead of zamindars.",
+        "tanglish": "1820 aandil Thomas Munro Madras Presidency la Ryotwari lagan muraiyai aarambithaar. Ithil British kaarar velanadra munnorudan (ryots) neraga varumanam seithu koluva maarrai seithargal."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "गांधार कला शैली ______ कला से प्रभावित थी।",
+      "options": [
+        {
+          "id": "1",
+          "text": "कोरियाई और मंगोलियाई",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "फारसी और तुर्क",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "चीनी और जापानी",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "यूनानी और रोमन",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Gandhara art style was influenced by Greco-Roman (Greek and Roman) art. It emerged in the ancient Gandhara region (present-day Pakistan and Afghanistan) and shows strong Hellenistic influences.",
+        "tanglish": "Gandhara kalai Yunaani matrum Roman kalaiyaal prabhavitthamaanathu. Idhu praachina Gandhara nattiyil (imaiyana Pakistan matrum Afghanistan) thotram petrathu, Hellenistic parimaanangal ainththu kaattugirathu."
+      }
+    }
+  ]
+}

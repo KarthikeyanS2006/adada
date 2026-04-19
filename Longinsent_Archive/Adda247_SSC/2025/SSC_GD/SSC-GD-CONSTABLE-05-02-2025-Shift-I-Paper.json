@@ -1,0 +1,187 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-CONSTABLE-05-02-2025-Shift-I-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements. Statements: All lyricists are singers. Some singers are writers. No writer is a musician. Conclusions: (I): No lyricist is a musician. (II): Some writers are lyricists.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Only conclusion (II) follows.",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Only conclusion (I) follows.",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Neither conclusion (I) nor (II) follows.",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Both conclusions (I) and (II) follow.",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "From the statements: All Lyricists are Singers, Some Singers are Writers, and No Writer is a Musician. Conclusion I does not follow because there is no direct link preventing Lyricists from being Musicians (they could be Singers who are Musicians but not Writers). Conclusion II does not follow because while Some Singers are Writers, we cannot confirm these Writers overlap with Lyricists.",
+        "tanglish": "Koorugalai padithaal: Ellaa lyricistkalum singers, sila singers writers, ezhuthalar ondru musician illai. Munnaanmai I sheyyappadalaillai, yenna lyricistkal musician aagalam (ezhuthalar illamal). Munnaanmai II sheyyappadalaillai, sila singers writers endraalum andha writers lyricistkaloda ondrunguvaargala endru uruthi illai."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Select the Venn diagram that best illustrates the relationship between the following classes. Onion, Vegetable, Shirt",
+      "options": [
+        {
+          "id": "1",
+          "text": "Diagram showing Onion circle inside Vegetable circle, Shirt as separate circle",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Diagram 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Diagram 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Diagram 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Onion is a type of Vegetable, so its circle should be completely inside the Vegetable circle. Shirt is a completely different class with no relation to Onion or Vegetable, so it should be represented as a separate circle.",
+        "tanglish": "Vengayam oru thoranam, aanathaal adhan virittam thorana virittathin ul irukkavendum. Sattai vera oru vagaippadu, aanathaal thaniyaga paapaduthappaduvadhu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "E, F, G, H, K, L and N are sitting around a circular table facing the centre (but not necessarily in the same order). Only two people sit between H and G when counted from the right of H. Only three people sit between L and N when counted from the right of N. G sits to the immediate right of N. K sits to the immediate right of E. How many people sit between F and E when counted from the left of F?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Two",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Four",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Three",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "One",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The circular arrangement clockwise is: N - G - E - K - L - H - F. Counting from the left of F (counter-clockwise direction): F to H (1), H to L (2), L to K (3), then E. So there are 3 people (H, L, K) between F and E.",
+        "tanglish": "Suthira amaippu valathu paathaiyil: N - G - E - K - L - H - F. F idam irundhu idathu paathaiyil (valathu paathai edhirpaadu) enninaal: F irundhu H(1), L(2), K(3), pinbu E. Aanathaal moondru paer (H, L, K) idaiyil irukkiraargal."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "In a certain code language 'GPZJ' is coded as '98' and 'OWRS' is coded as '66'. What is the code for 'VIXE' in the given language?",
+      "options": [
+        {
+          "id": "1",
+          "text": "88",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "86",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "96",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "91",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The coding pattern is: Sum of reverse alphabetical positions × 2. GPZJ: G(20)+P(11)+Z(1)+J(17)=49×2=98. OWRS: O(12)+W(4)+R(9)+S(8)=33×2=66. For VIXE: V(5)+I(18)+X(3)+E(22)=48×2=96.",
+        "tanglish": "Kooda murai: Vilom agarathi idathalgalin koottuthogai × 2. GPZJ: G(20)+P(11)+Z(1)+J(17)=49×2=98. OWRS: O(12)+W(4)+R(9)+S(8)=33×2=66. VIXE-kku: V(5)+I(18)+X(3)+E(22)=48×2=96."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "What should come in place of the question mark (?) in the given series based on the English alphabetical order? BMY, DNW, ?, HPS",
+      "options": [
+        {
+          "id": "1",
+          "text": "EOU",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "FOT",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "FPU",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "FOU",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "First letters follow +2 pattern: B(2), D(4), F(6), H(8). Second letters follow +1 pattern: M(13), N(14), O(15), P(16). Third letters follow -2 pattern: Y(25), W(23), U(21), S(19). Thus, the missing term is FOU.",
+        "tanglish": "Mudhal aksharangal +2 muraiyil: B(2), D(4), F(6), H(8). Irandam aksharangal +1 muraiyil: M(13), N(14), O(15), P(16). Moondram aksharangal -2 muraiyil: Y(25), W(23), U(21), S(19). Aanathaal illatha pathil FOU."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Based on the English alphabetical order, three of the following four letter-clusters are alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to that group? (Note: The odd man out is not based on the number of consonants/vowels or their position in the letter-cluster.)",
+      "options": [
+        {
+          "id": "1",
+          "text": "VSW",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "NLO",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "WTX",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "KHL",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The pattern is: 1st letter - 3 = 2nd letter, 2nd letter + 4 = 3rd letter. VSW: V(22)-3=19(S), 19+4=23(W). WTX: W(23)-3=20(T), 20+4=24(X). KHL: K(11)-3=8(H), 8+4=12(L). NLO follows -2, +3 pattern (N(14)-2=12(L), 12+3=15(O)) instead of -3, +4, making it the odd one out.",
+        "tanglish": "Murai: 1-am ezhuthu - 3 = 2-am ezhuthu, 2-am ezhuthu + 4 = 3-am ezhuthu. VSW: V(22)-3=19(S), 19+4=23(W). WTX: W(23)-3=20(T), 20+4=24(X). KHL: K(11)-3=8(H), 8+4=12(L). NLO -2, +3 muraiyil (N(14)-2=12(L), 12+3=15(O)) iruppadhal idhu vera."
+      }
+    }
+  ]
+}

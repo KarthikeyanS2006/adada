@@ -1,0 +1,187 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-30-Nov-23-Shift-I-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Annapurna Finance Private Limited had its origin as a not-for-profit company called __________, an NGO that helped poor women in Odisha.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Alternative for Rural Movement",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Peoples Forum",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "All India Development Trust",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Action for Rural Transformation",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Annapurna Finance Private Limited was originally established as a not-for-profit company named All India Development Trust, an NGO that worked for the welfare of poor women in Odisha before transitioning into a microfinance institution.",
+        "tanglish": "Annapurna Finance Private Limited, All India Development Trust endra peyaril oru not-for-profit company aaga thodakkappattadhu. Idhu Odisha maanilathil eliya vittavasigalukku udhavu seidha oru NGO aagi irundhadhu, pinbu oru siriya nidhi sevai institution aaga marindhadhu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Hanukkah is a ______ festival.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Jain",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Jewish",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Sikh",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Buddhist",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Hanukkah is an eight-day Jewish festival commemorating the rededication of the Second Temple in Jerusalem during the second century BC. It is also known as the Festival of Lights.",
+        "tanglish": "Hanukkah enbadhu yahoodhar samayathin eitunaaiaadha pandigai. Idhu kristhu pirappukku munbu Jerusalemil irundha second kovil punar samarpitham seithathai ninaivu paduthum oru eetu naal pandigai. Idhai Vilakkugal Thiruvizha endrum solluvaargal."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "In which year did Mihir Sen create history by being the only man to swim the five oceans in one calendar year?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1958",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "1966",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "1949",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "1950",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Mihir Sen created history in 1966 by becoming the first and only person to swim the five oceans (including Palk Strait, Suez Canal, Strait of Gibraltar, Dardanelles, and Bosphorus) in a single calendar year.",
+        "tanglish": "Mihir Sen 1966 maa varushathil oru kalathinarumagiya aandil aindhu kadalugalil neenthi varalaru padaitaar. Palk Kadanthai, Suez Canal, Gibraltar Kadanthai, Dardanelles, matrum Bosphorus endra ivatrai neenthi adhaiyum oru varushathil mudithavar."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "[Question text unavailable in source document]",
+      "options": [
+        {
+          "id": "1",
+          "text": "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The question text for this matching question was not provided in the source document. Only the answer options were visible.",
+        "tanglish": "Indha saya viral kelviyin patham kodukkappattulla documentil illai. Sirupataiyaana pathi mattume therindhadhu. Sariyaana virupam source document mattumeyam kandupidikka mudiyavillai."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Which edition of the FIFA U-17 Women's World Cup was hosted by India in 2022?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Fifth",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Sixth",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Fourth",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Seventh",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "India hosted the 7th edition of the FIFA U-17 Women's World Cup in 2022. The tournament was held from October 11 to October 30, 2022, across three venues.",
+        "tanglish": "India 2022 maa varushathil FIFA U-17 Pengalulagam Cup in 7th edition naadaga vaithadhu. Idhu October 11 mudhal October 30 varai moondru idangalil nadatha pattadhu."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "According to Planning commission of India (2011-12), which group of states has the highest poverty ratio?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Maharashtra and Gujarat",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Madhya Pradesh and Uttar Pradesh",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Chhattisgarh and Jharkhand",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Punjab and Haryana",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "According to the Planning Commission of India based on the Tendulkar Committee methodology for 2011-12, Chhattisgarh and Jharkhand had among the highest poverty ratios in India.",
+        "tanglish": "India Ellai Nadu Aayogathin Tendulkar kuzhu muraiyai (2011-12) eetrupadi, Chhattisgarh matrum Jharkhand maanilanggallil eeriayalaatchi thogai athigamaaga irundhadhu."
+      }
+    }
+  ]
+}

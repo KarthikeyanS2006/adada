@@ -1,0 +1,277 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-CONSTABLE-04-02-2025-Shift-I-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "In a certain code language, 'BSGN' is coded as '5-22-10-17' and 'TAUE' is coded as '23-4- 24-8'. How is 'PJDQ' coded in the given language?",
+      "options": [
+        {
+          "id": "1",
+          "text": "15-11-5-19",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "19-13-7-20",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "16-12-8-18",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "17-13-6-20",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Each letter is coded as its alphabet position number plus 3. B(2)+3=5, S(19)+3=22, G(7)+3=10, N(14)+3=17. Applying same logic: P(16)+3=19, J(10)+3=13, D(4)+3=7, Q(17)+3=20. Result: 19-13-7-20.",
+        "tanglish": "English alphabetil thani thaniyaga eluthukkalukku +3 koduthu ennikkai maatrumpothu utpadum. B(2)+3=5, S(19)+3=22. Idhae muraiyaai PJDQ-kku seivathaal 19-13-7-20 varum."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Select the Venn diagram that best illustrates the relationship among the following classes. Female, Cardiologist, Engineer",
+      "options": [
+        {
+          "id": "1",
+          "text": "Option 1 (Diagram 1)",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Option 2 (Diagram 2)",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Option 3 (Diagram 3)",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Option 4 (Diagram 4)",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Venn diagram question requiring visual analysis of the relationship between Female (a broader category) and the two professions Cardiologist and Engineer, which intersect with Female. Correct answer depends on the specific diagrams shown in the figure.",
+        "tanglish": "Venn diagram-il Female, Cardiologist, Engineer urubugalukku madhayilulla sambandhathai kaatukirom. (Chithiram illathaala exact utharathai kandupidikka mudiyavillai)."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Based on the English alphabetical order, three of the following four letter-clusters are alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to that group? (Note: The odd man out is not based on the number of consonants/vowels or their position in the letter-cluster.)",
+      "options": [
+        {
+          "id": "1",
+          "text": "HJL",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "SUV",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "FHJ",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "NPR",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "In HJL, FHJ, and NPR, the pattern is +2, +2 (H+2=J, J+2=L; F+2=H, H+2=J; N+2=P, P+2=R). In SUV, the pattern is S+2=U, U+1=V (+2, +1). Hence, SUV is the odd one out.",
+        "tanglish": "HJL, FHJ, NPR ellam +2, +2 anupatham kondu varugindrana, SUV matra +2, +1 anupatham kondu varugirathu. Athanaal SUV thaniyaga nilai."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "A dice has its faces marked by letters E, R, A, L, O and T. Two positions of the same dice are shown in the given figures. Which face is opposite to face E?",
+      "options": [
+        {
+          "id": "1",
+          "text": "L",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "A",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "O",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "R",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Dice arrangement question requiring analysis of the two given positions to determine adjacent faces and thereby identify the opposite face. Answer depends on the specific figures shown.",
+        "tanglish": "Pasi kallil edhir edhirmaana mugangalai kandupidikka vendum. Iru chithirangalum illathaala exact utharathai kandupidikka mudiyavillai."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "In a certain code language, 'JAMB' is coded as '5139' and 'BALM' is coded as '9521'. What is the code for 'L' in the given code language?",
+      "options": [
+        {
+          "id": "1",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "By comparing JAMB (5139) and BALM (9521), common letters are A(1) and B/M. B appears in both: in JAMB it's position 4 (code 9), in BALM it's position 1 (code 9), so B=9. Then A=1, M=3 (from BALM position 4). Therefore L in BALM (position 3) is 2.",
+        "tanglish": "JAMB=5139 matrum BALM=9521 endru irupathil irunthu B=9, A=1, M=3, L=2 endru kandupidikka mudiyum. Athanaal L-in code 2."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Based on some logic, 'CLONE' is written as 'BLUKU' and 'BOUND' is written as 'AOAKT'. Following the same logic, 'NICHE' can be written as:",
+      "options": [
+        {
+          "id": "1",
+          "text": "NIIET",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "MIIET",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "MIIEU",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "NIIEU",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The pattern for each letter is: 1st letter -1, 2nd letter 0, 3rd letter +6, 4th letter -3, 5th letter +16. For NICHE: N(14)-1=M, I(9)+0=I, C(3)+6=I, H(8)-3=E, E(5)+16=U. Result: MIIEU.",
+        "tanglish": "CLONE->BLUKU endrathil mudal eluthu -1, edathu eluthu +0, moonram +6, naangam -3, aintham +16 endru maatram undu. Idhae murai NICHE-kku seivathaal MIIEU varum."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "What should come in place of the question mark (?) in the given series? 208 190 163 127 82 ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "28",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "54",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "45",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "12",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The differences between consecutive terms are: 208-190=18, 190-163=27, 163-127=36, 127-82=45. The differences follow the pattern of multiples of 9 (18=9×2, 27=9×3, 36=9×4, 45=9×5). Next difference should be 9×6=54. Therefore, 82-54=28.",
+        "tanglish": "Mathiporuthigal: 208-190=18, 190-163=27, 163-127=36, 127-82=45. Inthu 9-il yerindhu varugindrana (9×2, 9×3...). Agavulla mathiporuthi 54 (9×6). 82-54=28."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "Seven people L, M, N, O, P, Q and R are sitting in a straight line facing the north (but not necessarily in the same order). M is sitting to the immediate left of P. O is sitting to the immediate left of Q. R is sitting to the immediate right of P and the immediate left of L. N is sitting to the immediate right of L and the immediate left of O. Who is sitting second to the left of N?",
+      "options": [
+        {
+          "id": "1",
+          "text": "P",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Q",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "R",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "M",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Arranging from the clues: R is right of P and left of L (P-R-L). N is right of L and left of O (L-N-O). O is left of Q (O-Q). So we have P-R-L-N-O-Q. M is left of P (M-P). Final arrangement: M-P-R-L-N-O-Q. Second to the left of N (position 5) is R (position 3).",
+        "tanglish": "Uthirullappadutha amarpu: M-P-R-L-N-O-Q. N-in idathu pakkathil irupavar R."
+      }
+    },
+    {
+      "q_number": 9,
+      "question_text": "SBCF is related to RADG in a certain way. In the same way, NVMO is related to MUNP. To which of the following is GUAX related, following the same logic?",
+      "options": [
+        {
+          "id": "1",
+          "text": "FTBZ",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "FTBY",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "FTCY",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "FRCY",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The pattern is: 1st letter -1, 2nd letter -1, 3rd letter +1, 4th letter +1. S(-1)=R, B(-1)=A, C(+1)=D, F(+1)=G. Applying to GUAX: G(-1)=F, U(-1)=T, A(+1)=B, X(+1)=Y. Result: FTBY.",
+        "tanglish": "SBCF->RADG endrathil mudal irandu eluthugalil -1, adutha irandil +1 endru maatram undu. Idhae murai GUAX-kku seivathaal FTBY varum."
+      }
+    }
+  ]
+}

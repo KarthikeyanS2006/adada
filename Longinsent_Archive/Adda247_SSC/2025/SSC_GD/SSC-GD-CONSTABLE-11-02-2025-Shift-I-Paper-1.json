@@ -1,0 +1,277 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-CONSTABLE-11-02-2025-Shift-I-Paper-1.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Select the Venn diagram that best illustrates the relationship between the following classes. Males, Fathers, Females",
+      "options": [
+        {
+          "id": "1",
+          "text": "Diagram 1",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Diagram 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Diagram 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Diagram 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Males and Females are mutually exclusive categories (no overlap). Fathers is a subset of Males (all fathers are males). Therefore, the Venn diagram should show Fathers circle completely inside Males circle, with Females circle separate and not touching.",
+        "tanglish": "Males matrum Females ondraaga aanmai pechugal (mutually exclusive). Fathers endral Males oda oru siru vaguppu (subset). Idaam Venn diagram-il Fathers circle Males circle kulla irukkum, Females circle vera edathil paduthappatta irukkum."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements. Statements: No almond is a date. No date is a raisin. No date is a cherry. Conclusions: (I): No almond is a raisin. (II): Some cherries are raisins.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Only conclusion (I) follows.",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Neither conclusion (I) nor (II) follows.",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Both conclusions (I) and (II) follow.",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Only conclusion (II) follows.",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "From 'No almond is a date' and 'No date is a raisin', we cannot conclude that no almond is a raisin because date is the middle term and is not distributed in both premises. From 'No date is a cherry' and 'No date is a raisin', we cannot establish any relationship between cherries and raisins.",
+        "tanglish": "Statements-il date endra mudal eluthu almond matrum raisinukkulle sambandha paduthavillai. Aaga conclusion I follow aagathu. Cherry matrum raisinukkulla sambandham theriyavillai, aaga conclusion II um follow aagathu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "What will come in the place of the question mark '(?)' in the following equation, if '÷' and '×' are interchanged and '+' and '−' are interchanged? 27 − 6 ÷ 4 + 24 × 3 = ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "46",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "44",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "45",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "43",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "After interchanging the symbols: ÷ becomes ×, × becomes ÷, + becomes −, − becomes +. The equation becomes: 27 + 6 × 4 − 24 ÷ 3. Following BODMAS: 27 + 24 − 8 = 43.",
+        "tanglish": "Symbol mattum poti, 27 + 6 × 4 - 24 ÷ 3 endru maarum. GanithaOlakkam: 27 + 24 - 8 = 43."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "In a certain code language, 'we like trees' is coded as 'bv mn fd' and 'trees like water' is coded as 'bv cx fd'. How is 'we' coded in the given language?",
+      "options": [
+        {
+          "id": "1",
+          "text": "bv",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "cx",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "mn",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "fd",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Comparing both coded sentences, 'bv' and 'fd' are common codes corresponding to 'like' and 'trees'. The remaining code in the first sentence is 'mn', which corresponds to 'we'.",
+        "tanglish": "Irandu vakkiyangalai othukka 'bv' matrum 'fd' endru common code 'like' matrum 'trees' ku. Migila code 'mn' endrathu 'we' ku."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "What should come in place of (?) in the given series based on the English alphabetical order? OAS, QCU, SEW, UGY, ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "WHB",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "WIA",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "VJB",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "VHZ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Pattern: Each letter moves +2 positions in the alphabet. O→Q→S→U→W, A→C→E→G→I, S→U→W→Y→A. Therefore, the next term is WIA.",
+        "tanglish": "Pattern: O(Oscar) vendru Q(Quebec), A(Alpha) vendru C(Charlie), S(Sierra) vendru U(Uniform). Andha murai +2. Appo adutha eluthu W(Whiskey), I(India), A(Alpha)."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "What should come in place of the question mark (?) in the given series? 195, 175, 150, 120, 85, ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "45",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "30",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "36",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "40",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The differences between consecutive terms are: 20 (195-175), 25 (175-150), 30 (150-120), 35 (120-85). Following this pattern, the next difference is 40. Therefore, 85 - 40 = 45.",
+        "tanglish": "Vithyasam: 20, 25, 30, 35. Agala vithyasam 40. Aaga 85 - 40 = 45."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Each letter in the word HARMFUL is arranged in the English alphabetical order. How many letters are there in the English alphabetical order between the letter which is third from the left end and the one which is third from the right end in the new letter-cluster thus formed?",
+      "options": [
+        {
+          "id": "1",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "3",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Alphabetical order of HARMFUL: A, F, H, L, M, R, U. Third from left is H. Third from right is M (counting from right: U, R, M). Letters between H and M are: I, J, K, L. Total 4 letters.",
+        "tanglish": "Alphabetical order: A,F,H,L,M,R,U. Idathil 3rd from left 'H', 3rd from right 'M'. Ivvirkulle I,J,K,L endra 4 eluthugal."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series. E _ _ MXEGL _ _ _ GLM _ E _ _ MX",
+      "options": [
+        {
+          "id": "1",
+          "text": "GLMXEXGL",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "GMLXEXGL",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "GLMXEGXL",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "MGLXEXGL",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The pattern 'EGLMX' repeats throughout the series. Filling the blanks with this pattern: E G L M X E G L M X E G L M X E G L M X. The required letters to fill the blanks are: GL + MXE + X + GL = GLMXEXGL.",
+        "tanglish": "Pattern 'EGLMX' endru thirumbi varum. Chikkalugal GL, pina MXE, pina X, pinbu GL endru amarum. Mudivu GLMXEXGL."
+      }
+    },
+    {
+      "q_number": 9,
+      "question_text": "Two different positions of the same dice are given below. Which is the number on the face opposite to the face containing 12?",
+      "options": [
+        {
+          "id": "1",
+          "text": "11",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "7",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "By analyzing the two positions of the dice, the common adjacent faces determine that the face opposite to 12 is 11. [Note: Exact answer depends on the specific dice positions shown in the diagram.]",
+        "tanglish": "Dice erandu idathai oppidithal, 12 edhir mugathil 11 irukkum. [Kurippu: Diagram-il kattapatta idathai vachu sariyaana pathil theriyum.]"
+      }
+    }
+  ]
+}

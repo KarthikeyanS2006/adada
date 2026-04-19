@@ -1,0 +1,127 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-8-December-2020-Shift-3-Hindi.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "प्रधानमंत्री राष्ट्रीय बाल पुरस्कार 2020 कुल कितने बच्चों को मिला है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "37",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "49",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "45",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "33",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Prime Minister's National Child Award (Rashtriya Bal Puraskar) for the year 2020 was conferred upon a total of 49 children for their exceptional achievements.",
+        "tanglish": "2020-aam varushathirku Pradhan Mantri Rashtriya Bal Puraskar 49 pillargalukku nalkappattadhu, ivargal uthamath thinangalil sirappaga vayttargal."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "जून 2020 में जारी विश्व प्रतिस्पर्धात्मकता सूचकांक (वर्ल्ड कॉम्पिटिटिवनेस इंडेक्स) में भारत ने ______ स्थान प्राप्त किया था।",
+      "options": [
+        {
+          "id": "1",
+          "text": "49 वां",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "43 वां",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "32 वां",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "38 वां",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "According to the IMD World Competitiveness Index released in June 2020, India was ranked 43rd among 63 nations surveyed, showing improvement from the previous year.",
+        "tanglish": "June 2020-il IMD World Competitiveness Index jaari seyyappattadhil, India 63 naadugalil 43-am idathai eduthadhu, idhu mugal varushathin idayaipoi munnetram aayirundhadhu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "भारत में लोकसभा (हाउस ऑफ रिप्रेजेंटेटिव) के 'अस्थाई (प्रो-टेम)' अध्यक्ष के बारे में निम्नलिखित में से कौन सा कथन सही है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "इस पद के लिए नाम की अनुशंसा संयुक्त मंत्रिमंडल द्वारा की जाती है।",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "उनकी नियुक्ति भारत के राष्ट्रपति द्वारा की जाती है।",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "इस पद के लिए नाम की अनुशंसा लोकसभा में विपक्ष के नेता द्वारा की जाती है।",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "इस पद के लिए नाम की अनुशंसा लोकसभा के वर्तमान अध्यक्ष द्वारा की जाती है।",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Pro-tem Speaker of Lok Sabha is appointed by the President of India from amongst the members of the House. The recommendation for this appointment is typically made by the Council of Ministers (Union Cabinet).",
+        "tanglish": "Lok Sabha-il Pro-tem speaker padathirku Council of Ministers anushasanai seithu, Rashtrapati idai niyamikkiraar, idhu Sabha-iyil seniormost member-ai thervu seydhu."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "भारत के निम्नलिखित प्रदेशों में से किस प्रदेश में 10 वीं शताब्दी के अंत में दिद्दा नामक महिला शासक का शासन था?",
+      "options": [
+        {
+          "id": "1",
+          "text": "बंगाल",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "अवध",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "कलिंग",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "कश्मीर",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Didda was a powerful queen who ruled Kashmir from 980 CE to 1003 CE. She was one of the notable female rulers in Indian history during the 10th century.",
+        "tanglish": "Didda endra pennarasar 980 CE mudal 1003 CE varai Kashmir-ai aatchi seithaar, idhu 10-am nootrandaadin mudivil nadandha sirappana samayam."
+      }
+    }
+  ]
+}

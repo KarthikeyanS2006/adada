@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-Constable-12-2-2025-Afternoon-Shift-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "दिए गए कथनों और निष्कर्षों को ध्यानपूर्वक पढ़िए। यह मानते हुए कि कथनों में दी गई जानकारी सत्य है, चाहे वह सामान्यतः ज्ञात तथ्यों से भिन्न प्रतीत होती हो और निर्णय लीजिए कि दिए गए निष्कर्षों में से कौन-सा/कौन-से निष्कर्ष कथनों का तार्किक रूप से अनुसरण करता है/करते हैं।\n\nकथन:\nकुछ शब्द, पैराग्राफ हैं।\nसभी पैराग्राफ, निबंध हैं।\nकोई निबंध, कहानी नहीं है।\n\nनिष्कर्ष:\n(I): कुछ पैराग्राफ, कहानियाँ हैं।\n(II): सभी शब्द, निबंध हैं।",
+      "options": [
+        {
+          "id": "1",
+          "text": "न तो निष्कर्ष (I) और न ही निष्कर्ष (II) अनुसरण करता है।",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "केवल निष्कर्ष (I) अनुसरण करता है।",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "निष्कर्ष (I) और निष्कर्ष (II) दोनों अनुसरण करते हैं।",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "केवल निष्कर्ष (II) अनुसरण करता है।",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Statement Analysis: Some Words are Paragraphs (Some W are P), All Paragraphs are Essays (All P are E), No Essay is a Story (No E is S). Conclusion (I): Some Paragraphs are Stories - Since All P are E and No E is S, therefore No P is S. Hence, (I) does not follow. Conclusion (II): All Words are Essays - Since only Some W are P and All P are E, only Some W are E. Hence, (II) does not follow.",
+        "tanglish": "Kathangal: Sila words paragraph, ellath paragraphum essay, yarum essay story illa. Nishkarsham (I): Konja paragraph story - Paragraph ellam essay, essayellam story illa, aalathal paragraph story illa, ithu thappu. Nishkarsham (II): Ella words um essay - Sila words mattum paragraph, aalathal sila words mattum essay, ithuvum thappu. Sariyana badhil: Ondrum illai."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "सात व्यक्ति, L, M, N, O, W, X और Y, उत्तर की ओर अभिमुख होकर एक पंक्ति में बैठे हैं (परंतु जरूरी नहीं कि वे इसी क्रम में बैठे हों)।\nX के बाएं कोई नहीं बैठा है।\nX और N के बीच केवल चार व्यक्ति बैठे हैं।\nL के दाएं केवल तीन व्यक्ति बैठे हैं।\nM, W के ठीक बाएं बैठा है।\nO, L का निकटतम पड़ोसी नहीं है।\n\nपंक्ति के दाएं छोर पर कौन बैठा है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "L",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "N",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "O",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Y",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "From the conditions: X is at the leftmost position (Position 1). With four persons between X and N, N is at Position 6. With three persons to the right of L, L is at Position 4. M sits immediately to the right of W (WM block). This block can only fit at positions 2-3. This leaves positions 5 and 7 for O and Y. Since O is not an immediate neighbor of L (Position 4), O cannot be at Position 5. Thus, O is at Position 7 (extreme right) and Y is at Position 5. Final arrangement: X-W-M-L-Y-N-O.",
+        "tanglish": "X left mudhal edathil (1st) irukkar. X matrum N naduvula 4 per irunthaal N 6th edathil irukkar. L ku right side 3 per irunthaal L 4th edathil irukkar. M, W oda exact right la irukkar, aalathal W 2nd idathilum M 3rd idathilum erukkum. O, L oda arugathu ally illa, L 4th idathil irunthaal O 5th idathil vara mudiyathu. Aalathal O 7th idathil (right mudhal) Y 5th idathil erukkum. Final arrangement: X-W-M-L-Y-N-O."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "चुनिए कि निम्नलिखित में से कौन-सा आरेख वर्गों के बीच के संबंध को सर्वोत्तम रूप से दर्शाता है।",
+      "options": [
+        {
+          "id": "1",
+          "text": "Option 1",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Option 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Option 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Option 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Question data incomplete in provided text. Diagram options were not specified.",
+        "tanglish": "Kelasai vivarangal paripooramaaga illai. Chitram sadhagam tharavillai."
+      }
+    }
+  ]
+}

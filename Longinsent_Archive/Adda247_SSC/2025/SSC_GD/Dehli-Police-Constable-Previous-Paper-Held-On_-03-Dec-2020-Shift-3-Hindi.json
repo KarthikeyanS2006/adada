@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "Dehli-Police-Constable-Previous-Paper-Held-On_-03-Dec-2020-Shift-3-Hindi.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "The book 'Illoo' written by Keshav and ______ describes women's cricket in India. (Identify the co-author from the given options)",
+      "options": [
+        {
+          "id": "1",
+          "text": "Balakrishna Patnaik",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Brijnath",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Bhattacharya",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Venkatesh",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The book 'Illoo' (Women's Cricket in India) was co-authored by Keshav and Balakrishna Patnaik. It documents the history and development of women's cricket in India. Brijnath mentioned in the options is also associated with sports journalism but is not the co-author of this specific book.",
+        "tanglish": "'Illoo' endra puthagam Bharatil pennkal cricket patriya varalarai patriya puthagam. Idhu Keshav matrum Balakrishna Patnaik ontraga eluthiyathu. Brijnath mattroreeduthaan kreedai peskunar aanal indha puthagathin eluthalaralla."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "According to the constitutional provisions, how many Lok Sabha seats are allotted for Delhi NCT (National Capital Territory)?",
+      "options": [
+        {
+          "id": "1",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "7",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "15",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The National Capital Territory (NCT) of Delhi has 7 Lok Sabha constituencies according to the Constitution of India and the Representation of the People Act. These seats are: Chandni Chowk, North East Delhi, East Delhi, New Delhi, North West Delhi, West Delhi, and South Delhi.",
+        "tanglish": "Delhi National Capital Territory (NCT) ku India Arasiyalappadiyinpam 7 Lok Sabha thathukkal ablekittappattullana. Ividan Parliamentile India Arasu yeppadhu 7 munnare kiragangaluku prathinithithvam seithu ugkirathu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Under which Article of the Constitution is it mandatory to present the Annual Financial Statement (Budget) containing estimated receipts and expenditure of the Government of India before both Houses of Parliament?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Article 202",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Article 118",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Article 112",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Article 110",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Article 112 of the Indian Constitution mandates the presentation of the Annual Financial Statement (commonly known as the Budget) before both Houses of Parliament. This statement shows the estimated receipts and expenditure of the Government of India for each financial year. Article 110 deals with Money Bills, Article 118 with rules of procedure, and Article 202 with State budgets.",
+        "tanglish": "India Arasiyalappadiyin Article 112, India Arasignku varusha varavu matrum selavu kanakkal vivarangalai Parliamentin rendu mandrangalukku munnil (Budget) samarpikka vendum endru koorugirathu. Idhu varushathuku varusha India Arasuthuraiyun arpanai seyyappadum selavu matrum varavu kuriththa vivarangalai ollikkum."
+      }
+    }
+  ]
+}

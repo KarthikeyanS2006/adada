@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-Driver-Male-21-Oct-2022-Shift-1-English.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Which of the following was one of the founders of the American spaceflight company \"Virgin Galactic\"?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Richard Branson",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Jack Dorsey",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Larry page",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Jeff Bezos",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Richard Branson is the founder of Virgin Galactic, which was established in 2004 as part of the Virgin Group. The company is focused on commercial space tourism.",
+        "tanglish": "Richard Branson than Virgin Galactic oda founder. Idhu 2004 la Virgin Group oda arambikappattathu. Indha kambeni ulagam suzhal space tourism meythuvikkirathu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Which of the following state governments declared the 'Sushma Swaraj Award' for women in March 2022?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Haryana",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Madhya Pradesh",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Karnataka",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Uttar Pradesh",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Haryana Government announced the Sushma Swaraj Award in March 2022 to honour women achievers. It is named after former External Affairs Minister Sushma Swaraj.",
+        "tanglish": "Haryana arasu 2022 March la mahilaigaluku Sushma Swaraj Award ye aarambithu. Idhu mun External Affairs Minister Sushma Swaraj oda peradaiyathu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Who among the following was the President of the Lucknow session of the Indian National Congress in 1916?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Amrit Ranchoddas Seth",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Ambika Charan Majumdar",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Bishan Narayan Dhar",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Jawaharlal Nehru",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Ambika Charan Majumdar presided over the 1916 Lucknow session of the Indian National Congress. The historic Lucknow Pact between Congress and Muslim League was signed during this session.",
+        "tanglish": "Ambika Charan Majumdar than 1916 Indian National Congress oda Lucknow maanaatu adhyakshar. Indha maanaatule dhan Congress um Muslim League um serndhu Lucknow Sandi poturkaanga."
+      }
+    }
+  ]
+}

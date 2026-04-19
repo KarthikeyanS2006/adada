@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-21-Nov-23-Shift-I-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "चट्टानों के अध्यन को क्या कहते हैं?",
+      "options": [
+        {
+          "id": "1",
+          "text": "शैल विज्ञान",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "फल विज्ञान",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "कवक विज्ञान",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "मृदा विज्ञान",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The study of rocks is called Petrology or 'Shail Vigyan'. It is a branch of geology that deals with the origin, structure, and composition of rocks. Phal Vigyan refers to Pomology (study of fruits), Kavak Vigyan refers to Mycology (study of fungi), and Mrida Vigyan refers to Pedology (study of soil).",
+        "tanglish": "Kalgalin aivu Petrology endrum Shail Vignanam endrum sollappadum. Ithu geology oda oru pakkam. Phal Vignanam pazhangal padikkum, Kavak Vignanam poochikal (fungi) padikkum, Mrida Vignanam mannai padikkum."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "निम्नलिखित में से कौन-सी, भारतीय संविधान की संघीय विशेषता नहीं है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "लिखित संविधान",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "केंद्र और राज्यों के बीच शक्तियों का बँटवारा",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "एकल नागरिकता",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "स्वतंत्र न्यायपालिका",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Single citizenship is not a federal feature; it is a unitary feature. In a true federal system like the USA, there is dual citizenship (citizen of the country and the state). However, India follows single citizenship where every citizen is a citizen of India only, regardless of their state. Written constitution, division of powers between Centre and States, and independent judiciary are federal features.",
+        "tanglish": "Oru nagara thiramam (single citizenship) endradhu federal svabhaavam illai, idhu unitary tharamana vishesham. Federal system la irandaithiramam irukkum, aanaal India oru thiramam than irukkiradhu. Ezhuttha mudivu, sakthi panguvadaivu, suyatchi nyayappalivum federal svabhaavangal."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "2011 की जनगणना के अनुसार, भारत के किस केंद्र शासित प्रदेश में सबसे अधिक लिंगानुपात (प्रति 1000 पुरुषों पर महिलाएँ) है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "दादरा और नगर हवेली",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "पुदुचेरी",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "दमन और दीव",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "दिल्ली",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "According to the 2011 Census, Puducherry had the highest sex ratio among Union Territories with 1037 females per 1000 males. Dadra and Nagar Haveli had 774, Delhi had 868, and Daman and Diu had 618 females per 1000 males.",
+        "tanglish": "2011-il nadatha janakkanaanaipadhaiyil, Puducherry than kendra paalivu pradesangalil asthaana lingaanupatham kondirundhadhu (1000 aangalukku 1037 pengal). Dadra and Nagar Haveli 774, Delhi 868, Daman and Diu 618 irundhadhu."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "According to the UNDP Human Development Report 2021-22, what was the Human Development Index rank of India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "132",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "114",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "154",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "133",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "According to the UNDP Human Development Report 2021-22 (released in 2022), India was ranked 132nd among 191 countries with an HDI value of 0.633. This was an improvement from the previous year's rank of 131.",
+        "tanglish": "UNDP Manitha viraippu arikkai 2021-22 anusaaram, India 132-aavadhu sthaanathil irundhadhu. Ithu 191 deshngalukku madhiyil mudivariyappaduthapattadhu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "भारतीय संविधान में कानून के शासन का विचार किस देश से लिया गया है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "जर्मनी",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "संयुक्त राज्य अमेरिका",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "यूनाइटेड किंगडम",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "फ्रांस",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The concept of 'Rule of Law' was adopted from the United Kingdom (UK). It was popularized by A.V. Dicey. Germany contributed the concept of Emergency provisions, USA contributed written constitution and judicial review, and France contributed the principles of liberty, equality, and fraternity.",
+        "tanglish": "Kanoonin aatchi (Rule of Law) endra karutthu Britain (UK) irundhu eduthukondaadu. A.V. Dicey idhai prachuram aaki irundhar. Germany oreemai kaalam neram poruḷgalai, America ezhuttha constitution and nyaya parisodhanaiyai, France svatantryam, samathuvam, paṅkuttaiyum kondu vandhadhu."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Who authored 'Untouchable' depicting the caste system?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Mulk Raj Anand",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Jai Ratan",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "RK Narayan",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Vikram Seth",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "'Untouchable' was written by Mulk Raj Anand and published in 1935. It depicts the social exclusion and discrimination faced by sweepers and latrine cleaners in India's caste system. The protagonist Bakha is a sweeper who faces severe ostracism from society.",
+        "tanglish": "'Untouchable' novel Mulk Raj Anand ezhudhi 1935-il veli vanthatu. Ithu India jaathi thotta padhivirku ketta padukai theekkuthal aalugalin nilamaiyai sitharikiradhu. Nayagan Bakha oru theekkuthal aal (sweeper)."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "मूल रूप से, भारत के संविधान में ________ अनुसूचियां थीं।",
+      "options": [
+        {
+          "id": "1",
+          "text": "8",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Indian Constitution originally had 8 Schedules when it came into force on 26th January 1950. Currently, there are 12 Schedules. The 9th Schedule was added in 1951 by the 1st Constitutional Amendment, and the 10th, 11th, and 12th were added through amendments in 1985 and 1992 respectively.",
+        "tanglish": "Indian Constitution 1950 January 26-il arambhikkum podhu 8 anusoocigal (schedules) irundhadhu. Ipo 12 irukkiradhu. Mudal maatram 1951-il 9-aavadhu, 52-aavadhu maatram 1985-il 10-aavadhu, 73-74 maatrangal 1992-il 11, 12-aavathai saervithadhu."
+      }
+    }
+  ]
+}

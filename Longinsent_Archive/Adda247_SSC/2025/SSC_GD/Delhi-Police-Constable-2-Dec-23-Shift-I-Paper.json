@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-2-Dec-23-Shift-I-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Which of the following is the key aspect of Constitutional bodies?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Made by the Parliament",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Made by the President and PM",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Temporary status",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Mentioned in the Constitution",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Constitutional bodies are established and defined by the Constitution of India itself, which gives them permanent status and independent existence. They cannot be abolished or modified without amending the Constitution.",
+        "tanglish": "Samvidhaana urupugal India Samvidhaanathalaye amaikkappattu, mudrichuvadikkappattu irukkum. Ivarkalukku staayana nilaiyum svatantra irupum undu. Samvidhaanatthai maatravendumaiyil ataiyal athigarikkavum izhithalikkavum mudiyaathu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Which State has the maximum strength of members in Lok Sabha?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Andhra Pradesh",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Uttar Pradesh",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Karnataka",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Maharashtra",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Uttar Pradesh has 80 Lok Sabha seats, which is the highest among all states in India, followed by Maharashtra (48 seats) and West Bengal (42 seats).",
+        "tanglish": "Uttar Pradeshil 80 Lok Sabha seattugal ullana, idhu Hindiyilulla anaithu maanilangalilum athigam. Thodarndhu Maharashtra (48 seattugal) matrum West Bengal (42 seattugal) ullana."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "What is the name of the phenomenon by which light splits into its component colours upon passing through a prism?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Diffraction",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Dispersion",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Reflection",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Refraction",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "When white light passes through a prism, it splits into its constituent colors (VIBGYOR) due to different wavelengths refracting at different angles. This phenomenon is called dispersion of light.",
+        "tanglish": "Velliya velicham prism vazhaga sendraal, vividha alai nilangal vividha konangalil vangugirathaal athu athan seyarkaiyana nirangalaga (VIBGYOR) pirigirathu. Indha iyarkaiye velichathin viraivu ena ariyappadugirathu."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "The dance-pavilion (mandapa), the vast complex within a quadrilateral precinct of the Odisha school of architecture, is known as _________.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Jagamohana",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Vimana",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Deul",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Gopuram",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "In Odisha temple architecture, the Jagamohana is the dance pavilion or assembly hall (mandapa) where devotees gather. It is distinct from the Deul (sanctum sanctorum) and Vimana (tower).",
+        "tanglish": "Odisha kovil kattidathil, Jagamohana endrum natana mandapam ena solappadum, idhu bakthargal koottai serum idam. Idhu Deul (sannithi) matrum Vimana (kottagai) idangalil irunthu vithyasamanaathu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Who among the following Buddhist monks came from China to India during the reign of Chandragupta II?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Song Yun",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Fa-Hien",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Hiuen-Tsang",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "I-Tsing",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Fa-Hien (Faxian) visited India during the reign of Chandragupta II (Vikramaditya) in the early 5th century CE to collect Buddhist texts. Hiuen-Tsang visited during Harshavardhana's reign in the 7th century.",
+        "tanglish": "Fa-Hien (Faxian) 5th century CEil Chandragupta II (Vikramaditya) avargalin araachiyil bauddha grandangalai selavakki Indiavaruku payanam seithaar. Hiuen-Tsang 7th century CEil Harshavardhana araachiyil payanam seithaar."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "The Lingayats community of present-day Karnataka originated in the 12th century CE due to the emergence of a movement led by _________ .",
+      "options": [
+        {
+          "id": "1",
+          "text": "Tevaram",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Basavanna",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Sambandar",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Shivanaris",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Basavanna (Basaveshwara), a 12th-century philosopher and social reformer, founded the Lingayat movement in Karnataka. He advocated direct worship of Shiva without Brahminical rituals and caste discrimination.",
+        "tanglish": "12th century thathuvaviyalm matrum samudhaaya sudharakaraana Basavanna (Basaveshwara), Karnatakaavil Lingayat iyakkathai thottanginaar. Avar Brahmin rituals matrum jaathi vethikkai ingyaatha Shiva neradiya poojaiyai uruthee solliyaar."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Which of the following movements was started by Khan Abdul Ghaffar Khan?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Khudai Khidmatgars",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Ghadhar Movement",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "The Deccan Revolt",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Individual Satyagraha",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Khan Abdul Ghaffar Khan, also known as Frontier Gandhi, founded the Khudai Khidmatgars (Servants of God) in 1929. It was a non-violent resistance movement against British rule in the North-West Frontier Province.",
+        "tanglish": "Khan Abdul Ghaffar Khan, Frontier Gandhi endrum ariyappaduvavar, 1929il Khudai Khidmatgars (Kadavulin uzhavanivar) ena iyakkathai thottanginaar. Idhu North-West Frontier Provinceil British aachiyukku ethiraana ahimsai poratta iyakkam."
+      }
+    }
+  ]
+}

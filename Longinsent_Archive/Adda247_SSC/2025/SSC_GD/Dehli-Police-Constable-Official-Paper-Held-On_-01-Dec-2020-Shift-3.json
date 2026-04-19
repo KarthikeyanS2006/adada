@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Dehli-Police-Constable-Official-Paper-Held-On_-01-Dec-2020-Shift-3.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Who among the following was the first Indian personality to win an Oscar Award in the ‘Best Costume Design’ category?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Bhanu Athaiya",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Rohit Bal",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Neeta Lulla",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Ritu Kumar",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Bhanu Athaiya was the first Indian to win an Oscar Award. She won in the 'Best Costume Design' category for the film 'Gandhi' in 1982.",
+        "tanglish": "Bhanu Athaiya 1982-aam aandil Gandhi padathirkaga Best Costume Design thoguppil Oscar Award petratha mudal Indian aalu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "In which of the following years did Rani Lakshmibai die fighting with British colonial rulers?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1834",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "1858",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "1867",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "1856",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Rani Lakshmibai died on 18 June 1858 while fighting against the British colonial rulers during the Indian Rebellion of 1857.",
+        "tanglish": "Rani Lakshmibai 1858-aam aandu June 18-il British aandukalukku ethiraaga poradi India rani aayinum."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Which of the following rivers originates from Amarkantak hills?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Narmada",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Mahanadi",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Cauvery",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Tapti",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Narmada River originates from the Amarkantak hills in the Maikal range in Madhya Pradesh.",
+        "tanglish": "Narmada nadhi Madhya Pradesh maanilathil ulla Amarkantak malaiyil irundhu udhagirathu."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Article 32 belongs to which part of the Indian Constitution?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Part I",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Part III",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Part II",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Part IV",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Article 32 belongs to Part III of the Indian Constitution which deals with Fundamental Rights. It provides the right to constitutional remedies.",
+        "tanglish": "Article 32 Indian Arasaangathin III-aam pakkathil ulladhu. Idhu Arasaangathin moolama seyalpathu urimaigalai pathihakkum."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Which of the following payment banks has partnered with Mastercard in April 2020 to issue virtual and physical debit cards?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Paytm",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "FINO",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "JIO",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Airtel",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "FINO Payments Bank partnered with Mastercard in April 2020 to issue both virtual and physical debit cards to its customers.",
+        "tanglish": "FINO Payments Bank 2020-aam aandu April maasathil Mastercard oodan kootani seerthu virtual matrum physical debit cards vida naadagam pottadhu."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Doodhganga river is a tributary of which of the following rivers?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Krishna",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Brahmaputra",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Godavari",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Yamuna",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Dudhganga River (also spelled Doodhganga) is a tributary of the Krishna River, located in Maharashtra.",
+        "tanglish": "Dudhganga (Doodhganga) nadhi Maharashtraavil ulla Krishna nadhiyin utharkaiyaaga ulladhu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "The sealable or open glass container containing soil and plants that can be opened for maintenance and to access the plants inside is called ______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "osmeterium",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "paludarium",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "riparium",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "terrarium",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "A terrarium is a sealable glass container containing soil and plants. It can be opened for maintenance to access the plants inside.",
+        "tanglish": "Terrarium endrathu mannum mulaigalum ulla oru kalaas paathiram, idhu pazhagu seivatharkaga thirakkalam."
+      }
+    }
+  ]
+}

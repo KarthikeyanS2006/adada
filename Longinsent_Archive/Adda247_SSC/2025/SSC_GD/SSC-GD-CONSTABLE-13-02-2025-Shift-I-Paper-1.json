@@ -1,0 +1,127 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-CONSTABLE-13-02-2025-Shift-I-Paper-1.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Select the Venn diagram that best illustrates the relationship between the following classes. Son, Father, Brother",
+      "options": [
+        {
+          "id": "1",
+          "text": "Diagram 1",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Diagram 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Diagram 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Diagram 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "All brothers are sons. A father can also be a son (of his own father) and can be a brother (to his siblings). The correct Venn diagram should show Brother as a subset of Son, with Father overlapping both categories.",
+        "tanglish": "Ella sagotharargalum oru thanthaiyin pillaihal (Sons). Oru appan thanthaiyin pillaiyaha irukalam matrum than sagothararaha irukalam. Sariyana Venn diagram il, Sagotharan Son enpathirkul amaiyum, Appan irandaiyum merkulavu seiyyum."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "The sequence of folding a piece of paper and the manner in which the folded paper is cut is shown in the following figures. How would this paper look when unfolded?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Figure 1",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Figure 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Figure 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Figure 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "When paper is folded and cut, the cuts appear mirrored across the fold lines when unfolded. The exact pattern depends on the number of folds and the position of the cut.",
+        "tanglish": "Kagitham madiyappettu vettiyal, adhai viriyinra pozhuthu vettugal madiyadaigalukku paravasamaaga theriyum. Idhu madiyin ennikai matrum vettu idathai adarndhu vilaiyum."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Based on the English alphabetical order, three of the following four letter-clusters are alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to that group? (Note: The odd one out is not based on the number of consonants/vowels or their position in the letter-cluster.)",
+      "options": [
+        {
+          "id": "1",
+          "text": "ZCA",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "GJH",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "MPD",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "LOM",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The pattern is: first letter +3 = second letter, second letter -2 = third letter. For ZCA: Z+3=C, C-2=A. For GJH: G+3=J, J-2=H. For LOM: L+3=O, O-2=M. But for MPD: M+3=P, P-2=N (not D). Thus MPD is the odd one out.",
+        "tanglish": "Ithu thozhil: Mudal eluthukku +3, aduthu -2. ZCA ku Z+3=C, C-2=A; GJH ku G+3=J, J-2=H; LOM ku L+3=O, O-2=M. MPD vil M+3=P sari, but P-2=N (D alla). Idhanaal MPD than vithiyasam."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Based on some logic, 'MARVEL' is written as 'SXROCP' and 'STRING' is written as 'YQRBLK'. Following the same logic, 'CIRCLE' can be written as:",
+      "options": [
+        {
+          "id": "1",
+          "text": "IFRVJK",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "KFRVJK",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "KFRVJI",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "IFRVJI",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The coding pattern for each position is: +6, -3, 0, -7, -2, +4. Applying to CIRCLE: C(3)+6=I(9), I(9)-3=F(6), R(18)+0=R(18), C(3)-7=V(22), L(12)-2=J(10), E(5)+4=I(9). Result is IFRVJI.",
+        "tanglish": "Marupidu murai: eluthukku +6, -3, 0, -7, -2, +4. CIRCLE ku: C+6=I, I-3=F, R+0=R, C-7=V, L-2=J, E+4=I. Jaathi IFRVJI."
+      }
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-CONSTABLE-13-02-2025-Shift-II-Paper-1.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Eight people are sitting in two parallel rows containing 4 people each, in such a way that there is equal distance between adjacent persons. In row 1 – G, I, F and T are seated and all of them are facing south In row 2 – B, O, N and D are seated and all of them are facing north. Thus each person faces another person from the other row. No one sits to the right of B. Only two people sit between N and B. The one facing O sits second to the right of the one facing B. I sits to the immediate right of F. G sits to the immediate right of I and doesn't face O. Which of the following represents both people sitting at the extreme ends of the rows?",
+      "options": [
+        {
+          "id": "1",
+          "text": "G and D",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "T and N",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "I and B",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "T and O",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Row 2 arrangement: N(1), O(2), D(3), B(4) - determined by 'No one sits to the right of B' (B at position 4) and 'Only two people sit between N and B' (N at position 1). Row 1 arrangement: G(1), I(2), F(3), T(4) - determined by 'I sits to immediate right of F' and 'G sits to immediate right of I' (consecutive as F-I-G when facing South), and 'G doesn't face O' (G not at position 2). Extreme ends are positions 1 and 4: G & T in Row 1, N & B in Row 2. Among options, T and N are both at extreme ends.",
+        "tanglish": "Row 2 amaippu: N(1), O(2), D(3), B(4) - 'B-in valathu orutharum illai' (B position 4) matrum 'N matrum B idaiyil irandu per' (N position 1) endra kolarugal moolam therindhu eduthadhu. Row 1 amaippu: G(1), I(2), F(3), T(4) - 'I, F-in valathu pakkathil' matrum 'G, I-in valathu pakkathil' (dhekkku nokki irupavarukku valathu pakkam) endra kolarugalal therinthadhu. Mudivu idangal 1 matrum 4: G & T (Row 1), N & B (Row 2). Kodukkappatta vikalpangalil T matrum N irandu perum mudivu idangalil than irukkirargal."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "A paper is folded and punched as shown below. How will it appear when unfolded?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Image 1",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Image 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Image 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Image 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "This question requires visual information about the paper folding pattern and punch holes which is not provided in the text. The answer cannot be determined without the diagram.",
+        "tanglish": "Ithu oru paper folding matrum punching satthiyamana kelvi. Kadakkam pattern matrum punch cheyyappatta idangal patriya vizhithal visayangal vendum, aanal text-il adhu illai. Diagram illamal badhil theriyadu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "In a certain code language, 'A ! B' means 'A is the brother of B', 'A < B' means 'A is the son of B', 'A : B' means 'A is the wife of B' and 'A / B' means 'A is the father of B'. How is O related to S if 'O / M : I ! T < S'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Son's wife's sister",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Son's wife's mother",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Son's wife's father",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Son's wife's son",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Decoding step by step: O / M means O is father of M; M : I means M is wife of I; I ! T means I is brother of T; T < S means T is son of S. Therefore: T is son of S; I is also son of S (being brother of T); M is wife of I, making her S's son's wife; O is father of M, making O the father of S's son's wife.",
+        "tanglish": "Step by step decode seithal: O / M endral O, M-in appa; M : I endral M, I-in manaivi; I ! T endral I, T-in annan; T < S endral T, S-in magan. Aagave: T endral S-in magan; I-um S-in magan thaan (T-in annan); M endral I-in manaivi, aagave S-in magalin manaivi; O endral M-in appa, aagiyaal S-in magalin manaiviyin appa."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Each letter in the word FROCKED is arranged in the English alphabetical order. How many letters are there in the English alphabetical order between the letter which is third from the left end and the one which is second from the right end in the new letter-cluster thus formed?",
+      "options": [
+        {
+          "id": "1",
+          "text": "9",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Alphabetical arrangement of FROCKED is C-D-E-F-K-O-R. Third from left is E(5), second from right is O(15). Letters between E and O are F,G,H,I,J,K,L,M,N (positions 6-14), which totals 9 letters.",
+        "tanglish": "FROCKED-in English varisai amaippu C-D-E-F-K-O-R. Idathu pakkathilirundhu moonaavadhu E(5), valathu pakkathilirundhu irandaavadhu O(15). E matrum O idaiyil ulla varudhugal F,G,H,I,J,K,L,M,N (6-14), idhu 9 varudhugal."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "What should come in place of the question mark (?) in the given series? 991 1000 1010 1021 1033 ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1044",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "1045",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "1043",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "1046",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The pattern shows consecutive addition: 991+9=1000, 1000+10=1010, 1010+11=1021, 1021+12=1033, therefore 1033+13=1046.",
+        "tanglish": "Ithu oru thoguppil warppadham. 9-il irundhu thodangum sanguidai kaigal: 991+9=1000, 1000+10=1010, 1010+11=1021, 1021+12=1033, aagiyaal 1033+13=1046."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Based on the English alphabetical order, three of the following four letter-clusters are alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to that group? (Note: The odd man out is not based on the number of consonants/vowels or their position in the letter-cluster.)",
+      "options": [
+        {
+          "id": "1",
+          "text": "AJS",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "VEM",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "OXG",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "KTC",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "In AJS: A(1)+9=J(10), J(10)+9=S(19). In OXG: O(15)+9=X(24), X(24)+9=33→7(G). In KTC: K(11)+9=T(20), T(20)+9=29→3(C). In VEM: V(22)+9=31→5(E), but E(5)+9=14(N)≠M(13). Thus VEM breaks the +9 pattern.",
+        "tanglish": "AJS-il: A(1)+9=J(10), J(10)+9=S(19). OXG-il: O(15)+9=X(24), X(24)+9=G(7). KTC-il: K(11)+9=T(20), T(20)+9=C(3). VEM-il: V(22)+9=E(5), aanal E(5)+9=N(14) aaga vendum, M(13) alla. Aagave VEM, +9 thottathil illai."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "'XUOF' is related to 'BWQH' in a certain way based on the English alphabetical order. In the same way, 'DWQI' is related to 'HYSK'. To which of the following is 'VAPD' related, following the same logic?",
+      "options": [
+        {
+          "id": "1",
+          "text": "ZCRF",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "XCRG",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "XDSE",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "YBQD",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Pattern analysis: X(24)+4=B(2), U(21)+2=W(23), O(15)+2=Q(17), F(6)+2=H(8). Similarly for DWQI→HYSK: D(4)+4=H(8), W(23)+2=Y(25), Q(17)+2=S(19), I(9)+2=K(11). Applying to VAPD: V(22)+4=Z(26), A(1)+2=C(3), P(16)+2=R(18), D(4)+2=F(6), resulting in ZCRF.",
+        "tanglish": "Murai vimarsanam: X(24)+4=B(2), U(21)+2=W(23), O(15)+2=Q(17), F(6)+2=H(8). Adhe muraiyil DWQI→HYSK: D(4)+4=H(8), W(23)+2=Y(25), Q(17)+2=S(19), I(9)+2=K(11). VAPD-kku seithal: V(22)+4=Z(26), A(1)+2=C(3), P(16)+2=R(18), D(4)+2=F(6), adhu ZCRF."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "What should come in place of the question mark (?) in the given series? 712 711 713 710 714 709 715 ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "708",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "707",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "717",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "716",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The series follows alternating subtraction and addition with consecutive integers: 712-1=711, 711+2=713, 713-3=710, 710+4=714, 714-5=709, 709+6=715, therefore 715-7=708.",
+        "tanglish": "Ithu oru kottum thoguppil warppadham. Ondrai kaviththu kootal matrum kalital pugal varugiradu: 712-1=711, 711+2=713, 713-3=710, 710+4=714, 714-5=709, 709+6=715, aagiyaal 715-7=708."
+      }
+    }
+  ]
+}

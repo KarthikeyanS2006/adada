@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-1-Dec-23-Shift-III-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Guru Pankaj Charan Das and Guru Debaprasad Das are associated with which of the following dance forms?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Manipuri",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Odissi",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Kathak",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Kathakali",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Guru Pankaj Charan Das and Guru Debaprasad Das are both renowned exponents and gurus of the Odissi classical dance form.",
+        "tanglish": "Guru Pankaj Charan Das matrum Guru Debaprasad Das iruvarum Odissi classical nruthathin perum aasiriargal."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Which of the following policies is generally revealed by the annual financial statement of the Government of India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Monetary policy",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Industrial policy",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Fiscal policy",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Population policy",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The annual financial statement (Union Budget) of the Government of India reveals the fiscal policy which deals with government revenue and expenditure.",
+        "tanglish": "Bharatha arasudhiyin varusha varavu selavu kadanam (Union Budget) fiskal policy-ai velipadutha padugirathu, idhu arasudhiyin sinthanaigtrum selavugalum sambandhapatathu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "In medieval architecture, Khanqahs are associated with _____.",
+      "options": [
+        {
+          "id": "1",
+          "text": "sufi saints",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "nawabs",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "traders",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "queens",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Khanqahs are hospices or spiritual retreats associated with Sufi saints in medieval Indian architecture.",
+        "tanglish": "Madhyakala karuvalarchiyil Khanqah-gal Sufi sannyasigal sambandhithavai, idhu aanmeega thiyana idamaga upayogikkappattathu."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Which of the following committees/commissions was set up in 1976 for recommending for fundamental duties by the Indira Gandhi Government?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Thakaar Commission",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Sarkaria Commission",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Swaran Singh Committee",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Shah Commission",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Swaran Singh Committee was appointed in 1976 by the Indira Gandhi Government to recommend the inclusion of Fundamental Duties in the Constitution.",
+        "tanglish": "1976-il Indira Gandhi arasalai Swaran Singh Committee-ai amaithathu, idhu Samvidhanathil moolatharmanimaigalai serkkathakkatha udavi seyyum."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "The Narora Atomic Power Station is situated on the banks of the Ganga in _______ state.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Bihar",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "West Bengal",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Uttarakhand",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Uttar Pradesh",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Narora Atomic Power Station is located on the banks of River Ganga in Bulandshahr district of Uttar Pradesh.",
+        "tanglish": "Narora paramanu vilakkum nilayam Ganga nadhik karaiyil, Uttar Pradesh maanilathin Bulandshahr district-il ullathu."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "The rate at which consumers convert the chemical energy in their food into their biomass is called:",
+      "options": [
+        {
+          "id": "1",
+          "text": "primary productivity",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "secondary productivity",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "gross primary productivity",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "net tertiary productivity",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Secondary productivity refers to the rate at which consumers (heterotrophs) convert the chemical energy in their food into their own biomass.",
+        "tanglish": "Secondary productivity endradhu upborgigal thangal unavilulla rasayanasakthiyai thangal biomass-aga maartrum vidham."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Which of the following novels is NOT written by Chetan Bhagat?",
+      "options": [
+        {
+          "id": "1",
+          "text": "The Girl in Room 105",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "One Arranged Murder",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Who Will Cry When You Die?",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "400 Days",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Who Will Cry When You Die? is written by Robin Sharma, not Chetan Bhagat. The other three novels listed are written by Chetan Bhagat.",
+        "tanglish": "'Who Will Cry When You Die?' Robin Sharma ezhuthiyathu, Chetan Bhagat alladhu. Matra moondru novel-galum Chetan Bhagat ezhuthiyathu."
+      }
+    }
+  ]
+}

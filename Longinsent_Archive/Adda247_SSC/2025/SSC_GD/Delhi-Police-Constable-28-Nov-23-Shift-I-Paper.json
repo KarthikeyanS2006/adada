@@ -1,0 +1,187 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-28-Nov-23-Shift-I-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "The structures of temples located in India are classified as phamsana and latina on the basis of which of their parts?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Garbagriha",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Amalaka",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Shikhara",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Mandap",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "In Indian temple architecture, specifically in North Indian (Nagara) style, the Shikhara (spire/tower) is classified into types such as Phamsana (stepped pyramidal tower) and Latina (curved vertical projection with rounded profile).",
+        "tanglish": "Indhiya kovilgalin Shikhara (koppugal) phamsana mattrum latina endra vagaiyaga padikkappadugindrana. Phamsana padamarndha piramid mathiya koppugal; latina vakrarndha profailudan kudhiththa koppugal."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Which of the following is the major reservoir of carbon on earth?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Ponds",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Rivers",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Ocean",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Lakes",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Oceans are the largest carbon reservoirs on Earth, storing approximately 38,000 billion metric tons of carbon, which is significantly more than any other carbon sink including terrestrial ecosystems and the atmosphere.",
+        "tanglish": "Kadalgal bhoomiyile miga periya carbon kudam puli. Ithil 38,000 billion metric ton carbon sorganam seyya pattullana."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "If nominal GDP is ₹1,800 and real GDP is ₹1,000. What will be the value of GDP deflator?",
+      "options": [
+        {
+          "id": "1",
+          "text": "180%",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "200%",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "190%",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "150%",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "GDP Deflator is calculated using the formula: (Nominal GDP / Real GDP) × 100. Substituting the given values: (1800/1000) × 100 = 180%. This indicates the overall price level change between the base year and current year.",
+        "tanglish": "GDP deflator = (Nominal GDP / Real GDP) × 100 = (1800/1000) × 100 = 180%. Idhu ulag vilai payirchi alavukkuriththa maatraalargalai kuriththu kanakkidum."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Which of the following dance forms is performed by the tribal people of Andhra Pradesh?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Bihu",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Garba",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Jawara",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Dhimsa",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Dhimsa is a traditional folk dance performed by tribal communities in the Araku Valley of Andhra Pradesh. Bihu is from Assam, Garba from Gujarat, and Jawara is a harvest dance from Madhya Pradesh.",
+        "tanglish": "Dhimsa aattam Andhira Pradesh Araku mottathu adiyalaalaral aada padugiradhu. Bihu Assam, Garba Gujarat, Jawara Madhya Pradesh enbravatrai paadum."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "At what degree from the epicentre does the seismograph record the arrival of P-waves but NOT S-waves?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Beyond 105°",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Between 90° and 115°",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Beyond 145°",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Within 90°",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "S-waves cannot travel through the liquid outer core of the Earth. Beyond 105° from the epicentre, S-waves enter the shadow zone and cannot be detected, while P-waves can still be recorded as they travel through the core. Beyond approximately 145°, P-waves also enter a shadow zone.",
+        "tanglish": "S-alagugal bhoomiyin vadakoor baahiyaal sandhiththu selakkaatavai. 105° thaandi ulla idangalil S-alagugal illamal, P-alagugal mattume sevikkappadum."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Which of the following statements is/are true about globalisation? I. It is about integration with world economies II. It promotes competition among producers III. Appreciation of domestic currency improves exports",
+      "options": [
+        {
+          "id": "1",
+          "text": "Only I and II",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Only I and III",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Only I",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Only II and III",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Globalisation involves integration with world economies and promotes competition among producers. However, appreciation of domestic currency makes exports more expensive in foreign markets, thereby reducing export competitiveness rather than improving it.",
+        "tanglish": "Ulaga muyaatchi ulaga atruporulaththudan oththuzhavukkum, utpanniyorgal idaiyil porththi koormigaiyaiyum valarum. Anaithu nattraik kaasu vela eeriththal, atruporulgal vilai achcham aagavittu, atruporul thanithap paduvaigal kuraindhuvidum."
+      }
+    }
+  ]
+}

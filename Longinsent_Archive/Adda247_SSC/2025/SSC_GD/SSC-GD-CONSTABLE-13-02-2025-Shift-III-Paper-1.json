@@ -1,0 +1,127 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-CONSTABLE-13-02-2025-Shift-III-Paper-1.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "G, H, I, J, M, N and O are sitting around a circular table facing the centre of the table (but not necessarily in the same order). N sits third to the left of I. Only one person sits between I and M when counted from the left of M. Only two people sit between J and O when counted from the right of O. H is an immediate neighbour of J. Who sits third to the right of G?",
+      "options": [
+        {
+          "id": "1",
+          "text": "I",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "O",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "N",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "H",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Following the clues: N sits 3rd to the left of I. One person between I and M from M's left places M at position 3 if I is at 1. Two people between J and O from O's right with H neighboring J places O at 4 and J at 7. This leaves G at position 2. Third to the right of G(2) is position 5, which is occupied by N.",
+        "tanglish": "N, I-irkku idathu pakkathil 3-avadhu edathil utkarndhirukkaar. M-irkku idathu pakkathilirundhu oruvar mattrum I-irkum idaiyil ullaar. O-irkku valathu pakkathilirundhu J-irkum idaiyil irandu per utkarndhirukkaarkal, H and J arugil utkarndhirukkaar. Ithu prakaaram G-irkku valathu pakkathil 3-avadhu edathil N utkarndhirukkaar."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Eight people are sitting in two parallel rows containing 4 people each, in such a way that there is equal distance between adjacent persons. In row 1 – M, A, R and K are seated and all of them are facing south In row 2 – P, O, S and T are seated and all of them are facing north. Thus each person faces another person from the other row. T faces the one sitting to the immediate right of M. Only one person sits between T and P. Only two people sit between O and P. P faces the one sitting second to the left of K. R sits at some place to the right of A. Which of the following options represents both people sitting at the extreme ends of the rows?",
+      "options": [
+        {
+          "id": "1",
+          "text": "R and S",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "A and O",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "K and P",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "P and K",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "From the clues, Row 1 arrangement is A-M-K-R and Row 2 is P-S-T-O. The extreme ends are positions 1 and 4 of each row. In Row 1: A (left) and R (right). In Row 2: P (left) and O (right). Option 2 correctly identifies A from Row 1 and O from Row 2 as extreme end persons.",
+        "tanglish": "Kurippugalai vachu, Row 1: A-M-K-R matrum Row 2: P-S-T-O endru amaikkalaam. Edaiyila utkarndhirukkum mudalgal: Row 1-il idathu A matrum valathu R; Row 2-il idathu P matrum valathu O. Option 2-il A matrum O edai mudugil utkarndhirukkiraargal endru sirithaaga sollappadum."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Select the figure from among the given options that can replace the question mark (?) in the following series.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Figure 1",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Figure 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Figure 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Figure 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Pattern recognition in figure series required to identify the correct continuation. (Note: Original figures not provided in the input text)",
+        "tanglish": "Thodarum chithira sariyanaiyai kandupidithu sariana chithirathai therinthu edukka vendum. (Moola chithirangal kodukkappadavillai)"
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "A dice has its faces marked by letters G, S, M, A, I and P. Two positions of the same dice are shown in the given figures. Which face is opposite to face I?",
+      "options": [
+        {
+          "id": "1",
+          "text": "P",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "G",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "M",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "S",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Using dice visualization rules, adjacent faces cannot be opposite to each other. Analyzing the two given positions, the face opposite to I is determined to be P. (Note: Original dice figures not provided in the input text)",
+        "tanglish": "Pandi niyamaigalai upayogithu, pakuthiyaana mugangal ediru ediraka irukka mudiyathu. Iru nilaigalai vachu analyse seithal, I-irkku ediramaga P irukkum. (Moola pandi chithirangal illai)"
+      }
+    }
+  ]
+}

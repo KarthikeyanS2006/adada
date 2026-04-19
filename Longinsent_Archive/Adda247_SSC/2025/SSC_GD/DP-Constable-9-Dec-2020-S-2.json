@@ -1,0 +1,337 @@
+{
+  "document_info": {
+    "exam_name": "DP-Constable-9-Dec-2020-S-2.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "आर्थिक मामलों की मंत्रिमंडलीय समिति (CCEA) ने विपणन के 2020-2021 हेतु A ग्रेड वाले धान के लिए ______ प्रति कुंतल न्यूनतम समर्थन मूल्य (MSP) निर्धारित किया है।",
+      "options": [
+        {
+          "id": "1",
+          "text": "₹1,868",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "₹1,888",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "₹2,150",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "₹2,640",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "For the marketing year 2020-2021, the Cabinet Committee on Economic Affairs (CCEA) approved a Minimum Support Price (MSP) of ₹1,868 per quintal for Grade A paddy.",
+        "tanglish": "2020-2021 amaipu varushathukku, aarthiya payanaigal manthiri mandaliyamaanuruthi (CCEA), A grade arisikku quintelukku ₹1,868 anaathaaga nyoonatamaana aadharavu vila (MSP) ye nirdharithathu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "The first session of the Indian National Congress was held at ______ in 1885.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Bombay (Now Mumbai)",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Allahabad (Now Prayagraj)",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Calcutta (Now Kolkata)",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Madras (Now Chennai)",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The first session of the Indian National Congress was held in Bombay (now Mumbai) from 28 to 31 December 1885, under the presidency of W.C. Bonnerjee.",
+        "tanglish": "India nasnaal kongrasin muthal maanaadu 1885 aam aandu disambar maadhamil pombayil (inru mumbai) W.C. Bonnerjee adhyakshathuvathil nadandhathu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "The Gandhara School of Art was influenced by ______ art.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Korean and Mongolian",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Persian and Turkish",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Greek and Roman",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Chinese and Japanese",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Gandhara School of Art was heavily influenced by Greek and Roman (Greco-Roman) artistic styles, which is evident in the wavy hair and realistic drapery of Buddha statues.",
+        "tanglish": "Gandhaara kalai palli kirispaan matrum roomaan kalai muraiyal mikavum pattindhadhu, idhu buddha silaigaḷin alaigal matrum nijaamaana udukkuppai kaatta eriyadhu."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Taxonomic studies consider a group of individual organisms with fundamental similarities as a/an ______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "order",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "species",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "family",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "class",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "In taxonomy, species is considered the basic unit of classification, defined as a group of organisms with similar characteristics capable of interbreeding.",
+        "tanglish": "Jaipayrabhediyaadhalil, jaathi endradhu moola vakuppaanrhu, oru vakaippaadu serndha suvaiyugal punarukkal thakuthi udayathaaaga virindhuduvathu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "As on June 2020, in which of the following places of India are coins minted by the Government of India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Alipore",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Cuttack",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Indore",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Gurugram",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Government of India operates mints at Mumbai, Hyderabad, Kolkata (Alipore), and Noida. Alipore is the location of the Kolkata mint.",
+        "tanglish": "India arasu mumbai, haidaraabaad, kalkaithaa (alippoor), matrum noyidaaavil nalangeeru nadathi varugindradhu. Alippoor endradhu kalkaithaa nalangeeru idam."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "As of 2020, which of the following is a non-BJP ruled state?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Uttarakhand",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Andhra Pradesh",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Madhya Pradesh",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Karnataka",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "As of 2020, Andhra Pradesh was governed by the YSR Congress Party, while Uttarakhand, Madhya Pradesh, and Karnataka were ruled by the BJP.",
+        "tanglish": "2020 aandil andhra pradesh ysr kongras pattachi aaluppattathu, maatra moondu ratchangalum bjp aatchiyil irundhathu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "With reference to human physiology, which of the following lobes is mainly concerned with visual information?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Occipital",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Temporal",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Parietal",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Frontal",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The occipital lobe, located at the posterior part of the brain, is primarily responsible for processing visual information received from the eyes.",
+        "tanglish": "Moolaip paguthiyil amarnthirukkum aksipittal lob endradhu, vizhundhulla padakkangalai viyakkum padilukku mudan mudhal utaaravu seyyum."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "Which of the following pairs is INCORRECTLY matched?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Mirza Mohammad Qasim : Shahjahan Nama",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Abul Fazl : Akbarnama",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Gulbadan Begum : Humayun Nama",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Abdul Hamid Lahori : Padshahnama",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Shahjahan Nama was actually written by Inayat Khan, not Mirza Mohammad Qasim. The other pairs are correctly matched.",
+        "tanglish": "Shahjahan nama inaayat khaan ettudhiyadhu, mirza mohammed kaasim alla. Maatra jodigal sariyaaana iahanam seyya pattullana."
+      }
+    },
+    {
+      "q_number": 9,
+      "question_text": "Which of the following pairs is INCORRECT?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Tamaasha – Uttarakhand",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Maach – Madhya Pradesh",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Mudiyettu – Kerala",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Bhavai – Gujarat",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Tamaasha is a traditional folk theatre form from Maharashtra and Jammu & Kashmir, not Uttarakhand. Maach is from Madhya Pradesh, Mudiyettu from Kerala, and Bhavai from Gujarat.",
+        "tanglish": "Thamaashaa endradhu maharashtra matrum jammu kaashmirukku uriya naatupuriya koothu, uttarakhandukku alla. Maack madhya pradeshukku, mudiyettu keralakku, matrum bhaavai gujaraatukku sondham."
+      }
+    },
+    {
+      "q_number": 10,
+      "question_text": "In the context of tennis, what is the nationality of Steffi Graf?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Canada",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Australia",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Germany",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "USA",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Steffi Graf is a retired German professional tennis player who won 22 Grand Slam singles titles and achieved the Golden Slam in 1988.",
+        "tanglish": "Steffi graf endradhu jarman naadaarin, 22 grand slaam tholaivu chiraparangalai vella moththa oreeru tennis aadagai."
+      }
+    },
+    {
+      "q_number": 11,
+      "question_text": "As of August 2020, how many classical dance forms exist in India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "8",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "As of 2020, the Sangeet Natak Akademi recognizes eight classical dance forms: Bharatanatyam, Kathak, Kathakali, Kuchipudi, Odissi, Sattriya, Manipuri, and Mohiniyattam.",
+        "tanglish": "2020 varaiyil, indiaavil ettu aṟivuppeṟṟa klasikaal naatiyangal ullana: paaratanaatiyam, kathak, kathakali, kuchippuṭi, odissi, sattriya, maṇippuṟi, matrum mohiniyaatṭam."
+      }
+    }
+  ]
+}

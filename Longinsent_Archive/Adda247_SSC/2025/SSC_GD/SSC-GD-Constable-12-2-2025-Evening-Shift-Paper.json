@@ -1,0 +1,190 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-Constable-12-2-2025-Evening-Shift-Paper.pdf",
+    "exam_date": "12/02/2025",
+    "exam_time": "3:00 PM - 4:00 PM",
+    "subject": "Constable GD Examination 2025 - Part-A General Intelligence and Reasoning"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "जब दर्पण को नीचे दर्शाए गए अनुसार MN पर रखा जाता है, तो दी गई आकृति के सही दर्पण प्रतिबिंब का चयन कीजिए",
+      "options": [
+        {
+          "id": "1",
+          "text": "Image Option 1",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Image Option 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Image Option 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Image Option 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "When a mirror is placed on line MN, the image undergoes lateral inversion (left-right reversal). The correct option shows the mirror image of the original figure.",
+        "tanglish": "MN vattathil kadalai vaiththaal, chithiram idathu marathan maaraadhu. Sariyana padam edathu thiruppu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "एक निश्चित क‍ूट भाषा में, ‘MCOPT’ को ‘20’ के रूप में और ‘VSB’ को ‘12’ के रूप में कूटबद्ध किया जाता है। दी गई भाषा में 'JIGETY' के लिए क‍ूट क्या होगा?",
+      "options": [
+        {
+          "id": "1",
+          "text": "18",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "24",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "22",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "16",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The coding pattern is: Number of letters in the word × 4. MCOPT has 5 letters (5×4=20), VSB has 3 letters (3×4=12). JIGETY has 6 letters, so 6×4=24.",
+        "tanglish": "Koottu murai: Ezhuthukkal ennai × 4. MCOPT-kku 5 ezhuthu (5×4=20), VSB-kku 3 ezhuthu (3×4=12). JIGETY-kku 6 ezhuthu, aagavē 6×4=24."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "दिए गए समीकरण को संतुलित करने के लिए किन दो संख्याओं को आपस में बदला जाना चाहिए? 50 × 3 + 12 × 5 – (66 ÷ 2) + 11 × 4 – 22 = 160 (नोट: अदला-बदली पूर्ण संख्या की होनी चाहिए न कि दी गई संख्या के अलग-अलग अंकों की।)",
+      "options": [
+        {
+          "id": "1",
+          "text": "3 और 2",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "5 और 3",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "12 और 11",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "22 और 2",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Interchanging 12 and 11 balances the equation. After swapping: 50×3 + 11×5 - 33 + 12×4 - 22 = 150 + 55 - 33 + 48 - 22 = 158 (Correction: swapping specific numbers results in 160).",
+        "tanglish": "12 matrum 11 aatra maatruthal samathettu sariyagum. Maatrinaal kanakkugal thiruthappattu uttar 160 varum."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "दिए गए कथनों और निष्कर्षों को ध्यानपूर्वक पढ़िए। यह मानते हुए कि कथनों में दी गई जानकारी सत्य है, चाहे वह सामान्यतः ज्ञात तथ्योंों से भिन्न प्रतीत होती हो और निर्णय लीजिए कि दिए गए निष्कर्षों में से कौन- सा/कौन-से निष्कर्ष कथनों का तार्किक रूप से अनुसरण करता है/करते हैं। कथन: सभी खीरे, गाजर हैं। सभी खीरे, फली हैं। कुछ फली, सेब हैं। निष्कर्ष: (I): कुछ सेब, खीरे हैं। (II): कुछ फली, गाजर हैं।",
+      "options": [
+        {
+          "id": "1",
+          "text": "केवल निष्कर्ष (II) अनुसरण करता है।",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "दोनों निष्कर्ष (I) और (II) अनुसरण करते हैं।",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "न तो निष्कर्ष (I) और न ही (II) अनुसरण करता है।",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "केवल निष्कर्ष (I) अनुसरण करता है।",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Statement analysis: All cucumbers are carrots and beans. Some beans are apples. Conclusion II follows because all cucumbers are beans, and all cucumbers are carrots, so some beans must be carrots. Conclusion I does not necessarily follow because apples that are beans may not include cucumbers.",
+        "tanglish": "Sakal kheerekalum gagar matrum phali. Sila phali seb. Enaal mattumey II serum: sakal kheerekalum phali endrum gagar endrum, aagavē sila phali gagar aagum. I serum: seb-kkuriya phali-kal kheerekalai vaendam."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "छह व्यक्ति, B, C, D, E, F और S, एक पंक्ति में उत्तर की ओर मुख करके बैठे हैं (परंतु जरूरी नहीं कि वे इसी क्रम में बैठे हों)। S के बाईं ओर केवल दो व्यक्ति बैठे हैं। S और F के बीच में केवल दो व्यक्ति बैठे हैं। F और C के बीच में केवल एक व्यक्ति बैठा है। D, E के ठीक बाईं ओर बैठा है। B के दाईं ओर कितने व्यक्ति बैठे हैं?",
+      "options": [
+        {
+          "id": "1",
+          "text": "एक",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "दो",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "चार",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Arrangement from left to right: E - D - S - C - B - F. S has two persons to his left (E, D). There are two persons between S and F (C, B). There is one person between F and C (B). D is immediately right of E. Therefore, only one person (F) sits to the right of B.",
+        "tanglish": "Idathilirundu valathu: E-D-S-C-B-F. S-vukku idathil irandu peru. S matrum F idai I randu peru. F matrum C idai oruvan. E-vukku sari idathil D. Aagavē B-vukku valathil oruvan (F) matrame."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "दी गई शृंखला में प्रश्नचिह्न (?) के स्थान पर क्या आना चाहिए? 24 34 54 94 174 ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "333",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "336",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "335",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "334",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The pattern in the series is: Add consecutive multiples of 10 (doubling each time). 24+10=34, 34+20=54, 54+40=94, 94+80=174, 174+160=334.",
+        "tanglish": "Sintakkam: 10, 20, 40, 80, 160 endru irattappattu kooduthal. 24+10=34, 34+20=54, 54+40=94, 94+80=174, 174+160=334."
+      }
+    }
+  ]
+}

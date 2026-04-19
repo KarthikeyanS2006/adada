@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "Dehli-Police-Constable-Official-Paper-Held-On_-09-Dec-2020-Shift-3-English.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "The Sanchi Stupa was discovered by _______ in 1818.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Sir Henry Taylor",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "James Prinsep",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "James Burgess",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "John Marshall",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Sanchi Stupa was discovered by Sir Henry Taylor (General Henry Taylor) in the year 1818.",
+        "tanglish": "Saanchi Stupa 1818-aam aandil Sir Henry Taylor (General Henry Taylor) alaithaar."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "______ Schedule of the Constitution of India deals with the names of the states and their territorial jurisdiction.",
+      "options": [
+        {
+          "id": "1",
+          "text": "First",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Fourth",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Second",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Third",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The First Schedule of the Constitution of India contains the names of the States and their territorial jurisdiction.",
+        "tanglish": "India Arasangathin First Schedule-il maanilangalin peyarum athan ellappum pathikappattullana."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "With reference to the investment schemes of India, what does the second 'P' stand for in 'PPF'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Price",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Prudent",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Provident",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Programme",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "PPF stands for Public Provident Fund. Therefore, the second 'P' represents Provident.",
+        "tanglish": "PPF endral Public Provident Fund. Athean irandaam P endral Provident."
+      }
+    }
+  ]
+}

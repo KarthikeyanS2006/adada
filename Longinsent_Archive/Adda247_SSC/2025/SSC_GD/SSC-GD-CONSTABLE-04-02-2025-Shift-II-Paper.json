@@ -1,0 +1,127 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-CONSTABLE-04-02-2025-Shift-II-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Three of the following four letter-clusters are alike in a certain way and thus form a group. Which is the letter-cluster that does NOT belong to that group? (Note: The odd one out is not based on the number of consonants/vowels or their positions in the letter-cluster.)",
+      "options": [
+        {
+          "id": "1",
+          "text": "PTV",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "CGI",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "EIK",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "GLM",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The pattern in options PTV, CGI, and EIK follows a sequence where the gap between the first and second letter is +4, and between the second and third letter is +2 (e.g., C→G is +4, G→I is +2). In GLM, the pattern breaks with G→L being +5 and L→M being +1, making it the odd one out.",
+        "tanglish": "PTV, CGI, matrum EIK endra vikalangalil mudal eluttu irandam eluttu ethil +4 matrum irandam eluttu moondam eluttu ethil +2 vithyasam irukkirathu. GLM-il G→L +5 matrum L→M +1 endru vithyasamaaga irukkirathu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Identify the figure given in the options which when put in place of the question mark (?) will logically complete the series.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Figure 1",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Figure 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Figure 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Figure 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "This question requires visual pattern recognition to identify the figure that completes the logical series. The correct figure follows the established rotation, position, or transformation pattern from the given series. (Note: Specific answer cannot be determined from text alone without visual representation.)",
+        "tanglish": "Ithu chithiram vazhiya logic pathivu kandupudikum kelvi. Sarithiram matrum maatramgalai kandupidithu correct chithiram therinthu edukka vendum. (Chithiram illamal exact answer solliy mudiyathu.)"
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "REMY is related to VHOZ in a certain way based on the English alphabetical order. In the same way, ZFHU is related to DIJV. To which of the given options is LBSO related, following the same logic?",
+      "options": [
+        {
+          "id": "1",
+          "text": "QDWR",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "OFVQ",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "PEUP",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "RDWP",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The coding pattern follows a decreasing addition sequence: first letter +4, second letter +3, third letter +2, and fourth letter +1. Applying this to LBSO: L(12)+4=P(16), B(2)+3=E(5), S(19)+2=U(21), O(15)+1=P(16), resulting in PEUP.",
+        "tanglish": "Itha code seiyyum murai: mudal eluttu +4, 2nd eluttu +3, 3rd eluttu +2, 4th eluttu +1 seitthal. LBSO-kku itha murai seiyyum podhu: L+4=P, B+3=E, S+2=U, O+1=P endru PEUP varum."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements. Statements: All wires are cables. All wires are ropes. Some ropes are steels. Conclusions (I) Some steels are wires. (II) Some ropes are cables.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Only conclusion (I) follows",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Only conclusion (II) follows",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Neither conclusion (I) nor (II) follows",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Both conclusions (I) and (II) follow",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Conclusion (II) follows because all wires are both cables and ropes, meaning the wires form a common subset proving some ropes are cables. Conclusion (I) does not follow because while some ropes are steels, there is no definite link that those specific ropes include wires - steels could exist in a separate subset of ropes.",
+        "tanglish": "Conclusion (II) sariyanathu, ellaa wires-um cables and ropes aagirathaal, sila ropes cables endru solla mudiyum. Conclusion (I) thappu, steel-ukum wires-ukum direct sambandham illai, steel vera sila ropes-la irukkalam."
+      }
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-CONSTABLE-10-02-2025-Shift-II-Paper-1.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "The position(s) of how many letters will remain unchanged if each of the letters in the word MODULES is arranged in the English alphabetical order?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Two",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "One",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Zero",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Three",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "When the letters of MODULES are arranged alphabetically, we get DE LMO S U (DELMOSU). Comparing this with the original word MODULES position by position: Position 1 (M→D), Position 2 (O→E), Position 3 (D→L), Position 4 (U→M), Position 5 (L→O), Position 6 (E→S), Position 7 (S→U). Since no letter remains in its original position, the answer is Zero.",
+        "tanglish": "MODULES endra padathai alphabetical orderil arrange seyyumbol DELMOSU endru varum. Original word MODULES oda idaivai compare seyyumbol oru idathilum letter maaraamal illai. Aagave pathil Zero."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "JGKH is related to LIMJ in a certain way based on the English alphabetical order. In the same way, VSWT is related to XUYV. To which of the given options is WTXU related, following the same logic?",
+      "options": [
+        {
+          "id": "1",
+          "text": "YVZW",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "YUYW",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "YVYW",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "YWYA",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The pattern involves adding +2 to the alphabetical position of each letter. J(10) becomes L(12), G(7) becomes I(9), K(11) becomes M(13), and H(8) becomes J(10). Applying the same logic to WTXU: W(23)→Y(25), T(20)→V(22), X(24)→Z(26), U(21)→W(23), resulting in YVZW.",
+        "tanglish": "Indha patternil endru oruvaruthu letterukkum +2 add seyyapadugiradhu. J(10) irunthu L(12), V(22) irunthu X(24) endru maatrangal. Adhae pol WTXU ku apply seyyumbol Y(25), V(22), Z(26), W(23) endru YVZW varum."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "A paper is folded and punched as shown below. How will it appear when unfolded?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Option 1",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Option 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Option 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Option 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "This question requires the diagram to determine the correct answer. Based on the folding pattern (vertical, horizontal, or diagonal) and the location of the punch hole(s), the unfolded paper would show the punch marks mirrored across the fold lines.",
+        "tanglish": "Indha kelnvisai theerkka diagram vendum. Paper fold aana methodai anusarichu unfold seyyumbol punch holes mirror imageaga theriyum."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "What should come in place of (?) in the given series based on the English alphabetical order? DMW, GPZ, JSC, MVF, ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "NZK",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "QAL",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "PYI",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "MWJ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The series follows a pattern where each letter increases by +3 positions. First letters: D(4)→G(7)→J(10)→M(13)→P(16). Second letters: M(13)→P(16)→S(19)→V(22)→Y(25). Third letters: W(23)→Z(26)→C(3)→F(6)→I(9). Therefore, the next term is PYI.",
+        "tanglish": "Indha seriesil oruvaruthu letterukkum +3 kooda increase aagugiradhu. Mudhal letter D(4) irunthu G(7), M(13) irunthu P(16), W(23) irunthu Z(26). Adhan padi adutha padam PYI."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Seven people, G, H, I, J, K, L and M, are sitting in a row, facing north(but not necessarily in the same order). Only five people sit between H and G. L sits to the immediate left of G. Only one person sits between L and I. J sits at some place to the left of K but at some place to the right of M. How many people sit to the left of J?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Four",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "One",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Two",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Three",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "From the given conditions: H and G have 5 people between them, so they occupy positions 1 and 7. Since L is immediately left of G, G must be at position 7 and L at 6, making H at 1. One person between L(6) and I places I at position 4. J is left of K and right of M, giving the sequence M-J-K. Filling positions 2, 3, and 5 with M, J, K respectively gives the arrangement: H(1), M(2), J(3), I(4), K(5), L(6), G(7). Thus, 2 people (H and M) sit to the left of J.",
+        "tanglish": "Kandupidippukalai vachi amaikkumbol: H matrum G idai 5 per irundhaal, avargal 1 matrum 7 idathil amainthu irukka vendum. G edathil L amainthu irundhaal, G(7), L(6), H(1). L(6), I(4) idai 1 per. M am J am valathilum J am K am idathilum amainthu irundhaal, M-J-K varisai. Idhinal H(1), M(2), J(3), I(4), K(5), L(6), G(7). J idathil 2 per."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Identify the figure given in the options which when put in place of the question mark (?) will logically complete the series.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Option 1",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Option 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Option 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Option 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "This question requires the figure series to determine the correct answer. The pattern involves analyzing the rotation, position change, or element addition/removal in the sequence of figures to identify the missing figure.",
+        "tanglish": "Indha kelnvisai theerkka figure series vendum. Figure varusaiyulla pattern ai analyse seyyendhum."
+      }
+    }
+  ]
+}

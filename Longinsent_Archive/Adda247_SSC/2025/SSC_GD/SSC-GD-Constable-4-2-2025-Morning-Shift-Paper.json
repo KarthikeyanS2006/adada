@@ -1,0 +1,157 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-Constable-4-2-2025-Morning-Shift-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "एक कागज को मोड़ने के क्रम और मोड़े गए कागज को काटने के तरीके को निम्नलिखित आकृतियों में दर्शाया गया है। खोलने पर यह कागज कैसा दिखाई देगा?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Figure 1",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Figure 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Figure 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Figure 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "This question involves paper folding and cutting patterns. When a folded paper is cut and unfolded, the resulting pattern appears symmetrically based on the fold lines. Without the visual figures, the exact answer cannot be determined from text alone.",
+        "tanglish": "Ithu oru kagitha thalai matrum vettum murai. Kagitham murainthu vettappadum. Thirakum pozhuthu adhu paarkum vadivam sarithuvamaaga irukkum. Aaruthalangal illama exact pathil theriyadhu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "SBCF एक निश्चित तरीके से RADG से संबंधित है। NVMO उसी तरीके से MUNP से संबंधित है। उसी तर्क का अनुसरण करते हुए, GUAX निम्नलिखित में से किससे संबंधित है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "FTBY",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "FRCY",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "FTCY",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "FTBZ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The coding pattern follows: -1, -1, +1, +1 for corresponding letters. S(19)-1=R(18), B(2)-1=A(1), C(3)+1=D(4), F(6)+1=G(7). Similarly for GUAX: G(7)-1=F(6), U(21)-1=T(20), A(1)+1=B(2), X(24)+1=Y(25). Hence, GUAX is coded as FTBY.",
+        "tanglish": "Ethir ezhuthukkalukku kodu seiyum murai: mun ezhuthu -1, adutha ezhuthu -1, moontram +1, naangam +1. GUAX ku: G(7)-1=F(6), U(21)-1=T(20), A(1)+1=B(2), X(24)+1=Y(25). Athanaal, FTBY."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "आठ व्‍यक्ति दो समानांतर पंक्तियों में बैठे हैं जिनमें से प्रत्येक पंक्ति में 4 व्यक्ति इस प्रकार बैठे हैं कि आसन्न व्यक्तियों के बीच की दूरी समान है। पंक्ति 1 में - D, E, O और S बैठे हैं और उन सभी का मुख दक्षिण की ओर है। पंक्ति 2 में - F, A, R और M बैठे हैं और उन सभी का मुख उत्तर की ओर है। इस प्रकार, पहली पंक्ति के प्रत्येक व्यक्ति का मुख दूसरी पंक्ति के किसी अन्य व्यक्ति की ओर है। केवल D, E के बाईं ओर बैठा है। केवल R, A के बाईं ओर बैठा है। A और F के बीच में केवल एक व्यक्ति बैठा है। D और O के बीच में केवल एक व्यक्ति बैठा है। निम्नलिखित में से कौन-सा विकल्‍प एक-दूसरे के सम्मुख बैठे दोनों व्‍यक्तियों को दर्शाता है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "E और R",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "E और A",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "E और M",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "E और F",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "From the given conditions: Row 1 (South-facing) arrangement is D-E-O-S and Row 2 (North-facing) arrangement is R-A-M-F. Since they face each other, the opposite pairs are: D-R, E-A, O-M, S-F. Therefore, E and A sit opposite to each other.",
+        "tanglish": "Kodukkappatta nerpaadugal anusarithu, muthal varisai (therku mun) amaippu D-E-O-S matrum irandaam varisai (vadaku mun) amaippu R-A-M-F. Ithanaal, E matrum A edhire edhire utkaandhirukiraargal."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "दी गई शृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आना चाहिए? 4 6 10 18 34 ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "67",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "66",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "68",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "65",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The series follows the pattern: multiply by 2 and subtract 2. 4×2-2=6, 6×2-2=10, 10×2-2=18, 18×2-2=34, therefore 34×2-2=66.",
+        "tanglish": "Thoguppil ulla murai: irrandaal perraal antha ennai, irandai kazikkavendum. 4×2-2=6, 6×2-2=10, 10×2-2=18, 18×2-2=34, athanaal 34×2-2=66."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "सात व्यक्ति L, M, N, O, P, Q और R, एक सीधी पंक्ति में उत्तर की ओर मुख करके बैठे हैं (परंतु जरूरी नहीं कि वे इसी क्रम में बैठे हों)। M, P के ठीक बाईं ओर बैठा है। O, Q के ठीक बाईं ओर बैठा है। R, P के ठीक दाईं ओर तथा L के ठीक बाईं ओर बैठा है। N, L के ठीक दाईं ओर तथा O के ठीक बाईं ओर बैठा है। N के बाईं ओर से दूसरे स्थान पर कौन बैठा है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Q",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "P",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "M",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "R",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The seating arrangement from left to right is: M-P-R-L-N-O-Q. The person sitting second to the left of N (who is at position 5) is at position 3, which is R.",
+        "tanglish": "Utharavai amaippu (edathu pakkathilirundhu): M-P-R-L-N-O-Q. N in edathu pakkathilirundhu irandaavadhu idathil R irukkiraar."
+      }
+    }
+  ]
+}

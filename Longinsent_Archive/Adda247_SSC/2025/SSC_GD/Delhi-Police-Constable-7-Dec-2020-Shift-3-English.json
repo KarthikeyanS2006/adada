@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-7-Dec-2020-Shift-3-English.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Cabinet Committee on Economic Affairs (CCEA) has fixed the Minimum Support Price (MSP) for Grade A paddy for the marketing year 2020-2021 at ₹____ per quintal.",
+      "options": [
+        {
+          "id": "1",
+          "text": "1868",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "1888",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "1850",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "1840",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Cabinet Committee on Economic Affairs (CCEA) approved the Minimum Support Price (MSP) for Grade A paddy at ₹1,888 per quintal for the marketing year 2020-2021. Grade A paddy typically refers to coarse grains with higher quality specifications compared to common paddy.",
+        "tanglish": "Cabinet Committee on Economic Affairs (CCEA) 2020-2021 marketing varushathuku Grade A nellukku ₹1,888 per quintal ennathu MSP aa niruthirukkaanga. Grade A nellu unmaiyaana quality specifications oda varum."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "The first session of the Indian National Congress was held at ______ in 1885.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Bombay (Now Mumbai)",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Allahabad (Now Prayagraj)",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Calcutta (Now Kolkata)",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Madras (Now Chennai)",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The first session of the Indian National Congress was held in Bombay (now Mumbai) from December 28 to 31, 1885, under the presidency of W.C. Bonnerjee. A.O. Hume played a key role in its foundation.",
+        "tanglish": "Indian National Congress oda first meeting December 28-31, 1885 la Bombay (ippo Mumbai) la nadandhuchu, W.C. Bonnerjee thalaivar aaga senaithaar. A.O. Hume intha sangathin anaivarukkap pirathaanam seithaar."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "The Bengal School of Art was influenced by ______ art.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Indian and Mongolian",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Persian and Turkish",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Greek and Roman",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Chinese and Japanese",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The Bengal School of Art was significantly influenced by Chinese and Japanese artistic traditions, particularly the Japanese wash technique. Artists like Abanindranath Tagore incorporated these East Asian styles to create a distinct Indian aesthetic.",
+        "tanglish": "Bengal School of Art ku China mattum Japan kalai traditionkal nalla influence aaga irundhurukku, visheshama Japan oda wash technique. Abanindranath Tagore maathiri kalaiñar intha East Asian styles ah use panni oru vithyasamaana Indian style ah uruvakkinaanga."
+      }
+    }
+  ]
+}

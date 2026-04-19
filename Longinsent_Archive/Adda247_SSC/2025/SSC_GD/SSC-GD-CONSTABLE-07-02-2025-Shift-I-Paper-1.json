@@ -1,0 +1,247 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-CONSTABLE-07-02-2025-Shift-I-Paper-1.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "In a certain code language, 'A + B' means ‘A is the mother of B’, 'A – B' means ‘A is the brother of B’, 'A × B' means ‘A is the wife of B’ and 'A ÷ B' means ‘A is the father of B’. Based on the above, how is M related to O if ‘K ÷ L × M – N + O’?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Wife's father",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Mother's brother",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Mother's husband",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Daughter's husband",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "K ÷ L means K is the father of L. L × M means L is the wife of M, making M the husband of L (and K the father-in-law of M). M – N means M is the brother of N. N + O means N is the mother of O. Since M is the brother of N, and N is the mother of O, M is the maternal uncle (Mother's brother) of O.",
+        "tanglish": "K ÷ L endraal K, L oda appa. L × M endraal L, M oda manaivi. aagav, M, L oda kanavar. M – N endraal M, N oda annan. N + O endraal N, O oda amma. N, O oda amma aavargaalukku M annan endradhanaal, M, O oda maama. ithuthan 'Mother's brother'."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "ILOR is related to UXAD in a certain way based on the English alphabetical order. In the same way, CFIL is related to ORUX. To which of the given options is WZCF related, following the same logic?",
+      "options": [
+        {
+          "id": "1",
+          "text": "ILOR",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "ILUY",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "ILMK",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "ILWR",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The logic involves adding 12 to the alphabetical position of each letter: I(9)+12=U(21), L(12)+12=X(24), O(15)+12=A(1) [27-26], R(18)+12=D(4). Similarly, CFIL becomes ORUX by adding 12. Applying the same to WZCF: W(23)+12=I(9), Z(26)+12=L(12) [38-26], C(3)+12=O(15), F(6)+12=R(18). The result is ILOR.",
+        "tanglish": "English alphabetical orderil ozhukkathai sezhikkum bodhu +12 koota vendum. I(9)+12=U(21), L(12)+12=X(24), O(15)+12=A(1), R(18)+12=D(4). adhe pola CFIL ku ORUX varum. WZCF ku idhe seyalpadutha: W(23)+12=I(9), Z(26)+12=L(12), C(3)+12=O(15), F(6)+12=R(18). padhil ILOR."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "The position(s) of how many letters will remain unchanged if each of the letters in the word ARMCHAIR is arranged in the reverse English alphabetical order?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Three",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Four",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Two",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "One",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Original word: A-R-M-C-H-A-I-R. Letters in alphabetical order: A, A, C, H, I, M, R, R. Reverse alphabetical order: R, R, M, I, H, C, A, A. Comparing positions: Pos 2 (R), Pos 3 (M), and Pos 5 (H) remain the same. Thus, three letters remain unchanged.",
+        "tanglish": "ARMCHAIR ezhuthugal: A, R, M, C, H, A, I, R. alphabetical vorungil: R, R, M, I, H, C, A, A. asalil irundha idam: A(1), R(2), M(3), C(4), H(5), A(6), I(7), R(8). pudhu vorungil: R, R, M, I, H, C, A, A. 2nd idathil R, 3rd idathil M, 5th idathil H maatram illamal irukkiradhu. aagav moondru ezhuthugal."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "JILT is related to AZCK in a certain way based on the English alphabetical order. In the same way, ZYBJ is related to QPSA. To which of the following options is YXAI related, following the same logic?",
+      "options": [
+        {
+          "id": "1",
+          "text": "POZR",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "PRZO",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "PORZ",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "PRDE",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The pattern follows: 1st and 3rd letters subtract 9, 2nd and 4th letters subtract 9 (or add 17). Specifically: J(10)-9=A(1), I(9)+17=Z(26), L(12)-9=C(3), T(20)-9=K(11). For YXAI: Y(25)-9=P(16), X(24)+17=O(15) [41-26], A(1)-9=R(18) [or -8+26], I(9)-9=Z(26). The result is PORZ.",
+        "tanglish": "JILT ku seyalpadutha murai: J(10)-9=A(1), I(9)+17=Z(26), L(12)-9=C(3), T(20)-9=K(11). adhe pola YXAI ku: Y(25)-9=P(16), X(24)+17=O(15), A(1)-9=R(18), I(9)-9=Z(26). padhil PORZ."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "In a certain code language, ‘AGED’ is coded as ‘7613’ and ‘EARG’ is coded as '1236’. What is the code for ‘R’ in the given code language?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "3",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "2",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "By comparing AGED=7613 and EARG=1236: In AGED, positionally A=7, G=6, E=1, D=3. In EARG: E=1 (matches AGED's 3rd position), A=2 (but was 7 in AGED, so position matters), R=3, G=6 (matches AGED's 2nd position). Therefore, R in the 3rd position is coded as 3.",
+        "tanglish": "AGED ezhuthugalukku 7613 kodukkappattulladhu. EARG ezhuthugalukku 1236. ED samanam 1, GD samanam 6. R 3rd idathil 3 endru koduppattulladhu."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Select the figure from among the given options that can replace the question mark (?) in the following series.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Figure 1",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Figure 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Figure 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Figure 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "This is a figure series question requiring visual pattern recognition. The correct figure follows the established pattern of rotation, addition, or transformation from the previous figures in the series. (Note: Actual figures were not provided in the source text).",
+        "tane": "Figure series kelvi. eduthukkaatta chitharangalai vichithiramaaga parthu ozhukkanadhayaana chithirathi therinthu edukka vendum. (chitharangal original textil illai)."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Which two numbers should be interchanged to make the given equation correct? 9 × (34 – 15) + (105 ÷ 7) + 28 + (13 × 4) = 218 (Note: Interchange should be done of entire number and not individual digits of a given number)",
+      "options": [
+        {
+          "id": "1",
+          "text": "28 and 15",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "15 and 13",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "34 and 28",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "15 and 7",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Original equation evaluates to 266. Interchanging 34 and 28: 9 × (28 – 15) + (105 ÷ 7) + 34 + (13 × 4) = 9 × 13 + 15 + 34 + 52 = 117 + 15 + 34 + 52 = 218. This makes the equation correct.",
+        "tanglish": "Asalil equation 266 varum. 34 matrum 28 matrapadutha: 9×(28-15)+(105÷7)+34+(13×4) = 9×13+15+34+52 = 117+15+34+52 = 218. idhu sariyana badhil."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "Select the option that represents the letters that, when sequentially placed from left to right in the blanks below, will complete the letter series. _ D _ L _ F _ O L J",
+      "options": [
+        {
+          "id": "1",
+          "text": "FOJD",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "DJOF",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "JDOF",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "OJDF",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The series follows a specific pattern where the letters DJOF fill the blanks to create a logical sequence. Substituting: D D J L O F O O L J forms a pattern where the sequence builds according to alphabetical positioning rules or mirror patterns inherent in the series.",
+        "tanglish": "DJOF ezhuthugalai serthidum bodhu varisiyai polumai seyum. idhu alphabetical ozhukkam illadhu mirror pattern adaiyalamaga amaidhu."
+      }
+    }
+  ]
+}

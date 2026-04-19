@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-15-Nov-23-Shift-III-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "सरकार ने नवाचार के लिए सक्षम बुनियादी ढांचा और सुगमकारी माहौल प्रदान करके भारत के अल्पसेवित/असेवित क्षेत्रोंों में उद्यमिता की भावना को प्रोत्साहित करने के लिए _________ की शुरुआत की है।",
+      "options": [
+        {
+          "id": "1",
+          "text": "उत्पादन सम्‍बद्ध प्रोत्साहन योजना",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "वन नेशन वन राशन नीति",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "अटल समुदाय नवाचार केंद्र कार्यक्रम",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "डिजिटल लाइब्रेरी मिशन",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Government of India launched the Atal Community Innovation Centre (ACIC) program to promote entrepreneurship in underserved/unserved regions by providing enabling infrastructure and conducive environment for innovation.",
+        "tanglish": "Bharatha arasu alpaservita matrum asevitha kshetrangalil udhayamithuvai valarthum uddesathirkaka Atal Samudaya Navachara Kendra (ACIC) thittathai arambithullathu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Hydrogen ions cannot exist alone, but they exist after combining with water molecules. Which of the following is the correct way to show hydrogen ions?",
+      "options": [
+        {
+          "id": "1",
+          "text": "HO-",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "H3O+",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "H2",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "H2SO4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Hydrogen ions (H+) cannot exist alone in aqueous solutions. They immediately combine with water molecules to form hydronium ions (H3O+).",
+        "tanglish": "Hydrogen ionkal thanithu irukka mudiyadhu, avai neer molekuludan serndhu H3O+ (hydronium ion) aagum."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Which factor contributes to the occurrence of rainfall in the north-western parts of India during winters?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Southwest Monsoon",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Trade Winds",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Western Disturbances",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Northeast Monsoon",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Western Disturbances are low-pressure systems originating from the Mediterranean region that move eastward and cause winter rainfall in the northwestern parts of India.",
+        "tanglish": "Indiaavin vada mel parvathamangalil kulirkala mazhai paduvatharku karanam Mediterranean paravai kadalilirundhu varum Western Disturbances."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "किस समिति ने सुझाव दिया कि करों का भुगतान करना भी नागरिकों का मौलिक कर्तव्य होना चाहिए?",
+      "options": [
+        {
+          "id": "1",
+          "text": "भूटा सिंह समिति",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "स्वर्ण सिंह समिति",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "चरण सिंह समिति",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "जे एस वर्मा समिति",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Swaran Singh Committee recommended the inclusion of Fundamental Duties in the Constitution, including the duty of citizens to pay taxes.",
+        "tanglish": "Swaran Singh Kuzhu kudimakkalin moola kadavaigalil vari chluthuvathaiyum serkkavendum endru parindhu uruthaithathu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Which of the following is NOT covered by the appellate jurisdiction of the Supreme Court?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Civil cases",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Criminal cases",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Constitutional cases",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Conflicts between central and state",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Conflicts between the Central Government and State Governments fall under the Original Jurisdiction of the Supreme Court (Article 131), not Appellate Jurisdiction. Appellate jurisdiction covers civil, criminal, and constitutional appeals.",
+        "tanglish": "Central matrum State arasugalukku idaiyana sandaigal Supreme Courtin Asal Adhikarathil (Article 131) varum, Melurayettu Adhikarathil alla."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Har Ghar Tiranga movement was proposed in which year's Independence Day?",
+      "options": [
+        {
+          "id": "1",
+          "text": "2020",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "2022",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "2021",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "2019",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Har Ghar Tiranga campaign was launched in 2022 as part of the Azadi Ka Amrit Mahotsav celebrations to encourage citizens to hoist the national flag at their homes.",
+        "tanglish": "Har Ghar Tiranga iyakkam 2022 aandu Azadi Ka Amrit Mahotsav vaibhavathil oror veetilum thayatharai vanthikkum uddesathudan aarambikkappattathu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Which of the following Constitutional Amendment Acts is related to the addition of eleventh fundamental duty in the Indian Constitution?",
+      "options": [
+        {
+          "id": "1",
+          "text": "69th Constitutional Amendment Act",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "81st Constitutional Amendment Act",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "83rd Constitutional Amendment Act",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "86th Constitutional Amendment Act",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The 86th Constitutional Amendment Act of 2002 added Article 51A(k) as the 11th Fundamental Duty, which mandates parents or guardians to provide opportunities for education to their children or wards between the ages of 6 and 14 years.",
+        "tanglish": "2002 aandu varuna 86am Arasiyalamaipu Thirutham Sattam 11am moola kadavaiyaai serthathu; idhu 6-14 vayathu kuzhanthaigalukku kalvi kodukka thandhai matrum kaavalar kadamai."
+      }
+    }
+  ]
+}

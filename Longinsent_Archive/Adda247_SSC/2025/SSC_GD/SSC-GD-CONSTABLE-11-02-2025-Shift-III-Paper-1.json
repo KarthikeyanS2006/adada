@@ -1,0 +1,127 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-CONSTABLE-11-02-2025-Shift-III-Paper-1.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "In a certain code language, 'TDYI' is coded as '116' and 'NRDP' is coded as '104'. What is the code for 'LAWG' in the given language?",
+      "options": [
+        {
+          "id": "1",
+          "text": "77",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "82",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "86",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "72",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The coding logic involves summing the alphabetical positions of each letter and multiplying the sum by 2. For TDYI: T(20) + D(4) + Y(25) + I(9) = 58, and 58 × 2 = 116. For NRDP: N(14) + R(18) + D(4) + P(16) = 52, and 52 × 2 = 104. For LAWG: L(12) + A(1) + W(23) + G(7) = 43, and 43 × 2 = 86.",
+        "tanglish": "Ithil code pattern endral, ezhuthukkaloda alphabet position-ai kooti adhai 2-aal multiply pannuvathu. TDYI-kku: 20+4+25+9=58, 58×2=116. NRDP-kku: 14+18+4+16=52, 52×2=104. LAWG-kku: 12+1+23+7=43, 43×2=86."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Select the Venn diagram that best illustrates the relationship among the following classes. Doctors, Surgeons, Men",
+      "options": [
+        {
+          "id": "1",
+          "text": "Diagram 1",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Diagram 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Diagram 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Diagram 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "All Surgeons are Doctors (Surgeons is a subset of Doctors). Men is a separate category that intersects with both Doctors and Surgeons (some Doctors are Men, some Surgeons are Men). The correct diagram shows the Surgeons circle completely inside the Doctors circle, with the Men circle overlapping both.",
+        "tanglish": "Ellaa Surgeons-um Doctors thaan. Adhanaal Surgeons circle Doctors circle-kkulla irukkanum. Sila Doctors Men, sila Surgeons Men. Adhanaal Men circle Doctors and Surgeons rendaiyum cross pannum vidhathil irukkanum."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Select the combination of letters that when sequentially placed in the blanks of the given series, will logically complete the series. _YUXT_SVRU_TPSO_ NQM_",
+      "options": [
+        {
+          "id": "1",
+          "text": "TXSUO",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "VWQRP",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "TWSRO",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "VXQUP",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The series consists of letter groups following an alternating pattern of -4, +3 or +3, -4 on alphabetical positions. The blanks when filled with VXQUP complete the pattern: V(22)YUXT X(24)SVRU Q(17)TPSO U(21)NQM P(16).",
+        "tanglish": "Ithu letter series. Oru pattern follow pannuthu: alphabet position-il -4 aduthathu +3 endru mattum athikam. Blanks-il VXQUP endru fill panna series complete aagum."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "In a certain code language. 'Y + F' means 'Y is the daughter of F', 'Y - F' means 'Y is the son of F', 'Y @ F' means 'Y is the sister of F' and 'Y # F' means 'Y is the father of F'. Based on the above, how is S related to A if 'A + H @ S - C'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Sister's daughter",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Mother's sister",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Sister",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Mother's brother",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Decoding the expression: 'A + H' means A is daughter of H. 'H @ S' means H is sister of S. Therefore, H (who is parent of A) is the sister of S, making S the brother of A's mother. Thus, S is the Mother's brother of A.",
+        "tanglish": "Expression-ai decode pannuvom. A + H endral A, H-oda daughter. H @ S endral H, S-oda sister. Appadi paarthaal, A-oda mother H, aval S-oda sister. Athaan, S, A-oda mother-oda brother. Adhanaal S, A-kku Mother's brother."
+      }
+    }
+  ]
+}

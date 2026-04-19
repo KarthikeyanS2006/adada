@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-15-Nov-23-Shift-II-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Which of the following State Governments organises Surajkund Mela every year?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Jammu",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Haryana",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Punjab",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Jharkhand",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Surajkund Mela is an annual cultural fair organized by the Haryana Tourism Department. It is held in Faridabad, Haryana, to showcase traditional Indian handicrafts and arts.",
+        "tanglish": "Surajkund Mela endra varushaarithaa anaitha kalai表现um Haryana Tourism aal nadathapadum oar pana kaatchi. Idhu Faridabad, Haryana vil nadakum, Bharatha kalai微观um kai thari panpaadugalai kaattum."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "The Wazir (minister) of ________ built Moth ki Masjid in Delhi.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Alauddin Khalji",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Khizr Khan",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Sikandar Lodi",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Firuz Shah Tughluq",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Moth ki Masjid was built in 1505 by Miyan Bhoiya, the Wazir (minister) of Sultan Sikandar Lodi of the Delhi Sultanate. It is located in South Delhi.",
+        "tanglish": "Moth ki Masjid 1505-aam aandil Sultan Sikandar Lodi-yin mantri Miyan Bhoiya kattina palli. Idhu Delhi Sultanate kaalathu palli, Therku Delhi-yil ullathu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Which is the most common tidal pattern?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Mixed tides",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Diurnal tides",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Spring tides",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Semi-diurnal tides",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Semi-diurnal tides are the most common tidal pattern worldwide, occurring twice daily with two high tides and two low tides of approximately equal height.",
+        "tanglish": "Semi-diurnal katal alaiyadal, ulagil mikachum parambaraiyaana murai. Ithu naatkil irandu murai, irandu uyaramana neer nilaiyum irandu kadum neer nilaiyum varum."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Which of the following dance forms belongs to the Vaishnava Monasteries of North East India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Odissi",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Mohiniattam",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Kuchipudi",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Sattriya",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Sattriya is a classical dance form that originated in the Vaishnava monasteries (sattras) of Assam in North East India during the 15th century.",
+        "tanglish": "Sattriya endra Bharatha naatiyam, Vadakkum Ku-India, Assam Vaishnava muttugalil (sattras) 15-teenth century-il arambithathu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "How many tiers of government are mentioned in the Constitution of India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Two",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Four",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Three",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Five",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Constitution of India provides for a three-tier government structure: Union (Central) Government, State Government, and Local Government (Panchayats and Municipalities).",
+        "tanglish": "India Arasiyal Payal 73rd and 74th Amendment-il varuthappaatta, moondu thanthith thala arasu: Kenda Arasu, Maanilam Arasu, and Sthal Arasu (Panchayat, Nagaratchi)."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "When did the Paris Agreement on Climate Change come into force (become effective from)?",
+      "options": [
+        {
+          "id": "1",
+          "text": "22nd April 2016",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "4th November 2016",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "27th January 2017",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "12th December 2015",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Paris Agreement was adopted on 12th December 2015 and entered into force on 4th November 2016 after ratification by sufficient countries.",
+        "tanglish": "Paris Oppantham 12th December 2015-il eduthukkappattathu, 4th November 2016-il sariyaana nadugal ratification koduthaka amalukku vandhathu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Who among the following is associated with the Mridangam instrument?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Zarin S Sharma",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Hari Prasad Chaurasia",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Palghat Mani Iyer",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Ali Akbar Khan",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Palghat Mani Iyer was a legendary Carnatic music Mridangam player from Kerala, considered one of the greatest Mridangam maestros in Indian classical music history.",
+        "tanglish": "Palghat Mani Iyer, Kerala moolathavar, Karnatic sangeethathil Mridangam vaasithavar. Ivan Bharatha sangeetha varalaaril miga prasiddha Mridangam machaasthro."
+      }
+    }
+  ]
+}

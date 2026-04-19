@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-17-Nov-23-Shift-III-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Which country did India beat in the Thomas Cup Finals in 2022?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Indonesia",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Malaysia",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Pakistan",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Singapore",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "India defeated Indonesia 3-0 in the finals of the Thomas Cup 2022 held in Bangkok, Thailand, to win their first-ever Thomas Cup title.",
+        "tanglish": "India 2022 Thomas Cup finals-la Bangkok, Thailand-la Indonesia-ai vethu mudhaladave champion aaganar."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Who among the following is a famous performer of Kalbelia dance form?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Minati Mishra",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Geeta Mahalik",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Gulabo Sapera",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Vyjayanti Kashi",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Gulabo Sapera is a renowned folk dancer from Rajasthan who has popularized the Kalbelia dance form, which is included in UNESCO's Intangible Cultural Heritage list.",
+        "tanglish": "Gulabo Sapera Rajasthan-ku sencholiya prasiddha Kalbelia aattangara, idhu UNESCO Intangible Cultural Heritage list-il idam petrathu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "नलवाड़ी मेला किस भारतीय राज्य में आयोजित किया जाता है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "पंजाब",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "उत्तर प्रदेश",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "हिमाचल प्रदेश",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "हरियाणा",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Nalwadi Mela is a famous annual fair organized in the Yamunanagar district of Haryana state.",
+        "tanglish": "Nalwadi Mela Haryana rajya Yamunanagar district-la varushathamum nadappikkappadum oru prasiddha theru."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Which of the following is an example of a Western coast port?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Vishakhapatnam port",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Kandla port",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Haldia port",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Tuticorin port",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Kandla port is located in the Kutch district of Gujarat on the western coast of India, while the others are located on the eastern coast.",
+        "tanglish": "Kandla bandar India vada kadal karaiya irukkum Gujarat state Kutch district-la ullathu, matra ellam kilakku kadal karaiyil ullana."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "रथ सप्तमी का सांस्कृृतिक उत्सव मुख्य रूप से भारत के किस राज्य में मनाया जाता है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "पश्चिम बंगाल",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "बिहार",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "हिमाचल प्रदेश",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "आंध्र प्रदेश",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Rath Saptami is a Hindu festival dedicated to Lord Surya, mainly celebrated in Andhra Pradesh and other South Indian states with great devotion.",
+        "tanglish": "Rath Saptami Surya Bhagavan-ku samarpitha oru Hindu vizha, idhu Andhira Pradesh matrum daksina Indian states-la perum pakkuvaga kondadakkappadum."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Who has the power to grant pardons?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Chief Justice of India",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Attorney General",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Chief Minister",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "President",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "According to Article 72 of the Indian Constitution, the President of India has the power to grant pardons, reprieves, respites or remissions of punishment.",
+        "tanglish": "Indian Constitution Article 72 prakaram, India President-ku thandanaiyal irundhu vimadukku alikkum adhikaram undu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "The aim of 'Poorna Swaraj' was adopted during the 1929 session of the _________ Congress.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Lucknow",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Poona",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Amritsar",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Lahore",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The Lahore session of the Indian National Congress in December 1929, presided over by Jawaharlal Nehru, adopted the resolution demanding 'Poorna Swaraj' or Complete Independence.",
+        "tanglish": "1929 December Indian National Congress Lahore session-la Jawaharlal Nehru adhyakshathuvathil Poorna Swaraj thirumanam eduthukkappattathu."
+      }
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-Constable-5-2-2025-Afternoon-Shift-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "किसी निश्चित कूट भाषा में, ‘WEDS’ को ‘3' के रूप में कूटबद्ध किया जाता है और ‘MAIUFQX' को ‘6’ के रूप में कूटबद्ध किया जाता है। दी गई कूट भाषा में ‘GIQRBZLA' को किस प्रकार कूटबद्ध किया जाएगा?",
+      "options": [
+        {
+          "id": "1",
+          "text": "7",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The coding pattern is: Number of letters in the word minus 1. WEDS has 4 letters (4-1=3). MAIUFQX has 7 letters (7-1=6). GIQRBZLA has 8 letters, so 8-1=7.",
+        "tanglish": "Koodu murai: Vaarthaiyil ulla eluthukkal eanaiyilirundhu 1-ai kuraithal. WEDS-kku 4 eluthukkal (4-1=3). MAIUFQX-kku 7 eluthukkal (7-1=6). GIQRBZLA-kku 8 eluthukkal, adhanaal 8-1=7."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "एक निश्चित कूट भाषा में, 'A + B' का अर्थ है कि 'A, B की पुत्री है', 'A – B' का अर्थ है कि 'A, B का भाई है', 'A × B' का अर्थ है कि 'A, B की पत्नी है' और 'A ÷ B' का अर्थ है कि 'A, B का पिता है'। यदि 'P + Q ÷ R × S – T' है, तो उपरोक्त के आधार पर, P का T से क्या संबंध है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "भाई की पत्नी की मां",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "पत्नी की मां",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "भाई की पत्नी की बहन",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "पत्नी की बहन",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Decoding: P is daughter of Q; Q is father of R; so P is sister of R. R is wife of S; S is brother of T. Therefore P is sister of R (wife of S), where S is brother of T. Thus P is sister of T's brother's wife.",
+        "tanglish": "Suthiraathai: P, Q-in magal; Q, R-in appa; aagave P, R-in sagothi. R, S-in manaivi; S, T-in sagotharan. Aagave P, T-in sagotharin manaiviyin sagothi."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "एक पासे के फलकों पर अक्षर C, L, A, U, T और E अंकित हैं। दी गई आकृतियों में एक ही पासे की दो स्थितियाँ दर्शाई गई हैं। कौन-सा फलक, फलक A के विपरीत है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "U",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "T",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "C",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "E",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "From the two dice positions (figures not shown), eliminate letters adjacent to A. The letter remaining which is not adjacent to A in either position is opposite to A. Based on standard patterns with these letters, E is opposite to A.",
+        "tanglish": "Irandu paasin nilaigalilum A-kku arukil varum eluthukkalai neekkiyal, migindha eluthu A-kku edirkondirukkum. Itharatha paasin aadhaarathil E, A-kku edirkondirukkum."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "उस वेन आरेख का चयन कीजिए जो निम्नलिखित वर्गों के बीच के संबंध को सर्वोत्तम रूप से दर्शाता है। विवाहित, महिलाएं, डॉक्टर",
+      "options": [
+        {
+          "id": "1",
+          "text": "Diagram 1",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Diagram 2",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Diagram 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Diagram 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Venn diagram must show: Women who are Married and Doctors (intersection of all three), Married Women who are not Doctors, Women Doctors who are not Married, Male Doctors who are Married, etc. Diagram 2 typically shows the correct overlapping relationships between these three intersecting sets.",
+        "tanglish": "Venn diagram: Moondrum ondraaga munnerinum, ondrai ondru thavirtha idangalum ullathaga irukka vendum. Manaiver peenmaruthuvargal, manaiveraatha pennmaruthuvargal, aanmaruthuvargal matrum manaivergal ithalathai Diagram 2 eksikirathu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "सात व्यक्ति A, B, C, D, E, F और G एक पंक्ति में उत्तर की ओर मुख करके बैठे हैं (परंतु जरूरी नहीं कि वे इसी क्रम में बैठे हों)। G और C पंक्ति के छोरों पर बैठे हैं, लेकिन जरूरी नहीं कि इसी क्रम में बैठे हों। F, G के ठीक दाईं ओर और D के ठीक बाईं ओर बैठा है। E, D के ठीक दाईं ओर बैठा है। A, E के दाईं ओर दूसरे स्थान पर बैठा है। B, C के बाईं ओर दूसरे स्थान पर बैठा है। B और C के बीच कौन बैठा है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "E",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "D",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "A",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "F",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Arrangement: G and C are at ends. F is right of G and left of D: G-F-D. E is right of D: G-F-D-E. A is second right of E. B is second left of C. Final order: G-F-D-E-B-A-C. Thus A sits between B and C.",
+        "tanglish": "Amaippu: G matrum C muthukkal. G-F-D-E enrum, A, E-in valathu 2-am idathil, B, C-in idathu 2-am idathil. Mudivu amaippu: G-F-D-E-B-A-C. Aagave B matrum C idaiyil A ullar."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "यदि शब्द SCRAMBLE के प्रत्येक अक्षर को अंग्रेजी वर्णमाला के क्रम में व्यवस्थित किया जाए, तो कितने अक्षरों का स्थान अपरिवर्तित रहेगा?",
+      "options": [
+        {
+          "id": "1",
+          "text": "एक का भी नहीं",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "दो",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "एक",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Original: S(1)-C(2)-R(3)-A(4)-M(5)-B(6)-L(7)-E(8). Alphabetical: A(1)-B(2)-C(3)-E(4)-L(5)-M(6)-R(7)-S(8). Comparing positions: 1≠1, 2≠2, 3≠3, 4≠4, 5≠5, 6≠6, 7≠7, 8≠8. No letter remains in same position.",
+        "tanglish": "Mudal: S-C-R-A-M-B-L-E. Ezhuthu varisai: A-B-C-E-L-M-R-S. Idam 1-il S→A, 2-il C→B, 3-il R→C, 4-il A→E, 5-il M→L, 6-il B→M, 7-il L→R, 8-il E→S. Oru eluthum thanithidathil illai."
+      }
+    }
+  ]
+}

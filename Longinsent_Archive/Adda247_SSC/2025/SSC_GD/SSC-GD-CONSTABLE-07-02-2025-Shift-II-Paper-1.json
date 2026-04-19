@@ -1,0 +1,157 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-CONSTABLE-07-02-2025-Shift-II-Paper-1.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "A paper is folded and cut as shown below. How will it appear when unfolded?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Option 1",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Option 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Option 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Option 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "This is a visual reasoning question involving paper folding and cutting. The folded paper is cut in a specific pattern, and when unfolded, the cuts create a symmetrical mirror image of the pattern.",
+        "tanglish": "Ithu oru vizhual reasoning kelvi. Kadhadhiraithu cut pannumbodhu varum pattern, adhai open pannumbodhu mirror image-a symmetric-a theriyum."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "What should come in place of the question mark (?) in the given series based on the English alphabetical order? KRB MTD OVF QXH ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "TZJ",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "SZK",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "SZJ",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "RZJ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Each letter follows a pattern of +2 in the alphabetical order. First letters: K(11)→M(13)→O(15)→Q(17)→S(19). Second letters: R(18)→T(20)→V(22)→X(24)→Z(26). Third letters: B(2)→D(4)→F(6)→H(8)→J(10). Therefore, the answer is SZJ.",
+        "tanglish": "Oru oru aksharamum +2 kootti varugiradhu. Mudhal ezuthu: K(11)→M→O→Q→S. Rendavathu ezuthu: R(18)→T→V→X→Z. Moondravadhu ezuthu: B(2)→D→F→H→J. Athanale SZJ sariyana badhil."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "The position(s) of how many letters will remain unchanged if each of the letters in the word ROTCHES is arranged in the English alphabetical order?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Three",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Zero",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "One",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Two",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Original word: ROTCHES. Alphabetical order: CEHORST. Comparing positions: R(1→5), O(2→4), T(3→7), C(4→1), H(5→3), E(6→2), S(7→6). No letter remains in its original position.",
+        "tanglish": "Original sol ROTCHES. Alphabetical order-la CEHORST. Oru aksharamum than munna idathil illai. Ellam positionum maari irukku. Athanale Zero."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "What will come in the place of the question mark (?) in the following equation, if '+' and '−' are interchanged and '×' and '÷' are interchanged? 48 × 3 − 16 + 6 ÷ 3 =?",
+      "options": [
+        {
+          "id": "1",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "14",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "11",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "8",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "After interchanging operators: 48 ÷ 3 + 16 − 6 × 3. Calculation: 16 + 16 − 18 = 32 − 18 = 14.",
+        "tanglish": "Operators maati kondal: 48÷3+16-6×3. Kanakaatu: 16+16-18=14. Athanale badhil 14."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Select the correct alternative that when filled in the blanks in the same sequence will make the series logically complete. _KHLJ_IMKM_NLNK_MOL_",
+      "options": [
+        {
+          "id": "1",
+          "text": "FKGQT",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "FLGOT",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "ILJOP",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "IKJQP",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The series follows a pattern where filling the blanks with FLGOT completes the sequence logically, maintaining the alphabetical progression pattern between the given letter groups.",
+        "tanglish": "FLGOT endru blanks fill pannumbodhu thodaarum alphabetic pattern sariana mantapil amaiyum. Idhu oru aniyathi kattagam."
+      }
+    }
+  ]
+}

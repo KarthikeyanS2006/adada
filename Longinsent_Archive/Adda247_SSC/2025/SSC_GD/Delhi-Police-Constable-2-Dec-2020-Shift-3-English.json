@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-2-Dec-2020-Shift-3-English.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Which musical instrument was the noted musician Pandit Kishan Maharaj associated?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Veena",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Mridangam",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Sitar",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Tabla",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Pandit Kishan Maharaj was a renowned Indian musician belonging to the Benares gharana, and he was associated with the Tabla.",
+        "tanglish": "Pandit Kishan Maharaj Benares gharanai sarntha periya Indian sangeetha alungal. Avar Tabla vaadhiyathil Uyarntha parichayam perugiyavaru."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "The Prime Minister and the other Ministers of the Indian Union are appointed by the:",
+      "options": [
+        {
+          "id": "1",
+          "text": "Article 79 of the Constitution of India",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Article 75 of the Constitution of India",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Article 85 of the Constitution of India",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Article 70 of the Constitution of India",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Article 75 of the Constitution of India states that the Prime Minister shall be appointed by the President and the other Ministers shall be appointed by the President on the advice of the Prime Minister.",
+        "tanglish": "Bharathiya Arasiyal Sattathin Article 75, Prime Minister matrum matroru Ministers President moolama niyamikkappadavargal endru kurikkum. Prime Minister-ai President niyamikuvadhu matrum matroru Ministers-um Ungal President-udan Prime Minister-in solliyadapadi niyamikkappaduvaargal."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "The Governor of a State may, if he is of the opinion that the Anglo-Indian community needs representation in the Legislative Assembly of the State and is not adequately represented, nominate ______ of that community to the Assembly.",
+      "options": [
+        {
+          "id": "1",
+          "text": "one member",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "two members",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "three members",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "four members",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Article 333 of the Constitution of India empowers the Governor to nominate one member of the Anglo-Indian community to the Legislative Assembly of the State if the community is not adequately represented.",
+        "tanglish": "Arasiyal Sattathin Article 333 anusarikkai, oru State Governor-ukku Anglo-Indian samooga perinbugal sariyana parinidhiyam illai endru ninaitha poadhu, avargalil ontru vai Legislative Assembly-ku aanmeegaaga nominate seithu kolla adhikaram undo."
+      }
+    }
+  ]
+}

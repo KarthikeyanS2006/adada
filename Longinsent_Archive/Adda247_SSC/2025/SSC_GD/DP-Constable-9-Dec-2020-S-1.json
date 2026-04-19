@@ -1,0 +1,337 @@
+{
+  "document_info": {
+    "exam_name": "DP-Constable-9-Dec-2020-S-1.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "निम्नलिखित में से कौन सी पुस्तक महान विद्वान भवभूति द्वारा नहीं लिखी गई है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "उत्तररामचरित",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "मालतीमाधव",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "रामचरितम्",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "महावीरचरित",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Bhavabhuti was a renowned Sanskrit scholar who authored Mahaviracharita, Malatimadhava and Uttararamacharita. Ramacharitam was written by Sandhyakar Nandi, not Bhavabhuti.",
+        "tanglish": "Bhavabhuti endra sanskrit aasiriyar Mahaviracharitam, Malatimadhavam, matrum Uttararamacharitam endra noolkalai ezhuthiyuldar. Ramacharitam endra noolai Bhavabhuti ezhuthalaiyendralum, idanai Sandhyakar Nandi ezhuthiyadhu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "The Sanchi Stupa was discovered by _______ in 1818.",
+      "options": [
+        {
+          "id": "1",
+          "text": "James Prinsep",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "John Marshall",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "James Burgess",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Sir Henry Taylor",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The Sanchi Stupa was discovered by General Henry Taylor in the year 1818. John Marshall later led restoration efforts in the 20th century.",
+        "tanglish": "Sanchi Stupa 1818 aandil General Henry Taylor dhan kandu pidithar. John Marshall pinbu 20am nootraandil punaradhara velaiyai nadathinaar."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "निम्नलिखित में से किसके द्वारा स्नायु तंत्र के रोगों का उपचार किया जाता है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "रक्त रोग विशेषज्ञ (हीमैटोलॉजिस्ट)",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "फुप्फुसीय रोग विशेषज्ञ (पल्मोनोलॉजिस्ट)",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "त्वचा रोग विशेषज्ञ (डर्मेटोलॉजिस्ट)",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "स्नायु रोग विशेषज्ञ (न्यूरोलॉजिस्ट)",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Neurologists specialize in treating diseases of the nervous system (स्नायु तंत्र). Hematologists treat blood disorders, Pulmonologists treat lung diseases, and Dermatologists treat skin conditions.",
+        "tanglish": "Snayu thittathin rogangalai maruthuvam seivatharku Neurologist udavugiraar. Ratham sambandha rogangalukku Hematologist, Moochai patriya rogangalukku Pulmonologist, matrum thol nadaigalukku Dermatologist aavedhu sevai seigiraar."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "The Constituent Assembly of India was formed in _______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "1947",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "1948",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "1946",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "1945",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Constituent Assembly of India was formed in 1946 under the Cabinet Mission Plan. It first met on December 9, 1946.",
+        "tanglish": "Indiaavin Sattamasuppu Kuzhu 1946 aandil Cabinet Mission Plan kizhil sthapikkappattadhu. Ithu mudhal muraiyaga December 9, 1946 nilaiyil koodiyadhu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "As on August 2020, the Government of India does NOT announce the Minimum Support Price for which of the following crops?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Groundnut",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Paddy",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Flax seeds",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Ragi",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "As of August 2020, the Government of India announces Minimum Support Price (MSP) for major crops including Groundnut, Paddy, and Ragi. Flax seeds (Linseed) were not included in the regular MSP announcement cycle for that period.",
+        "tanglish": "2020 August varai India arasu Groundnut, Paddy, Ragi pondra mukkiyathuvaaya payirgalukku MSP therivithadhu. Flax seeds (Linseed) aanadhu ithanaiyudan varudhapokku MSP padiyil varavillai."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "______ is related to football.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Ranji Trophy",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Santosh Trophy",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Duleep Trophy",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Irani Cup",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Santosh Trophy is a national football tournament held in India. Ranji Trophy, Duleep Trophy, and Irani Cup are associated with cricket.",
+        "tanglish": "Santosh Trophy endradhu Indiaavile naadaga munnetra football sarpattai throphiyagum. Ranji Trophy, Duleep Trophy, Irani Cup ivai ellam cricket vilayattudan sambandhapattadhu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "In the context of Interim Government (1946) of India, who among the following was holding the portfolio of 'Finance'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Jogendra Nath Mandal",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Liaquat Ali Khan",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "John Mathai",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Jagjivan Ram",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "In the Interim Government formed in 1946, Liaquat Ali Khan was appointed as the Finance Minister. Jagjivan Ram held the Labour portfolio.",
+        "tanglish": "1946 aandil amaithiyaana arasiyalathaiyil Liaquat Ali Khan varumai thuraiyai vaithirundhar. Jagjivan Ram aavedhu tholil thuraiyai vaithirundhar."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "S. Jaishankar is the author of which of the following books?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Kashmir's untold story: Declassification",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Making of New India",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "The India Way: Strategies for an Uncertain World",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Sapiens - A Brief History of Humankind",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "S. Jaishankar, the External Affairs Minister of India, authored 'The India Way: Strategies for an Uncertain World'. Sapiens was written by Yuval Noah Harari.",
+        "tanglish": "India arasiyal maatru thurai S. Jaishankar aavedhu 'The India Way: Strategies for an Uncertain World' endra noolin niraiveraalar. Sapiens endra noolai Yuval Noah Harari ezhuthiyadhu."
+      }
+    },
+    {
+      "q_number": 9,
+      "question_text": "The Index of Industrial Production is computed and published by the Central Statistical Organisation on a ______ basis.",
+      "options": [
+        {
+          "id": "1",
+          "text": "monthly",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "half-yearly",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "quarterly",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "yearly",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Index of Industrial Production (IIP) is computed and published monthly by the National Statistical Office (earlier Central Statistical Organisation).",
+        "tanglish": "Index of Industrial Production (IIP) endradhu oro maasamum National Statistical Office dhan velipaduthi veliyidugiradhu."
+      }
+    },
+    {
+      "q_number": 10,
+      "question_text": "Which of the following industrial cities is in Rajasthan?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Bhagalpur",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Bhabua",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Bellary",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Beawar",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Beawar is an industrial city located in the Ajmer district of Rajasthan. Bhagalpur and Bhabua are in Bihar, while Bellary is in Karnataka.",
+        "tanglish": "Beawar endradhu Rajasthan maanilathin Ajmer jillayil ulla oru paarvai nagaram. Bhagalpur matrum Bhabua endravai Biharilum, Bellary endradhu Karnatakavilum ulladhu."
+      }
+    },
+    {
+      "q_number": 11,
+      "question_text": "______ Schedule of the Constitution of India deals with the names of the states and their territorial jurisdiction.",
+      "options": [
+        {
+          "id": "1",
+          "text": "First",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Second",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Third",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Fourth",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The First Schedule of the Constitution of India contains the list of states and union territories along with their territorial jurisdictions.",
+        "tanglish": "India Sattathin First Schedule la maanilangalin peyargalum, sindhanaitholaivu nadu unmudhalivum kurikkappadum."
+      }
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-16-Nov-23-Shift-II-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "The sale of car results in __________.",
+      "options": [
+        {
+          "id": "1",
+          "text": "decrease in sale of final products",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "no change",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "decrease in GDP",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "increase in GDP",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The sale of a car is a transaction of a final good, which contributes to the GDP of the country. Therefore, it results in an increase in GDP.",
+        "tanglish": "Oru car vikravathu oru mudivana porul viyapaaram. Idhu GDP velaiyiyalil kootappadum endru artham, adhanal GDP valarchiyil eeru padugirathu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "As of October 2022, fire altars are primarily found in which of the following Harappan cities?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Rakhigarhi",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Banawali",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Mohenjo-Daro",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Kalibangan",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Fire altars have been discovered at Kalibangan, which is an important site of the Harappan civilization providing evidence of ritualistic fire worship.",
+        "tanglish": "Kalibangan matra Harappan nagara theevugalil sudaradangal (fire altars) kandupidikkappattullana. Idhu aanmiga vazhipadu muraiyai kaatugirathu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Which of the following will NOT be included in the estimation of national income? (i) Expenses on electricity by a factory (ii) Financial help to earthquake victims (iii) Imputed value of production for self-consumption (iv) Brokerage on sale of bonds",
+      "options": [
+        {
+          "id": "1",
+          "text": "Both (iii) and (iv)",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "All of (i), (ii), (iii) and (iv)",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Both (i) and (ii)",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "None of (i), (ii), (iii) and (iv)",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Expenses on electricity by a factory represent intermediate consumption, and financial help to earthquake victims is a transfer payment. Neither intermediate consumption nor transfer payments are included in the estimation of national income.",
+        "tanglish": "Factoryilirundhu min sevaiyai vangugira nagai madhiyaal athanbu seyyappadum, bhukampathin kodi网路kku tharapatra selvagal. Indha rendum yer moola aththanaiyil serkkappadathu."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Which of the following is the hardest mineral?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Gypsum",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Talc",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Calcite",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Diamond",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Diamond is the hardest known natural mineral with a Mohs hardness of 10, while talc is the softest with a hardness of 1.",
+        "tanglish": "Vairam (Diamond) sirithala kanithu sedhi, Mohs kattrchiyil 10 endra kadamaiyil irukkum."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "In which year was the city of Agra founded?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1404",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "1204",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "1504",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "1304",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The city of Agra was founded by Sultan Sikandar Lodi of the Delhi Sultanate in the year 1504.",
+        "tanglish": "Agra nagaram Delhi Sultan Sikandar Lodi alavathil 1504 aandil sthapikkappattathu."
+      }
+    }
+  ]
+}

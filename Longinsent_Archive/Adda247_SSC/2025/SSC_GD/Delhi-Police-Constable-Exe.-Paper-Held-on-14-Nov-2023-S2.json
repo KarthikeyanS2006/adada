@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-Exe.-Paper-Held-on-14-Nov-2023-S2.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Who was defeated by Chandragupta Maurya in order to found the Maurya dynasty?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Dhana Nanda",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Bimbisara",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Mahapadma Nanda",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Ajatshatru",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Chandragupta Maurya defeated Dhana Nanda, the last ruler of the Nanda dynasty, with the help of Chanakya (Kautilya) to establish the Maurya Empire around 321 BCE.",
+        "tanglish": "Chandragupta Maurya, Chanakya (Kautilyaavin) Udhaviyudan Nanda vamsathin mudalveraiyaana Dhana Nandai vetti, 321 BCE veli Maurya samrajyathai sthapanithaar."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Any dispute between the Government of India and one or more States or between the Government of India and any State or States comes under ___________________ jurisdiction of the Supreme Court of India.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Advisory",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Appellate",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Exclusive Original",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Writ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Under Article 131 of the Indian Constitution, the Supreme Court has exclusive original jurisdiction over disputes involving the Government of India and State(s), meaning no other court can hear such disputes initially.",
+        "tanglish": "Indhiya Arasiyal Sattathin Article 131, Indhiya Arasu matrum nadugal/idainadu vivaadhangalil matra yarum illatha nilaiyil staapana maithanathil Uchcha Nyayamandram vinavu ketkum adhikaaram pettadhu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Kajli Teej is the cultural festival of which Indian state?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Rajasthan",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Goa",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "West Bengal",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Maharashtra",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Kajli Teej is a significant cultural festival celebrated in Rajasthan, especially by married women who pray for the well-being and long life of their husbands during the monsoon season.",
+        "tanglish": "Kajli Teej endradhu Rajasthan maanilathin mukkiyamaana saarbaoumiya vizha. Madanangal thangal kanavarin nirvaanam matrum deergha ayusu ku vendi maazhai kaalathil vigiruththi kondadum vizha."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "In whose presence does the Governor take oath or make affirmation in case of the absence of the Chief Justice of the High Court?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Nominated judge by President",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Secretary of State Legislature",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Senior-most judge of High Court available",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Speaker of State legislature",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "According to Article 159 of the Constitution, the Governor takes oath before the Chief Justice of the High Court, and in his absence, before the senior-most Judge of that Court available.",
+        "tanglish": "Sattam Article 159, Aayakor Uchcha Nyayamandhram mudalvar sarbolaas illaiyil, antya Uchcha Nyayamandhramulla mudal semippulla sudhandhiraanin munbaga aippattam eduppar."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "What is the slogan of the Pradhan Mantri Jan Dhan Yojana?",
+      "options": [
+        {
+          "id": "1",
+          "text": "MeraAdhikar, MeraKhaata",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "MeraKhaata, MeraAdhikar",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Mera Paisa, Mere Bank Me",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Mera Khaata, Bhagya Vidhaata",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Pradhan Mantri Jan Dhan Yojana (PMJDY) was launched in 2014 with the slogan 'Mera Khaata, Mera Adhikaar' (My Account, My Right) to ensure financial inclusion for all households.",
+        "tanglish": "Pradhan Mantri Jan Dhan Yojana (PMJDY) 2014 il 'Mera Khaata, Mera Adhikar' ('En Kadai, En Urimai') endru solvadhai-mozhiyudan tholaiyirundhudan, ella veetukkum vaangu iraiporul sevai arulbathukaga arambithapadindradhu."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "According to Census 2011 of India, which religion recorded highest literacy rate from following?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Hindu",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Muslim",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Jain",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Sikh",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "According to Census 2011, Jains recorded the highest literacy rate at approximately 97.4%, followed by Christians (84.5%), Buddhists (81.3%), Sikhs (75.4%), Hindus (73.3%), and Muslims (68.5%).",
+        "tanglish": "2011 Manithak kottu anaithin paadhi, Jaina madathinar 97.4% saksharatha etarpaatiyudan mun nilaiyil ullargal. Idarkurithu Christian, Buddhist, Sikh, Hindu matrum Muslim madathinar."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "In 1932, the Poona Pact was signed between Mahatma Gandhi and _________.",
+      "options": [
+        {
+          "id": "1",
+          "text": "C. Natesa Mudaliar",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Taravath Madhavan Nair",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Ramaswami Naicker-Periyar",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Dr. Babasaheb Ambedkar",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The Poona Pact was signed on September 24, 1932 between Mahatma Gandhi and Dr. B.R. Ambedkar at Yerwada Central Jail, Pune, to secure reserved seats for the depressed classes (Dalits) in provincial legislatures.",
+        "tanglish": "September 24, 1932 indraiya thethi Yerwada Central Jail, Pune vil Mahatma Gandhi matrum Dr. B.R. Ambedkar idaiye Poona Odamaiyum saindhadhu. Idhu thisai vargathinarku (Dalits) idam tharudhalukkaga."
+      }
+    }
+  ]
+}

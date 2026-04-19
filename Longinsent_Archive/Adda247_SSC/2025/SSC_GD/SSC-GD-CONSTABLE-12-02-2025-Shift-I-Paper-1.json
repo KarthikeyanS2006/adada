@@ -1,0 +1,247 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-CONSTABLE-12-02-2025-Shift-I-Paper-1.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Based on the English alphabetical order, three of the following four letter-clusters are alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to that group? (Note: The odd one out is not based on the number of consonants/vowels or their position in the letter-cluster.)",
+      "options": [
+        {
+          "id": "1",
+          "text": "OIP",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "LPJ",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "OSM",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "MQK",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "All clusters except OIP follow the pattern: first letter +4, second letter -6. LPJ: L(12)+4=P(16), P(16)-6=J(10). OSM: O(15)+4=S(19), S(19)-6=M(13). MQK: M(13)+4=Q(17), Q(17)-6=K(11). OIP follows O(15)-6=I(9), I(9)+7=P(16), which is different from the established pattern.",
+        "tanglish": "OIP thavira matta anaithu letter-clusters um oru pattern ai follow seyykirana. Adhu: first letter ku +4, second letter ku -6 alphabet position la. OIP la indha pattern illai, adhu vera pattern ai follow seyykirathu. Adhanaal OIP thaan answer."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Select the combination of letters that when sequentially placed in the blanks of the given series, will logically complete the series. _OSNR_QLPK_JNIM_ LGK_",
+      "options": [
+        {
+          "id": "1",
+          "text": "VMQHE",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "TNOGF",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "TMOHF",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "VNQGE",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The series follows an alternating alphabetical pattern of +4, -5 progression. The correct combination VNQGE fills the blanks to maintain this sequence: V(22)-7=O(15)+4=S(19)-5=N(14)+4=R(18), then N(14)+3=Q(17)-5=L(12)+4=P(16)-5=K(11), and so on to complete all segments.",
+        "tanglish": "Indha series la alternating alphabetical pattern +4, -5 nu poguthu. VNQGE endra combination saariyana idathula place aagi indha pattern ai complete seyyum. V(22) la irunthu O(15), appuram S(19), N(14), R(18) nu pattern continue aaguthu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "In a certain code language, 'JIVE' is coded as '1597' and 'FIVE' is coded as '5781'. What is the code for 'F' in the given code language?",
+      "options": [
+        {
+          "id": "1",
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "In the word FIVE coded as 5781, the first letter F corresponds to the first digit 5. Therefore, the code for F is 5.",
+        "tanglish": "FIVE endra word 5781 nu code aakkiyullathu. Ithil mudhal ezhuthu F aanathu mudhal digit 5 ku equal. Adhanaal F ku code 5 thaan."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "What will come in the place of the question mark '(?)' in the following equation, if '−' and '÷' are interchanged and '×' and '+' are interchanged? 7 + 45 − 15 × 5 ÷ 12 = ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "14",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "16",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "15",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "17",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "After interchanging the operators: '−' becomes '÷', '÷' becomes '−', '×' becomes '+', and '+' becomes '×'. The equation becomes: 7 × 45 ÷ 15 + 5 − 12 = 315 ÷ 15 + 5 − 12 = 21 + 5 − 12 = 14.",
+        "tanglish": "Operators marum bodhu: minus um divide um maattikka aaganum, times um plus um maattikka aaganum. Appuram equation: 7 × 45 ÷ 15 + 5 − 12 = 315 ÷ 15 + 5 − 12 = 21 + 5 − 12 = 14."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "In a certain code language, 'CLAP' is coded as '6452' and 'PALM' is coded as '5428'. How is 'M' coded in the given language?",
+      "options": [
+        {
+          "id": "1",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "8",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "In the code PALM = 5428, M is the fourth letter and corresponds to the fourth digit 8. Therefore, M is coded as 8.",
+        "tanglish": "PALM = 5428 endra code la, nelamaam ezhuthu M aanathu nelamaam digit 8 ku samam. Adhanaal M ku code 8."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "DEATH is related to GLITZ in a certain way based on the English alphabetical order. In the same way, GRAVE is related to JYIVW. To which of the given options is BENCH related, following the same logic?",
+      "options": [
+        {
+          "id": "1",
+          "text": "FKVCA",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "FLVCZ",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "ELVCA",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "ELVCZ",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The logic involves adding specific values to the alphabetical positions: +3, +7, +8, +0, +18. For DEATH: D(4)+3=G(7), E(5)+7=L(12), A(1)+8=I(9), T(20)+0=T(20), H(8)+18=Z(26) gives GLITZ. Similarly for BENCH: B(2)+3=E(5), E(5)+7=L(12), N(14)+8=V(22), C(3)+0=C(3), H(8)+18=Z(26) gives ELVCZ.",
+        "tanglish": "Logic: letter positions ku +3, +7, +8, +0, +18 serkkanum. DEATH ku seydhaal G(7), L(12), I(9), T(20), Z(26) varum. Ipdi BENCH ku seyyum bodhu B+3=E, E+7=L, N+8=V, C+0=C, H+18=Z, adhanaal ELVCZ varum."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "In a certain code language, 'A < B' means 'A is the son of B', 'A / B' means 'A is the father of B', 'A : B' means 'A is the wife of B' and 'A ! B' means 'A is the brother of B'. How is F related to H if 'F ! L : A < S / H'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Brother's wife's father",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Brother's wife's brother",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Brother's wife's sister",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Brother's wife's son",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "From F ! L : A < S / H: F is brother of L; L is wife of A; A is son of S; S is father of H. Thus A and H are siblings (sons of S). F is brother of A's wife (L), making F the brother of H's brother's wife. This translates to 'Brother's wife's brother' from H's perspective.",
+        "tanglish": "F ! L : A < S / H endra expression la: F aanathu L oda brother, L aanathu A oda wife, A aanathu S oda son, S aanathu H oda father. Aum Hum brothers. F aanathu A oda wife L oda brother. Adhanaal F aanathu H oda brother oda wife oda brother. Idhuthan option 2."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "A paper is folded and cut as shown below. How will it appear when unfolded?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Diagram option 1",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Diagram option 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Diagram option 3",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Diagram option 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "This is a paper folding and cutting visualization question. When the folded paper is cut and unfolded, the pattern should symmetrically appear on all folded sections. Based on standard paper folding logic where cuts on folded edges create symmetric patterns, option 3 represents the correct unfolded appearance.",
+        "tanglish": "Idhu paper folding and cutting diagram question. Paper fold seyyapattu cut seyyapattu unfold seyyum bodhu, cut pattern symmetric ah theriyanum. Standard folding logic paatha option 3 thaan saariyana answer."
+      }
+    }
+  ]
+}

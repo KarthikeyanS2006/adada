@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-16-Nov-23-Shift-III-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Which of the following was opened by Gour Mohan Addy in 1829?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Hindi Seminary",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Anglo-India Seminary",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Anglo-Indian School",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Oriental Seminary",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Gour Mohan Addy established the Oriental Seminary in 1829 in Kolkata. It was one of the earliest privately organized English schools in India, aimed at imparting modern education to Indian students.",
+        "tanglish": "Gour Mohan Addy 1829-aal Oriental Seminary-ai thiranthaar. Idhu India-vil munbaga amaikkappatta ushaar sontha English palligalil ondru, Indian maa?avarhalukku aadhunika kalvi alikkathakkaaga amaikkappattadhu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "In which pair of states is Holi also celebrated as Dola Purnima?",
+      "options": [
+        {
+          "id": "1",
+          "text": "West Bengal and Odisha",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Rajasthan and Punjab",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Nagaland and Sikkim",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Maharashtra and Gujarat",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Dola Purnima (also known as Dol Purnima or Dol Jatra) is celebrated in the eastern Indian states of Odisha and West Bengal around the same time as Holi. It is dedicated to Lord Krishna and Radha.",
+        "tanglish": "Holi thirunaal Odisha matrum West Bengal maanilangalil Dola Purnima endru aa?yappadugiradhu. Idhu Kadavul Krishna matrum Radha pugazh paaduthathukkaka kondadappadum thirunaal."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Which political party was in power when Sardar Swaran Singh Committee made recommendations about Fundamental Duties?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Indian National Congress",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Bharatiya Janata Party",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Janata Dal",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Communist Party of India",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Sardar Swaran Singh Committee was appointed in 1976 by the Indian National Congress government led by Indira Gandhi to study the question of amending the Constitution. The committee recommended the inclusion of Fundamental Duties, which were later added through the 42nd Constitutional Amendment Act, 1976.",
+        "tanglish": "Sardar Swaran Singh Committee 1976-aal Indian National Congress aatchiyal ameekappattadhu. Ivarhal Arasiyal Sattathil moola kadamaikal (Fundamental Duties) patri kurippitalithu, antha 42am Thirutham maanakkaththil idhai serthutharalithadhu."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Which Article of the Indian Constitution is related with promotion of co-operative societies?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Article 31 B",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Article 51 A",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Article 43 B",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Article 39 A",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Article 43B was inserted by the Constitution (Ninety-seventh Amendment) Act, 2011. It states that 'The State shall endeavour to promote voluntary formation, autonomous functioning, democratic control and professional management of co-operative societies'.",
+        "tanglish": "97am Arasiyal Sattathirutham 2011-aal Article 43B serthappattadhu. Idhu o?hungaliniyal sangathai valarkkum nokkathai patriyathu, suthanthira thodarpu matrum jananaayaga niyanthranathai thoondukindrathu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "The Indian government launched the 'Garib Kalyan Rojgar Abhiyaan' ('GKRA') on 20th June 2020 to provide work for how many days?",
+      "options": [
+        {
+          "id": "1",
+          "text": "125 days",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "130 days",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "115 days",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "120 days",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The Garib Kalyan Rojgar Abhiyaan (GKRA) was launched on 20th June 2020 as a special scheme to provide 120 days of employment to migrant workers who had returned to their home states during the COVID-19 lockdown period.",
+        "tanglish": "Garib Kalyan Rojgar Abhiyaan 20 June 2020-aal aarambithadhu. COVID-19 kaalathil thangal naadu thirumbiya thozhilaadha suvarasihalukku 120 naatkal velai alikkathakkakka idhu urchithappattadhu."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "In 2016, Yamini Krishnamurthy received the Padma Vibhushan for her contribution to which fields of classical dance?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Bharatanatyam and Kathak",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Bharatanatyam and Manipuri",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Bharatanatyam and Odissi",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Bharatanatyam and Kuchipudi",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Yamini Krishnamurthy is a renowned Indian classical dancer and choreographer. She was awarded the Padma Vibhushan, India's second-highest civilian award, in 2016 for her exceptional contribution to Bharatanatyam and Kuchipudi dance forms.",
+        "tanglish": "Yamini Krishnamurthy Bharatanatyam matrum Kuchipudi aatta variyil vilangina aatta kalai??ari. Avar 2016-aal Padma Vibhushan virudhu perugiraar. Idhu India-vil irundhu second highest civilian award."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "शतरंज में उपयोग होने वाले सफेद हाथियों (rooks) की संख्या ________ होती है।",
+      "options": [
+        {
+          "id": "1",
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "दो",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "चार",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "In the game of chess, each player starts with two rooks (also called castles or elephants in some contexts). Therefore, the white player has two white rooks positioned at the corners of the board.",
+        "tanglish": "Satharangathil (chess) vilayattil oru vilaiyaadhu?ku irandu rookkaigal (yaanai kallukal) irukkum. Appadiyenil, vel?la niramulla paadhaiyil irandu rookkaigal irukkum."
+      }
+    }
+  ]
+}

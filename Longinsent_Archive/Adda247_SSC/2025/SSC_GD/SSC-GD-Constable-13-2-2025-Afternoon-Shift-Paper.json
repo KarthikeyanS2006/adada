@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-Constable-13-2-2025-Afternoon-Shift-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "आठ व्यक्ति दो समानांतर पंक्तियों में बैठे हैं जिनमें से प्रत्येक पंक्ति में 4 व्यक्ति इस प्रकार बैठे हैं कि आसन्न व्यक्तियों के बीच की दूरी समान है। पंक्ति 1 में - G, I, F और T बैठे हैं और उन सभी का मुख दक्षिण की ओर है। पंक्ति 2 में - B, O, N और D बैठे हैं और उन सभी का मुख उत्तर की ओर है। इस प्रकार, पहली पंक्ति के प्रत्येक व्यक्ति का मुख दूसरी पंक्ति के किसी अन्य व्यक्ति की ओर है। B के दाईं ओर कोई नहीं बैठा है। N और B के बीच में केवल दो व्यक्ति बैठे हैं। O के सम्‍मुख बैठा व्यक्ति, B के सम्‍मुख बैठे व्यक्ति के दाईं ओर दूसरे स्थान पर बैठा है। I, F के ठीक दाईं ओर बैठा है। G, I के ठीक दाईं ओर बैठा है लेकिन वह O के सम्‍मुख नहीं है। निम्नलिखित में से कौन-सा विकल्‍प, पंक्तियों के अंतिम छोरों पर बैठे दोनों व्यक्तियों को निरूपित करता है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "G और D",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "I और B",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "T और N",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "T और O",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Row 1 (South-facing): G, I, F, T sit at positions 1,2,3,4 respectively. Row 2 (North-facing): N, O, D, B sit at positions 1,2,3,4 respectively. B has no one to his right, so B is at position 4. N has exactly two persons between him and B, so N is at position 1. The person opposite O is second to the right of the person opposite B (who is at position 4). Therefore O is at position 2, making D at position 3. I sits immediately right of F, and G sits immediately right of I, with G not opposite O. This fixes Row 1 as G(1), I(2), F(3), T(4). The persons at extreme ends across both rows are T (position 4, Row 1) and N (position 1, Row 2).",
+        "tanglish": "Row 1-il G, I, F, T (dheakshinam nokki) matrum Row 2-il N, O, D, B (vadakkam nokki) amarndhullargal. B-kku valathu pakkathil yaarum illai, adhanaal B Row 2-il idathu 4-il amarndhulladhu. N matrum B idangalukku idaiyil irandhu per ullathaal N idathu 1-il amarndhulladhu. O edirppaarka amarndhullavan, B edirppaarka amarndhullavanin valathu pakkathirkku irandaavadhu idathil amarndhulladhu. I, F-in dheettiya valathupakkathil amarndhulladhu; G, I-in dheettiya valathupakkathil amarndhulladhu, aanaal O-yin ediralla. Indha kattalaigalai vachu, matthipu: Row 1: G(1), I(2), F(3), T(4); Row 2: N(1), O(2), D(3), B(4). Aagave, antim chhorigalil amarndhullavargal T (Row 1-in mudivu) matrum N (Row 2-in aarambam)."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "एक निश्चित कूट भाषा में, ‘A ! B’ का अर्थ है ‘A, B का भाई है’, ‘A < B’ का अर्थ है ‘A, B का पुत्र है’, ‘A : B’ का अर्थ है ‘A, B की पत्नी है’ और ‘A / B’ का अर्थ है ‘A, B का पिता है’। यदि ‘O / M : I ! T < S’ है, तो O का S से क्‍या संबंध है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "पुत्र की पत्‍नी की बहन",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "पुत्र की पत्‍नी के पिता",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "पुत्र की पत्‍नी का पुत्र",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "पुत्र की पत्‍नी की माता",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "O / M means O is father of M. M : I means M is wife of I, making I the son-in-law of O. I ! T means I is brother of T. T < S means T is son of S, making S the father of both T and I. Therefore, O is the father of M (who is the wife of S's son I). Thus, O is the father of S's son's wife.",
+        "tanglish": "Kattalaigal: O / M => O, M-in thanthai; M : I => M, I-in manaivi (I, O-in marumagan); I ! T => I, T-in sagotharan; T < S => T, S-in magan. Idhilirundhu, S endrathu I matrum T-in thanthai; O endrathu M-in thanthai (I-in manaivi). Aagave, O, S-in maganudan manavai seigira pen-in thanthai."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "एक कागज को नीचे दर्शाए गए अनुसार मोड़कर पंच किया (punched) जाता है। खोले जाने पर यह कैसा दिखाई देगा?",
+      "options": [
+        {
+          "id": "1",
+          "text": "[Diagram]",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "[Diagram]",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "[Diagram]",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "[Diagram]",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The question requires the visual diagram of the paper folding and punching pattern which is not provided in the text. Without the diagram showing the fold lines and punch positions, the correct answer cannot be determined.",
+        "tanglish": "Indha kelvikku kaagitham moottiya matrum punjai itta padhivu thevai; idam kodukkappadaamal, sariyana pathil theriya mudiyadhu."
+      }
+    }
+  ]
+}

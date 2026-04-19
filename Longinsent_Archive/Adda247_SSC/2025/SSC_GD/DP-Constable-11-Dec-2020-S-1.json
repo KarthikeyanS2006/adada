@@ -1,0 +1,337 @@
+{
+  "document_info": {
+    "exam_name": "DP-Constable-11-Dec-2020-S-1.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Aga Khan Palace, which served as a jail for Mahatma Gandhi and other freedom fighters during Quit India Movement, is located in which of the following states?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Maharashtra",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Andhra Pradesh",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "West Bengal",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Haryana",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Aga Khan Palace is located in Pune, Maharashtra. It served as a jail for Mahatma Gandhi and other freedom fighters during the Quit India Movement in 1942.",
+        "tanglish": "Aga Khan Palace Pune, Maharashtra-la ullathu. Quit India Movement samayathil Gandhi avargalaiyum matrum sudhandhira porrkalaithum thaduththi vaikka indha idam jail-aaga payanpaduthappattathu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Who among the following was the first Indian woman to reach the summit of Mount Everest?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Aditi Vaidya",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Nahida Manzoor",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Deeya Bajaj",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Bachendri Pal",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Bachendri Pal was the first Indian woman to reach the summit of Mount Everest in 1984.",
+        "tanglish": "Bachendri Pal than Mount Everest mela erangi first Indian woman. Avaru 1984-la idhai saadithaar."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Which of the following was the first to set up a bank in the private sector as part of RBI's (Reserve Bank of India) liberalisation of the Indian banking industry?",
+      "options": [
+        {
+          "id": "1",
+          "text": "HDFC Bank",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Punjab National Bank",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "ICICI Bank",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "SBI Bank",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "ICICI Bank was the first private sector bank to be set up after the Reserve Bank of India's liberalisation of the Indian banking industry in 1994. It commenced operations in June 1994.",
+        "tanglish": "RBI Indian banking industry-a liberalise panna pinbu, ICICI Bank than first-a private sector bank-a open pannathu. Idhu 1994 June-la operation start panniyathu."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "The Finance Bill has to be passed by the parliament within how many days of its introduction?",
+      "options": [
+        {
+          "id": "1",
+          "text": "90",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "75",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "60",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "85",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Finance Bill has to be passed by the Parliament within 75 days of its introduction.",
+        "tanglish": "Finance Bill Parliament-la introduce pannathukku 75 days kulla pass panna vendiyathu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "In which of the following states is the Corbett National Park located?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Uttarakhand",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Tripura",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "West Bengal",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Gujarat",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Corbett National Park is located in the state of Uttarakhand. It is the oldest national park in India.",
+        "tanglish": "Corbett National Park Uttarakhand state-la ullathu. Idhu India-la irukka mudhala national park."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "The pH of soil can be raised by adding _______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "sand",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "limestone",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "urea",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "concrete",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Limestone (calcium carbonate) is added to soil to raise its pH, making it less acidic and more alkaline or neutral.",
+        "tanglish": "Soil pH-a increase panna (acidity kammi panna) limestone add pannalam. Idhu calcium carbonate-a irukkum."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "______ policy refers to the use of monetary instruments under the control of the central bank to regulate the economic magnitudes.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Fiscal",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Revenue",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Monetary",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Trade",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Monetary policy refers to the policy used by the central bank (RBI in India) to control the money supply and interest rates to regulate economic magnitudes.",
+        "tanglish": "Monetary policy endraal, Central Bank (RBI) control pannum monetary instruments (interest rate, money supply) use panni economy-a regulate pannurathu."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "Hathni Kund Dam is built on which of the following rivers?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Yamuna",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Mahanadi",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Krishna",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Cauvery",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Hathni Kund Dam is built on the Yamuna river in Haryana. It is a masonry weir.",
+        "tanglish": "Hathni Kund Dam Yamuna aathu mela Haryana-la kattappattathu."
+      }
+    },
+    {
+      "q_number": 9,
+      "question_text": "'Pulikkali' is a recreational folk art form from which of the following states of India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Kerala",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Sikkim",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Karnataka",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Punjab",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Pulikkali is a recreational folk art form from the state of Kerala. It is performed during the Onam festival where men dress up as tigers.",
+        "tanglish": "Pulikkali endraal Kerala-la Onam time-la nadakkum oru folk art. Puli mathiri colour poosi aattam aaduvathu idhu."
+      }
+    },
+    {
+      "q_number": 10,
+      "question_text": "Candela is the SI unit of which of the following base quantities?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Length",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Mass",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Luminous intensity",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Temperature",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Candela (cd) is the SI unit of luminous intensity, which is the amount of light emitted by a source in a particular direction.",
+        "tanglish": "Candela (cd) endrathu luminous intensity-a measure panna SI unit. Ore direction-la oru light source inthra light emit pannurathu endrathai idhu kattum."
+      }
+    },
+    {
+      "q_number": 11,
+      "question_text": "Market Stabilisation Scheme, an instrument for monetary management, was introduced in which of the following years?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1999",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "2004",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "2001",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "2009",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Market Stabilisation Scheme (MSS) was introduced in 2004 by the Reserve Bank of India to absorb excess liquidity from the system by issuing MSS bonds.",
+        "tanglish": "Market Stabilisation Scheme (MSS) 2004-la RBI arambithathu. Excess liquidity-a absorb pannika idhu use aagum."
+      }
+    }
+  ]
+}

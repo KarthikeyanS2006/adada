@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "Dehli-Police-Constable-Previous-Paper-Held-On_-10-Dec-2020-Shift-2-English.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Who among the following is the author of the book 'Angry River'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Tom Alter",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "RK Narayan",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Khushwant Singh",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Ruskin Bond",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Ruskin Bond is the author of the book 'Angry River'. He is a renowned Indian author known for his contributions to children's literature and English fiction.",
+        "tanglish": "Ruskin Bond thaan 'Angry River' pusthagathin yeluthaalar. Avvar Kuzhandhaigalukkaana ilakkiyam matrum English sirukathaigalukku pazhakka prasiddhamana Indian eluthalar."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "For how many days did Mahatma Gandhi and his team of volunteers walk for the Dandi March?",
+      "options": [
+        {
+          "id": "1",
+          "text": "31 days",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "15 days",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "24 days",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "11 days",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Dandi March lasted for 24 days. It began on March 12, 1930, from Sabarmati Ashram and ended on April 5, 1930, at Dandi. Gandhi and his followers walked 241 miles to protest against the British salt tax.",
+        "tanglish": "Dandi March 24 naatkal nadandhathu. Ithu March 12, 1930-il Sabarmati Ashram-ilirundhu therivithu April 5, 1930-il Dandi-yil mudindhathu. Gandhi matrum avaraivar British uppu variyedu ketkathaka 241 mailu nadandhargal."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Who among the following became the first Indian to win the Best Actor Award at the Norwegian National Awards?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Irrfan Khan",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Adil Hussain",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Salman Khan",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Amir Khan",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Adil Hussain became the first Indian actor to win the Best Actor award at the Norwegian National Awards (Amanda Awards) for his performance in the film 'What Will People Say' (2017).",
+        "tanglish": "Adil Hussain 'What Will People Say' padathil nadithathuku Norwegian National Awards (Amanda Awards)-il Best Actor award vendra muthalaam Indian nadigar."
+      }
+    }
+  ]
+}

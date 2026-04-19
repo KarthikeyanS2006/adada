@@ -1,0 +1,337 @@
+{
+  "document_info": {
+    "exam_name": "DP-Constable-8-Dec-2020-S-2.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Which of the following rivers has Musi river as one of its tributaries?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Kaveri",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Mahanadi",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Tapi",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Krishna",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Musi River is a tributary of the Krishna River flowing through the Deccan Plateau.",
+        "tanglish": "Musi nadhi Krishna nadhi oda otru nadhi."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Antibiotics are NOT effective on a virus as it lacks ______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "cilia",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "plasmid",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "genetic material",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "cell wall",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Antibiotics target bacterial cell walls or protein synthesis mechanisms, which viruses lack, making antibiotics ineffective against viral infections.",
+        "tanglish": "Virusgalukku cell wall illai, anaithu antibiotics avargalai asarathu seyyathu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "When a body rolls over the surface of another body, the resistance to its motion is called ______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "drag",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "fluid friction",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "sliding friction",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "rolling friction",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Rolling friction is the resistive force that occurs when an object rolls over a surface, as opposed to sliding friction.",
+        "tanglish": "Oru porul mattoru porul meethu sutrum podhu undaagum attralai rolling friction endru sollappaadum."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "India secured ______ place in the World Competitiveness Index released in June 2020.",
+      "options": [
+        {
+          "id": "1",
+          "text": "43rd",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "38th",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "49th",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "32nd",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "According to the IMD World Competitiveness Index released in June 2020, India was ranked 43rd among 63 nations.",
+        "tanglish": "India 2020 IMD World Competitiveness Index il 43am idathai eduthullathu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "In which of the following years did Razia become the Sultan of Delhi?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1232",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "1238",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "1234",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "1236",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Razia Sultan ascended the throne of Delhi in 1236 AD and became the first and only female ruler of the Delhi Sultanate.",
+        "tanglish": "Raziya Sultan 1236 am aandu Delhi sultan aai padaviku vandhaar."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Which of the following statements is NOT true about Ashokan pillars?",
+      "options": [
+        {
+          "id": "1",
+          "text": "These are said to be monolithic pillars.",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Ashoka got the inspiration for such pillars from his father Bindusar.",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "These were usually made of sandstone.",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "These are mostly polished pillars.",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Ashokan pillars were inspired by Persian pillars, not by his father Bindusara. The other statements about them being monolithic, made of sandstone, and polished are true.",
+        "tanglish": "Ashokan kambangal patriya poi endathu Bindusara idam irundhu inspire aiyathu endra statement. Ashoka Persian sthambangal irundhu inspire aiyaar."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Which of the following sultans of Delhi was the first one to start military campaigns in southern India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Iltutmish",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Qutbuddin Aybak",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Alauddin Khalji",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Balban",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Alauddin Khalji was the first Delhi Sultan to lead military campaigns into South India, expanding the empire beyond the Vindhyas.",
+        "tanglish": "Alauddin Khalji thaan Delhi sulthan kalil therku India ku senai mudhalil arppanithavan."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "Which of the following Articles was deleted by the Constitution (Forty-Fourth Amendment) Act, 1978?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Article 31",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Article 29",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Article 27",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Article 25",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Article 31 which guaranteed the Right to Property was deleted from Fundamental Rights by the 44th Amendment in 1978 and made a legal right under Article 300A.",
+        "tanglish": "44th Samvidhaana Thiruthal Article 31 a delete seithathu. Adhu ippo Article 300A kilae sadharana urimai."
+      }
+    },
+    {
+      "q_number": 9,
+      "question_text": "Which of the following subjects is NOT listed in the Union List in the Seventh Schedule of the Constitution of India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Insurance",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Railways",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Corporation tax",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Public health and sanitation",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Public health and sanitation falls under the State List (List II) of the Seventh Schedule, while Insurance, Railways, and Corporation tax are subjects in the Union List (List I).",
+        "tanglish": "Public health matrum sanitation Union List il illai, athu State List il ulla sadangu."
+      }
+    },
+    {
+      "q_number": 10,
+      "question_text": "Which of the following statements about the 'pro tem' Speaker of the House of Representatives in India is correct?",
+      "options": [
+        {
+          "id": "1",
+          "text": "The name for the post is recommended by the outgoing Speaker of the House of Representatives.",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "He is appointed by the President of India.",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "The name for the post is recommended by the Union Cabinet.",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "The name for the post is recommended by the Leader of Opposition in the House of Representatives.",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The President of India appoints the pro-tem Speaker from among the senior-most members of the Lok Sabha to preside over the first sitting of the new House before the election of the Speaker.",
+        "tanglish": "Pro-tem Speaker Parliament ezhaabberum podhu, Rashtrapathi idam irundhu senyor members idaiyil irundhu nominate seiyappaduvaar."
+      }
+    },
+    {
+      "q_number": 11,
+      "question_text": "Which of the following states is a leading producer of natural rubber?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Andhra Pradesh",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Madhya Pradesh",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Kerala",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Maharashtra",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Kerala is the largest producer of natural rubber in India, accounting for about 90% of the country's total rubber production.",
+        "tanglish": "Kerala Indiaavil rubber utpadikkum mukyamaana maanilam."
+      }
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-24-Nov-23-Shift-III-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "In which year did Anil Kumble take 10 wickets in a cricket test match?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1987",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "1986",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "1998",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "1999",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Anil Kumble achieved the feat of taking 10 wickets in a single Test match inning against Pakistan in Delhi during the year 1999.",
+        "tanglish": "Anil Kumble 1999-aam aandu Paakistan edhirthu Delhi-le nadantha cricket test match oru padaththil 10 wickets eduthar."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "In which city of Maharashtra is Kalidasa Festival organised every year?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Nasik",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Nagpur",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Pune",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Mumbai",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Kalidasa Festival is organized annually in Nagpur, Maharashtra to honour the classical Sanskrit poet Kalidasa.",
+        "tanglish": "Kalidasa Festival endru oru nadakam Maharashtra munnuthal Nagpur-le varuda varudam Kalidasa-ai pariththukondadhu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "As per Article 170 of the Constitution of India, the Legislative Assembly of each State shall consist of NOT more than __________ members.",
+      "options": [
+        {
+          "id": "1",
+          "text": "500",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "450",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "300",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "250",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Article 170 of the Indian Constitution states that the Legislative Assembly of each state shall not consist of more than 500 members.",
+        "tanglish": "India Arasiyalamaippin Article 170 prakaram, oru maanilathin sutrusoola sabhai 500 paarvaaiyarkalukku melaga irukka koodaathu."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Who appoints the Attorney-General of India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Chief Minister",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Governor",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Prime Minister",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "President",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The Attorney-General of India is appointed by the President of India under Article 76 of the Constitution.",
+        "tanglish": "India Attorney-General-aaga President-ale niyamikkappaduvaar, ithu Arasiyalamaippu Article 76-le vazhangappadugirathu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Which Indian cricketer has written the book 'The Test of My Life'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Yuvraj Singh",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "MS Dhoni",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Sachin Tendulkar",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Kapil Dev",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Yuvraj Singh authored the autobiography 'The Test of My Life' which describes his battle with cancer and cricket career.",
+        "tanglish": "'The Test of My Life' endra pusthagathai Yuvraj Singh ezhuthiyulavar, ithu avanthan cancer-ai edirppa natathal matrum cricket vazhvi muraiyai varnikkirathu."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Which of the following is a negative impact of globalisation on Indian economy?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Rise of straight-jacketed approach to leadership styles",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Rise in female participation in employment",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Rise in relative deprivation",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Loss of child labour",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Globalisation can lead to rise in relative deprivation where certain sections feel left behind compared to others benefiting from economic integration.",
+        "tanglish": "Ulaga yavvanathin (globalisation) kaaranamaa oru samooha vagaikku vizhundhu poga vendiya nilai, athaavathu arintha thadumaarugal (relative deprivation) meendhal thani padatthanamaagum."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "According to the National Jute Board 2022-23, which state is the largest producer of jute?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Madhya Pradesh",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Bihar",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Gujarat",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "West Bengal",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "West Bengal is the largest producer of jute in India, contributing approximately 70-80% of the country's total jute production.",
+        "tanglish": "India-le Jute utpadhithal-le West Bengal thaan mikap periya alanthalaiyum seyyum maanilam, idhu 70-80 sadhavisam utpadhithai visithivikkirathu."
+      }
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "document_info": {
+    "exam_name": "DP-Constable-1-Dec-2020-S-1.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "As per the Union Budget 2020, which of the following taxes has been abolished?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Dividend distribution tax",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Long term capital gains tax on securities",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Securities transaction tax",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Corporate tax",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Union Budget 2020 abolished the Dividend Distribution Tax (DDT). Previously, companies paid DDT at 15% on dividends distributed. Now, the dividend income is taxable in the hands of the shareholders/recipients.",
+        "tanglish": "Union Budget 2020-la Dividend Distribution Tax (DDT) niruthappaattapattadhu. Mundhinam companies 15% DDT kattindu varundhu, ipo shareholders-kitta irundhu tax vaangappadum."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "The microbes that lie on the border line of the living and non-living world are called:",
+      "options": [
+        {
+          "id": "1",
+          "text": "fungi",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "algae",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "bacteria",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "viruses",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Viruses are considered to be on the borderline between living and non-living organisms because they can only reproduce inside host cells and do not have cellular machinery of their own.",
+        "tanglish": "Viruses living and non-living idaiyil border-la irukkum. Avai host cells ullaye reproduction seiya mudiyum, aana avukku thaniyaaga cellular illa."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Which of the following Articles of the Constitution of India contains the directive that the State shall make provision for maternity relief?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Article 40",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Article 39",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Article 42",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Article 41",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Article 42 of the Indian Constitution directs the State to make provision for securing just and humane conditions of work and for maternity relief.",
+        "tanglish": "Indian Constitution Article 42, State-ku maternity relief kudukka provision seiyya solli directive kodukkum."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Which of the following Articles of the Constitution of India prohibits the Indian State from conferring any title, except a military or academic distinction?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Article 15",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Article 10",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Article 18 (1)",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Article 20",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Article 18(1) of the Constitution prohibits the State from conferring any titles except military or academic distinctions.",
+        "tanglish": "Constitution Article 18(1), State military or academic distinction thavira vera title yellam kudukka mudiyadhu endru koorum."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "With which of the following states is the theatre form 'Maach' traditionally associated?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Kerala",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Madhya Pradesh",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Assam",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Karnataka",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Maach is a traditional folk theatre form of Madhya Pradesh, involving music, dance and dialogues.",
+        "tanglish": "Maach Madhya Pradesh-ku uriya traditonal natakam. Ithil music, dance, pesa podhu."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Atanu Das, who was awarded the Arjuna Award 2020, is a professional player of:",
+      "options": [
+        {
+          "id": "1",
+          "text": "wrestling",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "basketball",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "archery",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "badminton",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Atanu Das is an Indian archer who received the Arjuna Award in 2020 for his excellence in archery.",
+        "tanglish": "Atanu Das oru Indian archer. Avarku 2020-la Arjuna Award archery-la perform panna kudukkappattadhu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Which of the following books was conferred the International Booker Prize 2020?",
+      "options": [
+        {
+          "id": "1",
+          "text": "The Discomfort of Evening",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "The Enlightenment of the Greengage Tree",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Hurricane Season",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Tyll",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Discomfort of Evening by Marieke Lucas Rijneveld won the International Booker Prize 2020.",
+        "tanglish": "The Discomfort of Evening Marieke Lucas Rijneveld ezhuthiyathu, International Booker Prize 2020 vangiyadhu."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "Who among the following was appointed as the Chairperson of Advisory Committee on Corporate Insolvency Resolution and Liquidation process in June 2020?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Kumar Mangalam Birla",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Nandan Nilekani",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Anand Mahindra",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Uday Kotak",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Uday Kotak was appointed as Chairperson of the Advisory Committee on Corporate Insolvency Resolution and Liquidation Process by the IBBI in June 2020.",
+        "tanglish": "Uday Kotak, June 2020-la IBBI Corporate Insolvency Resolution and Liquidation Committee chairperson-ah appoint senjanga."
+      }
+    },
+    {
+      "q_number": 9,
+      "question_text": "Which of the following states does NOT share its border with West Bengal?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Meghalaya",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Assam",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Jharkhand",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Sikkim",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "West Bengal shares borders with Jharkhand, Bihar, Odisha, Sikkim and Assam, but not with Meghalaya.",
+        "tanglish": "West Bengal Jharkhand, Bihar, Odisha, Sikkim, Assam oda border share pannum, aana Meghalaya oda illa."
+      }
+    },
+    {
+      "q_number": 10,
+      "question_text": "Who among the following has been selected for the 2020 World Food Prize?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Simon N Groot",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Rattan Lal",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Lawrence Haddad",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "MS Swaminathan",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Dr. Rattan Lal was awarded the 2020 World Food Prize for developing and mainstreaming a soil-centric approach to increasing food production and restoring degraded soils.",
+        "tanglish": "Dr. Rattan Lal, soil-centric approach-la food production increase panna World Food Prize 2020 vanginar."
+      }
+    },
+    {
+      "q_number": 11,
+      "question_text": "As per the new income tax regime announced in the Union Budget 2020, the tax rate for taxable income between ₹5 lakh to ₹7.5 lakh has been reduced to:",
+      "options": [
+        {
+          "id": "1",
+          "text": "15%",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "5%",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "10%",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "20%",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Under the new income tax regime announced in Budget 2020, the tax rate for income between ₹5 lakh to ₹7.5 lakh was reduced to 10%.",
+        "tanglish": "Budget 2020-la puthiya tax regime-la, ₹5 lakh irundhu ₹7.5 lakh vara income-ku 10% tax."
+      }
+    }
+  ]
+}

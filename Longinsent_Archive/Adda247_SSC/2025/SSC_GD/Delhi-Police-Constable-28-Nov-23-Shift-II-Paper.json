@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-28-Nov-23-Shift-II-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "As per India Skills Report 2022, which Indian state got the first rank with the most employable talent?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Goa",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Kerala",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Uttar Pradesh",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Maharashtra",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "According to India Skills Report 2022, Maharashtra secured the first rank for having the most employable talent among all Indian states.",
+        "tanglish": "India Skills Report 2022 anusaaram, thyaga tharamana thiramaiyullorkalai serum munnilai sthaanathai Maharashtra maanilam eduththathu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Baishagu is celebrated in which of the following states?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Punjab",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Assam",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Goa",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Bihar",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Baishagu (also spelled Baisagu) is a traditional festival celebrated by the Bodo community in the state of Assam.",
+        "tanglish": "Baishagu pandigai Assam maanilaththil Bodo samudaaya makkal aal aagarikkappadum oru vizha."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "What do you mean by 'cant' in kabaddi?",
+      "options": [
+        {
+          "id": "1",
+          "text": "A player in whose court a raid is made",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "A special point is given to an opponent",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "A player who enters the court",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Repeating round of the word 'kabaddi'",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "In Kabaddi, 'cant' refers to the continuous repetition of the word 'kabaddi' by the raider without taking a breath while crossing the baulk line.",
+        "tanglish": "Kabaddi vilaiyaattil 'cant' endraal raider 'kabaddi' endra solai muzhukkuralil repeated aaga sollumpothu adhai solla vendum. Idhu thaan cant."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Which of the following is the oldest atomic power plant of India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Tarapur",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Kaiga",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Kakrapar",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Narora",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Tarapur Atomic Power Station (TAPS) is the oldest nuclear power plant in India, commissioned in 1969.",
+        "tanglish": "Indiaavil mudhal mudalamaaga amaiyapatta paramaanu min uruththala nilayam Tarapur. Idhu 1969 amaikkappattathu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Which of the following is NOT included in Article 19 of the Constitution of India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "To reside and settle in any part of India",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "To practice any profession or occupation",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "To form associations and unions",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "To prohibit ineligibility in respect of employment",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Article 19 of the Indian Constitution guarantees Fundamental Rights including freedom of speech, assembly, association, movement, residence and profession. It does not include any provision regarding prohibition of ineligibility in employment.",
+        "tanglish": "Indian Sambidhathin Article 19, suththamana sudhandirangalai koorugirathu: pechu, sabhai, sangam, nadavadai, vaazhkkai, velai. Velai paadukaiyin anumathi illamai endhravai thadukkugira utharivu idharku uriyathu alla."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Where is the secretariat of the Goods and Services Tax Council located?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Chandigarh",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Mumbai",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Kolkata",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "New Delhi",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The Secretariat of the Goods and Services Tax (GST) Council is located in New Delhi.",
+        "tanglish": "Goods and Services Tax Council secretariat New Delhiil thaan ullathu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Some qualities of Samudragupta are shown on coins, such as on one of the coins he is shown playing the _________.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Table",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "sarangi",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "veena",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "bansuri",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Samudragupta is depicted playing the veena (a string instrument) on his coins, showcasing his patronage of arts and culture.",
+        "tanglish": "Samudragupta kaalathu kasugalil avar veena vaasiththukondirukira paadaththai kaana mudiyum. Idhu avar kalai mattum thamizhar samuthayathai poraattathai kaanikirathu."
+      }
+    }
+  ]
+}

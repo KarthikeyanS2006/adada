@@ -1,0 +1,187 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-CONSTABLE-12-02-2025-Shift-III-Paper-1.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Select the combination of letters that when sequentially placed in the blanks of the given series, will logically complete the series. _XRLQ_PJOT_HMRL_ KPJ_",
+      "options": [
+        {
+          "id": "1",
+          "text": "TVMFC",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "SVNFD",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "SUNED",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "TUMEC",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The pattern follows specific letter position sequences where blanks are filled with T, U, M, E, and C. Analyzing the series: T(20)X(24)R(18)L(12)Q(17), U(21)P(16)J(10)O(15)T(20), M(13)H(8)M(13)R(18)L(12), E(5)K(11)P(16)J(10), C(3). The first letters of each group follow the pattern 20, 21, 13, 5, 3 showing the logical sequence completion.",
+        "tanglish": "Ithil eluthukalin idathu padangal thodar parpattil amaikkappattullathu. T, U, M, E, C endra eluthugalai blank-il serththal sariyana thodarai varum. Analippu: T(20)X(24)R(18)L(12)Q(17), U(21)P(16)J(10)O(15)T(20), M(13)H(8)M(13)R(18)L(12), E(5)K(11)P(16)J(10), C(3)."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "What should come in place of '?' in the given series based on the English alphabetical order? DUT GSR JQP MON ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "NPO",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "PML",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "PMO",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "PRQ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The first letters increase by 3 (D=4, G=7, J=10, M=13, P=16). The second letters decrease by 2 (U=21, S=19, Q=17, O=15, M=13). The third letters decrease by 1 (T=20, R=18, P=16, N=14, L=12). Therefore, the missing term is PML.",
+        "tanglish": "Mudhal eluthugal 3 anu valarndhu varugirathu (D-4, G-7, J-10, M-13, P-16). Irandaam eluthugal 2 anu kuraindhu varugirathu (U-21, S-19, Q-17, O-15, M-13). Moonraam eluthugal 1 anu kuraindhu varugirathu (T-20, R-18, P-16, N-14, L-12). Aanal aduthu PML varum."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Six people, B, C, D, E, F and S, are sitting in a row facing north(but not necessarily in the same order). Only two people sit to the left of S. Only two people sit between S and F. Only one person sits between F and C. D sits to the immediate left of E. How many people sit to the right of B?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Three",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "One",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Four",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Two",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Since two people sit to the left of S, S is at position 3. With two people between S and F, F is at position 6 (right end). One person between F and C places C at position 4. D sits immediately left of E, so they occupy positions 1 and 2 together. This leaves B at position 5. Only F (position 6) sits to the right of B. Therefore, the answer is One.",
+        "tanglish": "S ku idathil irundu 2 per vanthaal, S 3-aam idathil amarndhirukkum. S um F um idaiyil 2 per irukkum endral, F 6-aam idathil (vala thunaiyil) varum. F ku idaiyil 1 per irukkum endral, C 4-aam idathil varum. D, E ku edamel idathil amarndhirukkum, avargal 1-2 idangalil amarvaar gal. Idhin migitha 5-aam idam B ku uriyathu. B ku valathil F matrame ullathu. Pathil One."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Identify the figure given in the options which when put in place of the question mark (?) will logically complete the series.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Figure Option 1",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Figure Option 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Figure Option 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Figure Option 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "This is a figure-based series completion question. The correct option follows the established visual pattern in the series.",
+        "tanglish": "Ithu chithira thodar kivar pathil. Sariyana chithiram thodaril ulla vizhuvarathaip purithi paarkkum."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "RN 20 is related to SI 4 in a certain way. In the same way, MK 5 is related to NF -11. To which of the following is QV 3 related, following the same logic?",
+      "options": [
+        {
+          "id": "1",
+          "text": "PS -12",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "RR -11",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "RQ -13",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "PR -10",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The coding logic involves: First letter shifted by +1 (R→S, M→N, Q→R), Second letter shifted by -5 (N→I, K→F, V→Q). The number decreases by 16 (20-16=4, 5-16=-11, 3-16=-13). Applying this to QV 3 gives RQ -13.",
+        "tanglish": "Koodu murai: Mudhal eluthu +1 anu maarum (R→S, M→N, Q→R), Irandaam eluthu -5 anu maarum (N→I, K→F, V→Q). Enn 16 anu kuraindhu varum (20-16=4, 5-16=-11, 3-16=-13). QV 3 ku ithai payanpaduthinal RQ -13 varum."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "What should come in place of the question mark (?) in the given series? 4 30 82 160 264 ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "331",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "394",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "303",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "342",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Calculate differences between consecutive terms: 30-4=26, 82-30=52, 160-82=78, 264-160=104. The differences follow the pattern 26×1, 26×2, 26×3, 26×4. The next difference is 26×5=130. Therefore, 264+130=394.",
+        "tanglish": "Ondru serndhu ondrukku idaiyana vithyasangal 26, 52, 78, 104. Ithu 26×1, 26×2, 26×3, 26×4 endra murai. Adutha vithyasam 26×5=130. Aanal 264+130=394."
+      }
+    }
+  ]
+}

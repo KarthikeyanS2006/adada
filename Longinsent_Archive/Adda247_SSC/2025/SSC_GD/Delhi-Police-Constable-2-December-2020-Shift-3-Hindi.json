@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-2-December-2020-Shift-3-Hindi.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Which king commissioned the construction of the Lingaraja Temple in Bhubaneswar?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Bhimaratha",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Jajati",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Yayati Kesari",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Dharmaratha",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Lingaraja Temple in Bhubaneswar, Odisha was commissioned by King Yayati Kesari I of the Somavamsi dynasty in the 11th century CE.",
+        "tanglish": "Bhubaneswar-il ulla Lingaraja kovil, Somavamsi rajavamsathin Raja Yayati Kesari I-avargalal 11-am nootraandil kattappattathu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "In which state is Kanha National Park located?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Karnataka",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Manipur",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Haryana",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Madhya Pradesh",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Kanha National Park is located in the Mandla and Balaghat districts of Madhya Pradesh. It is famous for its population of Bengal tigers and Barasingha (swamp deer).",
+        "tanglish": "Kanha rasthriya udhayanam Madhya Pradesh-il ulla Mandla matrum Balaghat mavattangalil amainthullathu. Ithu Bengal pusinga matrum Barasingha (sump mari) pukkalukku pugalcherndha idam."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Under which Article of the Constitution of India are the Prime Minister and other Union Ministers appointed by the President?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Article 75",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Article 85",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Article 70",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Article 79",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Article 75 of the Indian Constitution states that the President shall appoint the Prime Minister and the other Ministers shall be appointed by the President on the advice of the Prime Minister.",
+        "tanglish": "Bharatheesiya arasiyal amaippin Anuschedam 75, Arasaingar Pradhan Mantriyai niyamikkiraar matrum matthiya arasu mantrigalai Pradhan Mantriyin salahaiyinpadi niyamikkiraar endru sariyakkugirathu."
+      }
+    }
+  ]
+}

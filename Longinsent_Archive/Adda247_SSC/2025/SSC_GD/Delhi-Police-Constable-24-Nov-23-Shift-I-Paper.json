@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-24-Nov-23-Shift-I-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "In karate, the fight starts when the referee shouts \"______\".",
+      "options": [
+        {
+          "id": "1",
+          "text": "Yame",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Shobu Hajime!",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Kaizen",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Yuko",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "In karate, 'Shobu Hajime' is the command used by the referee to start the fight or match. 'Yame' means stop, 'Kaizen' refers to continuous improvement, and 'Yuko' is a scoring term for a half-point.",
+        "tanglish": "Karate-la referee sandai thodangum pozhuthu 'Shobu Hajime' endru kooruvaar. 'Yame' endral sandai niruthavendum, 'Kaizen' endral thodarndhu nallaadudhal, 'Yuko' endral ara mark endru artham."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Who decides the disqualification of members of State Legislative Assembly, for matters other than those in the Tenth Schedule of the Constitution of India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Chief Minister",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "High Court",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "State Election Commission",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Governor",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "According to Article 192 of the Indian Constitution, the Governor of a State decides questions relating to the disqualification of members of the State Legislature for matters other than those covered under the Tenth Schedule (Anti-Defection Law).",
+        "tanglish": "Indhiya arasa unnai 192-aam section prakaram, 10-aam schedule-il illaadha kaaranangalukkaaga State Legislative Assembly members-a disqualify pannum adhikaram Governor-kku than."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Who among the following received the Padma Shri in 2022 for performing the Rai folk dance form of Madhya Pradesh?",
+      "options": [
+        {
+          "id": "1",
+          "text": "AKC Natrajan",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Sheesh Ram",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Ram Sahay Pandey",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Ballesh Bhajantri",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Ram Sahay Pandey was awarded the Padma Shri in 2022 for his contributions to the Rai folk dance tradition of Madhya Pradesh. This dance form is performed during the rainy season.",
+        "tanglish": "Madhya Pradesh oda makkal aatta Rai dance-a perform senja Ram Sahay Pandey 2022-la Padma Shri award vaangunaar."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "In which year was MS Subbulakshmi honoured with the Bharat Ratna?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1998",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "1997",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "1995",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "1996",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "M.S. Subbulakshmi, the legendary Carnatic music vocalist, was conferred the Bharat Ratna in 1998. She was the first musician to receive India's highest civilian honor.",
+        "tanglish": "Carnatic music legend M.S. Subbulakshmi 1998-aam aandu Bharat Ratna award kidaithaargal. Indhiyaavin uyarndha nagariga virudhu petra mudhal isai kalaignar ivar."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Whom did Gopal Krishna Gokhale call 'the best ambassador of Hindu-Muslim unity'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Mohammad Ali Jinnah",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Maulana Abul Kalam Azad",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Jawaharlal Nehru",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Mahatma Gandhi",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Gopal Krishna Gokhale referred to Mohammad Ali Jinnah as 'the best ambassador of Hindu-Muslim unity' due to his early efforts in promoting communal harmony.",
+        "tanglish": "Gopal Krishna Gokhale Mohammad Ali Jinnah-ai 'Hindu-Muslim unity-kaaga siranda thutar' endru sollinaar."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "During the sixth century BCE, as part of the 'Shraman' tradition, which of the following new religious and social movements began in the Gangetic valley?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Sufism",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Christianity",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Buddhism",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Islam",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Buddhism originated in the 6th century BCE in the Gangetic valley as part of the Shramana tradition, which was a non-Vedic religious movement that emphasized asceticism and meditation.",
+        "tanglish": "6-aam nootrandu BCE-la Ganga nadhi vattaalam-la Shramana sampradaayathin pagaga Buddhism madham udhayithathu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "The historic Asamai temple is located in __________ in Afghanistan.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Kandahar",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Kabul",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Ghazni",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Feyzabad",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The historic Asamai temple (also known as Asamayi temple) is located on Asamai hill in Kabul, Afghanistan. It is dedicated to the Hindu goddess Asamai.",
+        "tanglish": "History-la mukkiyam aana Asamai kovil Afghanistan oda capital city-aana Kabul-il irukkiradhu. Idhu Hindu goddess Asamai-kku samarppikkappattadhu."
+      }
+    }
+  ]
+}

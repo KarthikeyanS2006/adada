@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "Dehli-Police-Constable-Official-Paper-Held-On_-09-Dec-2020-Shift-3-Hindi.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "किसकी सिफारिश के आधार पर एक अधिसूचना द्वारा 2005 में निम्नलिखित में से किसकी स्थापना की गई थी?",
+      "options": [
+        {
+          "id": "1",
+          "text": "केंद्रीय सूचना आयोग",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "राष्ट्रीय मानवाधिकार आयोग",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "राज्य सूचना आयोग",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "क्षेत्रीय खाद्य निगम",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Right to Information Act (RTI) was enacted in 2005. Under this Act, State Information Commissions were established by notification to handle matters related to information dissemination at the state level.",
+        "tanglish": "2005 am varudathil Right to Information Act eduthukondathu. Itharin padhisithu State Information Commission sthapanam seyyappattathu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "वे लोगों द्वारा मनाया जाने वाला निम्नलिखित में से कौन सा पर्व सामुदायिक घनत्व (एकता) दर्शाता है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "बिहू",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "पोंगल",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "लोहड़ी",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "ओणम",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Onam is a harvest festival celebrated in Kerala, India. It is known for its community participation, communal feasts (Onam Sadhya), and cultural events like Thiruvathira Kali and boat races, representing high community density and unity.",
+        "tanglish": "Onam endrathu Keralavil manappadum oru vizha. Idhu samudaya otrumaiyaiyum onnathaikum sutri amaindha vizhaaga maanappadugirathu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "निम्नलिखित में से कौन सा शब्द बड़े पत्थरों से निर्मित या उनसे युक्त स्मारकों से संबंधित है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "ताम्र काल",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "कांस्य काल",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "लोह काल",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "पाषाण काल",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The Paleolithic Age (Stone Age) is characterized by the use of large stones for making tools and monuments. Megalithic structures are associated with this period.",
+        "tanglish": "Pashan kaalam endrathu periya kalgalal amaindha silai maadangal matrum karuvaigalai sutrala uruthi seyyabadum kaalam."
+      }
+    }
+  ]
+}

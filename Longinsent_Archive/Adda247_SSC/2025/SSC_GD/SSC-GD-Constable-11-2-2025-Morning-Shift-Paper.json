@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-Constable-11-2-2025-Morning-Shift-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "दिए गए कथनों और निष्कर्षों को ध्यानपूर्वक पढ़िए। यह मानते हुए कि कथनों में दी गई जानकारी सत्य है, चाहे वह सामान्यतः ज्ञात तथ्यों से भिन्न प्रतीत होती हो और निर्णय लीजिए कि दिए गए निष्कर्षों में से कौन-सा/कौन-से निष्कर्ष कथनों का तार्किक रूप से अनुसरण करता है/करते हैं।\n\nकथन:\n1. कोई बादाम, खजूर नहीं है।\n2. कोई खजूर, किशमिश नहीं है।\n3. कोई खजूर, चेरी नहीं है।\n\nनिष्कर्ष:\n(I): कोई बादाम, किशमिश नहीं है।\n(II): कुछ चेरी, किशमिश हैं।",
+      "options": [
+        {
+          "id": "1",
+          "text": "केवल निष्कर्ष (I) अनुसरण करता है।",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "केवल निष्कर्ष (II) अनुसरण करता है।",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "न तो निष्कर्ष (I) और न ही निष्कर्ष (II) अनुसरण करता है।",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "निष्कर्ष (I) और निष्कर्ष (II) दोनों अनुसरण करते हैं।",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The statements establish that Dates have no relation with Almonds, Raisins, or Cherries. However, there is no data establishing a direct relationship between Almonds and Raisins (Conclusion I) or between Cherries and Raisins (Conclusion II). Therefore, neither conclusion logically follows from the given statements.",
+        "tanglish": "Kodukkappatta statementkal paarkum podhu, Dates ku Almonds, Raisins, Cherries kooda sambandham illai endru theriyuthu. Aanal Almonds ku Raisins kooda sambandham illai endru (Nishkarsham I) conclude panna sadhagam illai. Adhe pola Cherries ku Raisins kooda sambandham undu endru (Nishkarsham II) conclude panna sadhagam illai. Aagave rendu nishkarshamum follow aagadhu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "अंग्रेजी वर्णानुक्रम के आधार पर दी गई श्रृंखला में (?) के स्थान पर क्या आएगा?\n\nOAS, QCU, SEW, UGY, ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "WHB",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "VJB",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "WIA",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "VHZ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The pattern follows +2 for each letter position. First letters: O(15), Q(17), S(19), U(21) → W(23). Second letters: A(1), C(3), E(5), G(7) → I(9). Third letters: S(19), U(21), W(23), Y(25) → A(1) [27 mod 26 = 1]. Thus, the answer is WIA.",
+        "tanglish": "Series pattern paarkum podhu, oru letter-um +2 shift aaguthu. First letters: O, Q, S, U → W (+2). Second letters: A, C, E, G → I (+2). Third letters: S, U, W, Y → A (+2, cyclic). Aagave answer WIA."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "यदि ‘÷’ और ‘×’ को परस्पर बदल दिया जाए तथा ‘+’ और ‘−’ को परस्पर बदल दिया जाए, तो निम्नलिखित समीकरण में प्रश्न चिह्न ‘(?)’ के स्थान पर क्या आएगा?\n\n27 − 6 ÷ 4 + 24 × 3 = ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "43",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "45",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "44",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "46",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "After interchanging the operators: − becomes +, ÷ becomes ×, + becomes −, and × becomes ÷. The equation becomes: 27 + 6 × 4 − 24 ÷ 3. Solving using BODMAS: 27 + 24 − 8 = 43.",
+        "tanglish": "Operators interchange senja, equation ippadi maarum: 27 + 6 × 4 - 24 ÷ 3. BODMAS rules vachu calculate senja: 27 + 24 - 8 = 43."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "अंग्रेजी वर्णमाला क्रम के आधार पर, निम्नलिखित चार अक्षर-समूहों में से तीन एक निश्चित प्रकार से समान हैं और इस प्रकार एक समूह बनाते हैं। वह कौन-सा अक्षर-समूह है जो उस समूह से संबंधित नहीं है?\n(ध्यान दें: असंगत अक्षर-समूह, उस अक्षर-समूह में व्यंजनों/स्वरों की संख्या या उनके स्थान पर आधारित नहीं है।)",
+      "options": [
+        {
+          "id": "1",
+          "text": "DBE",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "GDH",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "HEI",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "QNR",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "In groups GDH, HEI, and QNR, the second letter is obtained by subtracting 3 from the first letter, and the third letter is obtained by adding 1 to the first letter. However, in DBE, the second letter is obtained by subtracting 2 (not 3) from the first letter. Therefore, DBE is the odd one out.",
+        "tanglish": "GDH, HEI, QNR-la rendavathu letter first letter la irundhu -3 pannina varuthu, moonavathu +1 pannina varuthu. Aanaal DBE-la matum -2 pannirukku. Aagave DBE dhan different."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "शब्द HARMFUL के प्रत्येक अक्षर को अंग्रेजी वर्णमाला क्रम में व्यवस्थित किया जाता है। इस प्रकार बने नए अक्षर-समूह में बाएं से तीसरे अक्षर और दाएं से तीसरे अक्षर के बीच अंग्रेजी वर्णमाला क्रम में कितने अक्षर होते हैं?",
+      "options": [
+        {
+          "id": "1",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "4",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The letters in HARMFUL arranged alphabetically are: A, F, H, L, M, R, U. The third letter from the left is H(8) and the third letter from the right is M(13). The letters between H and M are I, J, K, and L (4 letters).",
+        "tanglish": "HARMFUL letters-ai alphabetical order-la arrange senja AFHLMRU varum. Idathula left-la 3rd letter H(8), right-la 3rd letter M(13). H ku M kooda I, J, K, L (4 letters) varum."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "अंग्रेजी वर्णमाला क्रम के आधार पर, EWHO एक निश्चित प्रकार से HZKR से संबंधित है। ठीक उसी प्रकार OPQM, RSTP से संबंधित है। समान तर्क का अनुसरण करते हुए, LTOG, दिए गए विकल्पों में से किससे संबंधित है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "OWRJ",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "IQLD",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "IWLJ",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "OQRD",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The coding pattern adds +3 to each letter. E(5)→H(8), W(23)→Z(26), H(8)→K(11), O(15)→R(18). Similarly, L(12)→O(15), T(20)→W(23), O(15)→R(18), G(7)→J(10). The result is OWRJ.",
+        "tanglish": "Coding pattern paarkum podhu, ellaa letters-um +3 shift aaguthu. L(12)+3=O(15), T(20)+3=W(23), O(15)+3=R(18), G(7)+3=J(10). Aagave badhil OWRJ."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "एक कागज को नीचे दर्शाए गए अनुसार मोड़कर पंच किया (punched) किया जाता है। खोले जाने पर यह कैसा दिखाई देगा?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Option 1",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Option 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Option 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Option 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "This is a visual reasoning question involving paper folding and punching. Without the diagram, the correct answer cannot be determined from the text provided.",
+        "tanglish": "Ithu oru visual reasoning question. Paper folding and punching paththi ketta question. Diagram illamal correct answer determine panna mudiyadhu."
+      }
+    }
+  ]
+}

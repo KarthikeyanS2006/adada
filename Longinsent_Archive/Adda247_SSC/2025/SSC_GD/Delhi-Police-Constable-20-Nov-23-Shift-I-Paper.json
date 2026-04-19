@@ -1,0 +1,187 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-20-Nov-23-Shift-I-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "______ is the writer of the book 'India Wins Freedom'.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Maulana Abul Kalam Azad",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "APJ Abdul Kalam",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Jawahar Lal Nehru",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Mahatma Gandhi",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Maulana Abul Kalam Azad wrote the book 'India Wins Freedom'. He was a prominent leader of the Indian independence movement and the first Minister of Education of independent India.",
+        "tanglish": "'India Wins Freedom' pusthagathai ezhudhiyavar Maulana Abul Kalam Azad. Avargal Indian viduthalai porattathil periya thalaiverum, viduthalai petra Bharatathin muthal kalvi thurai mudhalvaramaaga irundhaargal."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "_____ accounts for the difference between the concept of market price and factor cost in national income measurement.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Indirect taxes",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Subsidies",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Direct taxes",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Net indirect taxes",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The difference between market price and factor cost is accounted for by net indirect taxes (indirect taxes minus subsidies). Market price equals factor cost plus net indirect taxes.",
+        "tanglish": "Market price matrum factor cost idaiyilulla vithyasathukku kaaranam net indirect taxes (indirect taxes kuruthal subsidies). Market price enpathu factor cost kooda net indirect taxes serthathu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Madan Singh Chauhan, also known as 'Guruji', is a folk and Sufi singer from ___________________.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Jharkhand",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Uttarakhand",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Haryana",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Chhattisgarh",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Madan Singh Chauhan, popularly known as 'Guruji', is a renowned folk and Sufi singer from Chhattisgarh, known for his contributions to folk music traditions.",
+        "tanglish": "Madan Singh Chauhan, 'Guruji' endru petrapetra peyar, Chhattisgarh maanilathil irundu varum oru periya folk matrum Sufi paadal ugapporul. Avargal samooga isaiyil perithaagam seithulargal."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Which Article of the Indian Constitution mentions that the laws inconsistent with or in derogation of the fundamental rights will be void?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Article 15",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Article 13",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Article 14",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Article 16",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Article 13 of the Indian Constitution states that all laws that are inconsistent with or in derogation of the fundamental rights shall be void. This article protects fundamental rights from legislative infringement.",
+        "tanglish": "Bharatha Arasiyalamaippin Article 13, moola urimaigalukku edhiraaga irukkum ella sattangalum azhivaa sindhithappadum endru sollugirathu. Indha article moola urimaigalai niyama thadaivugalil irundhu kaakkum."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Which of the following was the last Five-Year Plan in India before its replacement with NITI Aayog?",
+      "options": [
+        {
+          "id": "1",
+          "text": "12th Five-Year Plan 2012-2017",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "11th Five-Year Plan 2007-2012",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "9th Five-Year Plan 2007-2012",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "10th Five-Year Plan 2007-2012",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The 12th Five-Year Plan (2012-2017) was the last Five-Year Plan in India. After its completion, the Planning Commission was replaced by NITI Aayog in 2015, ending the Five-Year Plan era.",
+        "tanglish": "12th Five-Year Plan (2012-2017) than Indiaavin kadaisi Five-Year Plan. Ithu mudintha pin, Planning Commission 2015-il NITI Aayog endru maaru paduthappattathu, Five-Year Plan kaalam muganthathu."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Pillared Verandah and cells are integral parts of which of the following Buddhist structures?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Tawang Monastery",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Ajanta Caves",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Bodhgaya Temple",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Sanchi Stupa",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Pillared verandahs and cells are characteristic architectural features of Ajanta Caves in Maharashtra. These rock-cut Buddhist caves date back to the 2nd century BCE and feature monastic cells with pillared verandahs.",
+        "tanglish": "Pillared verandah matrum cells endra amaipugal Maharashtra-il ulla Ajanta Caves-ile ullana. Ithu kal-thondi vettiya Buddhist guhaigal, 2nd century BCE-il irundhu varugirathu, pillared verandahs ulla monastic cellsai kondullana."
+      }
+    }
+  ]
+}

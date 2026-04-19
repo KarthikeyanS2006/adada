@@ -1,0 +1,157 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-Constable-13-2-2025-Morning-Shift-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "दिए गए कथनों और निष्कर्षों को ध्यानपूर्वक पढ़िए। यह मानते हुए कि कथनों में दी गई जानकारी सत्य है, चाहे वह सामान्यतः ज्ञात तथ्यों से भिन्न प्रतीत होती हो और निर्णय लीजिए कि दिए गए निष्कर्षों में से कौन-सा/कौन-से निष्कर्ष कथनों का तार्किक रूप से अनुसरण करता है/करते हैं।\n\nकथन:\n- सभी हैंडल, लॉक हैं।\n- कोई भी लॉक, शैल्फ नहीं है।\n- कोई भी लॉक, अलमारी नहीं है।\n\nनिष्कर्ष:\n(I) कोई भी हैंडल, शैल्फ नहीं है।\n(II) कुछ अलमारी, शैल्फ हैं।",
+      "options": [
+        {
+          "id": "1",
+          "text": "केवल निष्कर्ष (I) अनुसरण करता है",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "निष्कर्ष (I) और (II) दोनों अनुसरण करते हैं",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "न तो निष्कर्ष (I) और न ही (II) अनुसरण करता है",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "केवल निष्कर्ष (II) अनुसरण करता है",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "From the statements: All Handles are Locks, and No Lock is a Shelf. Therefore, by transitive relation, No Handle can be a Shelf, so Conclusion (I) follows. Regarding Conclusion (II), there is no established relationship between Almirahs and Shelves in the given statements (only that neither is a Lock), so it does not logically follow.",
+        "tanglish": "Statements paarthal, ellaa handles-um locks. Yetho lock-um shelf illai. Adhanal ellaa handles-um shelf illai (conclusion I matum sari). Almiraiyum shelf endra uravu statements-il illamal irukkirathaal, conclusion (II) thappu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "उस वेन आरेख का चयन कीजिए, जो निम्नलिखित वर्गों के बीच के संबंध को सर्वोत्तम रूप से दर्शाता है।\n\nश्रेणियाँ: बेटा, पिता, भाई",
+      "options": [
+        {
+          "id": "1",
+          "text": "Diagram 1",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Diagram 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Diagram 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Diagram 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "In the relationship between Son, Father, and Brother: A Father can also be a Brother (to someone else), and a Son can also be a Brother. However, a Son cannot be a Father simultaneously in this context. Therefore, the Venn diagram should show Father and Brother overlapping, Son and Brother overlapping, but Father and Son as separate/disjoint sets.",
+        "tanglish": "Son, Father, Brother venn diagram. Father-ukkum Brother-kkum intersection irukkum (anna appavum aagalaam). Son-ukkum Brother-kkum intersection irukkum (paiyan thambiyum aagalaam). Aanaal Father-um Son-um separate circles-aaga irukkanum."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "आठ व्यक्ति दो समानांतर पंक्तियों में बैठे हैं जिनमें से प्रत्येक पंक्ति में 4 व्यक्ति इस प्रकार बैठे हैं कि आसन्न व्यक्तियों के बीच की दूरी समान है।\n\nपंक्ति 1 में - L, M, N और O बैठे हैं और उन सभी का मुख दक्षिण की ओर है।\nपंक्ति 2 में - U, V, W और X बैठे हैं और उन सभी का मुख उत्तर की ओर है।\n\nइस प्रकार, पहली पंक्ति के प्रत्येक व्यक्ति का मुख दूसरी पंक्ति के किसी अन्य व्यक्ति की ओर है।\n\nदिए गए संकेत:\n- W, U के ठीक दाईं ओर बैठा है।\n- L और M के बीच में केवल दो व्यक्ति बैठे हैं।\n- U, L के सम्मुख बैठा है।\n- N के सम्मुख बैठा व्यक्ति, V के ठीक बाईं ओर बैठा है।\n- X पंक्ति के किसी भी छोर पर नहीं बैठा है।\n\nप्रश्न: निम्नलिखित में से कौन O के सम्मुख बैठा है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "W",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "U",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "X",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "V",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "From the clues: W sits to the immediate right of U, forming 'U-W'. U faces L. With two persons between L and M in Row 1, and facing each other arrangement, L is at position 1 and M at position 4. Thus U is at position 1 in Row 2, W at position 2. Since X is not at the end, X must be at position 3 and V at position 4. The person facing N sits immediately left of V (position 4), so position 3 (X) faces N. This leaves position 2 (W) facing O.",
+        "tanglish": "Clues vachu solve panna: U, W-kku valathu pakkam. U, L-ai face pannugiraar. Row 1-il L, M idaiyil 2 per irukkanum, so L 1st, M 4th. Appadiye U Row 2-il 1st position, W 2nd position. X end illai, so X 3rd, V 4th. N-ai face pannugiravan V-kku idathu pakkam (X). Adhanal N 3rd position. Meethi O 2nd position. O-kku opposite W."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "विकल्पों में दी गई उस आकृति की पहचान कीजिए जिसे प्रश्न चिह्न (?) के स्थान पर रखने पर श्रृंखला तार्किक रूप से पूर्ण हो जाएगी।",
+      "options": [
+        {
+          "id": "1",
+          "text": "Figure A",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Figure B",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Figure C",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Figure D",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Visual pattern recognition question. Without the diagrammatic sequence, the specific pattern cannot be determined. Typically involves rotation, reflection, or progressive changes in shape elements.",
+        "tanglish": "Image vachu than solve panna mudiyum. Pattern theriyavillai, aanaal rotation illai madal changes nadakkum endru ninaikkalaam."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "किसी निश्चित कूट भाषा में, ‘SBZFPA’ को ‘18' के रूप में कूटबद्ध किया जाता है और ‘GNPQ’ को ‘12' के रूप में कूटबद्ध किया जाता है। दी गई कूट भाषा में ‘LCEZRDX’ के लिए कूट क्या होगा?",
+      "options": [
+        {
+          "id": "1",
+          "text": "26",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "24",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "21",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "19",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The pattern follows: Number of letters × 3. 'SBZFPA' has 6 letters: 6 × 3 = 18. 'GNPQ' has 4 letters: 4 × 3 = 12. For 'LCEZRDX' which has 7 letters: 7 × 3 = 21.",
+        "tanglish": "Letter countin alavuku 3-aal multiply seyyumpadi answer. SBZFPA-il 6 letters, 6×3=18. GNPQ-il 4×3=12. LCEZRDX-il 7 letters, 7×3=21."
+      }
+    }
+  ]
+}

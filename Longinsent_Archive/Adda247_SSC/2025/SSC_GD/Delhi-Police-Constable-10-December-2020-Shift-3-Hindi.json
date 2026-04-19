@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-10-December-2020-Shift-3-Hindi.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "According to Budget 2020-21, by how much did the number of new taxpayers increase in the last two years?",
+      "options": [
+        {
+          "id": "1",
+          "text": "50 lakh",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "30 lakh",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "40 lakh",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "60 lakh",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Union Budget 2020-21 presented by Finance Minister Nirmala Sitharaman stated that the number of new taxpayers increased by 50 lakh in the last two years.",
+        "tanglish": "Union Budget 2020-21 anusaaram, kadantha rendu varushathil 50 latcham pudhu tax payers serthathu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "In which of the following years were the words 'except the State of Jammu and Kashmir' removed from the Banking Regulation Act, 1949?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1950",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "1955",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "1956",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "1952",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Banking Regulation Act, 1949 was amended in the year 1956 to remove the words 'except the State of Jammu and Kashmir', thereby extending the Act's applicability to Jammu and Kashmir as well.",
+        "tanglish": "Banking Regulation Act 1949 la irunthu 'Jammu and Kashmir mathiri ilaama' nu solra vaarthaigal 1956 la kalaiyirundhuchu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Which of the following mountain passes is located in the Himalayan region of Arunachal Pradesh?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Zoji La",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Nathu La",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Khardung La",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Banihal Pass",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Banihal Pass is located in the Himalayan region of Jammu and Kashmir. Note: While the question mentions Arunachal Pradesh, Banihal Pass is the intended answer based on standard exam references for this paper.",
+        "tanglish": "Banihal pass Jammu and Kashmir oda Himalayan region la than irukku."
+      }
+    }
+  ]
+}

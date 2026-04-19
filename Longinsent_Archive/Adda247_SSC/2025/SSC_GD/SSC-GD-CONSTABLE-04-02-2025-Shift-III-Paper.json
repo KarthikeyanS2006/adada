@@ -1,0 +1,247 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-CONSTABLE-04-02-2025-Shift-III-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "What should come in place of the question mark (?) in the given series?<br>65 86 114 149 191 ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "240",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "216",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "226",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "232",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The series follows the pattern of adding consecutive multiples of 7: 65+21=86, 86+28=114, 114+35=149, 149+42=191, and finally 191+49=240.",
+        "tanglish": "Ithu oru ennil thodar. Mathippukal 21, 28, 35, 42, 49 endru 7 alavu viraithu kootta padukirathu. 191 ku 49 serthaal 240."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "What should come in place of the question mark (?) in the given series?<br>10 11 13 17 25 ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "42",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "40",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "43",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "41",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The pattern in the series is obtained by adding 1, 2, 4, 8, 16 (each time multiplying the difference by 2). Thus, 25 + 16 = 41.",
+        "tanglish": "Mathippukal 1, 2, 4, 8, 16 endru 2 alavu athigarithu varugirathu. 25 ku 16 serthaal 41."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "In a certain code language, 'BIGS' is coded as '4593' and 'SING' is coded as '9432'. What is the code for 'N' in the given code language?",
+      "options": [
+        {
+          "id": "1",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "3",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The words BIGS and SING share the letters I, G, and S. Their codes 4593 and 9432 share the digits 4, 9, and 3. Therefore, I, G, S correspond to 4, 9, 3 in some order. The remaining digit 5 in the first code corresponds to B, and the remaining digit 2 in the second code corresponds to N. Thus, N is coded as 2.",
+        "tanglish": "BIGS matrum SING endra ezhuthugal I, G, S endra ezhuthukkalai pankundu. Avatrai kodugal 4593 matrum 9432 endra 4, 9, 3 endra enkalai pankundu. adhuvum I,G,S endra ezhuthukalukku 4,9,3 endra kodugal enum. Muthal kodugalil ulla migai enn 5, B ezhuthukkum, irandaam kodugalil ulla migai enn 2, N ezhuthukkum uriyathu. adhanaal N ku 2."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "MLTA is related to QHXW in a certain way based on the English alphabetical order. In the same way, LNVB is related to PJZX. To which of the given options is CWON related, following the same logic?",
+      "options": [
+        {
+          "id": "1",
+          "text": "GSJS",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "GASR",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "GSAR",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "GSSJ",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The logic alternates between adding 4 and subtracting 4 positions in the alphabet. For CWON: C+4=G, W-4=S, O+4=S, N-4=J. The result is GSSJ.",
+        "tanglish": "Ovvoru ezhuthum +4 matrum -4 alavu madakkam adaiyum. C+4=G, W-4=S, O+4=S, N-4=J. pathil GSSJ."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "What will come in the place of the question mark '(?)' in the following equation, if '−' and '÷' are interchanged and '×' and '+' are interchanged?<br>8 + 63 − 7 × 7 ÷ 9 = ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "68",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "69",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "70",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "71",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "After interchanging the operators, the equation becomes: 8 × 63 ÷ 7 + 7 − 9. Solving this: 8 × 9 + 7 − 9 = 72 + 7 − 9 = 70.",
+        "tanglish": "Kuripaittathu pola muraiyal maatrum pozhuthu: 8 × 63 ÷ 7 + 7 − 9 endru agum. 8 × 9 + 7 − 9 = 72 + 7 − 9 = 70."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Based on the English alphabetical order, three of the following four letter-clusters are alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to that group?<br>(Note: The odd man out is not based on the number of consonants/vowels or their position in the letter-cluster.)",
+      "options": [
+        {
+          "id": "1",
+          "text": "NYJ",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "TEP",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "CNY",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "QZK",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "All clusters except QZK follow the pattern of adding +11 positions to each letter (circular alphabet). CNY: C(3)+11=N(14), N(14)+11=Y(25). Similarly for NYJ and TEP. However, QZK follows Q+9=Z, Z-15=K.",
+        "tanglish": "QZK alhatha anaivum alphabetil +11 alavu koottum muraiyai angeluppathu. CNY: C+11=N, N+11=Y. TEP matrum NYJ um ithupola. QZK mattum intha muraiyai angelugavillai."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Identify the figure given in the options which when put in place of the question mark (?) will logically complete the series.<br>[Figure not provided in text]",
+      "options": [
+        {
+          "id": "1",
+          "text": "Option 1",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Option 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Option 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Option 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Figure-based questions require visual pattern recognition. Since the figure is not provided in the text, the correct option cannot be determined from the given data.",
+        "tanglish": "Chithara payanpathu koori vivarangal dhaan thedai seivathu. Ulavaiyaana chitharangal illaiyendru text-il illai."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "NRDF is related to PMFA in a certain way based on the English alphabetical order. In the same way, SFJW is related to UALR. To which of the given options is GVKQ related, following the same logic?",
+      "options": [
+        {
+          "id": "1",
+          "text": "IQML",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "RGLB",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "PGKY",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "KRCX",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The pattern alternates between +2 and -5 positions in the alphabet. Applying this to GVKQ: G+2=I, V-5=Q, K+2=M, Q-5=L. The result is IQML.",
+        "tanglish": "+2 matrum -5 alavu ezuthukkal madakkam adaiyum. GVKQ ku: G+2=I, V-5=Q, K+2=M, Q-5=L. pathil IQML."
+      }
+    }
+  ]
+}

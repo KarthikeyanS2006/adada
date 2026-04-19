@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-3-Dec-23-Shift-II-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "The first National Games known as the Indian Olympic Games were hosted before independence in the year _________ .",
+      "options": [
+        {
+          "id": "264330519219",
+          "text": "1924",
+          "is_correct": true
+        },
+        {
+          "id": "264330519220",
+          "text": "1926",
+          "is_correct": false
+        },
+        {
+          "id": "264330519222",
+          "text": "1930",
+          "is_correct": false
+        },
+        {
+          "id": "264330519221",
+          "text": "1928",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The first National Games of India, known as the Indian Olympic Games, were held in 1924 in Delhi before independence.",
+        "tanglish": "Indiaavin mudal needhu vilayattu paguthigal (Indian Olympic Games) 1924 varusham swathanthra pakkathil Delhi-yil nadathapattadhu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Which method is also known as the ‘Income Disposable Method’?",
+      "options": [
+        {
+          "id": "264330458128",
+          "text": "Product method",
+          "is_correct": false
+        },
+        {
+          "id": "264330458125",
+          "text": "Divisible method",
+          "is_correct": false
+        },
+        {
+          "id": "264330458127",
+          "text": "Income method",
+          "is_correct": false
+        },
+        {
+          "id": "264330458126",
+          "text": "Expenditure method",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The Expenditure method is also known as the Income Disposable Method as it calculates national income based on the expenditure spent by consumers.",
+        "tanglish": "Sel dhabar murai (Expenditure method) endrathu sel dhabar adaiyum murai (Income Disposable Method) endrum sollappadum; idhu sambathiyai vangigal selvadharitha selvathai kutrika ondraiya eduthu kurikkum."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Which of the following alternatives best describes the term ‘phamsana’ in context to temple architecture?",
+      "options": [
+        {
+          "id": "264330648402",
+          "text": "A structure of flat round slab at the top of the temple",
+          "is_correct": false
+        },
+        {
+          "id": "264330648401",
+          "text": "Temple roofs that are composed of several slabs",
+          "is_correct": true
+        },
+        {
+          "id": "264330648400",
+          "text": "The distance between the Garbhagriha and mandapa",
+          "is_correct": false
+        },
+        {
+          "id": "264330648399",
+          "text": "The top of the temple where the dhwaja (flag) is situated",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "In temple architecture, 'phamsana' refers to roofs that are composed of several slabs placed horizontally, one above the other.",
+        "tanglish": "Kovil kattidathil, 'phamsana' endrathu palam palamaana kalgalal amaikappatta, ondru madhu ondraaga anaithu kavikalal amaikappatta madiyai koorum."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Which of the following dance forms originated in Kuchelapuri or Kuchelapuram, in the 3rd century BC in South India?",
+      "options": [
+        {
+          "id": "264330433879",
+          "text": "Odissi",
+          "is_correct": false
+        },
+        {
+          "id": "264330433878",
+          "text": "Kuchipudi",
+          "is_correct": true
+        },
+        {
+          "id": "264330433880",
+          "text": "Kathakali",
+          "is_correct": false
+        },
+        {
+          "id": "264330433877",
+          "text": "Bharatnatyam",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Kuchipudi dance form originated in the village of Kuchelapuram (or Kuchelapuri) in Andhra Pradesh in the 3rd century BC.",
+        "tanglish": "Kuchipudi aattam 3am nootrandu BC il, Therku Indiaavil Andhra Pradesh ulla Kuchelapuri (Kuchelapuram) gramathil thodangiyadhu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "वल्लभी के मैत्रक वंश के संस्थापक कौन थे?",
+      "options": [
+        {
+          "id": "264330469167",
+          "text": "यशोधर्मन",
+          "is_correct": false
+        },
+        {
+          "id": "264330469168",
+          "text": "इशान वर्मा",
+          "is_correct": false
+        },
+        {
+          "id": "264330469169",
+          "text": "भटार्क",
+          "is_correct": true
+        },
+        {
+          "id": "264330469170",
+          "text": "बालादित्य",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Bhatarak was the founder of the Maitraka dynasty of Vallabhi in the 5th century.",
+        "tanglish": "5am nootrandil Vallabhiyil Maithraga vamsathin thondai Bhatarak avar."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "दरभंगा हवाई अड्डा भारत के किस राज्य में स्थित है?",
+      "options": [
+        {
+          "id": "264330717989",
+          "text": "पश्चिम बंगाल",
+          "is_correct": false
+        },
+        {
+          "id": "264330717990",
+          "text": "कर्नाटक",
+          "is_correct": false
+        },
+        {
+          "id": "264330717988",
+          "text": "बिहार",
+          "is_correct": true
+        },
+        {
+          "id": "264330717991",
+          "text": "उत्‍तर प्रदेश",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Darbhanga Airport is located in the city of Darbhanga in the state of Bihar.",
+        "tanglish": "Darbhanga vimana nilaiyam Bihar maanilathin Darbhanga nagarathil ullathu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "The LPG model of development was introduced in 1991 by the then Finance Minister ________.",
+      "options": [
+        {
+          "id": "264330432368",
+          "text": "P Chidambaram",
+          "is_correct": false
+        },
+        {
+          "id": "264330432365",
+          "text": "PV Narasimha Rao",
+          "is_correct": false
+        },
+        {
+          "id": "264330432366",
+          "text": "Pranab Mukherjee",
+          "is_correct": false
+        },
+        {
+          "id": "264330432367",
+          "text": "Dr Manmohan Singh",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Dr Manmohan Singh, who was the Finance Minister in 1991, introduced the LPG (Liberalization, Privatization, Globalization) model of development.",
+        "tanglish": "Dr Manmohan Singh 1991 varushathil thannillaadha selvathai yendra arasu mudhalaivaraga LPG (Liberalization, Privatization, Globalization) munnottara muraiyai arambithaar."
+      }
+    }
+  ]
+}

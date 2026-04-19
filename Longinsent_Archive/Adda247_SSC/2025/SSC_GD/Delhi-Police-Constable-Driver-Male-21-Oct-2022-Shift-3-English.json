@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-Driver-Male-21-Oct-2022-Shift-3-English.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "To pay tribute to Lord Rama, the 'Banganga Festival' is celebrated popularly in which of the following states of India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Tamil Nadu",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Maharashtra",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Manipur",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Punjab",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Banganga Festival is celebrated in Maharashtra, specifically in Mumbai at the Banganga Tank in Walkeshwar. It is an annual festival held to pay tribute to Lord Rama.",
+        "tanglish": "Banganga thiruvizha Maharashtra'vil, visheshamaga Mumbai'yil ulla Walkeshwar'il Banganga tank'il varushanthorum nadathapadugirathu. Idhu Lord Rama'vukku padangkettum oru thiruvizha."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Due to the providing of credit facilities, what was the growth rate of agricultural output during 2007-2012?",
+      "options": [
+        {
+          "id": "1",
+          "text": "5.4% per annum",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "3.2% per annum",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "6% per annum",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "4% per annum",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "During the 11th Five Year Plan (2007-2012), the agricultural growth rate in India was approximately 3.2% per annum, attributed to improved credit facilities and other reforms.",
+        "tanglish": "Pathinonduvetriani Five Year Plan (2007-2012) kaalathil, India'vil vivasaya utpada valarchi sadharanamaaga varushathukku 3.2% aaga amaithu. Idhu thara nerkaati vaasilgal matrum seyalpadugal nimitham nerpathaaga indha valarchi adaiyapetrathu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "According to the given statements identify the correct person. a)He dedicated his life for the upliftment of Dalits and women. b) In 1848, he opened a school for lower caste girls along with his wife. c) In 1873, he founded the Satyashodhak Samaj.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Jyotiba Phule",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Raja Ram Mohan Roy",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Ishwar Chandra Vidyasagar",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Debendranath Tagore",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Jyotirao Govindrao Phule was a social reformer who worked for the upliftment of Dalits and women. He opened the first school for girls in India in 1848 with his wife Savitribai Phule, and founded the Satyashodhak Samaj (Truth-seekers' Society) in 1873.",
+        "tanglish": "Jyotirao Govindrao Phule (Jyotiba Phule) oru samudhaaya thiruthar. Avar Dalits matrum pengalin uyarchikkaaga than vazhkhaiyai sadhithaar. 1848-il than manaivi Savitribai Phule'udan serndhu keel jaathi pengalukkaaga oru pallikoodam thirandhaar. 1873-il Satyashodhak Samaj'ai uruvakinaar."
+      }
+    }
+  ]
+}

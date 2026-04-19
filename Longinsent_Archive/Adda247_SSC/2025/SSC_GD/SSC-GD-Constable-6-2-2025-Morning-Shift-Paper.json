@@ -1,0 +1,277 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-Constable-6-2-2025-Morning-Shift-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "यदि शब्द TREASURE के प्रत्येक अक्षर को उल्टे अंग्रेजी वर्णमाला क्रम में व्यवस्थित किया जाए, तो कितने अक्षरों का स्थान अपरिवर्तित रहेगा?",
+      "options": [
+        {
+          "id": "1",
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "दो",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "एक का भी नहीं",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The word TREASURE has letters: T-R-E-A-S-U-R-E. When arranged in reverse alphabetical order (U-T-S-R-R-E-E-A), comparing with original positions shows no letter remains in the same position. Thus, the answer is none.",
+        "tanglish": "TREASURE endra solin eluthukkal T-R-E-A-S-U-R-E. Idanila varudhalatirkku appaliya varigalagach seyyum potu U-T-S-R-R-E-E-A endru varum. Mudal idathodu oppidum potu onrum eluthu thaniththanithu illai. Aagave, pathil onrum illai."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "विकल्पों में दी गई उस आकृति की पहचान कीजिए जिसे प्रश्न चिह्न (?) के स्थान पर रखने पर श्रृंखला तार्किक रूप से पूर्ण हो जाएगी।",
+      "options": [
+        {
+          "id": "1",
+          "text": "Figure Option 1",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Figure Option 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Figure Option 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Figure Option 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "This is a figure-based pattern completion question. The correct figure follows the logical pattern of the series (typically involving rotation, reflection, or shape progression), but cannot be determined without the visual diagrams.",
+        "tanglish": "Idhu oru chithra aadhaara anibu mudivupaduthum vinai. Sariyana chithram thottathin thanlocha muraiyai (sadharanamaga suthal, paralai matrum vattam payanam) paduthugirathu, aanal vizhithira chithrangal illamal mudivu seiya mudiyathu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "किसी तर्क के आधार पर, ‘CLICHE’ को ‘IHJAMF’ लिखा जाता है और ‘KINDLY’ को ‘QEOBQZ’ लिखा जाता है। उसी तर्क का अनुसरण करते हुए, ‘FUMBLE’ को किस प्रकार लिखा जा सकता है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "MQNZQE",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "LQNZWG",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "KQNZQE",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "LQNZQF",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The coding pattern alternates as: 1st letter +6, 2nd letter -4, 3rd letter +1, 4th letter -2, 5th letter +5, 6th letter +1. Applying to FUMBLE: F(6)+6=L, U(21)-4=Q, M(13)+1=N, B(2)-2=Z, L(12)+5=Q, E(5)+1=F. Result: LQNZQF.",
+        "tanglish": "Koodu murai: Mudal eluthu +6, 2am eluthu -4, 3am eluthu +1, 4am eluthu -2, 5am eluthu +5, 6am eluthu +1. FUMBLE endratharku idai seyyum potu: F(6)+6=L, U(21)-4=Q, M(13)+1=N, B(2)-2=Z, L(12)+5=Q, E(5)+1=F. Mudivu: LQNZQF."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "दी गई शृंखला में प्रश्नचिह्न (?) के स्थान पर क्या आना चाहिए? 12 31 59 114 214 ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "307",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "386",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "368",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "377",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The differences between terms are: 19, 28, 55, 100. Second differences: 9, 27, 45 (multiples of 9 with odd numbers). Next second difference is 63 (9×7), making next first difference 163 (100+63). Therefore, 214+163=377.",
+        "tanglish": "Thottathugalin matippugal: 19, 28, 55, 100. Irandaam matippugal: 9, 27, 45 (pathu aimbathin paeriyanga pathil otru pottu). Adutha irandaam matippu 63 (9×7), aagave adutha mudal matippu 163 (100+63). Anaal, 214+163=377."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "दिए गए कथनों और निष्कर्षों को ध्यानपूर्वक पढ़िए। यह मानते हुए कि कथनों में दी गई जानकारी सत्य है, चाहे वह सामान्यतः ज्ञात तथ्यों से भिन्न प्रतीत होती हो और निर्णय लीजिए कि दिए गए निष्कर्षों में से कौन- सा/कौन-से निष्कर्ष कथनों का तार्किक रूप से अनुसरण करता है/करते हैं। कथन: सभी टॉप, बैग हैं। कुछ बैग, बिल्लियाँ हैं। कोई भी बिल्ली, कुत्ता नहीं है। निष्कर्ष: (I): कोई भी टॉप, कुत्ता नहीं है। (II): कुछ बिल्लियाँ, टॉप हैं।",
+      "options": [
+        {
+          "id": "1",
+          "text": "न तो निष्कर्ष (I) और न ही (II) अनुसरण करता है।",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "केवल निष्कर्ष (II) अनुसरण करता है।",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "निष्कर्ष (I) और (II), दोनों अनुसरण करते हैं।",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "केवल निष्कर्ष (I) अनुसरण करता है।",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "From the statements: All tops are bags and some bags are cats. This does not necessarily mean some cats are tops (conclusion II). Also, since no cat is a dog, and tops may or may not overlap with cats, we cannot conclude that no top is a dog (conclusion I). Neither conclusion logically follows.",
+        "tanglish": "Koorthugal: Anaithu top-um bag, sila bag-ukkal poonai. Idarunthu sila poonaigal top endru solla mudiyathu (mudivu II). Poonai yevum nai illai endrilum, top-ukkal poonaiyaaga irukalaam illaiyaaga irukalaam, aagave onrum top nai illai endru mudivu seiya mudiyathu (mudivu I). Irandum mudivugalum thanlochiyaga serpathillai."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "किसी निश्चित कूट भाषा में, ‘can I go’ को ‘pr nt gs' के रूप में कूट बद्ध किया जाता है और ‘he can swim' को ‘li ed pr’ के रूप में कूट बद्ध किया जाता है। दी गई कूट भाषा में ‘can' को किस प्रकार कूट बद्ध किया जाएगा?",
+      "options": [
+        {
+          "id": "1",
+          "text": "nt",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "ed",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "gs",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "pr",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The word 'can' appears in both phrases. Comparing the codes 'pr nt gs' and 'li ed pr', the common code is 'pr'. Therefore, 'can' is coded as 'pr'.",
+        "tanglish": "'Can' endra sol irandu vakkiyangalilum ullathu. 'Pr nt gs' matrum 'li ed pr' endra koodugalai oppidum potu uruthiyaanathu 'pr'. Aagave, 'can' endrathu 'pr' endru koodu padum."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "यदि ‘÷’ और ‘×‘ को परस्पर बदल दिया जाए, तो निम्नलिखित समीकरण में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 11 ÷ 4 + 3 × 3 − 1 = ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "44",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "42",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "56",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "36",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "After interchanging ÷ and ×, the equation becomes: 11 × 4 + 3 ÷ 3 − 1. Following BODMAS: 44 + 1 − 1 = 44.",
+        "tanglish": "÷ matrum × matippaththin pin, samikarippu: 11 × 4 + 3 ÷ 3 − 1. BODMAS muraiyil: 44 + 1 − 1 = 44."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "किसी निश्चित कूट भाषा में, ‘ZIYJ’ को ‘38' के रूप में कूट बद्ध किया जाता है और ‘PXBO’ को ‘51' के रूप में कूट बद्ध किया जाता है। दी गई कूट भाषा में ‘VTUC’ के लिए कूट क्या होगा?",
+      "options": [
+        {
+          "id": "1",
+          "text": "56",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "49",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "51",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "42",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The code is the sum of reverse alphabetical positions (27 − position). Z(26→1), I(9→18), Y(25→2), J(10→17): sum=38. PXBO: P(16→11), X(24→3), B(2→25), O(15→12): sum=51. VTUC: V(22→5), T(20→7), U(21→6), C(3→24): 5+7+6+24=42.",
+        "tanglish": "Koodu endrathu munnethala varisai edangaludan serndtha koottathogai (27 − edam). Z(26→1), I(9→18), Y(25→2), J(10→17): koottam=38. PXBO: P(16→11), X(24→3), B(2→25), O(15→12): koottam=51. VTUC: V(22→5), T(20→7), U(21→6), C(3→24): 5+7+6+24=42."
+      }
+    },
+    {
+      "q_number": 9,
+      "question_text": "दी गई श्रृंखला में प्रश्नवाचक चिन्ह (?) के स्थान पर क्या आना चाहिए? 673 670 664 655 643 ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "632",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "625",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "628",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "630",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The differences between consecutive terms are 3, 6, 9, 12 (increasing by 3 each time, following the pattern 3×1, 3×2, 3×3, 3×4). The next difference is 15 (3×5). Therefore, 643 − 15 = 628.",
+        "tanglish": "Thottathugalin matippugal 3, 6, 9, 12 (muthal muthal 3 cherndhu varugirathu, 3×1, 3×2, 3×3, 3×4 muraiyil). Adutha matippu 15 (3×5). Aagave, 643 − 15 = 628."
+      }
+    }
+  ]
+}

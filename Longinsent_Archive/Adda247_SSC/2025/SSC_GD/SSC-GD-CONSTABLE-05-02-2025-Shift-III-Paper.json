@@ -1,0 +1,187 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-CONSTABLE-05-02-2025-Shift-III-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "AMBUSH is related to FPIWTH in a certain way based on the English alphabetical order. In the same way, LYPASE is related to QBWCTE. To which of the given options is OCTANE related, following the same logic?",
+      "options": [
+        {
+          "id": "1",
+          "text": "TFBDME",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "TFBCOF",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "TFADME",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "TFACOE",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The pattern follows specific shifts for each letter position: 1st letter +5, 2nd letter +3, 3rd letter +7, 4th letter +2, 5th letter +1, and 6th letter +0 in the English alphabet.",
+        "tanglish": "Prathi ezhuthum specific maattanvadis要领 sollappadum: 1am ezhuthu +5, 2am ezhuthu +3, 3am ezhuthu +7, 4am ezhuthu +2, 5am ezhuthu +1, 6am ezhuthu +0 idangal."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "In a certain code language 'USJI' is coded as '49' and 'DPTQ' is coded as '51'. What is the code for 'FAUL' in the given language?",
+      "options": [
+        {
+          "id": "1",
+          "text": "62",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "57",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "68",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "59",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The code is obtained by summing the reverse alphabetical positions of the letters (where Z=1, Y=2, ..., A=26).",
+        "tanglish": "Kodi ezhuthukkalin pinnum idangalin serippu moolam kidaikkum (Z=1, Y=2, ..., A=26)."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "What should come in place of the question mark (?) in the given series? 19 19 20 24 33 ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "51",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "48",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "50",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "49",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The series follows the pattern of adding consecutive square numbers: +0 (0²), +1 (1²), +4 (2²), +9 (3²), +16 (4²).",
+        "tanglish": "Thodar mundriya vargangalai serthal: +0 (0²), +1 (1²), +4 (2²), +9 (3²), +16 (4²) thodar munnetram."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "A dice has its faces marked by letters A, B, C, D, E and F. Two different positions of the same dice are shown. Select the letter that will be on the face opposite to the one having E?",
+      "options": [
+        {
+          "id": "1",
+          "text": "B",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "D",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "A",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "C",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "By analyzing the two dice positions, identify the letters adjacent to E to determine which letter is opposite to it.",
+        "tanglish": "Irandu pashu nilaigalai vishleesanam seithu E-ku aduthu varum ezhuthugalai kandupudithu viruddha ezhuthai kandupudukkavendum."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "In a certain code language. 'Z + H' means 'Z is the daughter of H', 'Z # H' means 'Z is the sister of H', 'Z @ H' means 'Z is the mother of H' and 'Z % H' means 'Z is the brother of H'. Based on the above, how is R related to E if 'E % L # R + B'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Sister",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Mother",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Brother",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Daughter",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "E % L means E is brother of L. L # R means L is sister of R. Therefore, E is brother of R, making R the sister of E.",
+        "tanglish": "E % L endral E, L-in sagotharan. L # R endral L, R-in sagothari. Aagave, E, R-in sagotharan; R, E-in sagothari."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Select the correct mirror image of the given figure when the mirror is placed at MN as shown below.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Option 1",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Option 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Option 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Option 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "In a mirror image, the left side becomes the right side and vice versa, while top and bottom remain unchanged.",
+        "tanglish": "Adiyal erpanaiyil, idathu valathu aagum, valathu idathu aagum; melum keelum matram illai."
+      }
+    }
+  ]
+}

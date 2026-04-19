@@ -1,0 +1,127 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-Constable-11-2-2025-Afternoon-Shift-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "उस वेन आरेख का चयन कीजिए जो निम्नलिखित वर्गों के बीच संबंध को सर्वोत्तम रूप से दर्शाता है। महिला, डॉक्टर, बहन",
+      "options": [
+        {
+          "id": "1",
+          "text": "Diagram Option 1",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Diagram Option 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Diagram Option 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Diagram Option 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The question requires selecting a Venn diagram representing the relationship among three categories: Women (Mahila), Doctors (Doctor), and Sisters (Bahan). All Sisters are Women. Some Women are Doctors. Some Doctors can be Sisters (female doctors). Therefore, the Sister circle is entirely within the Women circle, and the Doctor circle intersects with the Women circle, overlapping partially with the Sister circle.",
+        "tanglish": "Kelvipadutha Venn diagram-ai thervu seiyavum: Pengal (Mahila), Maruthuvar (Doctor), matrum Akka/Thangai (Bahan) vagaigalukku idaiyana uravai. Ellaa akka/thangaiyum pengal. Sila pengal maruthuvargal. Sila maruthuvargal akka/thangai aagalaam. Aaarkattil akka/thangai vattam pengal vattaththukkul than amarnthirukkanum, maruthuvar vattaththodu pargkkum."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "दिए गए कथनों और निष्कर्षों को ध्यानपूर्वक पढ़िए। यह मानते हुए कि कथनों में दी गई जानकारी सत्य है, चाहे वह सामान्यतः ज्ञात तथ्यों से भिन्न प्रतीत होती हो और निर्णय लीजिए कि दिए गए निष्कर्षों में से कौन-सा/कौन-से निष्कर्ष कथनों का तार्किक रूप से अनुसरण करता है/करते हैं। कथन: सभी ताल, संगीत हैं। सभी संगीत, लय हैं। कोई भी लय, धुन नहीं है। निष्कर्ष: (I): कोई भी ताल, धुन नहीं है। (II): कुछ लय, ताल हैं।",
+      "options": [
+        {
+          "id": "1",
+          "text": "केवल निष्कर्ष (II) अनुसरण करता है।",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "न तो निष्कर्ष (I) और न ही (II) अनुसरण करता है।",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "दोनों निष्कर्ष (I) और (II) अनुसरण करते हैं।",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "केवल निष्कर्ष (I) अनुसरण करता है।",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Statements analysis: All Beats (Taal) are Music (Sangeet) - Beats ⊂ Music. All Music is Rhythm (Lay) - Music ⊂ Rhythm. Therefore, Beats ⊂ Rhythm. No Rhythm is Melody (Dhoon) - Rhythm ∩ Melody = ∅. Conclusion I: Since all Beats are Rhythm and no Rhythm is Melody, no Beat is Melody. This follows. Conclusion II: Since all Beats are Rhythm, it logically follows that some Rhythms are Beats. This also follows.",
+        "tanglish": "Kadithangal: Ellaa thaalum sangeetham (Thaal ⊂ Sangeetham). Ellaa sangeethamum layam (Sangeetham ⊂ Layam), aagave ellaa thaalum layam. Oru layum dhuun illai (Layam ∩ Dhuun = ∅). Muraiyittal I: Ellaa thaalum layam; layam dhuun illai; aagave oru thaalum dhuun illai. Idhu serum. Muraiyittal II: Ellaa thaalum layam endru, silar layangal thaal aagum endru mudivu seyyalam. Idhum serum. Aagave iru muraiyittugalum serum."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "जब दर्पण को नीचे दर्शाए अनुसार MN पर रखा जाता है, तो दी गई आकृति के सही दर्पण प्रतिबिंब का चयन कीजिए।",
+      "options": [
+        {
+          "id": "1",
+          "text": "Mirror Image Option 1",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Mirror Image Option 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Mirror Image Option 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Mirror Image Option 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "When a mirror is placed on line MN, the image is formed by lateral inversion (left-right reversal). The left side of the object appears on the right side of the image and vice versa. Select the option where the figure is flipped horizontally along the MN axis.",
+        "tanglish": "Kannadiyai MN vattathil vaithaal, prathimbam idam maatruthal moolamaaga uruvakkappadum (valathu pakam idathu pakam aagum). Chitrathai MN akshathukku edhire paravechi, sariyana prathimbathai thervu seiyavum."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "सात व्यक्ति, E, F, G, H, K, L और N, एक पंक्ति में उत्तर की ओर मुख करके बैठे हैं (परंतु जरूरी नहीं कि वे इसी क्रम में बैठे हों)। L के बाईं ओर केवल तीन व्यक्ति बैठे हैं। G के दाईं ओर केवल F बैठा है। G और K के बीच केवल तीन व्यक्ति बैठे हैं। N, H के बाईं ओर, लेकिन E के दाईं ओर किसी स्थान पर बैठा है। E और N के बीच कितने व्यक्ति बैठे हैं?",
+      "options": [
+        {
+          "id": "1",
+          "text": "दो",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "चार",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Logical Arrangement: L is at 4th position (3 people to the left). G and F sit consecutively (G-F). There are 3 people between G and K, meaning they are 4 positions apart. N sits between E and H (E...N...H). Possible valid arrangements yield different numbers between E and N depending on G's position. If G is at position 2 (F at 3), K at 6, then E could be at 1, N at 5, with G, F, L (3 persons) between them. Other valid positions may yield 1 or 2 persons.",
+        "tanglish": "Yukthi amaippu: L naalaavadhu idathil amarnthirukkiran (idathu pakkathil moondru aalgal). G matrum F kooduthalukku arugil amarnthirukkiraargal (G-F). G matrum K idaiyil moondru aalgal, aagave avargal naangu idangal thoorathil irukkanum. N, E matrum H idaiyil edho idathil irukkiran (E...N...H). G idathu padaippai vathaithaal, E matrum N idaiyil irukkum aalgalin ennai matum."
+      }
+    }
+  ]
+}

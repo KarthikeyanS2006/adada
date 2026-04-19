@@ -1,0 +1,247 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-CONSTABLE-12-02-2025-Shift-II-Paper-1.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements. Statements: Some words are paragraphs. All paragraphs are essays. No essay is a story. Conclusions: (I): Some paragraphs are stories. (II): All words are essay.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Both conclusions (I) and (II) follow",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Neither conclusion (I) nor (II) follows",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Only conclusion (II) follows",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Only conclusion (I) follows",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Since all paragraphs are essays and no essay is a story, therefore no paragraph can be a story. Thus conclusion I does not follow. Furthermore, only some words are paragraphs, and since all paragraphs are essays, only some words (not all) are essays. Thus conclusion II also does not follow.",
+        "tanglish": "All paragraphs essays aanathaalum, yar essays um stories illa, adhanala paragraphs ellam stories illa. Adhanala conclusion I thappu. Also, some words mattum paragraphs iruku, and all paragraphs essays, so some words mattum essays, ellam words essays illa. Adhanala conclusion II um thappu. Rendume follow agala."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Select the Venn diagram that best illustrates the relationship between the following classes. Table, Wood, Steel",
+      "options": [
+        {
+          "id": "1",
+          "text": "Diagram 1: Table intersecting both Wood and Steel separately",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Diagram 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Diagram 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Diagram 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Tables can be made of Wood or Steel or other materials. Wood and Steel are distinct materials with no overlap. The correct Venn diagram shows Table as a separate set that intersects with both Wood and Steel.",
+        "tanglish": "Tables wood la panalam illaina steel la panalam. Wood and steel vera vera materials, intersect agadhu. Correct diagram la table rendaiyum meet pannum, but wood steel meet agadhu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "In a certain code language, ‘AUNT’ is coded as ‘8793’ and ‘NUTS’ is coded as ‘3598’. What is the code for 'S’ in the given code language?",
+      "options": [
+        {
+          "id": "1",
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "8",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "3",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "By analyzing the codes, digit 9 appears in the third position in both words. In NUTS, the third letter is T, so T=9. The remaining unique digit in NUTS is 8, which corresponds to the last letter S. Therefore, the code for S is 8.",
+        "tanglish": "Code la paatha, 9 rendu word laiyum third position la iruku. NUTS la third letter T, adhanala T=9. NUTS la balance irukara number 8, adhu last letter S ku. So S oda code 8."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "RSTR is related to UVWU in a certain way based on the English alphabetical order. In the same way, WXYW is related to ZABZ. To which of the given options is FGHF related, following the same logic?",
+      "options": [
+        {
+          "id": "1",
+          "text": "IIJI",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "IJJI",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "IJKI",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "IKJK",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The pattern is adding +3 to each letter's alphabetical position. R(18)+3=U(21), S(19)+3=V(22), T(20)+3=W(23), R(18)+3=U(21). Applying the same logic to FGHF: F(6)+3=I(9), G(7)+3=J(10), H(8)+3=K(11), F(6)+3=I(9), giving IJKI.",
+        "tanglish": "Alphabetical order la each letter ku 3 add pannanum. R ku 3 add panni U, S ku V, T ku W varum. Same logic la FGHF ku 3 add pannina IJKI varum."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "What should come in place of the question mark (?) in the given series? 32 39 44 51 56 ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "64",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "65",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "62",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "63",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The series follows an alternating pattern of +7 and +5. 32+7=39, 39+5=44, 44+7=51, 51+5=56, therefore 56+7=63.",
+        "tanglish": "Series la +7, +5, +7, +5 nu alternate agi add pannanum. 32 ku 7 add panni 39, 39 ku 5 add panni 44, 44 ku 7 add panni 51, 51 ku 5 add panni 56, appram 56 ku 7 add pannina 63 varum."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Based on the English alphabetical order, three of the following four letter-clusters are alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to that group? (Note: The odd one out is not based on the number of consonants/vowels or their position in the letter-cluster.) Options: GZS, OHA, FYT, IBU",
+      "options": [
+        {
+          "id": "1",
+          "text": "GZS",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "OHA",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "FYT",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "IBU",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "In OHA: O(15)-H(8)=7 and H(8)-A(1)=7. In IBU: I(9)-B(2)=7. In GZS: Z(26)-S(19)=7. However, in FYT: Y(25)-T(20)=5, which is different from 7. Therefore FYT is the odd one out.",
+        "tanglish": "OHA la letters oda difference 7-7 ah iruku, IBU la 7, GZS la 7. But FYT la 25 minus 20 is 5 mattum than. Adhanala FYT than thani."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "In a certain code language, ‘HAMS’ is coded as ‘5607’ and ‘MASK’ is coded as ‘0578’. What is the code for ‘K’ in the given code language?",
+      "options": [
+        {
+          "id": "1",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "8",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "7",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Comparing the two codes, the common letters are M, A, S which correspond to the common digits 0, 5, and 7. The remaining digit in MASK is 8, which corresponds to the letter K.",
+        "tanglish": "HAMS and MASK rendu code um compare pannum bodhu, common letters M,A,S ku common numbers 0,5,7. MASK la balance irukara number 8, adhu than K oda code."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "G, H, I, J, K, L and M are sitting around a circular table, facing the centre of the table(but not necessarily in the same order). Only two people sit between G and I when counted from the right of G. Only two people sit between I and H. Only three people sit between G and K. M sits to the immediate left of J. How many people sit between L and M when counted from the right of L?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Two",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "One",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Three",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Four",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The clockwise arrangement is: G, M, J, I, K, L, H. From L, moving right (clockwise), the persons encountered are H, G, and then M. Therefore, there are two people (H and G) sitting between L and M.",
+        "tanglish": "Clockwise arrangement: G, M, J, I, K, L, H. L la irundhu right side (clockwise) paatha, H and G varum, appram M varum. So L and M kila rendu per (H and G) than irukanga."
+      }
+    }
+  ]
+}

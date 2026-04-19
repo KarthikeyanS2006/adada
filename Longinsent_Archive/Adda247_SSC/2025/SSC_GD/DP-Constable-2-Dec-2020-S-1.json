@@ -1,0 +1,337 @@
+{
+  "document_info": {
+    "exam_name": "DP-Constable-2-Dec-2020-S-1.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "What does the government do in a contractionary fiscal policy for lowering inflation?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Reduce the quantum of money by decreasing taxes and increasing spending",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Increase the quantum of money by raising taxes and reducing spending",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Increase the quantum of money by decreasing taxes and increasing spending",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Reduce the quantum of money by raising taxes and reducing spending",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Contractionary fiscal policy aims to reduce inflation by decreasing the money supply. This is achieved by raising taxes (reducing disposable income) and reducing government spending, which cools down economic activity.",
+        "tanglish": "Thathkalika adhikarithathirkku (inflation), arasu vari-yai (taxes) yerpaaduthi selavai (spending) koraithu panaththin alavai (quantum of money) kuraiyuthal contractionary fiscal policy endru peyar."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Who among the following was the winner of the Grand Slam Boy's Singles title 2019?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Arthur Cazaux",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Shintaro Mochizuki",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Harold Mayot",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Carlos Gimeno",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Shintaro Mochizuki of Japan won the 2019 Wimbledon Boys' Singles title, defeating Carlos Gimeno Valero in the final.",
+        "tanglish": "Japan-idam seertha Shintaro Mochizuki 2019 Wimbledon pillaiyar thodar (Boys' Singles) thagadiyai vendru perundhar."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "As per the United Nations Data, in August 2020, India's population was equivalent to ______ of the total world population.",
+      "options": [
+        {
+          "id": "1",
+          "text": "10.2%",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "12.4%",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "19.4%",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "17.7%",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "According to United Nations data from August 2020, India accounted for approximately 17.7% of the global population, making it the second most populous country.",
+        "tanglish": "United Nations podhuviripaiyal (data), Aagast 2020 ail India viswa mootta janaththukkul 17.7 sathayaththai vandhadhu."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "What is the chemical name of the common kitchen ingredient named 'Baking Soda'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Sodium Bicarbonate",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Sodium Hydroxide",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Sodium Hypochlorite",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Sodium Peroxide",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Baking Soda is chemically known as Sodium Bicarbonate (NaHCO3). It is used as a leavening agent in baking.",
+        "tanglish": "Samaithaattaal (Baking Soda) rasayanap peyar Sodium Bicarbonate (NaHCO3)."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Which schedule of the Constitution of India has provisions which apply to the administration of the tribal areas in the states of Assam, Meghalaya, Tripura and Mizoram?",
+      "options": [
+        {
+          "id": "1",
+          "text": "10th",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "4th",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "8th",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "6th",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The 6th Schedule of the Indian Constitution contains provisions for the administration of tribal areas in Assam, Meghalaya, Tripura, and Mizoram, including autonomous districts and regions.",
+        "tanglish": "India Arasaangathin 6-aam Nadai (6th Schedule), Assam, Meghalaya, Tripura, Mizoram ulla pazhangudiyar nilangal (tribal areas) administration patri solkum."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Which of the following dance forms has been included in the UNESCO Heritage Dances in the year 2010?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Paika dance",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Chau dance",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Agni dance",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Mundari dance",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Chau dance, originating from the Purulia district of West Bengal, Jharkhand, and Odisha, was inscribed in the UNESCO Representative List of Intangible Cultural Heritage of Humanity in 2010.",
+        "tanglish": "Jharkhand matrum West Bengal-il wiraiththa Chau aadal (Chau dance) 2010-le UNESCO palankalai pirasurukkollil (Heritage List) serththukkondadhu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Along which river bank among the following did the ancient city of Madurai, the capital of Pandya Kingdom, exist?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Brahmaputra",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Ganga",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Godavari",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Vaigai",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Madurai, the ancient capital of the Pandya Kingdom, is located on the banks of the Vaigai River in Tamil Nadu.",
+        "tanglish": "Pandiya samrajyathin padhiniya kalathani (ancient capital) Madurai Vaigai aatrin karaiyil (river bank) amarnthu ulladhu."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "Which constitutional amendment deals with reservation of seats in educational institutes and of appointments or posts in the services under a state, for backward classes, scheduled castes and scheduled tribes?",
+      "options": [
+        {
+          "id": "1",
+          "text": "69",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "62",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "76",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "73",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The 76th Constitutional Amendment Act (1994) was enacted to provide reservation provisions for backward classes, SC and ST in educational institutions and public employment (specifically protecting Tamil Nadu's 69% reservation policy).",
+        "tanglish": "76-aam Arasaangathiruththa Chadangu (76th Amendment), pazhangudiyar, SC, ST makkalukkaana kalvi idangalil matrum sarkar padaivil idangalukkum seyyappattathu."
+      }
+    },
+    {
+      "q_number": 9,
+      "question_text": "In which year was the Central Sanskrit Universities Act passed?",
+      "options": [
+        {
+          "id": "1",
+          "text": "2014",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "2019",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "2020",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "2016",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Central Sanskrit Universities Bill was passed by Parliament in March 2020, converting three deemed Sanskrit universities into central universities.",
+        "tanglish": "Central Sanskrit Universities Act 2020-le Parliament-il edhukkappattu sattam aakkiyadhu."
+      }
+    },
+    {
+      "q_number": 10,
+      "question_text": "Which of the following is NOT a quality of bases?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Bases don't change the colour of litmus",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Feels slippery or soapy",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Their aqueous (water) solutions conduct an electric current",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Tastes sweet",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Bases turn red litmus blue (so they do change litmus colour). They feel slippery, conduct electricity in solution, and taste bitter (not sweet). Therefore, both 'not changing litmus colour' and 'tasting sweet' are not qualities of bases.",
+        "tanglish": "Kararthalgal (Bases) sivappu litmus-aindhu indhiga (blue) akum, anmalam (slippery)aga irukum, kaduvirai (bitter) suvai keendum. Adhanal avai litmus neraththai maatraathu endraalum, inippu (sweet) endraalum sariyalla."
+      }
+    },
+    {
+      "q_number": 11,
+      "question_text": "'Ghaggar and Banas' are rivers that feed the state of ______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Gujarat",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Orissa",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Punjab",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Rajasthan",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The Ghaggar and Banas rivers flow through Rajasthan. The Banas is a tributary of the Chambal River, while the Ghaggar flows through northern Rajasthan and Haryana.",
+        "tanglish": "Ghaggar matrum Banas nadigal (rivers) Rajasthan maanilaththil (state) oththumigal."
+      }
+    }
+  ]
+}

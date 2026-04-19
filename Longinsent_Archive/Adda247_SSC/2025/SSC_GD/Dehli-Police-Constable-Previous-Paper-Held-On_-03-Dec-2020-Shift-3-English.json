@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "Dehli-Police-Constable-Previous-Paper-Held-On_-03-Dec-2020-Shift-3-English.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Who among the following is credited to hold the highest rank of 'Field Marshal' in the history?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Krishna Rao",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Sam Manekshaw",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Chowdhury",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Cariappa",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "General K.M. Cariappa was the first Indian Army officer to be conferred the rank of Field Marshal, which is the highest attainable rank in the Indian Army. Only two officers in Indian history, General Cariappa and General Sam Manekshaw, have held this prestigious rank.",
+        "tanglish": "General K.M. Cariappa thaan Indian Army-la Field Marshal rank ku first aaga seluthappaatta officer. Ithu Indian Army-la kadaikka mudiya highest rank. Indian varalaatril General Cariappa matrum General Sam Manekshaw endra iranduper thaan indha perumaiyana padhaviyai adainthurkaargal."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Which of the following is NOT a UNESCO Intangible Cultural Heritage?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Yoga",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Indian Classical Music",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Kumbh Mela",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Navroz",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The correct answer is the option that is not inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity. Yoga, Kumbh Mela, and Navroz are recognized UNESCO intangible cultural heritage elements from India.",
+        "tanglish": "UNESCO Intangible Cultural Heritage list-la illatha option thaan correct answer. Indiaavuku mattrappatta Yoga, Kumbh Mela, Navroz mudhaliyavhai UNESCO intangible cultural heritage endru manathukkondadhu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Estuaries and their surrounding wetlands are bodies of water usually found where rivers meet the ______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Mountains",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Deserts",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Sea",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Lakes",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Estuaries are partially enclosed coastal bodies of water where freshwater from rivers mixes with saltwater from the sea. They and their surrounding wetlands form important ecosystems typically found at river mouths where they meet the sea.",
+        "tanglish": "Estuaries endradhu aeriya neer kadal neerai kalandhirukkum, nadukadalukku arugil amainthirukkum water bodies. Ithu nadugal kadalai santhikkum idathil amainthirukkum mukyamaana ecosystem-ai udhaipadithukkum."
+      }
+    }
+  ]
+}

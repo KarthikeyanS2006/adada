@@ -1,0 +1,67 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-Constable-11-2-2025-Evening-Shift-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "निम्नलिखित वर्गों के बीच संबंधों को सबसे उचित ढंग से निरूपित करने वाले वेन आरेख का चयन कीजिए। डॉक्टर, सर्जन, पुरुष",
+      "options": [
+        {
+          "id": "1",
+          "text": "Three separate circles with no intersection between Doctor, Surgeon and Male",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Surgeon circle inside Doctor circle, Male circle separate without any overlap",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Surgeon circle completely inside Doctor circle, Male circle intersecting both Doctor and Surgeon circles",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Doctor circle inside Surgeon circle, Male circle intersecting both",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "All surgeons are doctors, so the Surgeon circle must be completely inside the Doctor circle. Some doctors and some surgeons are male while others are female, therefore the Male circle must intersect with both the Doctor and Surgeon circles.",
+        "tanglish": "Ellaa surgeon-galum doctors dhaan, adhanaal surgeon circle doctor circle-ukkulla irukkanum. Sila doctor-galum surgeon-galum aangal-aayum, sila peNNgal-aayum irukkalaam. Athanaal male circle doctor and surgeon renduthodanum cross-seyyanum."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "जब दर्पण को नीचे दर्शाए गए अनुसार LM पर रखा जाता है, तो दी गई आकृति के सही दर्पण प्रतिबिंब का चयन कीजिए।",
+      "options": [
+        {
+          "id": "1",
+          "text": "Mirror image with left-right lateral inversion (Option 1)",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Mirror image with correct lateral inversion along line LM",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Water image (vertical inversion)",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Rotated image by 180 degrees",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "When a mirror is placed on line LM, the image undergoes lateral inversion where the left side of the object appears on the right side and vice versa. The correct option shows this mirror reflection.",
+        "tanglish": "LM vaariyil darpanai vaithaal, aakruthiyin darpana prathibimbam edam maari amaiyum. Idathu pakam valathu pakamaagum, valathu pakam idathu pakamaagum. Ithuve sariyana darpana prathibimbam."
+      }
+    }
+  ]
+}

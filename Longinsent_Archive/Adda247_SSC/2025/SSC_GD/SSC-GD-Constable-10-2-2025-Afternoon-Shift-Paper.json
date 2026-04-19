@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-Constable-10-2-2025-Afternoon-Shift-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "JGKH अंग्रेजी वर्णमाला क्रम के आधार पर एक निश्चित प्रकार से LIMJ से संबंधित है। VSWT ठीक उसी प्रकार XUYV से संबंधित है। उसी तर्क का अनुसरण करते हुए, WTXU दिए गए विकल्पों में से किससे संबंधित है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "YWYA",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "YVZW",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "YVYW",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "YUYW",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The relationship follows a pattern where each letter in the first group is shifted forward by +2 positions in the English alphabet. For JGKH → LIMJ: J(10)→L(12), G(7)→I(9), K(11)→M(13), H(8)→J(10). Applying the same logic to WTXU: W(23)→Y(25), T(20)→V(22), X(24)→Z(26), U(21)→W(23), resulting in YVZW.",
+        "tanglish": "Mudal kavuthu eduthukkondu ingiruthu +2 edathukku munnaaga sendral irandavathu kavuthu kidaikkum. JGKH → LIMJ: J(10) irunthu L(12), G(7) irunthu I(9), K(11) irunthu M(13), H(8) irunthu J(10). Adhe muraiyil WTXU ku: W(23) irunthu Y(25), T(20) irunthu V(22), X(24) irunthu Z(26), U(21) irunthu W(23), endral YVZW kidaikkum."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "अंग्रेजी वर्णमाला क्रम के आधार पर, निम्नलिखित चार अक्षर-समूहों में से तीन एक निश्चित प्रकार से समान हैं और इस प्रकार एक समूह बनाते हैं। वह कौन-सा अक्षर-समूह है जो उस समूह से संबंधित नहीं है? (ध्यान दें: असंगत अक्षर-समूह, उस अक्षर-समूह में व्यंजनों/स्वरों की संख्या या उनके स्थान पर आधारित नहीं है।)",
+      "options": [
+        {
+          "id": "1",
+          "text": "HJE",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "PRM",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "GID",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "DGB",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "In groups HJE, PRM, and GID, the pattern is: first letter +2, second letter +2, third letter -5 (H+2=J, J-5=E; P+2=R, R-5=M; G+2=I, I-5=D). However, in DGB: D+3=G, G-5=B, which follows a different pattern (+3 instead of +2 for the first interval), making it the odd one out.",
+        "tanglish": "HJE, PRM, matrum GID kavuthugalil murai: munn ezhuthu +2, idaya ezhuthu +2, mun ezhuthu -5 (H+2=J, J-5=E; P+2=R, R-5=M; G+2=I, I-5=D). Aanal DGB vil: D+3=G, G-5=B, endru veraipattu vera murai (+2 ku pathil +3) seiyubathaal athu veraikadhai."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "सात व्यक्ति, G, H, I, J, K, L और M, एक पंक्ति में उत्तर की ओर मुख करके बैठे हैं। (परंतु जरूरी नहीं कि वे इसी क्रम में बैठे हों)। H और G के बीच में केवल पाँच व्यक्ति बैठे हैं। L, G के ठीक बाईं ओर बैठा है। L और I के बीच में केवल एक व्यक्ति बैठा है। J, K के बाईं ओर किसी स्थान पर लेकिन M के दाईं ओर किसी स्थान पर बैठा है। J के बाईं ओर कितने व्यक्ति बैठे हैं?",
+      "options": [
+        {
+          "id": "1",
+          "text": "दो",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "चार",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "एक",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "H and G have exactly 5 people between them, so they occupy positions 1 and 7 (or vice versa). Since L sits immediately left of G, G cannot be at position 1. Thus, H is at position 1, G at position 7, and L at position 6. With one person between L and I, I is at position 4. The remaining positions 2, 3, 5 must be filled by M, J, K in the order M-J-K (since J is left of K but right of M). Thus: H(1), M(2), J(3), I(4), K(5), L(6), G(7). Two people (H and M) sit to the left of J.",
+        "tanglish": "H matrum G idaiyil 5 per irukkum. Idathukku G 7am idathilum H 1am idathilum amaiyum. G in edathu kizakku L amarnthal, L 6am idathilum G 7am idathilum amaiyum. L matrum I idaiyil oru per iruppathaal I 4am idathilum amaiyum. M, J, K enra varisayil 2, 3, 5 edathugalil amarnthal: H(1), M(2), J(3), I(4), K(5), L(6), G(7). J in edathu kizakku 2 per (H matrum M) amarnthullana."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "यदि ‘+’ और ‘÷‘ को परस्पर बदल दिया जाए तथा ‘−’ और ‘×’ को परस्पर बदल दिया जाए, तो निम्नलिखित समीकरण में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 18 ÷ 15 + 5 × 3 − 4 = ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "13",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "9",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "After interchanging the operators: + becomes ÷, ÷ becomes +, − becomes ×, and × becomes −. The equation becomes: 18 + 15 ÷ 5 - 3 × 4. Following order of operations (BODMAS): 15 ÷ 5 = 3, then 3 × 4 = 12. Finally: 18 + 3 - 12 = 21 - 12 = 9.",
+        "tanglish": "Kurikkalgal matiya pinbu: 18 + 15 ÷ 5 - 3 × 4 endru amaiyum. Ganana murai anusaram: 15 ÷ 5 = 3, pinbu 3 × 4 = 12. Antam: 18 + 3 - 12 = 9."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "विकल्पों में दी गई उस आकृति की पहचान कीजिए जिसे प्रश्न चिह्न (?) के स्थान पर रखने पर श्रृंखला तार्किक रूप से पूर्ण हो जाएगी।",
+      "options": [
+        {
+          "id": "1",
+          "text": "[Figure Option 1]",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "[Figure Option 2]",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "[Figure Option 3]",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "[Figure Option 4]",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "This is a figure-based pattern completion question. The correct answer requires visual analysis of the pattern series which is not provided in the text. The figure would continue the logical sequence established by the previous figures in the series.",
+        "tanglish": "Idhu vizhaga adharaana vazhithiru thodarbu kelvi. Sariyana badhil ku varisaiyil munna vandha chitrangalai vichithu eduthu, aduthu varum chithira vagaiyai kandupidikka vendum. Chithiram illamal sulabamana badhil uraiyathaaga illai."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "अंग्रेजी वर्णमाला क्रम के आधार पर LNPR एक निश्चित तरीके से TVXZ से संबंधित है। उसी तरीके से FHJL, NPRT से संबंधित है। उसी तर्क का अनुसरण करते हुए ZBDF दिए गए विकल्पों में से किससे संबंधित है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "HJTY",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "HJLN",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "HJLP",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "HJSD",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The pattern follows a consistent shift of +8 positions for each corresponding letter. LNPR → TVXZ: L(12)→T(20), N(14)→V(22), P(16)→X(24), R(18)→Z(26). Similarly, ZBDF → HJLN: Z(26)→H(8), B(2)→J(10), D(4)→L(12), F(6)→N(14).",
+        "tanglish": "Prathi ezhuthukkul +8 edathu matpam seiyapadugirathu. LNPR → TVXZ: L(12) irunthu T(20), N(14) irunthu V(22), P(16) irunthu X(24), R(18) irunthu Z(26). Adhe murai ZBDF ku: Z(26) irunthu H(8), B(2) irunthu J(10), D(4) irunthu L(12), F(6) irunthu N(14), endral HJLN."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "उस अक्षर-संयोजन का चयन कीजिए, जिसे दी गई शृंखला के रिक्त स्थानों में क्रमिक रूप से रखने पर शृंखला तार्किक रूप से पूर्ण हो जाएगी। _ZVRU_TPSV_NQTP_ ORN_",
+      "options": [
+        {
+          "id": "1",
+          "text": "YVQKI",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "YXQLI",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "WVRKJ",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "WXRLJ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The series follows a pattern of alternating letter shifts. Filling the blanks with YXQLI creates the pattern: Y(25), Z(26), V(22), R(18), U(21), X(24), T(20), P(16), S(19), V(22), L(12), N(14), Q(17), T(20), P(16), I(9), O(15), R(18), N(14)... where the shifts alternate between -4, -4, +3, etc., maintaining the logical continuity of the sequence.",
+        "tanglish": "Ezhuthu varisai maatratchi muraiyai aduthu varugirathu. YXQLI endru vadivathaal: Y, Z, V, R, U, X, T, P, S, V, L, N, Q, T, P, I, O, R, N... ivai -4, -4, +3 endra maatratchigal poruthu amainthu varugirathu."
+      }
+    }
+  ]
+}

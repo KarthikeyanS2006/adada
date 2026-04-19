@@ -1,0 +1,86 @@
+{
+  "document_info": {
+    "exam_name": "EPFO-SSA-Previous-Year-Paper-2019.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "What could be the main reason for the revision of the rating for India from stable to negative by Moody’s?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The World Trade Organization (WTO) is facing an unprecedented existential crisis.",
+          "is_correct": false
+        },
+        {
+          "id": "b",
+          "text": "Liquidity crunch in non-banking financial companies in the country.",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "GST and demonetization may have been the cause of the economic slowdown.",
+          "is_correct": false
+        },
+        {
+          "id": "d",
+          "text": "The on-going economic slowdown with its repercussions on the fiscal deficit and borrowings taken by the country.",
+          "is_correct": true
+        },
+        {
+          "id": "e",
+          "text": "None of these.",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "According to the passage, Moody’s revised the outlook from stable to negative primarily due to 'The growth slowdown and its effects on the fiscal deficit and borrowings'. Option (d) accurately captures this reasoning.",
+        "tanglish": "Passage-il sonna karuthu prakaram, 'growth slowdown matrum adhan pazhiyaga fiscal deficit-um borrowings-um' endra kaaranathukaaga than Moody’s rating-ai stable-ilirundhu negative-kaaga maatthi irukkaargal. Option (d) indha karuthai sariyaaga uraithu irukkirathu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "What are the steps taken by the government to revive the economy?",
+      "options": [
+        {
+          "id": "a",
+          "text": "By giving concession on corporate taxes.",
+          "is_correct": true
+        },
+        {
+          "id": "b",
+          "text": "The government eased the procedure for seeking income tax exemption by startups on investments from angel funds",
+          "is_correct": false
+        },
+        {
+          "id": "c",
+          "text": "Expediting the expenditure on capital projects.",
+          "is_correct": true
+        },
+        {
+          "id": "d",
+          "text": "Both (a) & (b)",
+          "is_correct": false
+        },
+        {
+          "id": "e",
+          "text": "Both (a) & (c)",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The passage explicitly mentions two measures: 'pushing expenditure on capital projects' and 'corporate tax concessions amounting to ₹1.45 lakh crore'. Therefore, both (a) and (c) are correct, making option (e) the right answer.",
+        "tanglish": "Passage-la irandu mukkiyamaana visaigalai solla padugirathu: 'capital projects-mel selavai etuththal' matrum '₹1.45 lakh crore tanisu-kaLin corporate tax concessions'. Aagave, (a) matrum (c) rendum sariyaana badhilugal, adhanal (e) than sariyaana answer."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "What is the positive factor despite the projection on fiscal slippage of 0.4% of G...[incomplete]",
+      "options": [],
+      "explanation": {
+        "english": "The question text appears to be incomplete in the provided source material. Based on the passage context regarding fiscal slippage, the positive factor mentioned is that India's borrowings are almost wholly domestic.",
+        "tanglish": "Koduththa source-la indha kelvi text musivu paDaindhulla kaaNNa petraathu. Passage-la fiscal slippage patri sonna positive factor endraal, 'India-vin borrowings ellam domestic-kaaga irukkirathu' endru solraargal."
+      }
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "document_info": {
+    "exam_name": "DP-Constable-3-Dec-2020-S-2.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "'Samaveda' is considered to be one of the primary sources of Indian ______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "coinage",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "textile design",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "medicine",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "music and art",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Samaveda is one of the four Vedas and is primarily associated with music and melodies. It is considered the Veda of chants and songs, containing the musical notations for chanting the Rigvedic hymns.",
+        "tanglish": "Samaveda nalvedhathil ondru. Idhu isaiyum paadalkalaiyum sambandhapatta veda. Ithu isai veda endrum alaikkappadum, rigveda slokangalai paaduvatharkana isai methodaiyai padhikkindradhu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Which of the following places is associated with the tomb of Jahangir?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Karachi",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Agra",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Lahore",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Delhi",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The tomb of Mughal Emperor Jahangir is located in Shahdara Bagh, Lahore, Pakistan. It was built by his son Shah Jahan in 1627 CE.",
+        "tanglish": "Mughal samaraja Jahangir samadhi Lahore, Pakistanil Shahdara Baghil ulladhu. Ithu avan magan Shah Jahan 1627il kattiyadhu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Digboi Oil Refinery, commissioned on 11th December 1901, is India's oldest operating refinery and one of the oldest operating refineries in the world. It is located in ______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Assam",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Gujarat",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Odisha",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Uttar Pradesh",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Digboi refinery is located in the Tinsukia district of Assam. It was commissioned in 1901 and is Asia's first oil refinery.",
+        "tanglish": "Digboi nerupakam Assam ulla Tinsukia mavattathil ulladhu. Ithu 1901il thodangappatta Asiaavin mudhalla ennai nerupakam."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Which of the following statements is correct regarding the term 'pietra - dura'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "It was a technique for the inlay of precious stones and gems into stone walls.",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "It was a style of gardening.",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "It was a form of Hindustani classical music played in the courts of Delhi Sultans.",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "It was a type of painting style carried out on palm leaves.",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Pietra dura is an Italian term meaning 'hard stone'. It is a technique for inlaying cut and polished stones (like semi-precious gems) into marble or other stone surfaces, famously used in the Taj Mahal.",
+        "tanglish": "Pietra dura endrathu italian moziyil kallaana kalgal endrath artham. Idhu muthu kalugalaiyum vaidhooriyangalaiyum kal thoolil amaikum thakaval. Taj Mahallil idhu payanpaduthappattadhu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Which of the following pairs is INCORRECTLY matched?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Kuka movement – Assam",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Moplah rebellions – Malabar",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Polygar rebellions – Kurnool",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Faraizi movement – Bengal",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Kuka movement was led by Baba Ram Singh in Punjab (not Assam) as a Sikh reform movement. The Moplah rebellions were in Malabar, Polygar rebellions were in Tamil Nadu/Kurnool region, and Faraizi movement was in Bengal.",
+        "tanglish": "Kuka iyakkam Punjabil Baba Ram Singh nadathiyadhu, Assam illai. Ithu Sikh samuga uchikkalai iyakkam. Moplah kalaham Malabaril, Polygar iyakkam Tamil Naduvil, Faraizi iyakkam Bengalil nadandhadhu."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "The cheque number of a bank in India consists of ______ digits as of August 2020.",
+      "options": [
+        {
+          "id": "1",
+          "text": "five",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "eight",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "six",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "seven",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "As per RBI guidelines, cheques in India have a 6-digit cheque number printed at the bottom. It is part of the MICR (Magnetic Ink Character Recognition) code.",
+        "tanglish": "RBI niyamathinpadi Indian bank chakkalil 6 ankalan edatthirkal irukkum. Ithu MICR code otra pakkam."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "With which of the following soils are the terms 'khadar' and 'bhangar' associated?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Laterite",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Alluvial",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Black",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Arid",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Khadar and Bhangar are two types of alluvial soils found in the Indo-Gangetic plains. Khadar is the newer alluvium deposited by floods, while Bhangar is the older alluvium found on higher ground.",
+        "tanglish": "Khadar matrum Bhangar endrathu Indo-Gangetic paravaiyil kidaikkum alluvial mann. Khadar endrathu puthiya vooral man, Bhangar endrathu pazhaiya vooral man."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "Which of the following pairs is INCORRECTLY matched?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Konark - Odisha",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Bhimbetka - Chhattisgarh",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Hampi - Karnataka",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Fatehpur Sikri - Uttar Pradesh",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Bhimbetka rock shelters are located in Madhya Pradesh, not Chhattisgarh. They are a UNESCO World Heritage Site with prehistoric rock paintings.",
+        "tanglish": "Bhimbetka kal manthapangal Madhya Pradeshil ulladhu, Chhattisgarh illai. Ithu UNESCO world heritage idam. Idhil pazhaiya kalvettu oivugal ulladhu."
+      }
+    },
+    {
+      "q_number": 9,
+      "question_text": "A glucometer is generally used as a monitor by a ______ patient.",
+      "options": [
+        {
+          "id": "1",
+          "text": "hypoglycemic",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "obstetric",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "neurological",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "hepatitis-B",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "A glucometer is a medical device used to measure blood glucose levels. It is primarily used by diabetic patients (who may experience hypoglycemia or hyperglycemia) to monitor their blood sugar levels.",
+        "tanglish": "Glucometer endrathu rathathil sarkarai alavutha alaththum karuvi. Madhumai noyaligal (diabetes) sarkarai alavai ninaiththu paarkka idhai payanpaduththuvaargal."
+      }
+    },
+    {
+      "q_number": 10,
+      "question_text": "______ is an instrument for measuring the relative humidity of the atmosphere.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Hygrometer",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Barometer",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Hydrometer",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Anemometer",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "A hygrometer measures humidity in the atmosphere. A barometer measures atmospheric pressure, a hydrometer measures liquid density, and an anemometer measures wind speed.",
+        "tanglish": "Hygrometer endrathu vayumaliyal alavai alaththum. Barometer vayumadippai, Hydrometer thiravam iratthathai, Anemometer kaatrin vegathai alaththum."
+      }
+    },
+    {
+      "q_number": 11,
+      "question_text": "Which of the followings was NOT built during the Tughlaq period?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Jama Masjid",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Tughlaqabad",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Feroz Shah Kotla",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Khirki Masjid",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Jama Masjid in Delhi was built by Mughal Emperor Shah Jahan in 1656, not during the Tughlaq period. Tughlaqabad, Feroz Shah Kotla, and Khirki Masjid were all built during the Delhi Sultanate's Tughlaq dynasty (14th century).",
+        "tanglish": "Delhi Jama Masjid Mughal samaraja Shah Jahan 1656il kattiyadhu, Tughlaq kaalathil illai. Tughlaqabad, Feroz Shah Kotla, Khirki Masjid yellam Tughlaq samrajyathil (14am nootrandu) kattappattana."
+      }
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-Constable-5-2-2025-Morning-Shift-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "एक निश्चित कूट भाषा में, 'BASE' को '8970' के रूप में कूटबद्ध किया जाता है और 'ASET' को '0697' के रूप में कूटबद्ध किया जाता है। उसी कूट भाषा में 'T' के लिए कूट क्या होगा?",
+      "options": [
+        {
+          "id": "1",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "6",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "9",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "By comparing the codes for BASE (8970) and ASET (0697), we identify that the common letters A, S, and E correspond to the digits 9, 7, and 0. The digit 8 in BASE corresponds to B, and the remaining digit 6 in ASET must correspond to T. Therefore, the code for T is 6.",
+        "tanglish": "BASE ku 8970 mo ival ASET ku 0697 nu koduthirukanga. Rendulaiyum common letters A, S, E ku 9, 7, 0 nu match aaguthu. BASE la B ku 8, ASET la balance aana 6 T ku thaan. Adhanaala T ku code 6."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "एक कागज को मोड़ने के क्रम और मोड़े गए कागज को काटने के तरीके को निम्नलिखित आकृतियों में दर्शाया गया है। खोलने पर यह कागज कैसा दिखाई देगा?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Option 1 (Image Based)",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Option 2 (Image Based)",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Option 3 (Image Based)",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Option 4 (Image Based)",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "This question requires the visual diagram of the paper folding and cutting pattern to determine the correct answer. The answer depends on analyzing how the folds and cuts will appear when the paper is unfolded.",
+        "tanglish": "Ithu paper folding cutting question. diagram image illama answer confess pulaiyuthu unBurandhu. Paper eppadi fold senjhu cut senjhu irukkunu paatha thaan correct option therium."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "अंग्रेजी वर्णमाला क्रम के आधार पर, किसी निश्चित तरीके से CGJK का संबंध IMPQ से है। उसी तरीके से HLQR का संबंध NRWX से है। समान तर्क का अनुसरण करते हुए, दिए गए विकल्पों में से AEMO का संबंध किससे है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "DHPS",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "OEAM",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "GKSU",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "ZDLN",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The pattern shows that each letter is shifted forward by 6 positions in the English alphabet. C(3)+6=I(9), G(7)+6=M(13), J(10)+6=P(16), K(11)+6=Q(17). Similarly, A(1)+6=G(7), E(5)+6=K(11), M(13)+6=S(19), O(15)+6=U(21), resulting in GKSU.",
+        "tanglish": "Alphabetical order la prathee letter ku 6 add senjurukanga. C ku 6 add senja G, E ku 6 add senja K, M ku 6 add senja S, O ku 6 add senja U varum. Adhanaala GKSU thaan answer."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "दी गई श्रृंखला में प्रश्नवाचक चिन्ह (?) के स्थान पर क्या आना चाहिए? 666 676 687 699 712 ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "726",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "724",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "722",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "730",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The series follows a pattern of increasing differences: 676-666=10, 687-676=11, 699-687=12, 712-699=13. The next difference should be 14, so 712+14=726.",
+        "tanglish": "Difference graduate aaguthe increase aaguthu: 10, 11, 12, 13. Next 14 thaan varum. 712 plus 14 equals 726."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "यदि '+' और '÷' को परस्पर बदल दिया जाए तथा '−' और '×' को परस्पर बदल दिया जाए, तो निम्नलिखित समीकरण में प्रश्न चिह्न (?) के स्थान पर क्या आएगा? 16 − 2 × 104 + 4 ÷ 20 =?",
+      "options": [
+        {
+          "id": "1",
+          "text": "26",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "37",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "29",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "33",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "After interchanging the operators: + becomes ÷, ÷ becomes +, - becomes ×, and × becomes -. The equation transforms to: 16 × 2 - 104 ÷ 4 + 20. Solving: 32 - 26 + 20 = 26.",
+        "tanglish": "Symbols exchange senja: plus ku divide, minus ku multiply maathina. Equation: 16 × 2 − 104 ÷ 4 + 20 = 32 − 26 + 20 = 26."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "दिए गए कथनों और निष्कर्षों को ध्यान से पढ़ें। यह मानते हुए कि कथनों में दी गई जानकारी सत्य है, भले ही वह सामान्य रूप से ज्ञात तथ्यों से भिन्न प्रतीत होती हो, तय करें कि दिए गए निष्कर्षों में से कौन-सा/से निष्कर्ष, कथनों का तार्किक रूप से अनुसरण करता है/करते हैं। कथन: सभी गीतकार, गायक हैं। कुछ गायक, लेखक हैं। कोई भी लेखक, संगीतकार नहीं है। निष्कर्ष: (I): कोई भी गीतकार, संगीतकार नहीं है। (II): कुछ लेखक, गीतकार हैं।",
+      "options": [
+        {
+          "id": "1",
+          "text": "निष्कर्ष (I) और (II) दोनों अनुसरण करते हैं",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "केवल निष्कर्ष (II) अनुसरण करता है",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "केवल निष्कर्ष (I) अनुसरण करता है",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "न तो निष्कर्ष (I) और न ही (II) अनुसरण करता है",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "From the given statements, we cannot conclude that no lyricist is a musician (I) because not all singers are necessarily writers who are not musicians. We also cannot conclude that some writers are lyricists (II) because the overlap between singers and writers might not include lyricists. Therefore, neither conclusion logically follows.",
+        "tanglish": "Statements vechchu paarkum podhu, conclusion I (yaarume lyricist musician illa) correct illa. Conclusion II (konnja writers lyricist) kum correct illa. Rendum follow seiyyathu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "दी गई श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आना चाहिए? 173 151 130 110 91 ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "64",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "78",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "56",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "73",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The series decreases with differences of 22 (173-151), 21 (151-130), 20 (130-110), 19 (110-91). Following this pattern, the next difference is 18, so 91-18=73.",
+        "tanglish": "Difference graduate kammi aaguthu: 22, 21, 20, 19. Next 18. 91 minus 18 equals 73."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "यदि शब्द OPERATOR के प्रत्येक अक्षर को अंग्रेजी वर्णमाला क्रम में व्यवस्थित किया जाए, तो कितने अक्षरों का स्थान अपरिवर्तित रहेगा?",
+      "options": [
+        {
+          "id": "1",
+          "text": "दो",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "एक का भी नहीं",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "When OPERATOR is rearranged in alphabetical order (A, E, O, O, P, R, R, T), none of the letters remain in their original positions from the original word O-P-E-R-A-T-O-R.",
+        "tanglish": "OPERATOR alphabetical order A-E-O-O-P-R-R-T maara podhu, erandha letter um adhe place la illai. Answer: onnume identify aagala."
+      }
+    }
+  ]
+}

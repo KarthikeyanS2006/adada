@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-Exe.-Paper-Held-on-14-Nov-2023-S1.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "When is Maha Shivaratri celebrated according to the Drik Panchang?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Magha, Krishna Paksha, Chaturdashi",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Ashadh, Krishna Paksha, Trayodashi",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Phalguna, Shukla Paksha, Ekadashi",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Chaitra, Shukla Paksha, Ekam",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "According to Drik Panchang, Maha Shivaratri is observed on the Chaturdashi (14th day) of Krishna Paksha (dark fortnight) in the month of Magha.",
+        "tanglish": "Drik Panchang panchaangathin Anusarithil, Maha Shivaratri Magha maadha Krishna paksha chaturdashi thithiyil acharikkappadugirathu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Which of the following Indian Olympians has written the autobiography titled 'Playing to Win'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Abhinav Bindra",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Saina Nehwal",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Lovlina Borgohain",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Karnam Malleswari",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Indian badminton player Saina Nehwal authored the autobiography 'Playing to Win' which documents her journey to becoming an Olympic bronze medalist.",
+        "tanglish": "Indiaiyar badminton varannar Saina Nehwal 'Playing to Win' endra than varalarai ezhuthiyulana, idhu Olympic pon matravalan annalai eduthukondadai paarkkirathu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Which of the following is/are the goals of five year plans?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Growth, Modernisation, and Equity only",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Growth only",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Growth, and Abolition of intermediaries",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Growth, Modernisation, Equity and Self-reliance",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The Five Year Plans in India aimed at four main objectives: Growth (increase in GDP), Modernisation (adoption of new technology), Equity (reduction of inequality), and Self-reliance (reducing dependence on imports).",
+        "tanglish": "Indiaavin Aindhu Varudha Thittangal nal mukkiyathuvangalai nanbiyangalaga kondulana: Valarchi, Pudhupithanam, Samathuvam matrum Suyam nirbharam."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Which of the following cultural festivals is organised by the Uttar Pradesh tourism department?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Taj Mahotsav",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Hampi Dance Utsav",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Natyanjali Utsav",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Nishagandhi Festival",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Taj Mahotsav is an annual cultural festival organized by the Uttar Pradesh Tourism Department in Agra, showcasing art, craft, music and dance.",
+        "tanglish": "Taj Mahotsav Uttar Pradesh sanchara toorimaral Aagravil aayojitham seyya pettrum aandu thoarvana panpattu vizha, idhu kalai, cheyal, isai matrum aadalgalai kattum."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Who among the following was the Prime Minister when the Globalisation Policy as part of 'New Economic Policy' was introduced?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Manmohan Singh",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "PV Narasimha Rao",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Narendra Modi",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Atal Bihari Vajpayee",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The New Economic Policy (NEP) introducing Liberalisation, Privatisation and Globalisation was implemented in 1991 when PV Narasimha Rao was the Prime Minister, with Dr. Manmohan Singh as Finance Minister.",
+        "tanglish": "Puthiya Selvamattu Thittam thunaipprivu, thunaiyatchi matrum ulagamayamakkathai 1991il aramseythappothu, PV Narasimha Rao aalasiaraga irunthar."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Which Article of the Indian Constitution deals with the Governor's assent to Bills?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Article 201",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Article 164",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Article 264",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Article 200",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Article 200 of the Indian Constitution specifies the procedure for the Governor's assent to Bills passed by the State Legislature, including the power to withhold assent or reserve the Bill for the President's consideration.",
+        "tanglish": "Bharatha arasiyal saatdam pathipan 200, maanila sutruchchabhaalai thurakapatta sattangalkku aachaariyin ruju seithal patri uraikkirathu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Which part of the food is defecated?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Vitamins in food",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Glucose in food",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Nutrients in food",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Unused food",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "During digestion, nutrients, vitamins and glucose are absorbed by the body, while the undigested or unused portion of food is eliminated as feces through defecation.",
+        "tanglish": "Parakkum poluthu, sulabangal, vitamin matrum glucose udampu erpaduthukkollum, oorumaikaagatha aahaara bhaagam malamaga veliyerukkirathu."
+      }
+    }
+  ]
+}

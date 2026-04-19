@@ -1,0 +1,187 @@
+{
+  "document_info": {
+    "exam_name": "Constable Executive Male and Female in Delhi Police Examination 2023"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Who among the following is NOT a tabla player?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Pannalal Ghosh",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Sabir Khan",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Zakir Hussain",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Sandeep Das",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Pannalal Ghosh was a renowned flautist (bansuri player), not a tabla player. Zakir Hussain, Sabir Khan, and Sandeep Das are all famous tabla players.",
+        "tanglish": "Pannalal Ghosh periya bansuri vaasippaar, tabla vaasippaar alla. Zakir Hussain, Sabir Khan, Sandeep Das ellaarum periya tabla vaasippargal."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "जतिन गोस्वामी, जिन्हें संगीत नाटक अकादमी फैलोशिप से सम्मानित किया गया था, _________ नृत्य शैली के प्रसिद्ध नर्तक हैं।",
+      "options": [
+        {
+          "id": "1",
+          "text": "कथक",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "छऊ",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "मणिपुरी",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "सत्रिया",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Jatin Goswami is a renowned exponent of the Sattriya dance form, which originated in Assam. He was honored with the Sangeet Natak Akademi Fellowship.",
+        "tanglish": "Jatin Goswami Sattriya natanathilir pugazhndha natar. Avarukku Sangeet Natak Akademi Fellowship viruthu kidaithadhu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "The melting point of a solid is defined as:",
+      "options": [
+        {
+          "id": "1",
+          "text": "the minimum temperature at which the solid melts to become liquid at the atmospheric pressure",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "the minimum temperature at which the solid melts to become liquid at a high pressure",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "the minimum temperature at which the solid melts to become liquid at a low pressure",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "the maximum temperature at which the solid melts to become liquid at atmospheric pressure",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The melting point is defined as the temperature at which a solid changes to liquid at standard atmospheric pressure (1 atm). It is the minimum temperature for this phase change at standard pressure.",
+        "tanglish": "Karaiyum nilai endrathu oru padaithan atmospheric pressure-il uraindhu neer aagum mininum thanmaanam."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Who among the following has played the highest number of ODI matches as the Captain of the Indian cricket team, as of 2021?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Mahendra Singh Dhoni",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Kapil Dev",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Sachin Ramesh Tendulkar",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Virat Kohli",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "As of 2021, Mahendra Singh Dhoni has captained India in 200 ODI matches, which is the highest for any Indian captain. Sachin Tendulkar captained in 73 ODIs.",
+        "tanglish": "2021 varai MS Dhoni 200 ODI vilayattukkalil India-kaga captain-aaga vilaiyandhu record seithaar."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Which of the following schedules vests additional discretionary powers to the Governors of Mizoram and Tripura?",
+      "options": [
+        {
+          "id": "1",
+          "text": "6th Schedule",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "4th Schedule",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "5th Schedule",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "7th Schedule",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Sixth Schedule under Article 244 provides special provisions for the administration of tribal areas in Assam, Meghalaya, Tripura and Mizoram and vests additional discretionary powers to the Governors of these states.",
+        "tanglish": "6-aavadhu Schedule Article 244-kil ullathu. Idhu tribal areas-kaga vishesh urimaigal kodukkum. Mizoram matrum Tripura governors-kku discretionary powers kodukkum."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "विभाजन की कठोर वास्तविकताओं पर आधारित उपन्यास 'कितने पाकिस्तान' के उपन्यासकार ________ हैं।",
+      "options": [
+        {
+          "id": "1",
+          "text": "फणीश्वर नाथ रेणु",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "कमलेश्वर",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "काशी नाथ सिंह",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "मुंशी प्रेमचंद",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "'Kitne Pakistan' is a famous Hindi novel written by Kamleshwar, which deals with the harsh realities of the Partition of India.",
+        "tanglish": "'Kitne Pakistan' endra novel-ai Kamleshwar ezhuthinar. Idhu India-Pakistan vibhajathin kadasiya unmaigalai patriya novel."
+      }
+    }
+  ]
+}

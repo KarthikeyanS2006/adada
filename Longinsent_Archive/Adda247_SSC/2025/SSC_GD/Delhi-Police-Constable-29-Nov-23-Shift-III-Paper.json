@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-29-Nov-23-Shift-III-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "अल्लाह रक्खा, साबिर खान, पंडित किशन महाराज, पंडित ज्ञान प्रकाश घोष और संदीप दास निम्नलिखित में से किस वाद्य यंत्र के प्रसिद्ध वादक हैं?",
+      "options": [
+        {
+          "id": "1",
+          "text": "तबला",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "मृदंगम",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "पखवाज",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "घटम",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "These artists are renowned exponents of the Tabla, a percussion instrument central to Hindustani classical music.",
+        "tanglish": "Ivarghal ellam Hindustani klassiscal sangeethathil mukkiyamana thabala vaadhiyathil velundhadhu petra kalaijnargal."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "राष्ट्रीीय आय लेखांकन की किस पद्धति में उत्पादन केंद्रोंों को प्राथमिक, द्वितीयक और तृतीयक क्षेत्रोंों में वर्गीकृत करना शामिल है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "अवशिष्ट उपागम",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "उत्पादन उपागम",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "आय उपागम",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "व्य उपागम",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Production Approach classifies economic activities into primary, secondary, and tertiary sectors to calculate national income.",
+        "tanglish": "Utpadan muraiyil, desiya varambu kanakku seivadhardhardhaka hardhathai mudal, irandam, moonram vagaiyaga punithu kollappadum."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Which Indian state has the world's longest highway tunnel (as of July 2023)?",
+      "options": [
+        {
+          "id": "1",
+          "text": "West Bengal",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Himachal Pradesh",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Gujarat",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Rajasthan",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Himachal Pradesh houses the Atal Tunnel (Rohtang), which is the longest highway tunnel in India and the world above 10,000 feet.",
+        "tanglish": "Himachal Pradeshil ulla Atal Tunnel, Indiaavil mattum illamal 10,000 adi meel ulla ulagin neelamana highway tunnel."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "निम्नलिखित में से कौन 1867 में स्थापित एक सुधारवादी समाज 'प्रार्थना समाज' से संबंधित नहीं है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "बाल गंगाधर तिलक",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "आर. जी. भंडारकर",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "गोविन्द रानाडे",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "आत्माराम पांडुरंग",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Bal Gangadhar Tilak was a nationalist leader not associated with the Prarthana Samaj, whereas the others were its founders or prominent members.",
+        "tanglish": "Bal Gangadhar Tilak, Prarthana Samaj oda uravu illatha desiya thalaivar; matravargal andha sangathin arpudhalalar alladhu pagudhargal."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "According to Census 2011, which union territory has the highest male literacy rate?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Delhi",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Daman & Diu",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Lakshadweep",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Puducherry",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "According to the 2011 Census data, Lakshadweep recorded the highest male literacy rate among all Union Territories of India.",
+        "tanglish": "2011 Census padhivugal prakaram, India ookkumia nadaagangalil Lakshadweepil aan padicharivu visadam athigam."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Which of the following Schedules of the Constitution of India have immunity from Judicial Review?",
+      "options": [
+        {
+          "id": "1",
+          "text": "4th",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "6th",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "10th",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "9th",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The 9th Schedule was added by the 1st Constitutional Amendment to protect certain laws, particularly land reforms, from being challenged in courts.",
+        "tanglish": "9avadhu Schedule, nilathathu seirpeetal matrum konjha seithigalukku nyaayasthanathil poraadi padhandhadhai kappaaga serthukondadhu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "The Mahabodhi Temple is in which of these states?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Uttar Pradesh",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Bihar",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Chhattisgarh",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Madhya Pradesh",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Mahabodhi Temple Complex is a UNESCO World Heritage Site located in Bodh Gaya, Bihar, where Lord Buddha attained enlightenment.",
+        "tanglish": "Mahabodhi kovil complex, Bihar ulla Bodh Gayaavil ulladhu; inge Prabu Buddha gnaanam adaindhaar."
+      }
+    }
+  ]
+}

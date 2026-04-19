@@ -1,0 +1,187 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-17-Nov-23-Shift-II-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Which of the following festivals is celebrated primarily by the Parsi Community?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Songkran",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Milad-un-Nabi",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Deepawali",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Jashan-e-Mihragan",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Jashan-e-Mihragan (also known as Mehregan) is an important festival celebrated by the Parsi community, who follow Zoroastrianism. Songkran is a traditional Thai festival, Milad-un-Nabi is celebrated by Muslims to commemorate the birth of Prophet Muhammad, and Deepawali is a major Hindu festival of lights.",
+        "tanglish": "Jashan-e-Mihragan endha vizha Parisi samudhaya aalgal vizhukkindra mukkiyamana vizha. Songkran Thai nadu vizha, Milad-un-Nabi Muslimkal vizha, Deepawali Hindu samaya vizha."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Which of the following was NOT an effect of devaluation of the rupee in 1991 to make an international adjustment of Indian currency?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Increased imports",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Increased exports",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Raised the influx of foreign capital",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Decreased imports",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Currency devaluation makes domestic goods cheaper for foreign buyers (increasing exports) and foreign goods more expensive for domestic buyers (decreasing imports). It also attracts foreign capital due to cheaper asset prices. Therefore, increased imports is not an effect of devaluation.",
+        "tanglish": "Rupai devaluation seidhal export kal vilai kammi aagum, import kal vilai athigamagum. Athanal import kammi aagum, mila vilaiyal foreigners invest seivadhal foreign capital inflow athigamagum. Idu than increased imports effect illa."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "How many writs are guaranteed under Article 32 of the Indian Constitution?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Six",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Five",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Four",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Seven",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Article 32 of the Indian Constitution guarantees five types of writs: Habeas Corpus, Mandamus, Prohibition, Certiorari, and Quo Warranto. This article is considered the 'soul of the Constitution' by Dr. B.R. Ambedkar as it provides the right to constitutional remedies.",
+        "tanglish": "Article 32 Indian Constitution il 5 vidha writs guarantee seyyappattullana. Avai: Habeas Corpus, Mandamus, Prohibition, Certiorari, Quo Warranto. Dr. B.R. Ambedkar idai Constitution in soul endru sonnar."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Who was the author of the book titled 'Poverty and Un-British Rule in India'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Sardar Vallabhbhai Patel",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Dadabhai Naoroji",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Mahatma Gandhi",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Subhash Chandra Bose",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Dadabhai Naoroji wrote the book 'Poverty and Un-British Rule in India' in 1901, where he propounded the theory of 'Drain of Wealth' from India to Britain. He was a prominent nationalist leader and the first Indian to become a Member of Parliament in Britain.",
+        "tanglish": "Dadabhai Naoroji than 1901 il 'Poverty and Un-British Rule in India' puthagathai ezhuthinar. Idhil Drain of Wealth theory solli irukkar. Avar prominent nationalist, Britain Parliament il poye first Indian MP aanaar."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Vijayalaya, who belonged to the ancient chiefly family of the Cholas from Uraiyur, captured the delta from the Muttaraiyar in the middle of the 9th century and built the town of ______________.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Kanchipuram",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Thanjavur",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Vengi",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Darasuram",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Vijayalaya, the founder of the Imperial Chola dynasty, captured the Kaveri delta from the Muttaraiyars in the mid-9th century and established the town of Thanjavur (Tanjore) as his capital, building the famous Brihadeeswarar Temple.",
+        "tanglish": "Vijayalaya Imperial Chola dynasty thondaiyavar. 9th century il Muttaraiyar idam irundhu Kaveri delta ai kavalooti Thanjavur nagarai thalaivar sthalamaka kattinar. Ivan than famous Brihadeeswarar Temple kattan."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Totaram Sharma, Pandit Ayodhya Prasad, Gopal Das and Babu Ram Shanker Pagaldas are noted players of which of the following instruments?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Sarod",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Pakhawaj",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Mridangam",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Sarangi",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Totaram Sharma, Pandit Ayodhya Prasad, Gopal Das and Babu Ram Shanker Pagaldas are renowned Sarangi players. The Sarangi is a bowed, short-necked string instrument used in Hindustani classical music, known as one of the closest instruments to the human voice.",
+        "tanglish": "Ivarghal ellam famous Sarangi vaadhiyaarhal. Sarangi endhavadhu bowed string instrument, Hindustani classical music mila payagiradhu. Idhu manushan voice ku miga samaneenamaana vaadhiyam endru solvadhar."
+      }
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-Constable-6-2-2025-Evening-Shift-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Seven persons E, F, G, H, K, L and N are sitting around a circular table facing the center (not necessarily in that order). Only three persons sit between G and K. L sits immediately to the left of K. No one sits to the right of E. Only two persons sit between E and L. N sits immediately to the right of H. How many persons sit between F and N?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Four",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Three",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "One",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Two",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Arranging step-by-step: L is immediately left of K. G and K have exactly 3 persons between them. E and L have exactly 2 persons between them. E has no one to the right (which helps fix E's position relative to the circle). N is immediately right of H. Following these constraints, the circular order is determined as (clockwise): E-L-K-G-H-N-F (or equivalent rotation). Between F and N, there are exactly two persons (H and the one between depending on direction, specifically counting the shorter arc gives two persons).",
+        "tanglish": "Vattura mez amaippai padu-pada vacha: L, K-kku idathu pakkathil irukaar. G um K um naduvula moondru per. E um L um naduvila irandu per. E-kku valathu pakkathil yaarum illai (indha clue vechhu E-noda position confirm panna mudiyum). N, H-kku valathu pakkathil irukaar. Indha mudivugalai vachu arrange pannum bodhu, F um N um naduvila irandu per irukaradhaaga kandupidikkalaam."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "What should come in place of the question mark (?) in the given number series? 22, 27, 37, 52, 72, ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "98",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "94",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "97",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "100",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The pattern adds consecutive multiples of 5: 22+5=27, 27+10=37, 37+15=52, 52+20=72, therefore 72+25=97.",
+        "tanglish": "Series-la difference paarunga: 27-22=5, 37-27=10, 52-37=15, 72-52=20. Pattern prakaram next difference 25. 72+25=97."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "In a certain code language, 'HALF' is coded as '1059' and 'LATH' is coded as '9750'. What is the code for 'T' in that code language?",
+      "options": [
+        {
+          "id": "1",
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "7",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "5",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Comparing the codes: HALF uses digits {1,0,5,9} and LATH uses digits {9,7,5,0}. The common letters H, A, L must correspond to the common digits {0,5,9}. Therefore, the remaining letter in HALF is F which must be 1, and the remaining letter in LATH is T which must be 7.",
+        "tanglish": "HALF (1059) matrum LATH (9750) code-compare pannum bodhu, common letters H, A, L-kku common digits {0,5,9} endru kandupidikalam. Appadi paartha, HALF-la irukkum F-kku 1, LATH-il irukkum T-kku 7 endru badhil kidaikkum."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "D, L, P, Q and E are sitting around a circular table facing the center (not necessarily in that order). Q and E both have P as their nearest neighbor. L sits immediately to the left of E. Both P and D have Q as their nearest neighbor. Who are the immediate neighbors of D?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Q and P",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "E and L",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Q and L",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "P and E",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "From the clues: Q and E both have neighbor P, forming the sequence Q-P-E or E-P-Q. L is immediately left of E. Both P and D have neighbor Q, forming D-Q-P or P-Q-D. Combining these gives the circular arrangement: D-Q-P-E-L. Therefore, D's immediate neighbors are Q and L.",
+        "tanglish": "Kodutha mudivugalai vachu: D-Q-P-E-L nu vattura amaippu varum. Idhula D-kku ataikkaatta padosigal (immediate neighbours) Q and L aagum."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Identify the figure from the options that will replace the question mark (?) to complete the series logically. [Figure not available in text]",
+      "options": [
+        {
+          "id": "1",
+          "text": "Option 1",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Option 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Option 3",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Option 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Figure series completion based on visual pattern rotation, reflection or progression. [Detailed explanation requires visual figure]",
+        "tanglish": "Figure series-la pattern rotation, reflection illai progression paarthu answer choose pannanum. [Complete explanation-kku diagram vendum]"
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Given statements: All colors are red. All colors are black. All colors are paint. Conclusions: (I) All red are paint. (II) Some paint are black.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Only conclusion (II) follows",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Only conclusion (I) follows",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Both conclusions follow",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Neither conclusion follows",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Analyzing the syllogism: All colors are red (Colors ⊂ Red), All colors are paint (Colors ⊂ Paint), All colors are black (Colors ⊂ Black). Conclusion I (All red are paint) is invalid as Red set could be larger than Colors. Conclusion II (Some paint are black) is valid because the Colors set (which is non-empty) is contained in both Paint and Black, making their intersection non-empty.",
+        "tanglish": "Syllogism vachu paartha: Ellaa rangum red, black, paint-a iruku. Mudivu I (Ellaa red-um paint-a?) sari illai, seyyum hadi-kku irukalam. Mudivu II (Sila paint black-a?) sari, ennavendral rang ellaa black-um paint-um aagumbodhu avai intersection illaiyendru solla mudiyathu."
+      }
+    }
+  ]
+}

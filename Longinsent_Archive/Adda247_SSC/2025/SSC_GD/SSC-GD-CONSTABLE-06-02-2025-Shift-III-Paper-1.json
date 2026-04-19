@@ -1,0 +1,127 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-CONSTABLE-06-02-2025-Shift-III-Paper-1.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "A dice has its faces marked by letters A, B, C, D, E and F. Two different positions of the same dice are shown. Select the letter that will be on the face opposite to the one having D?",
+      "options": [
+        {
+          "id": "1",
+          "text": "F",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "A",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "B",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "E",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "By analyzing the two different positions of the dice shown in the figure, we can determine the adjacent faces to D. The letter that does not appear adjacent to D in either position and follows the rule that opposite faces never appear together in adjacent positions is F.",
+        "tanglish": "Die oda rendu different positions paathu D ku edhu edhu letters adjacent nu paakanum. Opposite faces rendum adjacent aa same position la varadhu. Adhanaala D ku opposite F irukku."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Identify the figure given in the options which when put in place of the question mark (?) will logically complete the series.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Option 1 (Figure)",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Option 2 (Figure)",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Option 3 (Figure)",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Option 4 (Figure)",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The figure series follows a specific pattern of rotation, reflection, or progressive change in elements. By identifying the transformation rule from the given sequence, option 1 correctly completes the pattern.",
+        "tanglish": "Figure series la oru particular pattern irukku, rotation or element change maadhiri. Koduthirukkura figures la pattern kandupudichu, question mark ku option 1 thaan correct aa suit aagum."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "D, L, P, Q, and E are sitting in a circular table facing the centre (but not necessarily in the same order). P is an immediate neighbour of both Q and E. L is sitting to the immediate left of E. Q is an immediate neighbour of both P and D. Who are the immediate neighbours of D?",
+      "options": [
+        {
+          "id": "1",
+          "text": "P and E",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "E and L",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Q and L",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Q and P",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "From the given clues: P sits between Q and E; Q sits between P and D; L sits to the immediate left of E (clockwise direction). This forms the circular arrangement: D - Q - P - E - L (clockwise). Therefore, the immediate neighbours of D are Q and L.",
+        "tanglish": "Clues vechu arrange panna: P vanthu Q and E nadula, Q vanthu P and D nadula irukku. L vanthu E oda immediate left la (clockwise) irukku. Circular arrangement: D - Q - P - E - L nu varum. Adhanaala D oda neighbours Q and L."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "MC 5 is related to PF 10 in a certain way. In the same way, HQ 20 is related to KT 25. To which of the following is JW 30 related, following the same logic?",
+      "options": [
+        {
+          "id": "1",
+          "text": "KX 30",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "MZ 35",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "LY 35",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "MV 35",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The logic involves adding +3 to the position of each letter in the alphabet (M=13→P=16, C=3→F=6, H=8→K=11, Q=17→T=20) and adding +5 to the number (5→10, 20→25). Applying this to JW 30: J(10)+3=M(13), W(23)+3=Z(26), 30+5=35. Result is MZ 35.",
+        "tanglish": "Logic paatha letters ku +3 add pannanum (M+3=P, C+3=F) numbers ku +5 add pannanum. JW 30 ku apply panna: J(10)+3=M, W(23)+3=Z, 30+5=35. Adhanaala answer MZ 35."
+      }
+    }
+  ]
+}

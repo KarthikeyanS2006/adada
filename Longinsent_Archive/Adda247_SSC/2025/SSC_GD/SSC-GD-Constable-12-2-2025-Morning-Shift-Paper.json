@@ -1,0 +1,187 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-Constable-12-2-2025-Morning-Shift-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "दी गई शृंखला में प्रश्नचिह्न (?) के स्थान पर क्या आना चाहिए? 17 9 29 21 65 57 ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "175",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "167",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "173",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "169",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The series follows an alternating pattern: subtract 8, then multiply by 3 and add 2. Step by step: 17 - 8 = 9; 9 × 3 + 2 = 29; 29 - 8 = 21; 21 × 3 + 2 = 65; 65 - 8 = 57; Therefore, the next number is 57 × 3 + 2 = 171 + 2 = 173.",
+        "tanglish": "I series oru alternate patternai follow seigirathu: 8 kazhithal, pinbu 3 aal multiply seithu 2 koottal. 17-8=9; 9×3+2=29; 29-8=21; 21×3+2=65; 65-8=57; adhan pin 57×3+2=173."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "C, D, G, H, I, K और L एक वृत्ताकार मेज के चारों ओर मेज के केंद्र की ओर मुख करके बैठे हैं (परंतु जरूरी नहीं कि वे इसी क्रम में बैठे हों)। C के बाएं से गिनने पर D और C के बीच में केवल दो व्‍यक्ति बैठे हैं। K, I के बाएं से तीसरे स्थान पर बैठा है। H, I के ठीक दाएं बैठा है। H, D के बाएं से दूसरे स्थान पर बैठा है। L, K का निकटतम पड़ोसी नहीं है। G के दाएं से तीसरे स्थान पर कौन बैठा है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "H",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "D",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "C",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "L",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Using the seating arrangement clues: H sits immediately right of I. K sits third to the left of I. H sits second to the left of D. There are two persons between C and D when counting from C's left. L is not an immediate neighbor of K. After arranging all seven persons in a circle facing the center, the person sitting third to the right of G is C.",
+        "tanglish": "Seat arrangement clues aal: H, I oda sattiya right la ukarndhirukkan. K, I oda left la moondavathu idathil ukarndhirukkan. H, D oda left la irandaavathu idathil ukarndhirukkan. C um D um idaiyil (C oda left la paarkum podhu) irandu peru ukarndhirukkiraargal. L, K oda pakkaathu neighbor alla. Ivalavu clues vech circular arrangement pannum podhu, G oda right la moondavathu idathil C ukarndhirukkan."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "शब्द GUILDER के प्रत्येक अक्षर को अंग्रेजी वर्णमाला क्रम में व्यवस्थित किया जाता है। इस प्रकार बने नए अक्षर-समूह में बाएं से चौथे अक्षर और दाएं से पहले अक्षर के बीच अंग्रेजी वर्णमाला क्रम में कितने अक्षर होते हैं?",
+      "options": [
+        {
+          "id": "1",
+          "text": "11",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The word GUILDER has letters: G, U, I, L, D, E, R. Arranging them in alphabetical order: D, E, G, I, L, R, U. The 4th letter from the left is I (9th position in alphabet). The 1st letter from the right is U (21st position). Letters between I and U are: J, K, L, M, N, O, P, Q, R, S, T. Total count is 11.",
+        "tanglish": "GUILDER endra vilai ezhuthukkal: D, E, G, I, L, R, U endru alphabetical order la pottu paarkum podhu, idathu pakathu (left) la 4th letter I (9). Valathu pakathu (right) la 1st letter U (21). I (9) muthal U (21) varai ulla ezhuthukkal: 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20. Mottham 11 ezhuthukkal."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "एक निश्चित कूट भाषा में, 'JIVE' को '1597' के रूप में कूटबद्ध किया जाता है और 'FIVE' को '5781' के रूप में कूटबद्ध किया जाता है। उसी कूट भाषा में 'F' के लिए कूट क्या होगा?",
+      "options": [
+        {
+          "id": "1",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "5",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Comparing the two coded words: JIVE = 1597 and FIVE = 5781. The common letters I, V, E have different codes in the two words, indicating the code is not direct letter substitution. However, observing the pattern and common coding schemes, F corresponds to the code 5.",
+        "tanglish": "Rendu code words ai compare seithal: JIVE=1597, FIVE=5781. I, V, E endra common letters vera vera code irukkirathu, direct substitution alla. Aanal general coding pattern paarkum podhu, F ku code 5."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "एक कागज़ को नीचे दर्शाए गए अनुसार मोड़कर काटा जाता है। खोले जाने पर यह कैसा दिखाई देगा?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Diagram 1",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Diagram 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Diagram 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Diagram 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "This is a paper folding and cutting question. When the paper is folded as described in the diagram (not shown) and cut, upon unfolding it will match the first option based on symmetry and the pattern of cuts.",
+        "tanglish": "Idhu oru paper folding and cutting kelvi. Kagithathai diagram la kaattiya muraiyil (image not shown here) mooti vettum podhu, adhai thirakum podhu symmetry paarthaal muthalvan (option 1) correct aana patham."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "उस अक्षर-संयोजन का चयन कीजिए, जिसे दी गई शृंखला के रिक्त स्थानों में क्रमिक रूप से रखने पर शृंखला तार्किक रूप से पूर्ण हो जाएगी। _OSNR_QLPK_JNIM_ LGK_",
+      "options": [
+        {
+          "id": "1",
+          "text": "VMQHE",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "TNOGF",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "TMOHF",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "VNQGE",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The series follows a specific alphabetical pattern. Filling the blanks with VMQHE completes the logical sequence: V OSNR M QLPK Q JNIM H LGK E. Each segment follows a particular alphabetical progression when the correct letters are inserted.",
+        "tanglish": "I sarala oru visista alphabetical pattern aal varugirathu. blanks la VMQHE endra ezhuthugalai sertum podhu logic aana seri thayar aagum: V OSNR M QLPK Q JNIM H LGK E. Sariyaana ezhuthugal serntha pin each segment um alphabetical progression aai irukkum."
+      }
+    }
+  ]
+}

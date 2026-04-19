@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-3-Dec-23-Shift-III-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Who among the following was NOT a gold medallist at the Commonwealth Games- 2022?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Naveen Kumar",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Ravi Dahiya",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Pooja Gehlot",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Vinesh Phogat",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "At the Commonwealth Games 2022, Ravi Dahiya won gold in men's freestyle wrestling (57kg) and Vinesh Phogat won gold in women's freestyle wrestling (53kg). Naveen Kumar won a silver medal in men's 74kg category, while Pooja Gehlot won a bronze medal in women's 50kg category. Therefore, Pooja Gehlot was not a gold medallist.",
+        "tanglish": "Commonwealth Games 2022-le, Ravi Dahiya aattralathil gold medalum, Vinesh Phogat aattralathil gold medalum vanginaargal. Naveen Kumar velli medalum vanginaar, aanaal Pooja Gehlot bronze medal thaan vanginaar. Adhanaal Pooja Gehlot gold medallist illa."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "WACA Cricket Ground is located in _______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Mumbai",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Perth",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "London",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Sydney",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "WACA stands for Western Australian Cricket Association. The WACA Ground is a major cricket stadium located in Perth, Western Australia, and has been a historic venue for international cricket matches.",
+        "tanglish": "WACA endraal Western Australian Cricket Association endru artham. Idhu Perth, Western Australia-le ulla oru cricket stadium. Idhu international cricket matches-kku pazhamaiyaana idam."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "The mob-burning of a police station in Chauri Chaura in 1922 brought about the end of the Non-Cooperation Movement. In which present-day state is Chauri Chaura located?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Bihar",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Punjab",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Haryana",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Uttar Pradesh",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The Chauri Chaura incident occurred on 4 February 1922 when a mob killed 22 policemen in Chauri Chaura, which is located in the Gorakhpur district of present-day Uttar Pradesh. Following this incident, Mahatma Gandhi suspended the Non-Cooperation Movement.",
+        "tanglish": "Chauri Chaura sambavam 1922-le nadandhadhu. Idhu ippozhuthu Uttar Pradesh-le ulla Gorakhpur district-le stithi seyyum. Idhai thudarnthu Gandhi Non-Cooperation Movement-ai niruththinaar."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "What is the general circulation of the atmosphere?",
+      "options": [
+        {
+          "id": "1",
+          "text": "The pattern of the movement of the surface winds.",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "The pattern of the movement of the planetary winds.",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "The pattern of the movement of the water.",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "The pattern of the movement of the energy.",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The general circulation of the atmosphere refers to the large-scale pattern of planetary winds (global wind systems) that distribute thermal energy across the Earth's surface. These include trade winds, westerlies, and polar easterlies.",
+        "tanglish": "Valkamalaiyin general circulation endrathu planetary winds-in periya alavu movement pattern ai koorum. Ithu trade winds, westerlies, polar easterlies-ai serththathu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "The term 'secular' was added to the Preamble of the Constitution of India by the 42nd Constitutional Amendment Act in the year ________.",
+      "options": [
+        {
+          "id": "1",
+          "text": "1978",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "1975",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "1974",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "1976",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The 42nd Constitutional Amendment Act, passed in 1976, added the words 'Socialist', 'Secular' and 'Integrity' to the Preamble of the Indian Constitution. This amendment is also known as the 'Mini Constitution'.",
+        "tanglish": "42nd Constitutional Amendment Act 1976-le, Indian Constitution-in preamble-le 'Socialist', 'Secular', 'Integrity' endra solgalai cherthaargal. Idhu 'Mini Constitution' endrum azhaikkappadum."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "During the Mughal period, what were the farmers called who cultivate their own land?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Zamindar",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Muzarain",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Khud kashta",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Pahi Kasht",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "During the Mughal period, 'Khud kashta' were peasants who owned and cultivated their own land. 'Pahi Kasht' were tenant farmers who cultivated land owned by others. Zamindars were revenue collectors or landlords.",
+        "tanglish": "Mughal kaalam-le, sondha nilathai velanju vazhndha vivasaayigalai 'Khud kashta' endru solluvaargal. Pahi Kasht endrathu verorin nilathai velanjudhavargal, Zamindar endrathu nilathai varikootuvavar."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "In which of the following sessions of the Indian National Congress was the demand for 'Swaraj' put forward for the first time?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Calcutta",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Bombay",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Bankipur",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Karachi",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Indian National Congress session held in Calcutta in 1906, presided by Dadabhai Naoroji, was the first to demand 'Swaraj' or self-government. This was later elaborated as 'Purna Swaraj' (Complete Independence) in the 1929 Lahore session.",
+        "tanglish": "1906-le Calcutta-le nadanda Indian National Congress koottam, Dadabhai Naoroji adhyakshathuvathile, mudhal muraiyaaga 'Swaraj' koorikkai eduththadhu. Idhu pinbu 1929 Lahore koottathile 'Purna Swaraj' endru velipaduthappattadhu."
+      }
+    }
+  ]
+}

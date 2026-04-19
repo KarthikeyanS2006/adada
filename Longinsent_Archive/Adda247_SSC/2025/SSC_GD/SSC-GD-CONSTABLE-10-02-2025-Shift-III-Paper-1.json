@@ -1,0 +1,247 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-CONSTABLE-10-02-2025-Shift-III-Paper-1.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "ERHT is related to BLEN in a certain way based on the English alphabetical order. In the same way, XSNR is related to UMKL. To which of the given options is DIOQ related, following the same logic?",
+      "options": [
+        {
+          "id": "1",
+          "text": "VHMY",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "GHPR",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "HBGP",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "ACLK",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The logic follows alternating subtraction of 3 and 6 from each letter's position. First letter -3, second -6, third -3, fourth -6. For ERHT: E(5)-3=B(2), R(18)-6=L(12), H(8)-3=E(5), T(20)-6=N(14). Applying to DIOQ: D(4)-3=A(1), I(9)-6=C(3), O(15)-3=L(12), Q(17)-6=K(11), resulting in ACLK.",
+        "tanglish": "English alphabetical orderil, eluthugal idam erpaduthipadithaal mudhal eluthil 3 matrum 6 endra vaariyaga kuraiyapadugiradhu. DIOQ ku ingu: D(4)-3=A(1), I(9)-6=C(3), O(15)-3=L(12), Q(17)-6=K(11). Aagave ACLK."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Each letter in the word KNIFERS is arranged in the English alphabetical order. How many letters are there in the English alphabetical order between the letter which is second from the left end and the one which is third from the right end in the new letter-cluster thus formed?",
+      "options": [
+        {
+          "id": "1",
+          "text": "7",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Alphabetical order of KNIFERS is E, F, I, K, N, R, S. Second from left is F(6). Third from right is N(14). Letters between F and N are G, H, I, J, K, L, M (7 letters).",
+        "tanglish": "KNIFERS eluthugalai alphabetical orderil amaikkum pozhuthu E, F, I, K, N, R, S endru varum. Idathil(Intkuthil) mudhal idathu 2-am eluthu F(6) matrum valathu idathu 3-am eluthu N(14). F(6) matrum N(14) idaiyil 7 eluthukkal (G, H, I, J, K, L, M) ullana."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "What will come in the place of the question mark (?) in the following equation, if '+' and '÷' are interchanged and '−' and '×' are interchanged? 9 − 4 × 58 + 2 ÷ 22 =?",
+      "options": [
+        {
+          "id": "1",
+          "text": "29",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "32",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "25",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "35",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "After interchanging operators: '−' becomes '×', '×' becomes '−', '+' becomes '÷', '÷' becomes '+'. The expression becomes 9 × 4 − 58 ÷ 2 + 22. Using BODMAS: 36 − 29 + 22 = 29.",
+        "tanglish": "Kuralthal matrum varakkalai mattipadal seithal (+ matrum ÷, - matrum ×), eporul 9 × 4 - 58 ÷ 2 + 22 endru maarum. BODMAS muraiyil kanakkidum pozhuthu: 36 - 29 + 22 = 29."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "What should come in place of the question mark (?) in the given series based on the English alphabetical order? RFG THI VJK XLM ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "ZNP",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "YNO",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "ZMO",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "ZNO",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Each letter increases by +2. R(18)→T(20), F(6)→H(8), G(7)→I(9). Similarly, X(24)→Z(26), L(12)→N(14), M(13)→O(15), giving ZNO.",
+        "tanglish": "Oraiyil oru eluthum alphabetil 2 idangal munnetra varisaiyil ulldadhu. R(18)→T(20), F(6)→H(8), G(7)→I(9). Adanaaga, X(24)→Z(26), L(12)→N(14), M(13)→O(15). Theervu ZNO."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "In a certain code language, 'A + B' means 'A is the daughter of B', 'A – B' means 'A is the brother of B', 'A × B' means 'A is the wife of B' and 'A ÷ B' means 'A is the father of B'. Based on the above, how is P related to T if 'P + Q – R × S ÷ T'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Mother's brother's wife",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Mother's brother's daughter",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Brother's wife",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Brother's daughter",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "S ÷ T means S is father of T. R × S means R is wife of S (mother of T). Q – R means Q is brother of R (maternal uncle of T). P + Q means P is daughter of Q. Therefore, P is the daughter of T's mother's brother.",
+        "tanglish": "S ÷ T endrathaal S aanavar T in thandhai. R × S endrathaal R aanavar S in manaivi, adhanpayan T in thaai. Q – R endrathaal Q aanavar R in sagotharan, adhanpayan T in maaman (thai sagotharan). P + Q endrathaal P aanavar Q in magal. Aagave P endravan T in thai sagothararin magal."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Based on the English alphabetical order, three of the following four letter-clusters are alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to that group?",
+      "options": [
+        {
+          "id": "1",
+          "text": "CEF",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "UWY",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "RTU",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "GIJ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "CEF (C→E +2, E→F +1), RTU (R→T +2, T→U +1), GIJ (G→I +2, I→J +1) follow +2, +1 pattern. UW Y follows +2, +2 (U→W +2, W→Y +2).",
+        "tanglish": "CEF (+2,+1), RTU (+2,+1), GIJ (+2,+1) endravai ore muraiyil ulladhu. UW Y matram vera patternil (+2,+2) ulladhu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Select the Venn diagram that best illustrates the relationship between the following classes. Sister, Brother, Friend",
+      "options": [
+        {
+          "id": "1",
+          "text": "Venn diagram showing Sister and Brother as disjoint sets with Friend overlapping both",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Venn diagram showing Sister as subset of Brother",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Venn diagram showing Friend as disjoint from Sister and Brother",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Venn diagram showing Sister and Brother overlapping",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Sister and Brother are mutually exclusive categories (different genders of siblings) but both can be Friends with someone. Therefore, the correct Venn shows Sister and Brother as separate/non-overlapping circles with the Friend circle intersecting both.",
+        "tanglish": "Sister matrum Brother endravai veraveru vaguppugal (aan/pen sagothararga) aanalum rendukoorum Friend vaguppu oththuvarum. Aagave rendum oththuvaratha vaguppagalaga, Friend varunthu rendayum oththuvara padiyana Venn diagram sariyana theervu."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "What should come in place of the question mark (?) in the given series? 879 880 883 888 895 ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "903",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "902",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "904",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "901",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The differences between consecutive terms are consecutive odd numbers: 880-879=1, 883-880=3, 888-883=5, 895-888=7. The next difference is 9, so 895+9=904.",
+        "tanglish": "Pin varum thogaiyil irunthu vethipatugal 1, 3, 5, 7 endra thowthu eluthu vithyasangal. Agada adutha vithyasam 9, aagave 895 + 9 = 904."
+      }
+    }
+  ]
+}

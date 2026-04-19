@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-Constable-10-2-2025-Evening-Shift-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "एक कागज को नीचे दर्शाए गए अनुसार मोड़कर पंच किया (punched) जाता है। खोले जाने पर यह कैसा दिखाई देगा?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Visual diagram - Option 1",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Visual diagram - Option 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Visual diagram - Option 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Visual diagram - Option 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "This is a paper folding and punching visualization question. The answer depends on how the paper is folded (direction and layers) and where the punch is made. When unfolded, the punch holes will appear symmetrically based on the fold lines.",
+        "tanglish": "Ithu oru paper folding matrum punching visualization kelvi. Paper epadi fold seyyappattirukkirathu endrum punch evvidam seyyappattirukkirathu endrum poruthu answer maariyathu. Sheet'ai oorgaiyil thorakum pozhuthu punch holes symmetric'aaga theriyum."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "अंग्रेजी वर्णमाला क्रम के आधार पर ERHT एक निश्चित प्रकार से BLEN से संबंधित है। XSNR ठीक उसी प्रकार UMKL से संबंधित है। उसी तर्क का अनुसरण करते हुए DIOQ दिए गए विकल्पों में से किससे संबंधित है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "HBGP",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "ACLK",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "GHPR",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "VHMY",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The pattern follows subtraction of positions in the English alphabet. ERHT to BLEN: E(5)-3=B(2), R(18)-6=L(12), H(8)-3=E(5), T(20)-6=N(14). Following the same -3, -6, -3, -6 pattern for DIOQ: D(4)-3=A(1), I(9)-6=C(3), O(15)-3=L(12), Q(17)-6=K(11). Therefore, the code is ACLK.",
+        "tanglish": "English alphabet order'il indha pattern -3, -6, -3, -6 endra kuraipeadi varugirathu. ERHT illirunthu BLEN ku: E(5)-3=B(2), R(18)-6=L(12), H(8)-3=E(5), T(20)-6=N(14). Athaip pol DIOQ ku: D(4)-3=A(1), I(9)-6=C(3), O(15)-3=L(12), Q(17)-6=K(11). Aanal ACLK thaan correct answer."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "आठ व्यक्ति दो समानांतर पंक्तियों में बैठे हैं जिनमें से प्रत्येक पंक्ति में 4 व्यक्ति इस प्रकार बैठे हैं कि आसन्न व्यक्तियों के बीच की दूरी समान है। पंक्ति 1 में - N, O, T और E बैठे हैं और उन सभी का मुख दक्षिण की ओर है। पंक्ति 2 में - D, A, M और S बैठे हैं और उन सभी का मुख उत्तर की ओर है। इस प्रकार, पहली पंक्ति के प्रत्येक व्यक्ति का मुख दूसरी पंक्ति के किसी अन्य व्यक्ति की ओर है। S के दाईं ओर कोई नहीं बैठा है। N के दाईं ओर कोई नहीं बैठा है। S और A के बीच में केवल एक व्यक्ति बैठा है। O, T के बाईं ओर दूसरे स्थान पर बैठा है। M, E के सम्‍मुख नहीं है। निम्नलिखित में से कौन-सा विकल्प, एक-दूसरे के सम्‍मुख बैठे दोनों व्यक्तियों को निरूपित करता है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "N और D",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "T और M",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "E और A",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "O और S",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "From the conditions: Row 1 (South facing): Positions 1-4 from left to right. N is at extreme right (position 4) as no one to his right. O is 2nd to left of T. Arrangement: O _ T N or _ O _ T N etc. With O 2nd to left of T and N at right end: O _ T N. Remaining E goes to position 2: O E T N. Row 2 (North facing): S at extreme right (no one to his right), so position 4. One person between S and A means A is at position 2. Remaining D and M at positions 1 and 3. M is not opposite E (E is at position 2 in row 1), so M is not at position 2 in row 2 (already A). Actually M is opposite position 3 in row 1 which is T. D is opposite O. So arrangement: Row 1: O(1) E(2) T(3) N(4), Row 2: D(1) A(2) M(3) S(4). Opposite pairs: O-D, E-A, T-M, N-S. Therefore T and M sit opposite each other.",
+        "tanglish": "Conditions'ai vachu arrange seithaal: Row 1 (South facing): Valathu moolai N irukkanum (avalavu right'il yaarum illai). O, T'in left'il 2nd place'il irukkanum. Arrangement: O, E, T, N. Row 2 (North facing): Valathu moolai S, A and S'idaiyil oruthan matram. Arrangement: D, A, M, S. M, E'kku opposite illai, aanal E position 2, M position 3 (T opposite). T matrum M thaan opposite."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "शब्द KNIFERS के प्रत्येक अक्षर को अंग्रेजी वर्णमाला क्रम में व्यवस्थित किया जाता है। इस प्रकार बने नए अक्षर-समूह में बाएं से दूसरे अक्षर और दाएं से तीसरे अक्षर के बीच अंग्रेजी वर्णमाला क्रम में कितने अक्षर होते हैं?",
+      "options": [
+        {
+          "id": "1",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "7",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The word KNIFERS has letters: K, N, I, F, E, R, S. Arranged alphabetically: E, F, I, K, N, R, S. Second from left is F. Third from right is N (positions from right: S(1), R(2), N(3)). Letters between F and N in alphabetical order: G, H, I, J, K, L, M. Total count is 7.",
+        "tanglish": "KNIFERS vaarththiyai alphabetical order'il arrange seithaal: E, F, I, K, N, R, S. Valathilirunthu 2nd letter F. Valathilirunthu 3rd (edathilirunthu 3rd) letter N. F'ku appuram N'ku munnam varum eluthukkal: G, H, I, J, K, L, M. Mottham 7 eluthukkal."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "अँग्रेजी वर्णानुक्रम के आधार पर दी गई शृंखला में प्रश्न-चिह्न (?) के स्थान पर क्या आएगा? RFG THI VJK XLM ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "ZNP",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "ZNO",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "YNO",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "ZMO",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Analyzing the series: R to T is +2, F to H is +2, G to I is +2. Then T to V (+2), H to J (+2), I to K (+2). Pattern continues with +2 for each letter. XLM next: X+2=Z, L+2=N, M+2=O. Result is ZNO.",
+        "tanglish": "Ithu +2 pattern. Ella letter'um English alphabet'il 2 position/kal kondu move seiyappattu varugirathu. XLM ku appuram: X+2=Z, L+2=N, M+2=O. ZNO thaan answer."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "किसी निश्चित कूट भाषा में, ‘FILE’’ को ‘6312' के रूप में कूट बद्ध किया जाता है और ‘LIVE' को ‘3241’ के रूप में कूट बद्ध किया जाता है। दी गई कूट भाषा में ‘V' को किस प्रकार कूट बद्ध किया जाएगा?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Comparing FILE (6312) and LIVE (3241): Common letters are I, L, E. In FILE: F=6, I=3, L=1, E=2. In LIVE: L=3, I=2, V=4, E=1. By comparing positions, I appears as 3 in FILE and 2 in LIVE (different), L appears as 1 in FILE and 3 in LIVE, E appears as 2 in FILE and 1 in LIVE. However, looking at letter values: V is coded as 4 in the word LIVE.",
+        "tanglish": "FILE (6312) matrum LIVE (3241)'ai compare seiya: LIVE'il V 4 endru kodukkappattullathu. Ans 4."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "अंग्रेजी वर्णमाला क्रम के आधार पर, निम्नलिखित चार अक्षर-समूहों में से तीन एक निश्चित प्रकार से समान हैं और इस प्रकार एक समूह बनाते हैं। वह कौन-सा अक्षर-समूह है जो उस समूह से संबंधित नहीं है? (ध्यान दें: असंगत अक्षर-समूह, उस अक्षर-समूह में व्यंजनों/स्वरों की संख्या या उनके स्थान पर आधारित नहीं है।)",
+      "options": [
+        {
+          "id": "1",
+          "text": "RTU",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "UWY",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "GIJ",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "CEF",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Pattern analysis: RTU (R+2=T, T+1=U), GIJ (G+2=I, I+1=J), CEF (C+2=E, E+1=F). All follow +2, +1 pattern. UWY follows U+2=W, W+2=Y (which is +2, +2), making it the odd one out.",
+        "tanglish": "RTU, GIJ, CEF ellam +2, +1 pattern'ai nerpathuvai. UWY matram +2, +2 pattern'ai nerpathu. Adhanoda UWY thaan different/odd one out."
+      }
+    }
+  ]
+}

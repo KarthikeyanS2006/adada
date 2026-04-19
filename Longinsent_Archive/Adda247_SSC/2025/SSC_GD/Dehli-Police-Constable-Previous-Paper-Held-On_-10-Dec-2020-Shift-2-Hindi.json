@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-Previous-Paper-Held-On-10-Dec-2020-Shift-2-Hindi"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "नेपाल की सबसे लंबी नदी, करनाली नदी का आधिकारिक स्रोत निम्नलिखित में से कौन सा है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "त्सांगपो (Tsangpo)",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "मेकांग (Mekong)",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "मापचा खंबाब (Mapcha Khambab)",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "इरावदी (Irrawaddy)",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Karnali River is Nepal's longest river. Its official source is the Mapcha Khambab glacier located near Lake Manasarovar in the Himalayas.",
+        "tanglish": "Nepalil ulla mudhala aatrae Karnali aatru, athan mudhalittaagam Mapcha Khambab sumeru urugin malaiyil ulladhu. Ithu India-Tibet border pakathil Manasarovar eral pakathil ulladhu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "महात्मा गांधी और उनके स्वयंसेवकों के दल द्वारा निम्नलिखित में से कितने दिनों तक दांडी मार्च (पदयात्रा) की गई थी?",
+      "options": [
+        {
+          "id": "1",
+          "text": "11 दिन",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "31 दिन",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "15 दिन",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "24 दिन",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The Dandi March (Salt March) was undertaken by Mahatma Gandhi and his followers for 24 days, from March 12, 1930, to April 6, 1930.",
+        "tanglish": "Mahatma Gandhi avargalum avargalin pithargalum kooda nadathiya Dandi payanam 24 naatkal nadandhadhu. March 12, 1930 mudhal April 6, 1930 varai ithu nadandhadhu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "निम्नलिखित में से किस वर्ष में, भारत सरकार द्वारा 'प्रमुख कार्यक्रम' के रूप में एक एकीकृत संरक्षण मिशन 'नमामि गंगे कार्यक्रम' को अनुमोदित किया गया था?",
+      "options": [
+        {
+          "id": "1",
+          "text": "2011",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "2016",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "2019",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "2014",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The Namami Gange Programme was approved by the Government of India in June 2014 as a flagship integrated conservation mission for the Ganga river.",
+        "tanglish": "Namami Gange thittam 2014 am aandhu Bharatha arasal avarudha muttruppuruvai payanamaagathan anumadikkappattadhu. Ithu Ganga aatrinai kappaaka oru orungiya surakcha thittam."
+      }
+    }
+  ]
+}

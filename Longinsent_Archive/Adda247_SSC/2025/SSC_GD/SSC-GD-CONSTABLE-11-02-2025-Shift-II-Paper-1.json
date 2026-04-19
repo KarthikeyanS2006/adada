@@ -1,0 +1,247 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-CONSTABLE-11-02-2025-Shift-II-Paper-1.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "A dice has its faces marked by letters I, S, H, N, A and T. Two positions of the same dice are given below. Which face is opposite to face I?",
+      "options": [
+        {
+          "id": "1",
+          "text": "S",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "T",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "N",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "A",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The visual representation of the dice positions is required to determine opposite faces. Based on standard dice logic, adjacent faces cannot be opposite.",
+        "tanglish": "Dice oda positions description text-la illai. Image iruntha thaan solve panna mudiyum."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "What should come in place of the question mark (?) in the given series based on the English alphabetical order? ZXV PNL FDB VTR ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "RQP",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "LJH",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "JIG",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "XVW",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The pattern follows a reduction of 2 letters in the English alphabetical order for each successive letter. Z(26)→X(24)→V(22), P(16)→N(14)→L(12), F(6)→D(4)→B(2), V(22)→T(20)→R(18). Following this pattern, the next triplet is L(12)→J(10)→H(8), which gives LJH.",
+        "tanglish": "Indha series-la oru letter-kku adutha letter alphabetic order-la 2 position kammi aaguthu. Z irundhu X (2 kammi), X irundhu V (2 kammi). Same way P→N→L, F→D→B, V→T→R. Next L→J→H. So answer LJH."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "In a certain code language, ‘SOUL’ is coded as ‘6415’ and ‘LOST’ is coded as ‘6548’. How is ‘U’ coded in the given language?",
+      "options": [
+        {
+          "id": "1",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "8",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "By comparing SOUL=6415 and LOST=6548, we can deduce: S=6 (common first letter), O=4 (common second letter in both codes), L=5 (common in SOUL and LOST at different positions). Therefore, U in SOUL must be 1.",
+        "tanglish": "SOUL=6415 and LOST=6548 compare panna S=6, O=4, L=5 nu theriyum. SOUL-la 3rd position U, adhuku match aara number 1. So U=1."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "What will come in the place of the question mark ‘(?)’ in the following equation, if ‘×’ and ‘+’ are interchanged and ‘−’ and ‘÷’ are interchanged? 51 ÷ 30 × 36 − 6 + 6 = ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "55",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "57",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "56",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "58",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "After interchanging: ÷ becomes −, × becomes +, − becomes ÷, and + becomes ×. The equation becomes: 51 − 30 + 36 ÷ 6 × 6. Solving step by step: 36 ÷ 6 = 6, then 6 × 6 = 36, then 51 − 30 + 36 = 21 + 36 = 57.",
+        "tanglish": "Operations interchange pannanum: division ku subtraction, multiplication ku addition, subtraction ku division, addition ku multiplication. So equation: 51 - 30 + (36/6)*6 = 51 - 30 + 36 = 57."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Based on the English alphabetical order, three of the following four letter-clusters are alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to that group? (Note: The odd one out is not based on the number of consonants/vowels or their position in the letter-cluster.)",
+      "options": [
+        {
+          "id": "1",
+          "text": "JOD",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "RWD",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "FKR",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "DIP",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The pattern followed by FKR, DIP, and RWD is: first letter + 5 = second letter, second letter + 7 = third letter. For FKR: F(6)+5=K(11), K(11)+7=R(18). For DIP: D(4)+5=I(9), I(9)+7=P(16). For RWD: R(18)+5=W(23), W(23)+7=30→4(mod 26)=D(4). However, for JOD: J(10)+5=O(15), but O(15)+7=22(V), not D(4). Hence, JOD is the odd one out.",
+        "tanglish": "FKR, DIP, RWD ellathulum same pattern: first letter + 5 = second letter, adhukku + 7 = third letter. F(6)+5=K(11), K(11)+7=R(18). D(4)+5=I(9), I(9)+7=P(16). R(18)+5=W(23), W(23)+7=30→4(D). Aana JOD-la: J(10)+5=O(15), O(15)+7=22(V), aanaal third letter D(4). Adhan JOD different."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Select the figure from among the given options that can replace the question mark (?) in the following series.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Figure 1",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Figure 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Figure 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Figure 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The figure series pattern cannot be determined from the text provided as the images are missing.",
+        "tanglish": "Figure series oda pattern text-la illai. Image vendum."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Seven people, E, F, G, H, K, L and N, are sitting in a row facing north (but not necessarily in the same order). Only three people sit to the left of L. Only F sits to the right of G. Only three people sit between G and K. N sits at some place to the left of H but at some place to the right of E. How many people sit between E and N?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Three",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "One",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Two",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Four",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "From 'Only three people sit to the left of L', L is at position 4. From 'Only F sits to the right of G', G must be immediately followed by F with no one else to G's right, so G is at position 6 and F at 7. From 'Only three people sit between G and K', with G at 6, K must be at position 2. Remaining positions 1, 3, 5 are for E, N, H. From 'N sits left of H but right of E', the order is E-N-H. So E is at 1, N at 3, and H at 5. Thus, only one person (K) sits between E (position 1) and N (position 3).",
+        "tanglish": "L-kku left-la 3 per irukkarathu moolam L 4th position. G-kku right-la F matrame irukkarathu moolam G 6th, F 7th position. G,K-kula 3 per irukkarathu moolam K 2nd position. Balance E,N,H ku positions 1,3,5. E-N-H order-la arrange pannanum. So E 1st, N 3rd, H 5th. E and N kula 1 per (K) thaan irukku."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "What should come in place of the question mark (?) in the given series? 450 460 471 483 496 ?",
+      "options": [
+        {
+          "id": "1",
+          "text": "504",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "508",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "510",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "500",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The series follows an increasing pattern of differences: +10, +11, +12, +13, +14. Starting from 450: 450+10=460, 460+11=471, 471+12=483, 483+13=496, and finally 496+14=510.",
+        "tanglish": "Indha series-la difference increase aaguthu: +10, +11, +12, +13, +14. 450+10=460, 460+11=471, 471+12=483, 483+13=496, 496+14=510."
+      }
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-Exe.-Paper-Held-on-14-Nov-2023-S3.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Cashpor Micro credit is a company that does NOT operate in the most backward districts of ____________________.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Bihar",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Chhattisgarh",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Telangana",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Jharkhand",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Cashpor Micro Credit operates in states like Bihar, Jharkhand, Chhattisgarh and Uttar Pradesh, but does not operate in Telangana.",
+        "tanglish": "Cashpor Micro Credit uththagam Bihar, Jharkhand, Chhattisgarh, Uttar Pradesh maanilangalil oodu padugiradhu, aanaal Telangana vil oodu paduvadhillai."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Which Article of the Constitution of India states that the President shall appoint judges of the Supreme Court under his hand and seal after consultation with such of the judges of the Supreme Court as the President may deem necessary?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Article 124 (2)",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Article 120 (2)",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Article 134 (2)",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Article 142(2)",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Article 124(2) of the Indian Constitution states that the President shall appoint judges of the Supreme Court after consultation with such judges of the Supreme Court as deemed necessary.",
+        "tanglish": "Bharatha arasiyalamaippin Article 124(2) padi, araasan sarvacha nyaayalaya nyaayamaanigalai mudhala aalosithu pinbu kaiyezhuththu mudra vaithu niyamikka vendum."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Which of the following was replaced by the Green Revolution?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Use of inorganic manures",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Use of seeds supplied by the government",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Use of groundwater for irrigation",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Use of organic manures",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The Green Revolution replaced traditional agricultural practices including the use of organic manures with chemical fertilizers and modern techniques.",
+        "tanglish": "Pasumai pazhakkiya kadan valarum padhadigalai rasayachaenkal matrum puthiya thakaval sindhanaigalal maatrappaduthi, iyarkai mannputkotchigal upayogatha marutiyadhu."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "According to Census of India 2011, the growth rate of Hindu population in the decade 2001-2011 was ___________.",
+      "options": [
+        {
+          "id": "1",
+          "text": "10.0%",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "16.8%",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "20.1%",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "8.6%",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "According to Census of India 2011, the Hindu population grew at a rate of 16.8% during the decade 2001-2011.",
+        "tanglish": "India 2011 jaanga arippu prakaram, 2001-2011 kaaalakattathil Hindu janasthi pirivu 16.8% aaaga ulperindhadhu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "In which of the following years Cripps Mission offered Dominion Status to India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1942",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "1934",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "1939",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "1945",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Cripps Mission was sent to India in 1942 under the leadership of Stafford Cripps to offer Dominion Status and seek Indian cooperation in World War II.",
+        "tanglish": "Cripps Mission 1942 aam aandil India ku anuppappattadhu, India ku Dominion Status alith thara ulvikka matrum World War II il India oozhal kodukka."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "किस सिंड्रोोम के कारण कंधों के बीच एक मोटा कूबड़, एक गोल चेहरा और त्वचा पर गुलाबी या बैंगनी खिंचाव के निशान हो जाते हैं?",
+      "options": [
+        {
+          "id": "1",
+          "text": "डाउन सिंड्रोोम (Down syndrome)",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "एंजेलमैन सिंड्रोोम (Angelman syndrome)",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "कुशिंग सिंड्रोोम (Cushing syndrome)",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "मार्फन सिंड्रोोम (Marfan syndrome)",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Cushing Syndrome is caused by prolonged exposure to high levels of cortisol, resulting in symptoms like a fatty hump between shoulders, rounded face, and pink/purple stretch marks on skin.",
+        "tanglish": "Cushing Syndrome endradhu kortal neermukamai karanamaaga varum, idhil tholukku idaiyil puzhu koorai, kola munai, tholaiyil gulaabi/oodal niraththa siriya varum."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "After independence, who had complete control over the established industries?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Private sector",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Foreign investors",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Britishers",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Government",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "After independence, the Government of India had complete control over established industries as per the Industrial Policy Resolution of 1948.",
+        "tanglish": "Swaadheenaththin pinbu, India arasu 1948 aam aandu Vizhakthi Thatthuvaththin padi amaichcha udhthagangalai poota niyandranthathil ammukkiyaadhu."
+      }
+    }
+  ]
+}

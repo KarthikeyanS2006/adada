@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-28-Nov-23-Shift-III-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Which of the following Chola Kings raided the Ganga Valley region?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Rajendra I",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Uttama Chola",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Arinjaya Chola",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Gandaraditya",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Rajendra I led military expeditions to the Ganga Valley and Bengal, earning the title 'Gangaikonda Chola' (the Chola who took over the Ganga). He built the Gangaikonda Cholapuram temple to commemorate his victories.",
+        "tanglish": "Rajendra I Ganga Valley matrum Bengal pakkam por thagavalgalai eduthupoi avatrai vettai adipattathaal 'Gangaikonda Chola' endra peyari petrukondaar. Vijaya palanai ninaithu Gangaikonda Cholapuram koilayum katti aarulinaar."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "In 1991, India met with an economic crisis due to _____.",
+      "options": [
+        {
+          "id": "1",
+          "text": "low inflation",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "political instability",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "rise in foreign exchange reserves",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "huge debts burden",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The 1991 economic crisis was primarily triggered by a severe balance of payments crunch and a huge external debt burden, which forced India to initiate economic liberalization and structural reforms.",
+        "tanglish": "1991-il India periya kadana sumaiyai sumanthirunthathu. Balance of payments kuraivum foreign exchange reserves kadathalum karanamaga seethala kalam erpadinthathu. Idhu economic reforms seivatharku karanam ayirundhu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "The Sangeet Natak Akademi gives fellowships to eminent artists. Radha Sridhar received it for Bharatanatyam which is a dance form of which state?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Kerala",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Andhra Pradesh",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Karnataka",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Tamil Nadu",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Bharatanatyam is a classical dance form that originated in Tamil Nadu. It is one of the oldest classical dance traditions in India and was nurtured in the temples of Tamil Nadu.",
+        "tanglish": "Bharatanatyam Tamil Nadu-le udhithathu sirantha klassikal naatiyam. Idhu India's paazhaiya naatiya vagaigalil onru. Tamil Nadu kovilkalil valarvithapatta kalai."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "'Per Drop More Crop' is the main tag line of which government scheme?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Pradhan Mantri Fasal Bima Yojana",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Pradhan Mantri Krishi Sinchai Yojana",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Atal Bhujal Yojana",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "National Action Plan for Climate Change",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Per Drop More Crop is the tagline of Pradhan Mantri Krishi Sinchai Yojana (PMKSY). This scheme focuses on water use efficiency in agriculture through micro-irrigation systems like drip and sprinkler irrigation.",
+        "tanglish": "Per Drop More Crop endra mudivu PMKSY yojanakkukku uriyathu. Micro-irrigation moolam vilaiyatriyil neer payogathinn arpudathai melum mechappaduthuvadhu idhin udesam."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "'India wins Freedom' is an autobiography written by whom among the following Freedom Fighters?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Pattabhi Sitaramayya",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Abul Kalam Azad",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Lokmanya Tilak",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Annie Besant",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "'India Wins Freedom' is the autobiography of Maulana Abul Kalam Azad, a prominent freedom fighter and the first Minister of Education of independent India. He served as Congress President from 1939 to 1946.",
+        "tanglish": "India Wins Freedom endra pusthagam Maulana Abul Kalam Azadavin sivakam. Avar oru periya viduthalai porali matrum India's mudal kalvi thurai aalar. Congress adhypesaraga 1939-1946 varai pani seithaar."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "To which mineral group do galena, chalcopyrite and molybdenite belong?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Halides",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Sulphides",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Phosphides",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Oxides",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Galena (Lead sulphide - PbS), Chalcopyrite (Copper iron sulphide - CuFeS2) and Molybdenite (Molybdenum sulphide - MoS2) all belong to the sulphide mineral group as they contain sulphur.",
+        "tanglish": "Galena, Chalcopyrite matrum Molybdenite ellam Sulphide kallal vagaikukku uriyathu. Ivai sulpur saerntha kallakal. Galena-le lead sulphide irukkirathu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Who presides over the Lok Sabha in absence of the Speaker and the Deputy Speaker?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Chief Justice of Supreme Court",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Person appointed by Prime Minister",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Person from amongst the members of the panel nominated by the Speaker",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "President",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "When both the Speaker and Deputy Speaker are absent, a person from amongst the members of the panel of six members nominated by the Speaker presides over the Lok Sabha proceedings as per the Rules of Procedure.",
+        "tanglish": "Speaker-um Deputy Speaker-um illatha samayathil, Speaker niyamiththa panel-il irukkum oru aal Lok Sabha maanadu nadathedhu varuvadhu. Panel-il aru membergal irupargal."
+      }
+    }
+  ]
+}

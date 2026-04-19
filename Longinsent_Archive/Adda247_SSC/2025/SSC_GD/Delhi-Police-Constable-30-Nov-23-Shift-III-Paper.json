@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-30-Nov-23-Shift-III-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "As per Article 118 of the Constitution of India, who presides over the joint sitting of the two houses?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Prime Minister",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "President",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Chairman",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Speaker",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Article 118 of the Indian Constitution deals with the procedure for joint sittings of Parliament. When both Houses disagree on a bill, a joint sitting is called, which is presided over by the Speaker of the Lok Sabha. If the Speaker is absent, the Deputy Speaker presides.",
+        "tanglish": "India Constitution la Article 118 sollurathu, Parliament rendu houses um orey nerathula sernthu meeting pannum bothu, adhukku Lok Sabha Speaker than thalaivar aaga iruppar. Adhu than joint sitting ku mudhal aal."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "In 1953,who among the following dancers was called to perform for the coronation festivities of Queen Elizabeth (II)?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Sonal Mansingh",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Shovana Narayan",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Kumari Kamala",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Mrinalini Sarabhai",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "In 1953, during the coronation festivities of Queen Elizabeth II, Mrinalini Sarabhai, a renowned Indian classical dancer and choreographer, was invited to perform. She was a pioneer of Bharatanatyam and Kuchipudi dance forms.",
+        "tanglish": "1953 varusham Queen Elizabeth II coronation vizhavil, Mrinalini Sarabhai, periya Bharatanatyam dancer, avaru perform pannar. Avaru Indian classical dance ku oru aadhi founder."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "The chemical name of baking soda is:",
+      "options": [
+        {
+          "id": "1",
+          "text": "sodium carbonate (Na2CO3)",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "sodium citrate (Na3C6H5O7)",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "sodium hydrogen carbonate (NaHCO3)",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "calcium hydrogen bicarbonate (CaHCO3)2",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Baking soda is chemically known as sodium hydrogen carbonate or sodium bicarbonate with the formula NaHCO3. It is commonly used in baking as a leavening agent and also has various household uses.",
+        "tanglish": "Baking soda oda yaravu peyar sodium hydrogen carbonate (NaHCO3). Idhu bake pannum bothu foam aaga use pandradhu."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Which among the following is NOT a basic attribute of Dhamma mentioned in the Ashokan edicts?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Truthfulness",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Compassion",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Charity",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Celibacy",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Ashoka's Dhamma emphasized moral and ethical living including truthfulness (sacca), compassion (daya), and charity (dana). While purity and self-control were mentioned, celibacy (brahmacharya) was not emphasized as a basic attribute for the general populace in the edicts; it was more relevant to monastic life.",
+        "tanglish": "Ashoka edict la sathiyam, karunai, dhanam ellam solliyirukku. Aana bramhacharyam (celibacy) basic attribute illa, adhu monks mattum follow pannum."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "What is the ornate mountain-like entrance gateway before entering the premises of temples located in South India called?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Kalasha",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Jagati",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Gopuram",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Garbagriha",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Gopuram is the ornate, monumental entrance tower found at the entrance of Hindu temples in South India, particularly in Tamil Nadu. It is pyramid-shaped and richly decorated with sculptures of deities, mythical figures, and ornamental designs.",
+        "tanglish": "South India temple la irukka alankara kodungal, malai mathiri irukkum, adhu than Gopuram. Idhu temple kku munnadi irukkum entrance."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "According to Census 2011, which union territory of India has the lowest population?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Dadra and Nagar Haveli",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Puducherry",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Daman and Diu",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Lakshadweep",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "According to the Census 2011, Lakshadweep is the Union Territory with the lowest population in India, with a population of approximately 64,473. It is an archipelago off the coast of Kerala in the Arabian Sea.",
+        "tanglish": "2011 Census prakaram, India la irukkira Union Territory ellam paarthum Lakshadweep than romba kammi janathai kondathu. Idhu Kerala kumaram ariya samudhirathula irukkum theevira kuppam."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Which athlete won the gold medal in the Men's Javelin Throw F46 category at the Para Athletics World Championships 2023?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Ajeet Singh",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Nishad Kumar",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Sumit Antil",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Khilari Sachin",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Sumit Antil won the gold medal in the Men's Javelin Throw F46 category at the Para Athletics World Championships 2023 held in Paris. He is an Indian Paralympic javelin thrower who holds the world record in his category.",
+        "tanglish": "Sumit Antil 2023 Para Athletics World Championships la Men's Javelin Throw F46 category la Gold medal vanginar. Avaru oru Indian Paralympic veeran."
+      }
+    }
+  ]
+}

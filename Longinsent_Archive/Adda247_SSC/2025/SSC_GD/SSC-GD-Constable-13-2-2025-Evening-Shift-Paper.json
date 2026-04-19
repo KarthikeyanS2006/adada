@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-Constable-13-2-2025-Evening-Shift-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "अंग्रेजी वर्णमाला क्रम के आधार पर एक निश्चित तरीके से 'ZBUP', 'WZSO' से संबंधित है। उसी तरीके से 'VSEX', 'SQCW' से संबंधित है। समान तर्क का अनुसरण करते हुए 'GMTC' निम्नलिखित में से किससे संबंधित है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "BJSC",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "DKRB",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "CHSA",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "CIUB",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The pattern follows subtracting positions from each letter in the sequence: -3, -2, -2, -1. Applying to GMTC: G(7) - 3 = D(4), M(13) - 2 = K(11), T(20) - 2 = R(18), C(3) - 1 = B(2). Thus, the correct answer is DKRB.",
+        "tanglish": "Ithil, English alphabetil eluthukkal -3, -2, -2, -1 endra matippil pinbu maraiyapattullana. GMTC seyyum bodhu: G(7)ilirundhu 3 edam pinbu D(4), M(13)ilirundhu 2 edam pinbu K(11), T(20)ilirundhu 2 edam pinbu R(18), C(3)ilirundhu 1 edam pinbu B(2) eduthal DKRB varum."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "यदि शब्द CRADLES के प्रत्येक अक्षर को अंग्रेजी वर्णमाला क्रम में व्यवस्थित किया जाए, तो कितने अक्षरों का स्थान अपरिवर्तित रहेगा?",
+      "options": [
+        {
+          "id": "1",
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "एक का भी नहीं",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "दो",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The original word CRADLES has letters at positions: C(1), R(2), A(3), D(4), L(5), E(6), S(7). When arranged alphabetically (ACDELRS), the letters L (5th position) and S (7th position) remain in their original positions. Therefore, 2 letters remain unchanged.",
+        "tanglish": "CRADLES endra sevvai eluthukkalai alphabet varisaiyil sax seyyum bodhu ACDELRS endru varum. Originalil 5-am idathilirundha L matrum 7-am idathilirundha S, sax seiya patta pirakkum athey idangalil than ullana. Aagavtha, irandu eluthukkal parivarthanam illamal ullana."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "एक कागज़ को नीचे दर्शाए गए अनुसार मोड़कर काटा जाता है। खोलने पर यह कैसा दिखाई देगा?",
+      "options": [
+        {
+          "id": "1",
+          "text": "[Diagram Option 1]",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "[Diagram Option 2]",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "[Diagram Option 3]",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "[Diagram Option 4]",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "This is a paper cutting and folding visualization question. The solution requires analyzing the folding sequence and the position/ shape of the cut to determine how the paper will appear when unfolded. Without the visual diagram, the specific correct option cannot be determined.",
+        "tanglish": "Ithu oru kagaithal moddal matrum vettu kurippu illatha vazhipatu kuzhu. Kagaithal moddal muraiyaiyum vettugalaiyum aaraichi seithu, thirakum bodhu yeppadi irukkum endru kanavu seithu pathil kandupidikka vendum. Diagram illamal exact pathil theriyaadhu."
+      }
+    }
+  ]
+}

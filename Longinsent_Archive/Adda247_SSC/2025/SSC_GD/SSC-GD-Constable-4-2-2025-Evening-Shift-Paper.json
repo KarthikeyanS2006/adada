@@ -1,0 +1,127 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-Constable-4-2-2025-Evening-Shift-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "[Question text not provided in source]",
+      "options": [
+        {
+          "id": "1",
+          "text": "69",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "68",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "71",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "70",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Question text unavailable in provided source material.",
+        "tanglish": "Kēḷvi text source-il illai"
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "[Question text not provided in source]",
+      "options": [
+        {
+          "id": "1",
+          "text": "XLJ",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "ZJM",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "JGX",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "XGJ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Question text unavailable in provided source material.",
+        "tanglish": "Kēḷvi text source-il illai"
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "उस विकल्प का चयन कीजिए जिसमें दी गई आकृति निहित है (घूर्णन की अनुमति नहीं है)।",
+      "options": [
+        {
+          "id": "1",
+          "text": "[Figure option 1]",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "[Figure option 2]",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "[Figure option 3]",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "[Figure option 4]",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Select the option where the given figure is embedded without rotation. Visual analysis is required to match the pattern.",
+        "tanglish": "Kodukkappatta figure embed aagiya option ai, rotation illama choose seiyavum. Pattern match seiyya visual analyse seyya vendum"
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "सात व्‍यक्ति, G, H, I, J, K, L और M, एक पंक्ति में उत्तर की ओर मुख करके बैठे हैं। (परंतु जरूरी नहीं कि वे इसी क्रम में बैठे हों)। M के दाईं ओर कोई भी नहीं बैठा है। M और K के बीच में केवल तीन व्‍यक्ति बैठे हैं। K और H के बीच में केवल दो व्‍यक्ति बैठे हैं। G, L के बाईं ओर तीसरे स्थान पर बैठा है। J, L के ठीक दाईं ओर बैठा है। I और H के बीच में कितने व्‍यक्ति बैठे हैं?",
+      "options": [
+        {
+          "id": "1",
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "दो",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "तीन",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "चार",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "M sits at the extreme right (7th position) as no one is to his right. With 3 persons between M and K, K is at 3rd position. With 2 persons between K and H, H is at 6th position. G is 3rd to the left of L, and J is immediate right of L, yielding the arrangement: G(1), I(2), K(3), L(4), J(5), H(6), M(7). Thus, 3 persons (K, L, J) sit between I and H.",
+        "tanglish": "M valathu mutiṭṭil (7th idathil) amarndhirukkirāru. M-ukkum K-kkum naduvil 3 per irundhāl, K 3rd idathil amarndhirukkirāru. K-kkum H-kkum naduvil 2 per irundhāl, H 6th idathil amarndhirukkirāru. G, L-ṭaṭpatta 3rd left-il, J L-ṭaṭpatta immediate right-il amarndhāl, amarppu: G(1), I(2), K(3), L(4), J(5), H(6), M(7). I(2) matṟum H(6) idaiyil 3 per (K, L, J) irukkiṟārkaḷ"
+      }
+    }
+  ]
+}

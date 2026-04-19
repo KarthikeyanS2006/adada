@@ -1,0 +1,127 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-Driver-Male-21-Oct-2022-Shift-2-English.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "What is included in the Capital Account of the Government?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Revenue of the Government",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Assets and Liabilities of the Government",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Assets and Liabilities of the Private Sector",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Revenue of the Private Sector",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Capital Account of the Government deals with assets and liabilities. Revenue of the Government is accounted for in the Revenue Account, not the Capital Account.",
+        "tanglish": "Arasasanathin Capital Account-il assets matrum liabilities varum. Arasasathin revenue Revenue Account-il varum, Capital Account-il alla."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "In October 2021, the Ministry of Social Justice and Empowerment launched a platform providing reemployment opportunities for senior citizens on the occasion of International Day of Elder Persons 2021. What is the name of one of the portals?",
+      "options": [
+        {
+          "id": "1",
+          "text": "SACRED",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "SAKAR",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "SAMADHAN",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "SAMRIDH",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "SACRED (Senior Able Citizens for Re-Employment in Dignity) portal was launched by the Ministry of Social Justice and Empowerment on October 1, 2021, to provide reemployment opportunities for senior citizens.",
+        "tanglish": "Social Justice and Empowerment Mantralaya October 2021-il International Day of Elder Persons-kaaga SACRED (Senior Able Citizens for Re-Employment in Dignity) portal aarambithathu. Idhu senior citizens-ku velai tharalam endru seyyapadum."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Which is the correct order of money evolution?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Commodity Money, Metal Money, Paper Money, Credit Money",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Paper Money, Credit Money, Metal Money, Commodity Money",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Credit Money, Paper Money, Commodity Money, Metal Money",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Metal Money, Paper Money, Credit Money, Commodity Money",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The evolution of money followed the order: Commodity Money (goods like grains, cattle), then Metal Money (gold, silver coins), followed by Paper Money (currency notes), and finally Credit Money (cheques, digital transactions).",
+        "tanglish": "Panam-evolution kadamai: Commodity Money (paal, nellu), pin Metal Money (thangam, velli kaasu), pinbu Paper Money (kagidha panam), ippothu Credit Money (atm, digital panam)."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Who was appointed as India's first Minister of Cooperation?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Amit Shah",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Rajnath Singh",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Dharmendra Pradhan",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Nirmala Sitharaman",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Amit Shah was appointed as India's first Minister of Cooperation in July 2021 when a separate Ministry of Cooperation was created to strengthen the cooperative movement in the country.",
+        "tanglish": "Amit Shah July 2021-il India-vin mudal Cooperation Minister-aka niymanam seyya pattar. Idhu cooperative societies-ai ottumikka uthavi seyyum oru pudhu mantralayaam."
+      }
+    }
+  ]
+}

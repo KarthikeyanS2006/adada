@@ -1,0 +1,127 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-CONSTABLE-17-02-2025-Shift-I-Paper-1.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "In a certain code language, 'A + B' means 'A is the mother of B', 'A – B' means 'A is the brother of B,' 'A × B' means 'A is the wife of B' and 'A ÷ B' means 'A is the father of B'. Based on the above, how is D related to F if 'B + C × D – E ÷ F'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Wife's father",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Brother's brother",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Father's brother",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Mother's husband",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Breaking down the expression 'B + C × D – E ÷ F': B is mother of C; C is wife of D (so D is husband of C); D is brother of E; E is father of F. Therefore, D is the brother of F's father, making D the father's brother (paternal uncle) of F.",
+        "tanglish": "Kodugalai vazhangiyathu: B, C-odu amma; C, D-odu manaivi (aaga D, C-odu kanavar); D, E-odu sagodaran; E, F-odu appa. Aagave D, F-odu appan sagodaran (asaariyamaaga chithappa)."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Identify the figure given in the options, which when put in place of the question mark (?) will logically complete the series.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Option 1",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Option 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Option 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Option 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Figure-based pattern completion question requiring visual analysis of the series to determine the correct figure that continues the logical sequence.",
+        "tanglish": "Chithram adharitha kali. Tholaiyile kattenomkita muna chithrathin vilakkathai kandupidithu, thodarai poorikkum sariyana chithram therinthu kollavendum."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Based on the English alphabetical order, three of the following four letter-clusters are alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to that group? (Note: The odd one out is not based on the number of consonants/vowels or their position in the letter-cluster.)",
+      "options": [
+        {
+          "id": "1",
+          "text": "JKP",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "FGL",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "RSX",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "MRZ",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "In JKP: J(10)→K(11)→P(16) = +1, +5. In FGL: F(6)→G(7)→L(12) = +1, +5. In RSX: R(18)→S(19)→X(24) = +1, +5. In MRZ: M(13)→R(18)→Z(26) = +5, +8. Therefore, MRZ follows a different pattern (+5, +8 instead of +1, +5) and is the odd one out.",
+        "tanglish": "English alphabetil: JKP-il J(10)ilirundhu K(11)kku +1, K(11)ilirundhu P(16)kku +5. FGL-kkum RSX-kkum ippadiye: mudhal irandu ezuthukkalukku +1, moondavadhukku +5. MRZ-il M(13)ilirundhu R(18)kku +5, R(18)ilirundhu Z(26)kku +8 aagirathaal idhu vera vagaippattadhu."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Select the option in which the given figure (X) is embedded (rotation is NOT allowed).",
+      "options": [
+        {
+          "id": "1",
+          "text": "Option 1",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Option 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Option 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Option 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Figure embedding question requiring identification of the option containing the hidden figure (X) within a larger pattern without rotating the figure.",
+        "tanglish": "Kodukkappatta chithram (X) inbaithullathai ulappu edathil kandupidikka vendiya chithrabedam. Suthi poda koodaadhu."
+      }
+    }
+  ]
+}

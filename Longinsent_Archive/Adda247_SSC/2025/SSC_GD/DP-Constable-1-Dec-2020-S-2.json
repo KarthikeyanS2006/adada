@@ -1,0 +1,337 @@
+{
+  "document_info": {
+    "exam_name": "DP-Constable-1-Dec-2020-S-2.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "In which of the following years was the First Amendment Act of the Constitution of India enacted?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1958",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "1951",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "1952",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "1956",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The First Amendment Act of the Constitution of India was enacted in 1951 to make several changes to the Fundamental Rights provisions.",
+        "tanglish": "Bharatha arasiyal amaippu saasanathin mudal thiruththam 1951 aandil nadathappattadhu. Idhu moola urimaigalai ganakkum paagathil pala maatramgalai seivithaaga edirpaduththapattadhu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "IBEF is a trust established by the Ministry of Commerce and Industry. From the given options, select the correct full form of IBEF.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Indian Board of Exporters Forum",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "International Bureau Economic Federation",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "India Brand Equity Foundation",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Indian Board of Economics Foundation",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "IBEF stands for India Brand Equity Foundation, established by the Ministry of Commerce and Industry to promote trade and investment.",
+        "tanglish": "IBEF endradhu India Brand Equity Foundation. Idhu Vanijya matrum Thozhilalaga Thurai moolama amaikkappattadhu. Idhu vanijya matrum pettu thodalgalai valarkkum udhadhaaga seyalpadugiradhu."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Article 32 belongs to which part of the Indian Constitution?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Part II",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Part I",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Part III",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Part IV",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Article 32 belongs to Part III of the Indian Constitution, which deals with Fundamental Rights. It provides the right to constitutional remedies.",
+        "tanglish": "Article 32 Bharatha arasiyal amaippin Moondram paagathil (Part III) ulladhu. Idhu moola urimaigalai ganakkum paagam. Idhu arasiyal amaippu maruththugalukku urimai alikkum."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "How many public sector banks are there in India as of September 2020?",
+      "options": [
+        {
+          "id": "1",
+          "text": "13",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "24",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "22",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "12",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "As of September 2020, there were 12 public sector banks in India after the consolidation and merger of several banks.",
+        "tanglish": "2020 September nilavariyil Bharathathil 12 paniamutha sevai bankkal ullana. Idhu pala bankkal ookkiyam matrum ikkappattathin pinbanthu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "'Vishu' is one of the famous festivals of which of the following states?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Odisha",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Kerala",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Tamil Nadu",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Assam",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Vishu is a famous harvest festival celebrated in the state of Kerala, usually in April.",
+        "tanglish": "Vishu endradhu Kerala maanilathil padhungappadum oru prasiddhamaana vizha. Idhu adaiyala vaaramaha April maasathil kondadappadum."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "In which of the following years was Sir Richard Stafford Cripps sent to India to win the co-operation of Indian political groups?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1909",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "1917",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "1942",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "1929",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Sir Richard Stafford Cripps was sent to India in 1942 with the Cripps Mission to secure Indian cooperation during World War II.",
+        "tanglish": "Sir Richard Stafford Cripps 1942 aandil India sendru Bharatha arasiyal kuzhugaludan seyarkkai padaikka missionai nadathi Cripps Mission."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Which of the following is the most abundant and lightest gas in the universe?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Nitrogen",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Hydrogen",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Carbon-dioxide",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Oxygen",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Hydrogen is the most abundant and lightest gas in the universe, making up about 75% of its elemental mass.",
+        "tanglish": "Hydrogen endradhu ulagin eliyum migavum pazhangiya vaaliyam. Idhu ulagin 75% thoolviyai adangiya irukum."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "Who among the following authors wrote the novel 'The God of Small Things'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Arundhati Roy",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Mary Roy",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Amnika Batra",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Salman Rushdie",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The God of Small Things was written by Arundhati Roy, published in 1997. It won the Booker Prize.",
+        "tanglish": "The God of Small Things endra puthaga mudhali Arundhati Roy ezhuthiyadhu. Idhu 1997 varushathil veeliyidappattu Booker Prize vangiyadhu."
+      }
+    },
+    {
+      "q_number": 9,
+      "question_text": "In which of the following cities is the Thirumalai Nayakkar palace located?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Kanyakumari",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Madurai",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Chennai",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Mysuru",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Thirumalai Nayakkar Palace is located in Madurai, Tamil Nadu. It was built in the 17th century by King Thirumalai Nayakkar.",
+        "tanglish": "Thirumalai Nayakkar kovil Madurai nagarathil amainthulladhu. Idhu 17-am nootrandil Thirumalai Nayakkar arasaal kattappattadhu."
+      }
+    },
+    {
+      "q_number": 10,
+      "question_text": "A ______ is a collection of different ecosystems which share similar climatic conditions.",
+      "options": [
+        {
+          "id": "1",
+          "text": "reef",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "flora",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "biome",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "lagoon",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "A biome is a collection of different ecosystems that share similar climatic conditions, such as deserts, forests, or grasslands.",
+        "tanglish": "Biome endradhu oru kodiyeroomai nilaiyalgaludan ulla vallarasiyal amaippugal. Idhu padhu erukai eruththal nilaiyalgalai oondridum."
+      }
+    },
+    {
+      "q_number": 11,
+      "question_text": "Which of the following is the highest peak in south India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Doddabetta",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Perumal",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Vandaravu",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Anamudi",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Anamudi is the highest peak in South India, located in the Western Ghats in Kerala, with an elevation of 2,695 meters.",
+        "tanglish": "Anamudi endradhu Then Indiaavil ulla uchcha malai. Idhu Kerala maanilathil ulla Western Ghats malai thotattil 2,695 meter uyarathil ulladhu."
+      }
+    }
+  ]
+}

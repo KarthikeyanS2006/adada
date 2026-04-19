@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-CONSTABLE-06-02-2025-Shift-II-Paper-1.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Select the figure from among the given options that can replace the question mark (?) in the following series.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Figure 1",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Figure 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Figure 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Figure 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Analyze the pattern in the given figure series to determine the missing element. The correct option follows the established rule of the sequence.",
+        "tanglish": "Kodutha figure series-la irukkum pattern-a parthhu, adhai thudarndhu vara vendiya figure-ai kandupidikka vendum. Correct option kodutha pattern-kku match aagum."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Select the option figure in which the given figure (X) is embedded as its part (rotation is NOT allowed).",
+      "options": [
+        {
+          "id": "1",
+          "text": "Figure 1",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Figure 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Figure 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Figure 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Identify the option where figure (X) is hidden or embedded within the design without any rotation. Visual inspection of the spatial arrangement is required.",
+        "tanglish": "Figure (X) embedded-aaga, rotation illama ullathu ethu endru kandupidikanum. Visual-a paarthhu correct option-ai therinthu edukkanum."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Eight people are sitting in two parallel rows containing 4 people each in such a way that there is equal distance between adjacent persons. In row 1 – L, M, N and O are seated and all of them are facing south. In row 2 – P, Q, R and S are seated and all of them are facing north. Thus, each person faces another person from the other row. Only one person sits between N and M. Only one person sits between Q and P. The one facing P sits at the second position from the left of the line. N sits to the immediate left of O and faces S. O does not face P. Which of the following represents both people facing each other?",
+      "options": [
+        {
+          "id": "1",
+          "text": "L and S",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "L and P",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "M and S",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "N and R",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "From the conditions: N sits immediately left of O and faces S. The person at position 2 faces P, and since O does not face P, O cannot be at position 2. Thus N is at position 3 and O at position 4 in Row 1. With one person between N and M, M must be at position 1, leaving L at position 2. In Row 2, P is at position 2 (facing L), and with one person between Q and P, Q is at position 4. Therefore, L and P face each other.",
+        "tanglish": "Kudutha conditions-a vachu solve pannum podhu: N, O-vukku immediate left-la ukkaandhu S-a paakuraar. 2nd position-la ullavar P-a paakuraar. O, P-a paakka koodaadhu endru sonnaal, O 2nd position-la irukka mudiyaadhu. Athanaal N 3rd position-ilum O 4th position-ilum Row 1-il ullaar. N mattum M idaiyil oruvar ullar endral, M 1st position-ilum, apporam L 2nd position-ilum ullaar. Row 2-il P 2nd position-il ullaar (L-a nokki), Q mattum P idaiyil oruvar irukka vendum endral Q 4th position-il ullaar. Ithanaal L mattum P ondraiyaga edhir edhiraga nokki kondu ullaar."
+      }
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-15-Nov-23-Shift-I-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "How many medals did India win in the International Shooting Sport Federation (ISSF) World Cup-2022, which was held in Cairo, Egypt?",
+      "options": [
+        {
+          "id": "1",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The ISSF World Cup 2022 held in Cairo, Egypt saw India winning a total of 4 medals.",
+        "tanglish": "Cairo, Egypt-il nadanda ISSF World Cup 2022-la India 4 medals win panniyathu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Narthaki Nataraj, awarded with Padma Shri in 2019 is an Indian _________ dancer.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Odissi",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Bharatanatyam",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Kathakali",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Kathak",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Narthaki Nataraj is a renowned Indian Bharatanatyam dancer who was awarded the Padma Shri in 2019.",
+        "tanglish": "Narthaki Nataraj 2019-la Padma Shri award kidaichcha famous Bharatanatyam dancer."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "The innermost sanctum of a Hindu temple where the idol of the main deity is placed is called:",
+      "options": [
+        {
+          "id": "1",
+          "text": "Garbhagriha",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Mandapa",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Pradakshina path",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Shikhara",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Garbhagriha is the innermost sanctum of a Hindu temple where the idol of the main deity is placed.",
+        "tanglish": "Hindu temple-oda innermost sanctum Garbhagriha nu solluvom, ange than main deity idol vechirukkanga."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "In which state of India from the following is the old bamboo drip irrigation technology still used in the agriculture?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Maharashtra",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Chhattisgarh",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Meghalaya",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Telangana",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The old bamboo drip irrigation technology is still practiced in the state of Meghalaya in India.",
+        "tanglish": "Meghalaya state-la innum old bamboo drip irrigation technology agriculture-la use panraanga."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Which Constitutional Amendment Act has replaced the collegium system of appointing judges to the Supreme Court and High Courts?",
+      "options": [
+        {
+          "id": "1",
+          "text": "99th Amendment Act",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "65th Amendment Act",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "82nd Amendment Act",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "52nd Amendment Act",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The 99th Constitutional Amendment Act replaced the collegium system and introduced the National Judicial Appointments Commission (NJAC).",
+        "tanglish": "99th Constitutional Amendment Act dhan collegium system-a replace panni judges appoint panna new system kondu vandhuchu."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "Who led the English Forces in the Battle of Buxar?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Hector Munro",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Sir Hugh Wheeler",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Henry Lawrence",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "John Nicholson",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Battle of Buxar was led by Hector Munro in 1764 against the combined armies of Mir Qasim, Shuja-ud-Daulah, and Shah Alam II.",
+        "tanglish": "Battle of Buxar-ve Hector Munro dhan English forces-a lead pannaru, idhu 1764-la nadandhadhu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Under which Article of the Indian Constitution are Fundamental Duties mentioned?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Article 50B",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Article 44C",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Article 51A",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Article 55D",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Fundamental Duties of citizens are mentioned in Article 51A of the Indian Constitution.",
+        "tanglish": "Fundamental Duties Article 51A-la mention panniyirukku."
+      }
+    }
+  ]
+}

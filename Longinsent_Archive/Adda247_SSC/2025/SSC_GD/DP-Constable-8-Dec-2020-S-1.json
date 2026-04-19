@@ -1,0 +1,337 @@
+{
+  "document_info": {
+    "exam_name": "DP-Constable-8-Dec-2020-S-1.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "Who among the following is a celebrated singer of Chhath Puja songs?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Vishaka Hari",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Anima Choudhury",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Ila Arun",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Sharda Sinha",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Sharda Sinha is a renowned folk singer from Bihar, popularly known as the 'Queen of Chhath songs'. She is celebrated for her devotional folk songs dedicated to Chhath Puja. Vishaka Hari is known for Harikatha, Anima Choudhury is an Assamese singer, and Ila Arun is a Rajasthani folk singer.",
+        "tanglish": "Sharda Sinha Bihar samyal irundhu varum prasiddhamana folk singer. Avar Chhath Puja paattukalai paadi pugazh petraval. Vishaka Hari Harikatha kathai solvadhil prasiddham, Anima Choudhury Assam paadagar, Ila Arun Rajasthan folk singer."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "The arteries divide into smaller vessels. On reaching the tissues, they divide further into extremely thin tubes called ______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "venules",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "arterioles",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "capillaries",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "veins",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Arteries divide into smaller vessels called arterioles, which further divide into capillaries. Capillaries are extremely thin-walled blood vessels where the exchange of nutrients, gases, and waste products occurs between blood and tissues.",
+        "tanglish": "Arteries chinna kalangalaana arterioles endru pirivana. Athu thodarnthu capillaries endru romba thin ah irukkum blood vessels ah pirivana. Capillaries thaan blood matrum tissues idhayel nutrients, gases, matrum waste exchange aagum idam."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "The causative agent of the deadly disease Ebola is/are:",
+      "options": [
+        {
+          "id": "1",
+          "text": "parasites",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "virus",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "bacteria",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "fungus",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Ebola virus disease (EVD) is a deadly disease caused by infection with Ebola virus. It is transmitted to people from wild animals and spreads through human-to-human transmission.",
+        "tanglish": "Ebola virus nala erpadum deadly disease Ebola virus disease (EVD). Idhu kattugal irundhu manidhargalukku parambaribaagum, matrum manidhar idhayelum paravai adaiyalam."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Who among the following is set to become the first-ever female president of the Marylebone Cricket Club in its 233-year history?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Mithali Raj",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Diana Edulji",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Clare Connor",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Alyssa Healy",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Clare Connor, former England women's cricket captain, became the first female president of the Marylebone Cricket Club (MCC) in 2022. She is a prominent figure in cricket administration.",
+        "tanglish": "Clare Connor, England women cricket team nayagiyaalum, MCC ku mudhal female president ah 2022 madhil therrappattar. Avar cricket administration il periya idam petru ulavar."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "In which year was the Indira Gandhi Institute of Development Research (IGIDR) inaugurated?",
+      "options": [
+        {
+          "id": "1",
+          "text": "1987",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "1982",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "1993",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "1991",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Indira Gandhi Institute of Development Research (IGIDR) was inaugurated in 1987. It is an advanced research institute established by the Reserve Bank of India.",
+        "tanglish": "Indira Gandhi Institute of Development Research (IGIDR) 1987 madhil arambikkappattathu. Idhu Reserve Bank of India alagu arambikkappatta advanced research maaatalaiyam."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "______ is played on a synthetic hard court.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Wimbledon",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Australian Open",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "London Queens Club",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "French Open",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Australian Open is played on synthetic hard courts (Plexicushion). Wimbledon and Queens Club are played on grass courts, while the French Open is played on clay courts.",
+        "tanglish": "Australian Open synthetic hard court madhil vilayattappadum. Wimbledon matrum Queens Club grass court vilayattam, French Open clay court vilayattam."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "The Khilafat movement was led by ______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Maulana Abul Kalam Azad",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Muhammad Ali and Shaukat Ali",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Muhammad Ali Jinnah",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Syed Ahmad Khan",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The Khilafat Movement was led by the Ali Brothers, namely Muhammad Ali and Shaukat Ali. This movement was started to support the Ottoman Caliphate and protest against British treatment of Turkey after World War I.",
+        "tanglish": "Khilafat iyakkathai Ali Brothers (Muhammad Ali matrum Shaukat Ali) nadathinaargal. Idu Turkish Khalifai ku support seivatharkum, British Turkey sailai seivai virumbamal vilakkadharkum arambikkappattathu."
+      }
+    },
+    {
+      "q_number": 8,
+      "question_text": "In which year was the NITI Aayog formed?",
+      "options": [
+        {
+          "id": "1",
+          "text": "2015",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "2012",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "2017",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "2018",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "NITI Aayog (National Institution for Transforming India) was formed on 1 January 2015, replacing the Planning Commission of India.",
+        "tanglish": "NITI Aayog (National Institution for Transforming India) January 1, 2015 vil India Planning Commission idam pidithu arambikkappattathu."
+      }
+    },
+    {
+      "q_number": 9,
+      "question_text": "Which of the following is the largest jute producing state in India?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Bihar",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "West Bengal",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Tripura",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Meghalaya",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "West Bengal is the largest producer of jute in India, accounting for about 70% of the country's total jute production. The state is famous for its jute cultivation due to favorable climatic conditions.",
+        "tanglish": "West Bengal thaan India vil jute seyvelil mun niralanthavar. India velaiyana jute production la 70% West Bengal thaan seyugindrana. Anila nilaiyiyal matrum favourable climate nala jute vilaiyum."
+      }
+    },
+    {
+      "q_number": 10,
+      "question_text": "Fatehpur Sikri was founded as the capital of the Mughal Empire by ______.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Babur",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Humayun",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Jahangir",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Akbar",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Fatehpur Sikri was founded by Emperor Akbar in 1571 and served as the capital of the Mughal Empire from 1571 to 1585. It was built to honor the Sufi saint Salim Chishti.",
+        "tanglish": "Fatehpur Sikri samrajyam Akbar 1571 madhil arambithu, 1571 irunthu 1585 varai Mughal samrajya thanthaiyaiyam aaga velaithathu. Sufi saint Salim Chishti munnil padai eduthappattathu."
+      }
+    },
+    {
+      "q_number": 11,
+      "question_text": "Which of the following Articles of the Constitution of India provides the 'Right to Education'?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Article 39A",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Article 44",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Article 12",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Article 21A",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Article 21A of the Constitution of India provides the Right to Education, making free and compulsory education a fundamental right for children aged 6 to 14 years. It was inserted by the 86th Constitutional Amendment Act, 2002.",
+        "tanglish": "India Arasiyal Sattathil Article 21A kalvi urimaiyai (Right to Education) alikkum. Ithu 6 irunthu 14 vayathu kulanthaihalukku illavasa, kattayamana kalvi fundamental urimai endru solgindradhu. Ithu 86th Constitutional Amendment Act, 2002 nal arambikkappattathu."
+      }
+    }
+  ]
+}

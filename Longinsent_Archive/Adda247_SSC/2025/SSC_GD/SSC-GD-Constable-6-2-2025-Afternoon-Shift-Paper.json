@@ -1,0 +1,97 @@
+{
+  "document_info": {
+    "exam_name": "SSC-GD-Constable-6-2-2025-Afternoon-Shift-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "छह मित्र, E, F, G, X, Y और Z, उत्तर की ओर अभिमुख होकर एक पंक्ति में बैठे हैं (परंतु जरूरी नहीं कि वे इसी क्रम में बैठे हों)। F के बाईं ओर कोई मित्र नहीं बैठा है। F और E के बीच केवल चार मित्र बैठे हैं। Z के बाईं ओर केवल तीन मित्र बैठे हैं। X, G के ठीक बाईं ओर बैठा है। Y और F के बीच में कितने मित्र बैठे हैं?",
+      "options": [
+        {
+          "id": "1",
+          "text": "चार",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "तीन",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "दो",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "F has no one to his left, so F is at the leftmost position (1st). Between F and E there are 4 people, so E is at the rightmost position (6th). Z has 3 people to his left, so Z is at 4th position. X sits immediately to the left of G. The arrangement is: F-X-G-Z-Y-E. Between Y (5th position) and F (1st position), there are X, G, and Z - total 3 friends.",
+        "tanglish": "F-in edathu pakkathil yaarum illaiyendradhaal F mudal edathil irukkiraar. F matrum E idaiyil 4 peru irukkiraargal endradhaal E kadasi edathil irukkiraar. Z-in edathu pakkathil 3 peru irukkiraargal endradhaal Z naanguvadhu edathil irukkiraar. X, G-in edathu pakkathil ullar. Sariyana amaippu: F-X-G-Z-Y-E. Y matrum F idaiyil X, G, Z endra 3 peru irukkiraargal."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "एक निश्चित कूट भाषा में, 'A + B' का अर्थ है कि ‘A, B की माता है’, 'A – B' का अर्थ है कि ‘A, B का भाई है’, 'A × B' का अर्थ है कि ‘A, B की पत्नी है’ और 'A ÷ B' का अर्थ है कि ‘A, B का पिता है’। यदि ‘Q × R – S ÷T + U’ है, तो उपरोक्त के आधार पर, S का U से क्‍या संबंध है?",
+      "options": [
+        {
+          "id": "1",
+          "text": "भाई की पत्‍नी",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "पुत्री",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "माता का पति",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "माता के पिता",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "Decoding the expression: Q × R means Q is wife of R; R – S means R is brother of S; S ÷ T means S is father of T; T + U means T is mother of U. Therefore, S is father of T, and T is mother of U, making S the maternal grandfather (mother's father) of U.",
+        "tanglish": "Koott baashai: Q × R endral Q, R-in manaivi; R – S endral R, S-in sagotharan; S ÷ T endral S, T-in appa; T + U endral T, U-in amma. Appadiyaanal S endral T-in appa, T endral U-in amma. Aagave S, U-in ammaavin appa."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "उस विकल्प आकृति का चयन कीजिए जिसमें दी गई आकृति (X) उसके एक भाग के रूप में निहित है (घूर्णन की अनुमति नहीं है)।",
+      "options": [
+        {
+          "id": "1",
+          "text": "Figure 1",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Figure 2",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Figure 3",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Figure 4",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "This is an embedded figure question where figure X must be identified as a hidden part of one of the option figures without rotation. Since the actual figures are not provided in the text, the correct option cannot be determined.",
+        "tanglish": "Idhu oru uruvam kandupidikum vinavu. Tharapatta uruvam X, vikalpagalil edhadhilavadhu ulbathagamaaga amaindhirundhaal adhai kandupidikka vendum. Uruvangal illamal text mattumala sariyana pathil theriya villai."
+      }
+    }
+  ]
+}

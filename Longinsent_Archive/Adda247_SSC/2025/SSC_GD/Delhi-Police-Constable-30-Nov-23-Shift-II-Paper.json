@@ -1,0 +1,217 @@
+{
+  "document_info": {
+    "exam_name": "Delhi-Police-Constable-30-Nov-23-Shift-II-Paper.pdf"
+  },
+  "archive_data": [
+    {
+      "q_number": 1,
+      "question_text": "A 20-page autobiography,' Waiting for a Visa', is written by ___________, which is about his experiences with untouchability.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Jyotiba Phule",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Gopal Krishna Gokhale",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Bhimrao Ramji Ambedkar",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Mahatma Gandhi",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The autobiography 'Waiting for a Visa' was written by Dr. Bhimrao Ramji Ambedkar. It documents his personal experiences with untouchability and caste discrimination in India.",
+        "tanglish": "'Waiting for a Visa' endra 20 page varalarai Dr. Bhimrao Ramji Ambedkaral eludhapattadhu. Idhu thalitha aanmai anubhavangalai matrum jaathi edhirpugalai patri solgiradhu."
+      }
+    },
+    {
+      "q_number": 2,
+      "question_text": "Terekhol, Chapora, Mapusa, Sal, Zuari etc. are the major rivers of which state?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Telangana",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Goa",
+          "is_correct": true
+        },
+        {
+          "id": "3",
+          "text": "Chhattisgarh",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Gujarat",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Terekhol, Chapora, Mapusa, Sal, and Zuari are major rivers of Goa. These rivers flow through the coastal state and play a vital role in its geography and economy.",
+        "tanglish": "Terekhol, Chapora, Mapusa, Sal, matrum Zuari endra nadugal Goa maanilathin mukkiyamana nadugal. Ivarudaiya kadarkarai maanilathil oozhvadum idam arthiya payanuku mukkiyamanaam."
+      }
+    },
+    {
+      "q_number": 3,
+      "question_text": "Which of the below mentioned items are NOT the part of revenue expenditure as per government budget?",
+      "options": [
+        {
+          "id": "1",
+          "text": "Infrastructural Development Expenditure",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "Salaries and Pensions",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Subsidies",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "Interest payments",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Infrastructural Development Expenditure is classified as capital expenditure, not revenue expenditure. Revenue expenditure includes day-to-day expenses like salaries, pensions, subsidies, and interest payments which do not create physical assets.",
+        "tanglish": "Aatrupadai vazhangatip selavu maathiriyal selavaga varaindhikkappattadhu, varumadha selavu alla. Varumadha selavil udhiyogigaluthum vathanangal, pensan, thiran matrum vatti kattangal varum ivai nithiya selavugal matrum elunilai aatrubadai padaithidavadhu illai."
+      }
+    },
+    {
+      "q_number": 4,
+      "question_text": "Which of the following Constitutional Amendment Acts of the Indian Constitution facilitated the appointment of the same person as governor for two or more states?",
+      "options": [
+        {
+          "id": "1",
+          "text": "7th",
+          "is_correct": true
+        },
+        {
+          "id": "2",
+          "text": "5th",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "8th",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "10th",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The 7th Constitutional Amendment Act of 1956 introduced the provision allowing the same person to be appointed as Governor for two or more states. This was done to improve administrative efficiency.",
+        "tanglish": "1956 aandu 7am samvidhana seyal thithupp moolam oru thalaivarai rendu anikum adhigamaana maanilangalukku aazhaalaraga niyaman seyyum vidham saadhithu kondadhu. Idhu aatrupadai thaadamaikku seithu."
+      }
+    },
+    {
+      "q_number": 5,
+      "question_text": "Choose the correct group of greenhouse gases.",
+      "options": [
+        {
+          "id": "1",
+          "text": "Oxygen, Nitrogen, Hydrogen",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Nitrogen, Oxygen, Argon",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "Carbon Dioxide, Methane, Nitrous Oxide",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "Helium, Neon, Oxygen",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "Greenhouse gases include Carbon Dioxide (CO2), Methane (CH4), Nitrous Oxide (N2O), and water vapor. These gases trap heat in the atmosphere causing the greenhouse effect and global warming.",
+        "tanglish": "Pachchaik kodi kodugalil karbon dayaaeksaid, meethaen, naaiyatras asaid matrum thani vaasam varum. Ivaigkal vaanilaiyil ushnathai pidhithu pachchai illai padhugham matrum ulaga padumanaraikku kaaranam."
+      }
+    },
+    {
+      "q_number": 6,
+      "question_text": "In which year did India's 'National Food for Work Programme' begin?",
+      "options": [
+        {
+          "id": "1",
+          "text": "2003",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "2002",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "2004",
+          "is_correct": true
+        },
+        {
+          "id": "4",
+          "text": "2000",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "english": "The National Food for Work Programme (NFWP) was launched in 2004 in 150 most backward districts of India. It provided food grains in exchange for work done by poor households and was later merged with NREGA.",
+        "tanglish": "National Food for Work Programme (NFWP) 2004 aandu arambikkappattadhu. Ithu India's 150 edhirkaala varudra jillaingalil velai seithaluku unavu dhanyangalai vazhanguvadhu ku saadhithu. Matrum ithu pinnar NREGA odu seiikkappattadhu."
+      }
+    },
+    {
+      "q_number": 7,
+      "question_text": "Which of the following was NOT a disadvantage of the green revolution?",
+      "options": [
+        {
+          "id": "1",
+          "text": "High use of fertilisers and pesticides resulted in health illnesses.",
+          "is_correct": false
+        },
+        {
+          "id": "2",
+          "text": "Most of the crops introduced during green revolution were intensive crops.",
+          "is_correct": false
+        },
+        {
+          "id": "3",
+          "text": "It promoted extensive use of chemicals.",
+          "is_correct": false
+        },
+        {
+          "id": "4",
+          "text": "It reduced India's import of food grains",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "english": "The reduction of India's food grain imports was a positive outcome of the Green Revolution, not a disadvantage. The Green Revolution increased food production and made India self-sufficient. The other options list actual disadvantages such as health issues from chemical overuse.",
+        "tanglish": "Indiyavin unavu dhanyal ippadu kalangi varudal pachchai poluthalin nalla payan, oru theevurai illa. Pachchai poluthal unavu utpadippai valarthy India svechchaai adaindhuthu. Matthu viyakkangal rasaayana pokaadupaadugal endrum aarogiya prasnaangalai patriyaadhu."
+      }
+    }
+  ]
+}
